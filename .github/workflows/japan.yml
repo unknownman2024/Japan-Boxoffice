@@ -12,20 +12,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
           python-version: "3.11"
 
-      - name: Install Dependencies
-        run: pip install -r requirements.txt || true
-
-      - name: Run Scraper
-        run: python scraper.py || true
-
-      - name: Commit Changes
+      - name: Install requirements
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add . || true
-          git commit -m "Update $(date)" || true
-          git push || true
+          pip install beautifulsoup4 requests tqdm
+
+      - name: Run scraper
+        run: |
+          mkdir -p Japan_Data/logs
+          python scraper.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add -A
+          git commit -m "Data Update $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
+          git push || echo "Push failed"
