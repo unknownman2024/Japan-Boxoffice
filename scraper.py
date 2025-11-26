@@ -12,7 +12,7 @@ from tqdm import tqdm
 BASE_URL = "https://mimorin2014.com"
 SAVE_ROOT = "Japan_Data/logs"
 START_YEAR = 2018
-THREADS = 15
+THREADS = 100
 TIMEOUT = 20
 RETRIES = 2
 
