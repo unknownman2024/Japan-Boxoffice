@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-import os, json, re, requests, traceback
+import os, json, re, requests, traceback, time
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor
 from tqdm import tqdm
 
 #########################################
@@ -14,6 +14,7 @@ SAVE_ROOT = "Japan_Data/logs"
 START_YEAR = 2018
 THREADS = 15
 TIMEOUT = 20
+RETRIES = 2
 
 #########################################
 #             UTILITIES
@@ -37,11 +38,12 @@ def exists(date):
     y, m = date.split("-")[0:2]
     return os.path.exists(f"{SAVE_ROOT}/{y}/{m}/{date}.json")
 
+
 #########################################
-#            SCRAPE LOGIC
+#        SCRAPE SINGLE DAY
 #########################################
 
-def scrape(date):
+def scrape_day(date):
     formatted = date.replace("-", "")
     url = f"{BASE_URL}/blog-date-{formatted}.html"
 
@@ -53,7 +55,6 @@ def scrape(date):
         return None
 
     soup = BeautifulSoup(r.text, "html.parser")
-
     posts = soup.select("h2.entry_header a")
 
     if not posts:
@@ -61,9 +62,9 @@ def scrape(date):
 
     result = {"date": date, "entries": []}
 
-    for p in posts:
-        title_jp = decode(p.text)
-        link = BASE_URL + p["href"] if not p["href"].startswith("http") else p["href"]
+    for post in posts:
+        title_jp = decode(post.text)
+        link = BASE_URL + post["href"] if not post["href"].startswith("http") else post["href"]
 
         try:
             r2 = requests.get(link, timeout=TIMEOUT)
@@ -74,22 +75,22 @@ def scrape(date):
 
         page = decode(BeautifulSoup(r2.text, "html.parser").title.text)
 
-        entry_data = {
+        entry = {
             "url": link,
             "title_jp": title_jp,
             "page_title": page,
             "rankings": []
         }
 
-        # Updated matcher (supports new Japanese formatting)
-        table_text = BeautifulSoup(r2.text, "html.parser").get_text()
+        text = BeautifulSoup(r2.text, "html.parser").get_text()
+
         ranking_pattern = re.compile(
             r"(\d+)\s+([\d,]+)\s+([\d,]+)\s+([\d,]+)\s+([\d,]+)\s+([\d.%]+)\s+(.+)"
         )
 
-        for m in ranking_pattern.findall(table_text):
-            rank, sales, seats, shows, theaters, ratio, movie = m
-            entry_data["rankings"].append({
+        for match in ranking_pattern.findall(text):
+            rank, sales, seats, shows, theaters, ratio, movie = match
+            entry["rankings"].append({
                 "rank": int(rank),
                 "movie_jp": movie.strip(),
                 "sales": clean_num(sales),
@@ -99,13 +100,33 @@ def scrape(date):
                 "ratio_last_week": clean_ratio(ratio)
             })
 
-        result["entries"].append(entry_data)
+        result["entries"].append(entry)
 
     return result
 
 
 #########################################
-#         SAVE RESULTS SAFELY
+#        RETRY WRAPPER
+#########################################
+
+def scrape(date):
+    attempts = RETRIES
+
+    while attempts >= 0:
+        try:
+            return scrape_day(date)
+        except Exception as e:
+            attempts -= 1
+            time.sleep(1)
+
+    with open("error.log", "a", encoding="utf-8") as f:
+        f.write(f"{date} FAILED after retries\n")
+
+    return None
+
+
+#########################################
+#         SAVE RESULT
 #########################################
 
 def save_json(data):
@@ -123,7 +144,7 @@ def save_json(data):
 
 
 #########################################
-#         MAIN EXECUTION
+#           MAIN EXECUTION
 #########################################
 
 def run():
@@ -140,21 +161,14 @@ def run():
             dates.append(d)
         start += timedelta(days=1)
 
-    print(f"📅 Processing {len(dates)} days...")
+    print(f"📅 Total missing days: {len(dates)}")
 
     with ThreadPoolExecutor(max_workers=THREADS) as pool:
-        futures = {pool.submit(scrape, d): d for d in dates}
+        for data in tqdm(pool.map(scrape, dates), total=len(dates)):
+            if data:
+                save_json(data)
 
-        for future in tqdm(as_completed(futures), total=len(futures)):
-            try:
-                data = future.result()
-                if data:
-                    save_json(data)
-            except:
-                traceback.print_exc()
-                continue
-
-    print("\n✔ Done.\n")
+    print("\n✔ Done (All days processed)\n")
 
 
 if __name__ == "__main__":
