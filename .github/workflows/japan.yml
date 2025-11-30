@@ -2,7 +2,7 @@ name: Japan Box Office Scraper
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/100 * * * *"
     
   workflow_dispatch:
 
