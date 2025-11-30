@@ -12,7 +12,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 #########################################
 MAX_THREADS = 5
 RETRY_PER_REQUEST = 6
-SCRAPE_PASSES = 4
+SCRAPE_PASSES = 7
 TIMEOUT_SEC = 1
 
 OUT_DIR = "Sri Lanka Advance"
