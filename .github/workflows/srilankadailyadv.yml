@@ -1,0 +1,35 @@
+name: Sri Lanka Advance Box Office
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # Runs every 60 minutes
+  workflow_dispatch:       # Allow manual trigger
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 📦 Install Dependencies
+        run: |
+          pip install cloudscraper
+
+      - name: 🚀 Run Advance Box Office Script
+        run: |
+          python "srilankadailyadv.py"
+
+      - name: 💾 Commit & Push Updated Files
+        run: |
+          git config --global user.name "GitHub Bot"
+          git config --global user.email "bot@github.com"
+          git add .
+          git commit -m "Auto update: Sri Lanka Advance BO $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push
