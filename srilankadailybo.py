@@ -14,14 +14,15 @@ MAX_THREADS = 5
 RETRY_PER_REQUEST = 6
 SCRAPE_PASSES = 5
 TIMEOUT_SEC = 1
-CUT_OFF_MINUTES = 200  # Show valid if minsLeft <= this
+CUT_OFF_MINUTES = 200
 
 OUT_DIR = "Sri Lanka Boxoffice"
 IST = ZoneInfo("Asia/Kolkata")
+ALL_MOVIES_FILE = f"{OUT_DIR}/allmovies.json"
 
 
 #########################################
-# RANDOM HEADERS (Fingerprint Rotation)
+# RANDOM HEADERS (ANTI BOT)
 #########################################
 def random_user_agent():
     ios = f"Mozilla/5.0 (iPhone; CPU iPhone OS {random.randint(15,18)}_{random.randint(0,7)} like Mac OS X) Version/{random.randint(16,18)}.0 Mobile Safari/604.1"
@@ -82,6 +83,7 @@ def get_showtimes(event_code, date):
     return safe_request(url)
 
 
+
 #########################################
 # PARSING HELPERS
 #########################################
@@ -106,11 +108,10 @@ def extract_venues(raw, date):
 
 
 #########################################
-# PROCESS SINGLE SHOW
+# PROCESS SHOW ENTRY
 #########################################
-def flatten(movie, venue, sh, date):
-    session_id = sh.get("SessionId") or sh.get("ShowInstanceId") or sh.get("Id") or ""
-
+def flatten(movie_obj, venue, sh, date):
+    session_id = sh.get("SessionId") or sh.get("Id") or ""
     total = sum(int(c.get("MaxSeats", 0)) for c in sh.get("Categories", []))
     avail = sum(int(c.get("SeatsAvail", 0)) for c in sh.get("Categories", []))
     price = float(sh.get("MinPrice", 0))
@@ -121,13 +122,14 @@ def flatten(movie, venue, sh, date):
 
     bad = False
     if sold < 0 or gross < 0 or avail > total or total == 0:
-        sold = 0
-        gross = 0
-        occupancy = 0
+        sold, gross, occupancy = 0, 0, 0
         bad = True
 
     return {
-        "movie": movie,
+        "movie": movie_obj["title"],
+        "format": movie_obj["format"],
+        "language": movie_obj["language"],
+        "eventCode": movie_obj["eventCode"],
         "venue": venue.get("VenueName"),
         "sessionId": str(session_id),
         "time": sh.get("ShowTime"),
@@ -142,89 +144,126 @@ def flatten(movie, venue, sh, date):
 
 
 #########################################
-# SCRAPE ONE MOVIE
+# SCRAPE SINGLE EVENT VARIANT
 #########################################
-def scrape_movie(movie, date, attempt):
-    title = movie["EventTitle"]
-    code = movie["ChildEvents"][movie["DefaultChildIndex"]]["EventCode"]
+def scrape_event(movie, date, attempt):
+    title = f"{movie['title']} ({movie['format'] or 'Standard'})"
+    code = movie["eventCode"]
+
+    print(f"➡ Fetching: {title} | EventCode: {code} | Lang: {movie['language']}")
 
     res, err = get_showtimes(code, date)
     if not res:
-        print(f"❌ Attempt {attempt} → {title} | {err}")
+        print(f"❌ FAIL → {title} | {err}")
         return title, [], False
 
     venues = extract_venues(res, date)
+
     if not venues:
-        print(f"⚠️ Attempt {attempt} → {title} | No shows")
+        print(f"⚠ NO SHOWS → {title}")
         return title, [], False
 
     rows = []
     for v in venues:
         for sh in v.get("ShowTimes", []):
-            rows.append(flatten(title, v, sh, date))
+            rows.append(flatten(movie, v, sh, date))
 
-    print(f"✅ {title} → {len(rows)} shows")
+    print(f"✅ SUCCESS → {title} ({len(rows)} shows)")
     return title, rows, True
 
 
+
 #########################################
-# MAIN EXECUTION
+# START EXECUTION
 #########################################
-print("\n🚀 Sri Lanka Showtime Scraper Started...\n")
+print("\n🚀 Sri Lanka Boxoffice Tracker Started...\n")
 
 target_date = datetime.now(IST).strftime("%Y%m%d")
 
 movies_raw, _ = get_movies()
-movies = [m for m in extract_movies(movies_raw) if "EventTitle" in m]
+parent_movies = extract_movies(movies_raw)
 
-print(f"🎞 Movies Found: {len(movies)}\n")
+#########################################
+# EXPAND EVENT VARIANTS
+#########################################
+expanded_movies = []
 
+for movie in parent_movies:
+    for c in movie["ChildEvents"]:
+        expanded_movies.append({
+            "title": movie["EventTitle"],
+            "eventCode": c["EventCode"],
+            "format": c.get("EventDimension", ""),
+            "language": c.get("EventLanguage", ""),
+            "release": c.get("EventDate", "9999-99-99")
+        })
+
+print(f"🎬 Parent Movies: {len(parent_movies)}")
+print(f"🎭 Total Variants (EventCodes): {len(expanded_movies)}\n")
+
+
+#########################################
+# UPDATE allmovies.json (BUT DO NOT FETCH OLD ONES)
+#########################################
+all_db = {}
+
+if os.path.exists(ALL_MOVIES_FILE):
+    try:
+        all_db = json.load(open(ALL_MOVIES_FILE))
+    except:
+        print("⚠ Corrupted allmovies.json, resetting...")
+
+for m in expanded_movies:
+    all_db[m["eventCode"]] = {
+        "title": m["title"],
+        "format": m["format"],
+        "language": m["language"],
+        "release": m["release"]
+    }
+
+all_db = dict(sorted(all_db.items(), key=lambda x: x[1]["release"], reverse=True))
+os.makedirs(OUT_DIR, exist_ok=True)
+json.dump(all_db, open(ALL_MOVIES_FILE, "w"), indent=2)
+
+print(f"📁 Updated Movie DB → {ALL_MOVIES_FILE} ({len(all_db)} records)\n")
+
+
+#########################################
+# MULTI-PASS SCRAPER WITH RETRIES
+#########################################
 all_rows = []
-pending = movies.copy()
+pending = expanded_movies.copy()
 
-
-#########################################
-# RETRY SYSTEM
-#########################################
 for attempt in range(1, SCRAPE_PASSES + 1):
     if not pending:
         break
 
-    print(f"\n🔁 PASS {attempt}/{SCRAPE_PASSES} — retrying {len(pending)} movies…")
+    print(f"\n🔁 PASS {attempt}/{SCRAPE_PASSES} — retrying {len(pending)} event entries...\n")
 
-    next_list = []
+    next_round = []
 
     with ThreadPoolExecutor(max_workers=MAX_THREADS) as pool:
-        tasks = {pool.submit(scrape_movie, m, target_date, attempt): m for m in pending}
+        tasks = {pool.submit(scrape_event, m, target_date, attempt): m for m in pending}
 
         for job in as_completed(tasks):
             _, rows, ok = job.result()
             if ok:
                 all_rows.extend(rows)
             else:
-                next_list.append(tasks[job])
+                next_round.append(tasks[job])
 
-    pending = next_list
-
-
-#########################################
-# REMOVE DUPLICATES (session-based)
-#########################################
-seen_keys = set()
-cleaned = []
-
-for s in all_rows:
-    key = (s["movie"], s["venue"], s["sessionId"])
-    if key not in seen_keys:
-        seen_keys.add(key)
-        cleaned.append(s)
-
-all_rows = cleaned
-print(f"📌 Unique Shows (session-linked): {len(all_rows)}")
+    pending = next_round
 
 
 #########################################
-# TIME FILTER (Cut-off)
+# DEDUPE USING sessionId
+#########################################
+data_map = {(s["eventCode"], s["venue"], s["sessionId"]): s for s in all_rows}
+all_rows = list(data_map.values())
+
+
+#########################################
+# TIME FILTER (CUT OFF)
 #########################################
 def parse_time(date_str, t):
     for fmt in ["%I:%M %p", "%H:%M"]:
@@ -234,135 +273,97 @@ def parse_time(date_str, t):
             pass
     return None
 
-
 now = datetime.now(IST)
 filtered_rows = []
 
 for s in all_rows:
     st = parse_time(target_date, s["time"])
     if not st:
-        s["minsLeft"] = None
         filtered_rows.append(s)
         continue
 
-    mins = (st - now).total_seconds() / 60
-    s["minsLeft"] = int(mins)
+    mins_left = int((st - now).total_seconds() / 60)
+    s["minsLeft"] = mins_left
 
-    if mins < CUT_OFF_MINUTES:
+    if mins_left < CUT_OFF_MINUTES:
         filtered_rows.append(s)
 
 all_rows = filtered_rows
-print(f"🧹 Shows After Cutoff: {len(all_rows)}")
 
 
 #########################################
-# MERGE WITH PREVIOUS DATA (UPDATE LOGIC)
-#########################################
-prev_file = f"{OUT_DIR}/{target_date}_Detailed.json"
-existing_map = {}
-
-if os.path.exists(prev_file):
-    try:
-        prev_data = json.load(open(prev_file, "r"))
-        for p in prev_data.get("shows", []):
-            key = (p["movie"], p["venue"], p["sessionId"])
-            existing_map[key] = p
-    except:
-        print("⚠ Previous file corrupted, ignoring...")
-
-updated_rows = {}
-reset_ignored = 0
-
-for s in all_rows:
-    key = (s["movie"], s["venue"], s["sessionId"])
-
-    if key not in existing_map:
-        updated_rows[key] = s
-        continue
-
-    prev = existing_map[key]
-    new_sold = s.get("sold", 0)
-    new_gross = s.get("gross", 0)
-
-    # Condition: ignore false reset
-    if new_sold == 0 and new_gross == 0:
-        reset_ignored += 1
-        updated_rows[key] = prev
-        continue
-
-    # Update values
-    prev["sold"] = new_sold
-    prev["available"] = s["available"]
-    prev["gross"] = new_gross
-    prev["occupancy"] = s["occupancy"]
-    prev["minsLeft"] = s.get("minsLeft", prev.get("minsLeft"))
-    updated_rows[key] = prev
-
-all_rows = list(updated_rows.values())
-
-print(f"🔄 Updated Live Show Values: {len(all_rows)}")
-print(f"⛔ Ignored Reset Glitches: {reset_ignored}")
-
-
-#########################################
-# SUMMARY BUILD
+# SUMMARY BUILDER (MULTI-FORMAT SUPPORT)
 #########################################
 summary = {}
 bad_fix_count = sum(1 for s in all_rows if s["badData"])
 
 for s in all_rows:
-    k = s["movie"]
-    if k not in summary:
-        summary[k] = {"shows": 0, "gross": 0, "sold": 0, "totalSeats": 0, "fastfilling": 0, "housefull": 0}
+    title = s["movie"]
+    event = s["eventCode"]
 
-    summary[k]["shows"] += 1
-    summary[k]["gross"] += s["gross"]
-    summary[k]["sold"] += s["sold"]
-    summary[k]["totalSeats"] += s["totalSeats"]
+    if title not in summary:
+        summary[title] = {
+            "totalShows": 0,
+            "totalGross": 0,
+            "totalSold": 0,
+            "totalSeats": 0,
+            "formats": {}
+        }
+
+    block = summary[title]
+
+    if event not in block["formats"]:
+        block["formats"][event] = {
+            "format": s["format"],
+            "language": s["language"],
+            "shows": 0,
+            "gross": 0,
+            "sold": 0,
+            "totalSeats": 0,
+            "fastfilling": 0,
+            "housefull": 0
+        }
+
+    f = block["formats"][event]
+    f["shows"] += 1
+    f["gross"] += s["gross"]
+    f["sold"] += s["sold"]
+    f["totalSeats"] += s["totalSeats"]
 
     if 50 <= s["occupancy"] < 98:
-        summary[k]["fastfilling"] += 1
+        f["fastfilling"] += 1
     if s["occupancy"] >= 98:
-        summary[k]["housefull"] += 1
+        f["housefull"] += 1
+
+    block["totalShows"] += 1
+    block["totalGross"] += s["gross"]
+    block["totalSold"] += s["sold"]
+    block["totalSeats"] += s["totalSeats"]
+
+for k, v in summary.items():
+    v["globalOccupancy"] = round(v["totalSold"] / v["totalSeats"] * 100, 2) if v["totalSeats"] else 0
 
 
 #########################################
 # SAVE OUTPUT
 #########################################
-os.makedirs(OUT_DIR, exist_ok=True)
-
 timestamp = datetime.now(IST).strftime("%I:%M %p, %d %B %Y")
-
-summary_json = {
-    "date": target_date,
-    "lastUpdated": timestamp,
-    **summary
-}
-
-detail_json = {
-    "date": target_date,
-    "lastUpdated": timestamp,
-    "resetIgnored": reset_ignored,
-    "invalidAutoFixed": bad_fix_count,
-    "shows": all_rows
-}
 
 summary_file = f"{OUT_DIR}/{target_date}_Summary.json"
 detail_file = f"{OUT_DIR}/{target_date}_Detailed.json"
 
-json.dump(summary_json, open(summary_file, "w"), indent=2)
-json.dump(detail_json, open(detail_file, "w"), indent=2)
+json.dump({"date": target_date, "lastUpdated": timestamp, "movies": summary}, open(summary_file, "w"), indent=2)
+json.dump({"date": target_date, "lastUpdated": timestamp, "shows": all_rows, "autoCorrected": bad_fix_count}, open(detail_file, "w"), indent=2)
 
 
 #########################################
 # FINAL REPORT
 #########################################
 print("\n================================================")
-print(f"🎬 Movies scraped: {len(movies)}")
-print(f"🎟 Shows saved: {len(all_rows)}")
-print(f"⚠ Auto-corrected API errors: {bad_fix_count}")
-print(f"⛔ Ignored resets: {reset_ignored}")
-print(f"📁 {summary_file}")
-print(f"📁 {detail_file}")
-print("================================================\n")
-print("🎉 DONE — Auto Tracking Live\n")
+print(f"🎬 Event Variants Fetched: {len(expanded_movies)}")
+print(f"🎟 Valid Shows Saved: {len(all_rows)}")
+print(f"⚠ Invalid API auto-corrected: {bad_fix_count}")
+print(f"📁 Summary → {summary_file}")
+print(f"📁 Detailed → {detail_file}")
+print("================================================")
+print("🎉 Done — Fully Production Ready\n")
