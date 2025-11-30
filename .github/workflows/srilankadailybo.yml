@@ -1,0 +1,50 @@
+name: Sri Lanka Boxoffice Scraper
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # ⏰ Runs every 60 minutes
+  workflow_dispatch:      # Allow manual run
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0   # required for commit comparison
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.11"
+
+    - name: Install dependencies
+      run: |
+        pip install cloudscraper
+
+    - name: Run Scraper
+      run: |
+        echo "🚀 Running Sri Lanka Boxoffice Script..."
+        python "srilankadailybo.py"
+
+    - name: Check for changes
+      id: check_changes
+      run: |
+        git config --global user.name "GitHub Bot"
+        git config --global user.email "actions@github.com"
+
+        if [[ -n $(git status --porcelain) ]]; then
+          echo "changes_detected=true" >> $GITHUB_ENV
+        else
+          echo "changes_detected=false" >> $GITHUB_ENV
+        fi
+
+    - name: Commit & Push Results
+      if: env.changes_detected == 'true'
+      run: |
+        git add .
+        git commit -m "📊 Auto-update: Sri Lanka Boxoffice ($(date '+%d-%m-%Y %I:%M %p'))"
+        git pull --rebase
+        git push
