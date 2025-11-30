@@ -3,6 +3,7 @@ import random
 import json
 import os
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 
@@ -11,15 +12,16 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 #########################################
 MAX_THREADS = 5
 RETRY_PER_REQUEST = 6
-SCRAPE_PASSES = 8
+SCRAPE_PASSES = 5
 TIMEOUT_SEC = 1
-CUT_OFF_MINUTES = 200  # keep only near shows
+CUT_OFF_MINUTES = 200  # Show valid if minsLeft <= this
 
 OUT_DIR = "Sri Lanka Boxoffice"
+IST = ZoneInfo("Asia/Kolkata")
 
 
 #########################################
-# RANDOM USER AGENT / HEADERS
+# RANDOM HEADERS (Fingerprint Rotation)
 #########################################
 def random_user_agent():
     ios = f"Mozilla/5.0 (iPhone; CPU iPhone OS {random.randint(15,18)}_{random.randint(0,7)} like Mac OS X) Version/{random.randint(16,18)}.0 Mobile Safari/604.1"
@@ -41,7 +43,7 @@ def random_headers(is_json=False):
 
 
 #########################################
-# SCRAPER ENGINE
+# SCRAPER SESSION
 #########################################
 scraper = cloudscraper.create_scraper(browser={"browser": "chrome", "platform": "windows"})
 
@@ -51,14 +53,15 @@ def safe_request(url, method="GET", payload=None):
     for _ in range(RETRY_PER_REQUEST):
         try:
             headers = random_headers(method == "POST")
-            r = scraper.post(url, json=payload, headers=headers, timeout=TIMEOUT_SEC) if method=="POST" \
-                else scraper.get(url, headers=headers, timeout=TIMEOUT_SEC)
+            if method == "POST":
+                r = scraper.post(url, json=payload, headers=headers, timeout=TIMEOUT_SEC)
+            else:
+                r = scraper.get(url, headers=headers, timeout=TIMEOUT_SEC)
 
             if r.status_code == 200:
                 return r.json(), None
 
             last_err = f"HTTP_{r.status_code}"
-
         except Exception as e:
             last_err = str(e)
 
@@ -66,7 +69,7 @@ def safe_request(url, method="GET", payload=None):
 
 
 #########################################
-# API FUNCTIONS
+# API CALLS
 #########################################
 def get_movies():
     url = "https://lk.bookmyshow.com/pwa/api/uapi/movies/"
@@ -80,10 +83,10 @@ def get_showtimes(event_code, date):
 
 
 #########################################
-# DATA HELPERS
+# PARSING HELPERS
 #########################################
 def extract_movies(raw):
-    if not raw:
+    if not isinstance(raw, dict):
         return []
     if "nowShowing" in raw and "arrEvents" in raw["nowShowing"]:
         return raw["nowShowing"]["arrEvents"]
@@ -102,48 +105,50 @@ def extract_venues(raw, date):
     return []
 
 
+#########################################
+# PROCESS SINGLE SHOW
+#########################################
 def flatten(movie, venue, sh, date):
+    session_id = sh.get("SessionId") or sh.get("ShowInstanceId") or sh.get("Id") or ""
+
     total = sum(int(c.get("MaxSeats", 0)) for c in sh.get("Categories", []))
     avail = sum(int(c.get("SeatsAvail", 0)) for c in sh.get("Categories", []))
-    sold = total - avail
     price = float(sh.get("MinPrice", 0))
 
-    # Fix invalid API negative data
-    if sold < 0 or avail > total or total == 0:
+    sold = total - avail
+    gross = sold * price
+    occupancy = round((sold / total * 100), 2) if total else 0
+
+    bad = False
+    if sold < 0 or gross < 0 or avail > total or total == 0:
         sold = 0
-        avail = 0 if total == 0 else avail
         gross = 0
         occupancy = 0
-        badData = True
-    else:
-        gross = sold * price
-        occupancy = round((sold / total * 100), 2) if total else 0
-        badData = False
+        bad = True
 
     return {
         "movie": movie,
         "venue": venue.get("VenueName"),
+        "sessionId": str(session_id),
         "time": sh.get("ShowTime"),
-        "sessionId": str(sh.get("SessionId")),
         "totalSeats": total,
         "available": avail,
         "sold": sold,
         "gross": gross,
         "occupancy": occupancy,
         "date": date,
-        "badData": badData
+        "badData": bad
     }
 
 
 #########################################
-# SCRAPE MOVIE
+# SCRAPE ONE MOVIE
 #########################################
 def scrape_movie(movie, date, attempt):
     title = movie["EventTitle"]
     code = movie["ChildEvents"][movie["DefaultChildIndex"]]["EventCode"]
 
     res, err = get_showtimes(code, date)
-
     if not res:
         print(f"❌ Attempt {attempt} → {title} | {err}")
         return title, [], False
@@ -163,31 +168,31 @@ def scrape_movie(movie, date, attempt):
 
 
 #########################################
-# START
+# MAIN EXECUTION
 #########################################
-print("\n🚀 Sri Lanka Showtimes Scraper Started...\n")
+print("\n🚀 Sri Lanka Showtime Scraper Started...\n")
 
-target_date = (datetime.now()).strftime("%Y%m%d")
+target_date = datetime.now(IST).strftime("%Y%m%d")
 
 movies_raw, _ = get_movies()
 movies = [m for m in extract_movies(movies_raw) if "EventTitle" in m]
 
-print(f"🎞 Total Movies Found: {len(movies)}\n")
+print(f"🎞 Movies Found: {len(movies)}\n")
 
 all_rows = []
 pending = movies.copy()
 
 
 #########################################
-# MULTI-PASS FETCH (Retry System)
+# RETRY SYSTEM
 #########################################
 for attempt in range(1, SCRAPE_PASSES + 1):
     if not pending:
         break
 
-    print(f"\n🔁 PASS {attempt}/{SCRAPE_PASSES} → {len(pending)} movies...")
+    print(f"\n🔁 PASS {attempt}/{SCRAPE_PASSES} — retrying {len(pending)} movies…")
 
-    next_pending = []
+    next_list = []
 
     with ThreadPoolExecutor(max_workers=MAX_THREADS) as pool:
         tasks = {pool.submit(scrape_movie, m, target_date, attempt): m for m in pending}
@@ -197,140 +202,167 @@ for attempt in range(1, SCRAPE_PASSES + 1):
             if ok:
                 all_rows.extend(rows)
             else:
-                next_pending.append(tasks[job])
+                next_list.append(tasks[job])
 
-    pending = next_pending
+    pending = next_list
 
 
 #########################################
-# DEDUPE USING SESSIONID
+# REMOVE DUPLICATES (session-based)
 #########################################
-seen = {}
+seen_keys = set()
+cleaned = []
+
 for s in all_rows:
     key = (s["movie"], s["venue"], s["sessionId"])
-    seen[key] = s  # last write wins
+    if key not in seen_keys:
+        seen_keys.add(key)
+        cleaned.append(s)
 
-all_rows = list(seen.values())
+all_rows = cleaned
+print(f"📌 Unique Shows (session-linked): {len(all_rows)}")
 
 
 #########################################
-# CUT-OFF FILTER BASED ON CURRENT TIME
+# TIME FILTER (Cut-off)
 #########################################
-def parse_show_time(date, time_str):
+def parse_time(date_str, t):
     for fmt in ["%I:%M %p", "%H:%M"]:
         try:
-            return datetime.strptime(f"{date} {time_str}", f"%Y%m%d {fmt}")
+            return datetime.strptime(f"{date_str} {t}", f"%Y%m%d {fmt}").replace(tzinfo=IST)
         except:
             pass
     return None
 
 
-filtered = []
-now = datetime.now()
+now = datetime.now(IST)
+filtered_rows = []
 
 for s in all_rows:
-    st = parse_show_time(target_date, s["time"])
+    st = parse_time(target_date, s["time"])
     if not st:
-        filtered.append(s)
+        s["minsLeft"] = None
+        filtered_rows.append(s)
         continue
 
-    mins_left = (st - now).total_seconds() / 60
-    s["minsLeft"] = int(mins_left)
+    mins = (st - now).total_seconds() / 60
+    s["minsLeft"] = int(mins)
 
-    if mins_left <= CUT_OFF_MINUTES:
-        filtered.append(s)
+    if mins < CUT_OFF_MINUTES:
+        filtered_rows.append(s)
 
-all_rows = filtered
+all_rows = filtered_rows
+print(f"🧹 Shows After Cutoff: {len(all_rows)}")
 
 
 #########################################
 # MERGE WITH PREVIOUS DATA (UPDATE LOGIC)
 #########################################
-existing_path = f"{OUT_DIR}/{target_date}_Detailed.json"
-existing_data = {}
+prev_file = f"{OUT_DIR}/{target_date}_Detailed.json"
+existing_map = {}
 
-if os.path.exists(existing_path):
+if os.path.exists(prev_file):
     try:
-        existing_data = json.load(open(existing_path, "r"))
-        existing_rows = {
-            (s["movie"], s["venue"], s["sessionId"]): s
-            for s in existing_data.get("shows", [])
-        }
+        prev_data = json.load(open(prev_file, "r"))
+        for p in prev_data.get("shows", []):
+            key = (p["movie"], p["venue"], p["sessionId"])
+            existing_map[key] = p
     except:
-        existing_rows = {}
-else:
-    existing_rows = {}
+        print("⚠ Previous file corrupted, ignoring...")
 
 updated_rows = {}
-fix_reset_ignored = 0
+reset_ignored = 0
 
 for s in all_rows:
     key = (s["movie"], s["venue"], s["sessionId"])
 
-    if key in existing_rows:
-        old = existing_rows[key]
-
-        new_sold = s.get("sold", 0)
-        new_gross = s.get("gross", 0)
-
-        # Condition: if new reset to 0, DO NOT UPDATE
-        if new_sold == 0 and new_gross == 0:
-            fix_reset_ignored += 1
-            updated_rows[key] = old
-        else:
-            # Always replace updated values
-            old["sold"] = new_sold
-            old["available"] = s["available"]
-            old["gross"] = new_gross
-            old["occupancy"] = s["occupancy"]
-            old["minsLeft"] = s.get("minsLeft", old.get("minsLeft"))
-            updated_rows[key] = old
-    else:
+    if key not in existing_map:
         updated_rows[key] = s
+        continue
+
+    prev = existing_map[key]
+    new_sold = s.get("sold", 0)
+    new_gross = s.get("gross", 0)
+
+    # Condition: ignore false reset
+    if new_sold == 0 and new_gross == 0:
+        reset_ignored += 1
+        updated_rows[key] = prev
+        continue
+
+    # Update values
+    prev["sold"] = new_sold
+    prev["available"] = s["available"]
+    prev["gross"] = new_gross
+    prev["occupancy"] = s["occupancy"]
+    prev["minsLeft"] = s.get("minsLeft", prev.get("minsLeft"))
+    updated_rows[key] = prev
 
 all_rows = list(updated_rows.values())
+
+print(f"🔄 Updated Live Show Values: {len(all_rows)}")
+print(f"⛔ Ignored Reset Glitches: {reset_ignored}")
 
 
 #########################################
 # SUMMARY BUILD
 #########################################
 summary = {}
+bad_fix_count = sum(1 for s in all_rows if s["badData"])
 
 for s in all_rows:
     k = s["movie"]
     if k not in summary:
         summary[k] = {"shows": 0, "gross": 0, "sold": 0, "totalSeats": 0, "fastfilling": 0, "housefull": 0}
 
-    data = summary[k]
-    data["shows"] += 1
-    data["gross"] += s["gross"]
-    data["sold"] += s["sold"]
-    data["totalSeats"] += s["totalSeats"]
+    summary[k]["shows"] += 1
+    summary[k]["gross"] += s["gross"]
+    summary[k]["sold"] += s["sold"]
+    summary[k]["totalSeats"] += s["totalSeats"]
 
-    occ = s["occupancy"]
-    if 50 <= occ < 98: data["fastfilling"] += 1
-    if occ >= 98: data["housefull"] += 1
+    if 50 <= s["occupancy"] < 98:
+        summary[k]["fastfilling"] += 1
+    if s["occupancy"] >= 98:
+        summary[k]["housefull"] += 1
 
 
 #########################################
-# SAVE FILES
+# SAVE OUTPUT
 #########################################
 os.makedirs(OUT_DIR, exist_ok=True)
 
-timestamp = datetime.now().strftime("%I:%M %p, %d %B %Y")
+timestamp = datetime.now(IST).strftime("%I:%M %p, %d %B %Y")
 
-final_summary = {"date": target_date, "lastUpdated": timestamp, **summary}
-final_detailed = {"date": target_date, "lastUpdated": timestamp, "ignoredZeroUpdates": fix_reset_ignored, "shows": all_rows}
+summary_json = {
+    "date": target_date,
+    "lastUpdated": timestamp,
+    **summary
+}
 
-summary_path = f"{OUT_DIR}/{target_date}_Summary.json"
-detailed_path = f"{OUT_DIR}/{target_date}_Detailed.json"
+detail_json = {
+    "date": target_date,
+    "lastUpdated": timestamp,
+    "resetIgnored": reset_ignored,
+    "invalidAutoFixed": bad_fix_count,
+    "shows": all_rows
+}
 
-json.dump(final_summary, open(summary_path, "w"), indent=2)
-json.dump(final_detailed, open(detailed_path, "w"), indent=2)
+summary_file = f"{OUT_DIR}/{target_date}_Summary.json"
+detail_file = f"{OUT_DIR}/{target_date}_Detailed.json"
 
-print("\n💾 Saved Files:")
-print(f"📁 {summary_path}")
-print(f"📁 {detailed_path}")
+json.dump(summary_json, open(summary_file, "w"), indent=2)
+json.dump(detail_json, open(detail_file, "w"), indent=2)
 
-print(f"\n⚠ Ignored Zero-reset Attempts: {fix_reset_ignored}")
-print("\n🎉 DONE — Sri Lanka Showtime Tracking Complete\n")
+
+#########################################
+# FINAL REPORT
+#########################################
+print("\n================================================")
+print(f"🎬 Movies scraped: {len(movies)}")
+print(f"🎟 Shows saved: {len(all_rows)}")
+print(f"⚠ Auto-corrected API errors: {bad_fix_count}")
+print(f"⛔ Ignored resets: {reset_ignored}")
+print(f"📁 {summary_file}")
+print(f"📁 {detail_file}")
+print("================================================\n")
+print("🎉 DONE — Auto Tracking Live\n")
