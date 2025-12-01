@@ -1,6 +1,6 @@
 {
   "date": "20251202",
-  "lastUpdated": "04:40 AM, 01 December 2025",
+  "lastUpdated": "06:35 AM, 01 December 2025",
   "movies": {
     "Zootopia 2": {
       "formats": {
@@ -46,6 +46,18 @@
         }
       }
     },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 59,
+          "gross": 6600.0,
+          "sold": 13,
+          "totalSeats": 12304
+        }
+      }
+    },
     "Maariya": {
       "formats": {
         "ET00005918": {
@@ -55,18 +67,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 4479
-        }
-      }
-    },
-    "Tere Ishk Mein (Tamil)": {
-      "formats": {
-        "ET00005931": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 21,
-          "gross": 4800.0,
-          "sold": 6,
-          "totalSeats": 4262
         }
       }
     },
@@ -90,50 +90,6 @@
         }
       }
     },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 59,
-          "gross": 6600.0,
-          "sold": 13,
-          "totalSeats": 12304
-        }
-      }
-    },
-    "Mask": {
-      "formats": {
-        "ET00005920": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 6,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 852
-        }
-      }
-    },
-    "Wicked: For Good": {
-      "formats": {
-        "ET00005916": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 378
-        },
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 16,
-          "gross": 13500.0,
-          "sold": 12,
-          "totalSeats": 1847
-        }
-      }
-    },
     "Demon Slayer - Kimetsu no Yaiba - The Movie: Infinity Castle": {
       "formats": {
         "ET00005800": {
@@ -143,6 +99,38 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 111
+        }
+      }
+    },
+    "Wicked: For Good": {
+      "formats": {
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 16,
+          "gross": 13500.0,
+          "sold": 12,
+          "totalSeats": 1847
+        },
+        "ET00005916": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 378
+        }
+      }
+    },
+    "Gehenu Lamai": {
+      "formats": {
+        "ET00005932": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 5,
+          "gross": 16400.0,
+          "sold": 17,
+          "totalSeats": 484
         }
       }
     },
@@ -158,18 +146,6 @@
         }
       }
     },
-    "Nelum Kuluna (Tentigo)": {
-      "formats": {
-        "ET00005664": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 220
-        }
-      }
-    },
     "Mr.Mrs": {
       "formats": {
         "ET00005919": {
@@ -179,6 +155,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 3074
+        }
+      }
+    },
+    "Nelum Kuluna (Tentigo)": {
+      "formats": {
+        "ET00005664": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 220
         }
       }
     },
@@ -214,15 +202,15 @@
         }
       }
     },
-    "Mastiii 4": {
+    "Mask": {
       "formats": {
-        "ET00005894": {
+        "ET00005920": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 2,
+          "language": "Tamil",
+          "shows": 6,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 186
+          "totalSeats": 852
         }
       }
     },
@@ -235,6 +223,30 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 293
+        }
+      }
+    },
+    "The Conjuring: Last Rites": {
+      "formats": {
+        "ET00005816": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 144
+        }
+      }
+    },
+    "Mastiii 4": {
+      "formats": {
+        "ET00005894": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 186
         }
       }
     },
@@ -262,27 +274,15 @@
         }
       }
     },
-    "The Conjuring: Last Rites": {
+    "Tere Ishk Mein (Tamil)": {
       "formats": {
-        "ET00005816": {
+        "ET00005931": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 144
-        }
-      }
-    },
-    "Gehenu Lamai": {
-      "formats": {
-        "ET00005932": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 5,
-          "gross": 16400.0,
-          "sold": 17,
-          "totalSeats": 484
+          "language": "Tamil",
+          "shows": 21,
+          "gross": 4800.0,
+          "sold": 6,
+          "totalSeats": 4262
         }
       }
     }
