@@ -1,13 +1,45 @@
 {
   "date": "20251202",
-  "lastUpdated": "08:43 PM, 01 December 2025",
+  "lastUpdated": "09:46 PM, 01 December 2025",
   "movies": {
+    "Zootopia 2": {
+      "formats": {
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 3600.0,
+          "sold": 2,
+          "totalSeats": 607
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 40,
+          "gross": 123900.0,
+          "sold": 99,
+          "totalSeats": 6734
+        }
+      }
+    },
+    "Ayu": {
+      "formats": {
+        "ET00005878": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 15,
+          "gross": 13800.0,
+          "sold": 13,
+          "totalSeats": 2102
+        }
+      }
+    },
     "Tere Ishk Mein (Tamil)": {
       "formats": {
         "ET00005931": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 28,
+          "shows": 27,
           "gross": 10800.0,
           "sold": 13,
           "totalSeats": 4859
@@ -20,29 +52,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 44,
-          "gross": 26700.0,
-          "sold": 34,
+          "gross": 27400.0,
+          "sold": 36,
           "totalSeats": 7078
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 40,
-          "gross": 114400.0,
-          "sold": 88,
-          "totalSeats": 6734
-        },
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 607
         }
       }
     },
@@ -52,53 +64,41 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 78,
-          "gross": 14550.0,
-          "sold": 32,
+          "gross": 15700.0,
+          "sold": 35,
           "totalSeats": 14583
+        }
+      }
+    },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 28,
+          "gross": 5500.0,
+          "sold": 6,
+          "totalSeats": 4835
         }
       }
     },
     "Predator: Badlands": {
       "formats": {
-        "ET00005924": {
-          "format": "3D",
-          "language": "English",
-          "shows": 17,
-          "gross": 13100.0,
-          "sold": 8,
-          "totalSeats": 2564
-        },
         "ET00005901": {
           "format": "2D",
           "language": "English",
           "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 2000.0,
+          "sold": 2,
           "totalSeats": 702
-        }
-      }
-    },
-    "Mask": {
-      "formats": {
-        "ET00005920": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 7,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 995
-        }
-      }
-    },
-    "Nelum Kuluna (Tentigo)": {
-      "formats": {
-        "ET00005664": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 220
+        },
+        "ET00005924": {
+          "format": "3D",
+          "language": "English",
+          "shows": 17,
+          "gross": 19900.0,
+          "sold": 10,
+          "totalSeats": 2564
         }
       }
     },
@@ -134,15 +134,15 @@
         }
       }
     },
-    "Maariya": {
+    "Nelum Kuluna (Tentigo)": {
       "formats": {
-        "ET00005918": {
+        "ET00005664": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 28,
-          "gross": 5500.0,
-          "sold": 6,
-          "totalSeats": 4835
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 220
         }
       }
     },
@@ -152,21 +152,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 5,
-          "gross": 38200.0,
-          "sold": 29,
+          "gross": 39200.0,
+          "sold": 30,
           "totalSeats": 484
-        }
-      }
-    },
-    "Walampoori": {
-      "formats": {
-        "ET00005695": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 239
         }
       }
     },
@@ -190,27 +178,15 @@
         }
       }
     },
-    "Mr.Mrs": {
+    "Mask": {
       "formats": {
-        "ET00005919": {
+        "ET00005920": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 28,
-          "gross": 3300.0,
-          "sold": 5,
-          "totalSeats": 3994
-        }
-      }
-    },
-    "Mastiii 4": {
-      "formats": {
-        "ET00005894": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 2,
+          "language": "Tamil",
+          "shows": 7,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 186
+          "totalSeats": 995
         }
       }
     },
@@ -223,6 +199,30 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 276
+        }
+      }
+    },
+    "Mr.Mrs": {
+      "formats": {
+        "ET00005919": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 28,
+          "gross": 3900.0,
+          "sold": 7,
+          "totalSeats": 3994
+        }
+      }
+    },
+    "Eternity": {
+      "formats": {
+        "ET00005933": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 292
         }
       }
     },
@@ -262,27 +262,27 @@
         }
       }
     },
-    "Eternity": {
+    "Mastiii 4": {
       "formats": {
-        "ET00005933": {
+        "ET00005894": {
           "format": "2D",
-          "language": "English",
-          "shows": 3,
+          "language": "Hindi",
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 292
+          "totalSeats": 186
         }
       }
     },
-    "Ayu": {
+    "Walampoori": {
       "formats": {
-        "ET00005878": {
+        "ET00005695": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 15,
-          "gross": 12700.0,
-          "sold": 12,
-          "totalSeats": 2102
+          "shows": 2,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 239
         }
       }
     }
