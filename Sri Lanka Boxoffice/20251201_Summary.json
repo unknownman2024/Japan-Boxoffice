@@ -1,68 +1,96 @@
 {
   "date": "20251201",
-  "lastUpdated": "07:12 PM, 01 December 2025",
+  "lastUpdated": "08:00 PM, 01 December 2025",
   "movies": {
     "Zootopia 2": {
-      "totalShows": 4,
-      "totalGross": 123250.0,
-      "totalSold": 102,
-      "totalSeats": 500,
+      "totalShows": 1,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 90,
       "formats": {
         "ET00005930": {
           "format": "3D",
           "language": "English",
-          "shows": 3,
-          "gross": 93350.0,
-          "sold": 79,
-          "totalSeats": 375,
-          "fastfilling": 0,
-          "housefull": 0
-        },
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
           "shows": 1,
-          "gross": 29900.0,
-          "sold": 23,
-          "totalSeats": 125,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 90,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 20.4
+      "globalOccupancy": 0.0
+    },
+    "Tere Ishk Mein (Tamil)": {
+      "totalShows": 9,
+      "totalGross": 32100.0,
+      "totalSold": 29,
+      "totalSeats": 1770,
+      "formats": {
+        "ET00005931": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 9,
+          "gross": 32100.0,
+          "sold": 29,
+          "totalSeats": 1770,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 1.64
     },
     "Moda Tharidu": {
-      "totalShows": 13,
-      "totalGross": 58050.0,
-      "totalSold": 92,
-      "totalSeats": 2627,
+      "totalShows": 9,
+      "totalGross": 31150.0,
+      "totalSold": 65,
+      "totalSeats": 1815,
       "formats": {
         "ET00005884": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 13,
-          "gross": 58050.0,
-          "sold": 92,
-          "totalSeats": 2627,
+          "shows": 9,
+          "gross": 31150.0,
+          "sold": 65,
+          "totalSeats": 1815,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 3.5
+      "globalOccupancy": 3.58
+    },
+    "Maariya": {
+      "totalShows": 6,
+      "totalGross": 13100.0,
+      "totalSold": 13,
+      "totalSeats": 1159,
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 6,
+          "gross": 13100.0,
+          "sold": 13,
+          "totalSeats": 1159,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 1.12
     },
     "Predator: Badlands": {
-      "totalShows": 8,
-      "totalGross": 52000.0,
-      "totalSold": 39,
-      "totalSeats": 1150,
+      "totalShows": 6,
+      "totalGross": 35800.0,
+      "totalSold": 20,
+      "totalSeats": 941,
       "formats": {
         "ET00005924": {
           "format": "3D",
           "language": "English",
-          "shows": 7,
-          "gross": 52000.0,
-          "sold": 39,
-          "totalSeats": 1039,
+          "shows": 5,
+          "gross": 35800.0,
+          "sold": 20,
+          "totalSeats": 830,
           "fastfilling": 0,
           "housefull": 0
         },
@@ -77,81 +105,90 @@
           "housefull": 0
         }
       },
-      "globalOccupancy": 3.39
+      "globalOccupancy": 2.13
     },
     "Neera": {
-      "totalShows": 3,
-      "totalGross": 19200.0,
-      "totalSold": 23,
-      "totalSeats": 373,
+      "totalShows": 1,
+      "totalGross": 7200.0,
+      "totalSold": 8,
+      "totalSeats": 143,
       "formats": {
         "ET00005849": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 3,
-          "gross": 19200.0,
-          "sold": 23,
-          "totalSeats": 373,
+          "shows": 1,
+          "gross": 7200.0,
+          "sold": 8,
+          "totalSeats": 143,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 6.17
+      "globalOccupancy": 5.59
     },
-    "Maariya": {
-      "totalShows": 8,
-      "totalGross": 18700.0,
-      "totalSold": 20,
-      "totalSeats": 1459,
+    "Mask": {
+      "totalShows": 2,
+      "totalGross": 5400.0,
+      "totalSold": 6,
+      "totalSeats": 295,
       "formats": {
-        "ET00005918": {
+        "ET00005920": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 8,
-          "gross": 18700.0,
-          "sold": 20,
-          "totalSeats": 1459,
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 5400.0,
+          "sold": 6,
+          "totalSeats": 295,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 1.37
+      "globalOccupancy": 2.03
     },
     "Nelum Kuluna (Tentigo)": {
       "totalShows": 1,
-      "totalGross": 3300.0,
-      "totalSold": 3,
+      "totalGross": 5500.0,
+      "totalSold": 5,
       "totalSeats": 99,
       "formats": {
         "ET00005664": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 1,
-          "gross": 3300.0,
-          "sold": 3,
+          "gross": 5500.0,
+          "sold": 5,
           "totalSeats": 99,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 3.03
+      "globalOccupancy": 5.05
     },
-    "Adhiran": {
-      "totalShows": 2,
-      "totalGross": 8100.0,
-      "totalSold": 9,
-      "totalSeats": 320,
+    "Wicked: For Good": {
+      "totalShows": 1,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 121,
       "formats": {
-        "ET00005934": {
-          "format": "2D",
-          "language": "Tamil",
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
           "shows": 1,
-          "gross": 8100.0,
-          "sold": 9,
-          "totalSeats": 104,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 121,
           "fastfilling": 0,
           "housefull": 0
-        },
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "Adhiran": {
+      "totalShows": 1,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 216,
+      "formats": {
         "ET00005935": {
           "format": "2D",
           "language": "Sinhala",
@@ -163,26 +200,26 @@
           "housefull": 0
         }
       },
-      "globalOccupancy": 2.81
+      "globalOccupancy": 0.0
     },
     "Eternity": {
       "totalShows": 1,
-      "totalGross": 4800.0,
-      "totalSold": 2,
-      "totalSeats": 41,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 104,
       "formats": {
         "ET00005933": {
           "format": "2D",
           "language": "English",
           "shows": 1,
-          "gross": 4800.0,
-          "sold": 2,
-          "totalSeats": 41,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 104,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 4.88
+      "globalOccupancy": 0.0
     },
     "Mastiii 4": {
       "totalShows": 1,
@@ -205,79 +242,22 @@
     },
     "The Running Man": {
       "totalShows": 1,
-      "totalGross": 2200.0,
-      "totalSold": 1,
+      "totalGross": 0.0,
+      "totalSold": 0,
       "totalSeats": 22,
       "formats": {
         "ET00005902": {
           "format": "2D",
           "language": "English",
           "shows": 1,
-          "gross": 2200.0,
-          "sold": 1,
+          "gross": 0.0,
+          "sold": 0,
           "totalSeats": 22,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 4.55
-    },
-    "Wicked: For Good": {
-      "totalShows": 3,
-      "totalGross": 11500.0,
-      "totalSold": 9,
-      "totalSeats": 411,
-      "formats": {
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 3,
-          "gross": 11500.0,
-          "sold": 9,
-          "totalSeats": 411,
-          "fastfilling": 0,
-          "housefull": 0
-        }
-      },
-      "globalOccupancy": 2.19
-    },
-    "Mask": {
-      "totalShows": 2,
-      "totalGross": 5400.0,
-      "totalSold": 6,
-      "totalSeats": 295,
-      "formats": {
-        "ET00005920": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 5400.0,
-          "sold": 6,
-          "totalSeats": 295,
-          "fastfilling": 0,
-          "housefull": 0
-        }
-      },
-      "globalOccupancy": 2.03
-    },
-    "Tere Ishk Mein (Tamil)": {
-      "totalShows": 9,
-      "totalGross": 23900.0,
-      "totalSold": 22,
-      "totalSeats": 1770,
-      "formats": {
-        "ET00005931": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 23900.0,
-          "sold": 22,
-          "totalSeats": 1770,
-          "fastfilling": 0,
-          "housefull": 0
-        }
-      },
-      "globalOccupancy": 1.24
+      "globalOccupancy": 0.0
     }
   }
 }
