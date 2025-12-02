@@ -1,9 +1,17 @@
 {
   "date": "20251203",
-  "lastUpdated": "06:25 AM, 02 December 2025",
+  "lastUpdated": "08:13 AM, 02 December 2025",
   "movies": {
     "Zootopia 2": {
       "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 38,
+          "gross": 101600.0,
+          "sold": 65,
+          "totalSeats": 6440
+        },
         "ET00005925": {
           "format": "2D",
           "language": "English",
@@ -11,26 +19,6 @@
           "gross": 3400.0,
           "sold": 1,
           "totalSeats": 573
-        },
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 38,
-          "gross": 93850.0,
-          "sold": 60,
-          "totalSeats": 6440
-        }
-      }
-    },
-    "Tere Ishk Mein (Tamil)": {
-      "formats": {
-        "ET00005931": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 29,
-          "gross": 7600.0,
-          "sold": 7,
-          "totalSeats": 5413
         }
       }
     },
@@ -46,28 +34,32 @@
         }
       }
     },
-    "Maariya": {
+    "Ayu": {
       "formats": {
-        "ET00005918": {
+        "ET00005878": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 29,
-          "gross": 8000.0,
-          "sold": 7,
-          "totalSeats": 4969
+          "shows": 15,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 2102
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 78,
+          "gross": 9000.0,
+          "sold": 15,
+          "totalSeats": 14466
         }
       }
     },
     "Predator: Badlands": {
       "formats": {
-        "ET00005924": {
-          "format": "3D",
-          "language": "English",
-          "shows": 18,
-          "gross": 50900.0,
-          "sold": 17,
-          "totalSeats": 2736
-        },
         "ET00005901": {
           "format": "2D",
           "language": "English",
@@ -75,31 +67,43 @@
           "gross": 5400.0,
           "sold": 5,
           "totalSeats": 702
+        },
+        "ET00005924": {
+          "format": "3D",
+          "language": "English",
+          "shows": 18,
+          "gross": 50900.0,
+          "sold": 17,
+          "totalSeats": 2736
         }
       }
     },
-    "Demon Slayer - Kimetsu no Yaiba - The Movie: Infinity Castle": {
+    "Tere Ishk Mein (Tamil)": {
       "formats": {
-        "ET00005800": {
+        "ET00005931": {
           "format": "2D",
-          "language": "Japanese",
-          "shows": 1,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 111
+          "language": "Tamil",
+          "shows": 29,
+          "gross": 7600.0,
+          "sold": 7,
+          "totalSeats": 5413
+        }
+      }
+    },
+    "Mask": {
+      "formats": {
+        "ET00005920": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 9,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1276
         }
       }
     },
     "Wicked: For Good": {
       "formats": {
-        "ET00005916": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 378
-        },
         "ET00005921": {
           "format": "3D",
           "language": "English",
@@ -107,6 +111,14 @@
           "gross": 28500.0,
           "sold": 19,
           "totalSeats": 1969
+        },
+        "ET00005916": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 378
         }
       }
     },
@@ -122,15 +134,15 @@
         }
       }
     },
-    "Moda Tharidu": {
+    "Walampoori": {
       "formats": {
-        "ET00005884": {
+        "ET00005695": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 78,
-          "gross": 8300.0,
-          "sold": 13,
-          "totalSeats": 14466
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 239
         }
       }
     },
@@ -154,27 +166,15 @@
         }
       }
     },
-    "Walampoori": {
+    "Kaantha": {
       "formats": {
-        "ET00005695": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 239
-        }
-      }
-    },
-    "Mask": {
-      "formats": {
-        "ET00005920": {
+        "ET00005913": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 9,
+          "shows": 3,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1276
+          "totalSeats": 276
         }
       }
     },
@@ -190,18 +190,6 @@
         }
       }
     },
-    "Kaantha": {
-      "formats": {
-        "ET00005913": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 276
-        }
-      }
-    },
     "Mr.Mrs": {
       "formats": {
         "ET00005919": {
@@ -211,54 +199,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 3860
-        }
-      }
-    },
-    "Aan Paavam Pollathathu": {
-      "formats": {
-        "ET00005909": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 138
-        }
-      }
-    },
-    "The Conjuring: Last Rites": {
-      "formats": {
-        "ET00005816": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 144
-        }
-      }
-    },
-    "The Running Man": {
-      "formats": {
-        "ET00005902": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 22
-        }
-      }
-    },
-    "Eternity": {
-      "formats": {
-        "ET00005933": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 292
         }
       }
     },
@@ -274,6 +214,54 @@
         }
       }
     },
+    "Aan Paavam Pollathathu": {
+      "formats": {
+        "ET00005909": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 138
+        }
+      }
+    },
+    "Eternity": {
+      "formats": {
+        "ET00005933": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 292
+        }
+      }
+    },
+    "The Running Man": {
+      "formats": {
+        "ET00005902": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 22
+        }
+      }
+    },
+    "The Conjuring: Last Rites": {
+      "formats": {
+        "ET00005816": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 144
+        }
+      }
+    },
     "Mother Lanka": {
       "formats": {
         "ET00005801": {
@@ -286,15 +274,27 @@
         }
       }
     },
-    "Ayu": {
+    "Demon Slayer - Kimetsu no Yaiba - The Movie: Infinity Castle": {
       "formats": {
-        "ET00005878": {
+        "ET00005800": {
+          "format": "2D",
+          "language": "Japanese",
+          "shows": 1,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 111
+        }
+      }
+    },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 15,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 2102
+          "shows": 29,
+          "gross": 8000.0,
+          "sold": 7,
+          "totalSeats": 4969
         }
       }
     }
