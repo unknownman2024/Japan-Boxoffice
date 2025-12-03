@@ -1,7 +1,19 @@
 {
   "date": "20251204",
-  "lastUpdated": "04:42 PM, 03 December 2025",
+  "lastUpdated": "05:54 PM, 03 December 2025",
   "movies": {
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 936
+        }
+      }
+    },
     "Maariya": {
       "formats": {
         "ET00005918": {
@@ -11,18 +23,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 373
-        }
-      }
-    },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 6,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1979
         }
       }
     },
@@ -50,15 +50,15 @@
         }
       }
     },
-    "Neera": {
+    "Moda Tharidu": {
       "formats": {
-        "ET00005849": {
+        "ET00005884": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 3,
+          "shows": 6,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 936
+          "totalSeats": 1979
         }
       }
     }
