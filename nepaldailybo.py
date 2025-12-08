@@ -14,25 +14,20 @@ from zoneinfo import ZoneInfo
 #########################################
 
 MOVIE_LIST_URL = "https://khaltimovies.text2024mail.workers.dev/"
-
-IST = ZoneInfo("Asia/Kolkata")
-DATE = datetime.now(IST).strftime("%Y-%m-%d")   # ✅ AUTO TODAY IST
-
-OUT_DIR = "Nepal Boxoffice"
-
-LIMIT_PER_MOVIE = 500
-OFFSET = 0
-
-TOKEN_URL = "https://boxoffice24.pages.dev/Nepal/khaltitoken.txt"
 MOVIE_INFO_URL = "https://khalti.com/api/v5/movie-info/{movie_id}"
 SHOWINFO_URL = "https://khalti.com/api/v2/service/use/movie/showinfo-v2/"
+TOKEN_URL = "https://boxoffice24.pages.dev/Nepal/khaltitoken.txt"
+
+IST = ZoneInfo("Asia/Kolkata")
+DATE = datetime.now(IST).strftime("%Y-%m-%d")   # ✅ Auto today
+CUT_OFF_MINUTES = 200                           # ✅ YOUR REQUIRED CUTOFF
+
+OUT_DIR = "Nepal Boxoffice"
 
 MAX_WORKERS = 10
 MAX_RETRIES = 5
 TIMEOUT = 15
 GLOBAL_COOLDOWN_SEC = 6
-
-CUT_OFF_MINUTES = 200    # ✅ SAME AS SRILANKA LOGIC
 
 #########################################
 # ATOMIC JSON WRITE
@@ -53,7 +48,21 @@ def log(msg):
     print(f"[{ts}] {msg}", flush=True)
 
 #########################################
-# GLOBAL COOLDOWN (429)
+# TOKEN (FETCH ONLY ONCE)
+#########################################
+
+AUTH_TOKEN = None
+
+def init_token_once():
+    global AUTH_TOKEN
+    log("🔑 Fetching token once...")
+    r = requests.get(TOKEN_URL, timeout=TIMEOUT)
+    r.raise_for_status()
+    AUTH_TOKEN = r.text.strip()
+    log("✅ Token locked for this run")
+
+#########################################
+# GLOBAL 429 COOLDOWN
 #########################################
 
 cooldown_lock = threading.Lock()
@@ -81,20 +90,6 @@ def wait_if_global_cooldown():
         time.sleep(min(1.0, remaining))
 
 #########################################
-# TOKEN (FETCH ONLY ONCE)
-#########################################
-
-AUTH_TOKEN = None
-
-def init_token_once():
-    global AUTH_TOKEN
-    log("🔑 Fetching token only once...")
-    r = requests.get(TOKEN_URL, timeout=TIMEOUT)
-    r.raise_for_status()
-    AUTH_TOKEN = r.text.strip()
-    log("✅ Token locked for this run")
-
-#########################################
 # RANDOM HELPERS
 #########################################
 
@@ -114,9 +109,6 @@ def random_user_agent():
 def random_device_id():
     return "kwa-" + uuid.uuid4().hex[:16]
 
-def format_date(dt):
-    return dt.split("T")[0].split(" ")[0]
-
 #########################################
 # SAFE REQUEST
 #########################################
@@ -126,6 +118,7 @@ def safe_request(method, url, **kwargs):
 
     while True:
         wait_if_global_cooldown()
+
         try:
             r = requests.request(method, url, timeout=TIMEOUT, **kwargs)
 
@@ -152,30 +145,29 @@ def safe_request(method, url, **kwargs):
             retries -= 1
 
 #########################################
-# TIME PARSER + CUTOFF
+# TIME PARSING + CUTOFF FILTER
 #########################################
 
-def parse_time(date_str, t):
-    for fmt in ["%H:%M", "%I:%M %p"]:
-        try:
-            return datetime.strptime(
-                f"{date_str} {t}", f"%Y-%m-%d {fmt}"
-            ).replace(tzinfo=IST)
-        except:
-            pass
-    return None
+def parse_show_datetime(dt_str: str):
+    """
+    Khalti gives:
+    '2025-12-09 12:00:00'
+    """
+    try:
+        return datetime.strptime(dt_str, "%Y-%m-%d %H:%M:%S").replace(tzinfo=IST)
+    except:
+        return None
 
-def is_within_cutoff(show):
-    st = parse_time(show["date"], show["time"])
+def is_within_cutoff_from_now(dt_str):
+    st = parse_show_datetime(dt_str)
     if not st:
-        return True
+        return False
 
     mins_left = int((st - datetime.now(IST)).total_seconds() / 60)
-    show["minsLeft"] = mins_left
-    return mins_left < CUT_OFF_MINUTES
+    return 0 <= mins_left <= CUT_OFF_MINUTES
 
 #########################################
-# FETCH SINGLE SHOW
+# FETCH SINGLE SHOW SUMMARY
 #########################################
 
 def fetch_show_summary(movie_id, movie_name, show_id):
@@ -199,19 +191,24 @@ def fetch_show_summary(movie_id, movie_name, show_id):
         showinfo = data.get("showinfo") or {}
         tickets = showinfo.get("tickets") or []
 
-        ticket_types = {}
         total = {"seats": 0, "sold": 0, "reserved": 0, "available": 0, "gross": 0}
+        ticket_types = {}
 
         for row in seat_data:
             for s in row.get("seats", []):
                 if not s.get("is_active") or s.get("seat_status") == "Gap":
                     continue
+
                 t = s.get("ticket_type")
                 if t not in ticket_types:
                     ticket_types[t] = {
-                        "price": 0, "seats": 0,
-                        "sold": 0, "reserved": 0, "available": 0
+                        "price": 0,
+                        "seats": 0,
+                        "sold": 0,
+                        "reserved": 0,
+                        "available": 0
                     }
+
                 tt = ticket_types[t]
                 tt["seats"] += 1
                 if s.get("seat_status") == "Sold":
@@ -241,8 +238,8 @@ def fetch_show_summary(movie_id, movie_name, show_id):
 
         show = showinfo.get("show", {})
         dt = show.get("datetime") or ""
-        date_part = dt.split("T")[0]
-        time_part = dt.split("T")[1][:5] if "T" in dt else ""
+        date_part = dt.split(" ")[0]
+        time_part = dt.split(" ")[1][:5] if " " in dt else ""
 
         theatre_full = f"{show.get('theatre_name')} - {show.get('auditorium_name')}"
         venue = show_id.split(":")[1] if ":" in show_id else show_id
@@ -295,7 +292,7 @@ def fetch_movie_list():
     return [{"id": m.get("idx"), "name": m.get("name")} for m in movies]
 
 #########################################
-# PROCESS ONE MOVIE
+# PROCESS ONE MOVIE (WITH CUTOFF FILTER AT SOURCE)
 #########################################
 
 def process_single_movie(movie_id, movie_name):
@@ -309,14 +306,19 @@ def process_single_movie(movie_id, movie_name):
 
     for t in theatres:
         for s in t.get("shows", []):
-            if format_date(s.get("datetime", "")) != DATE:
+            dt = s.get("datetime")
+            if not dt:
                 continue
-            show_ids.append(s.get("show_id"))
 
-    show_ids = show_ids[OFFSET: OFFSET + LIMIT_PER_MOVIE]
+            # ✅ ONLY SHOWS WITHIN 200 MINUTES
+            if is_within_cutoff_from_now(dt):
+                show_ids.append(s.get("show_id"))
+
     total_shows = len(show_ids)
+    log(f"🎯 {movie_name} → {total_shows} shows within {CUT_OFF_MINUTES} mins")
 
-    log(f"🎯 {movie_name} → {total_shows} shows")
+    if total_shows == 0:
+        return []
 
     results = []
     completed = 0
@@ -390,11 +392,13 @@ def main():
     summary_file = f"{OUT_DIR}/{target_date}_Summary.json"
     detail_file = f"{OUT_DIR}/{target_date}_Detailed.json"
 
-    # Load previous DB
+    # Load old DB
     existing_rows = []
     if os.path.exists(detail_file):
         try:
-            existing_rows = json.load(open(detail_file, "r", encoding="utf-8")).get("shows", [])
+            existing_rows = json.load(
+                open(detail_file, "r", encoding="utf-8")
+            ).get("shows", [])
             log(f"📁 Loaded old DB: {len(existing_rows)} shows")
         except:
             log("⚠ Old DB corrupted, starting fresh")
@@ -408,14 +412,11 @@ def main():
         rows = process_single_movie(m["id"], m["name"])
         new_rows.extend(rows)
 
-    log(f"\n🆕 Newly fetched this run: {len(new_rows)}")
-
-    # ✅ APPLY CUTOFF ONLY TO NEW
-    eligible_new = [s for s in new_rows if is_within_cutoff(s)]
+    log(f"\n🆕 Newly fetched this run (within cutoff): {len(new_rows)}")
 
     # ✅ MERGE (NEVER DELETE OLD)
     data_map = {s["show_id"]: s for s in existing_rows}
-    for s in eligible_new:
+    for s in new_rows:
         data_map[s["show_id"]] = s
 
     all_rows = list(data_map.values())
@@ -436,11 +437,11 @@ def main():
     print("\n================================================")
     print(f"🎬 Movies Covered: {len(movies_summary)}")
     print(f"🎟 Lifetime Shows Stored: {len(all_rows)}")
-    print(f"🆕 Newly Added (after cutoff): {len(eligible_new)}")
+    print(f"🆕 Newly Added This Run: {len(new_rows)}")
     print(f"📁 Summary  → {summary_file}")
     print(f"📁 Detailed → {detail_file}")
     print("================================================")
-    print("🎉 DONE — AUTO DATE | CUTOFF | PERMANENT DB ACTIVE\n")
+    print("🎉 DONE — SOURCE-LEVEL CUTOFF (200 MIN) ACTIVE\n")
 
 if __name__ == "__main__":
     main()
