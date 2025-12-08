@@ -1,24 +1,36 @@
 {
   "date": "20251209",
-  "lastUpdated": "11:58 AM, 08 December 2025",
+  "lastUpdated": "12:50 PM, 08 December 2025",
   "movies": {
     "Zootopia 2": {
       "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 49,
-          "gross": 61400.0,
-          "sold": 57,
-          "totalSeats": 9347
-        },
         "ET00005925": {
           "format": "2D",
           "language": "English",
           "shows": 4,
-          "gross": 4100.0,
-          "sold": 2,
+          "gross": 27000.0,
+          "sold": 14,
           "totalSeats": 580
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 49,
+          "gross": 56950.0,
+          "sold": 52,
+          "totalSeats": 9347
+        }
+      }
+    },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 49,
+          "gross": 20250.0,
+          "sold": 29,
+          "totalSeats": 8345
         }
       }
     },
@@ -46,18 +58,6 @@
         }
       }
     },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 78,
-          "gross": 12100.0,
-          "sold": 21,
-          "totalSeats": 13752
-        }
-      }
-    },
     "Maariya": {
       "formats": {
         "ET00005918": {
@@ -70,26 +70,6 @@
         }
       }
     },
-    "Predator: Badlands": {
-      "formats": {
-        "ET00005901": {
-          "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 690
-        },
-        "ET00005924": {
-          "format": "3D",
-          "language": "English",
-          "shows": 18,
-          "gross": 10250.0,
-          "sold": 8,
-          "totalSeats": 2546
-        }
-      }
-    },
     "Mask": {
       "formats": {
         "ET00005920": {
@@ -99,6 +79,26 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 373
+        }
+      }
+    },
+    "Predator: Badlands": {
+      "formats": {
+        "ET00005924": {
+          "format": "3D",
+          "language": "English",
+          "shows": 18,
+          "gross": 10250.0,
+          "sold": 8,
+          "totalSeats": 2546
+        },
+        "ET00005901": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 690
         }
       }
     },
@@ -158,18 +158,6 @@
         }
       }
     },
-    "Eternity": {
-      "formats": {
-        "ET00005933": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 34
-        }
-      }
-    },
     "Mouna Mozhi": {
       "formats": {
         "ET00005940": {
@@ -182,8 +170,40 @@
         }
       }
     },
+    "Mr.Mrs": {
+      "formats": {
+        "ET00005919": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 27,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 3910
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 78,
+          "gross": 18100.0,
+          "sold": 29,
+          "totalSeats": 13752
+        }
+      }
+    },
     "Wicked: For Good": {
       "formats": {
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 12,
+          "gross": 9600.0,
+          "sold": 9,
+          "totalSeats": 1396
+        },
         "ET00005916": {
           "format": "2D",
           "language": "English",
@@ -191,14 +211,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 378
-        },
-        "ET00005921": {
-          "format": "3D",
+        }
+      }
+    },
+    "Eternity": {
+      "formats": {
+        "ET00005933": {
+          "format": "2D",
           "language": "English",
-          "shows": 12,
-          "gross": 6000.0,
-          "sold": 6,
-          "totalSeats": 1396
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 34
         }
       }
     },
@@ -211,30 +235,6 @@
           "gross": 2200.0,
           "sold": 1,
           "totalSeats": 22
-        }
-      }
-    },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 49,
-          "gross": 13400.0,
-          "sold": 20,
-          "totalSeats": 8345
-        }
-      }
-    },
-    "Mr.Mrs": {
-      "formats": {
-        "ET00005919": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 27,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 3910
         }
       }
     }
