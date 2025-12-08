@@ -2,8 +2,13 @@ name: Nepal Boxoffice Scraper
 
 on:
   schedule:
-    - cron: "0 * * * *"   # ⏰ Runs every 60 minutes
-  workflow_dispatch:      # ✅ Allow manual run
+    - cron: "0 * * * *"   # ⏰ every 60 minutes
+  workflow_dispatch:      # manual run
+
+# ✅ Ek time pe sirf ek job chalega (no race on push)
+concurrency:
+  group: nepal-boxoffice-main
+  cancel-in-progress: false
 
 jobs:
   run:
@@ -13,7 +18,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0   # ✅ required for commit comparison
+        fetch-depth: 0  # required for rebase & push
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -32,19 +37,35 @@ jobs:
     - name: Check for changes
       id: check_changes
       run: |
-        git config --global user.name "GitHub Bot"
-        git config --global user.email "actions@github.com"
-
         if [[ -n $(git status --porcelain) ]]; then
           echo "changes_detected=true" >> $GITHUB_ENV
         else
           echo "changes_detected=false" >> $GITHUB_ENV
         fi
 
-    - name: Commit & Push Results
+    - name: Commit & Push Results (with retry)
       if: env.changes_detected == 'true'
       run: |
+        git config --global user.name "GitHub Bot"
+        git config --global user.email "actions@github.com"
+
         git add .
-        git commit -m "📊 Auto-update: Nepal Boxoffice ($(date '+%d-%m-%Y %I:%M %p'))"
-        git pull --rebase
-        git push
+
+        # safe commit (skip if nothing staged somehow)
+        git commit -m "📊 Auto-update: Nepal Boxoffice ($(date '+%d-%m-%Y %I:%M %p'))" || echo "No changes to commit"
+
+        # ✅ retry logic: pull --rebase + push (max 3 times)
+        for i in 1 2 3; do
+          echo "🔄 Attempt $i to pull --rebase & push..."
+          if git pull --rebase && git push; then
+            echo "✅ Push success on attempt $i"
+            break
+          else
+            echo "⚠️ Push failed on attempt $i"
+            if [ "$i" -eq 3 ]; then
+              echo "❌ Giving up after 3 attempts"
+              exit 1
+            fi
+            sleep 10
+          fi
+        done
