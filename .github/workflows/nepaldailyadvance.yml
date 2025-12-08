@@ -1,0 +1,71 @@
+name: Nepal Advance Boxoffice Scraper
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # ⏰ Runs every 3 hours
+  workflow_dispatch:       # ✅ Manual run allowed
+
+# ✅ Ek time pe sirf ek job chalega (no race on push)
+concurrency:
+  group: nepal-advance-main
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0   # ✅ required for rebase & push
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.11"
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+
+    - name: Run Nepal Advance Script
+      run: |
+        echo "🚀 Running Nepal Advance Boxoffice Script..."
+        python "nepaldailyadvance.py"
+
+    - name: Check for changes
+      id: check_changes
+      run: |
+        if [[ -n $(git status --porcelain) ]]; then
+          echo "changes_detected=true" >> $GITHUB_ENV
+        else
+          echo "changes_detected=false" >> $GITHUB_ENV
+        fi
+
+    - name: Commit & Push Results (with retry)
+      if: env.changes_detected == 'true'
+      run: |
+        git config --global user.name "GitHub Bot"
+        git config --global user.email "actions@github.com"
+
+        git add .
+
+        # ✅ Safe commit
+        git commit -m "📊 Auto-update: Nepal Advance ($(date '+%d-%m-%Y %I:%M %p'))" || echo "No changes to commit"
+
+        # ✅ Retry logic: pull --rebase + push (max 3 tries)
+        for i in 1 2 3; do
+          echo "🔄 Attempt $i to pull --rebase & push..."
+          if git pull --rebase && git push; then
+            echo "✅ Push success on attempt $i"
+            break
+          else
+            echo "⚠️ Push failed on attempt $i"
+            if [ "$i" -eq 3 ]; then
+              echo "❌ Giving up after 3 attempts"
+              exit 1
+            fi
+            sleep 10
+          fi
+        done
