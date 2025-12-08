@@ -1,9 +1,17 @@
 {
   "date": "20251210",
-  "lastUpdated": "02:44 AM, 09 December 2025",
+  "lastUpdated": "03:46 AM, 09 December 2025",
   "movies": {
     "Zootopia 2": {
       "formats": {
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 7200.0,
+          "sold": 6,
+          "totalSeats": 580
+        },
         "ET00005930": {
           "format": "3D",
           "language": "English",
@@ -11,14 +19,18 @@
           "gross": 129900.0,
           "sold": 83,
           "totalSeats": 9347
-        },
-        "ET00005925": {
+        }
+      }
+    },
+    "Tere Ishk Mein (Tamil)": {
+      "formats": {
+        "ET00005931": {
           "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 17400.0,
-          "sold": 9,
-          "totalSeats": 580
+          "language": "Tamil",
+          "shows": 30,
+          "gross": 11500.0,
+          "sold": 11,
+          "totalSeats": 4853
         }
       }
     },
@@ -66,27 +78,15 @@
         }
       }
     },
-    "Dhurandhar": {
+    "Neera": {
       "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 12,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1530
-        }
-      }
-    },
-    "Gehenu Lamai": {
-      "formats": {
-        "ET00005932": {
+        "ET00005849": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 6,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 602
+          "shows": 46,
+          "gross": 35100.0,
+          "sold": 40,
+          "totalSeats": 7791
         }
       }
     },
@@ -102,6 +102,18 @@
         }
       }
     },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 28,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 4920
+        }
+      }
+    },
     "Mr.Mrs": {
       "formats": {
         "ET00005919": {
@@ -114,15 +126,27 @@
         }
       }
     },
-    "Maariya": {
+    "Gehenu Lamai": {
       "formats": {
-        "ET00005918": {
+        "ET00005932": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 28,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 4920
+          "shows": 6,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 602
+        }
+      }
+    },
+    "Nelum Kuluna (Tentigo)": {
+      "formats": {
+        "ET00005664": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 220
         }
       }
     },
@@ -146,18 +170,6 @@
         }
       }
     },
-    "Mouna Mozhi": {
-      "formats": {
-        "ET00005940": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 184
-        }
-      }
-    },
     "Eternity": {
       "formats": {
         "ET00005933": {
@@ -167,6 +179,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 34
+        }
+      }
+    },
+    "Mouna Mozhi": {
+      "formats": {
+        "ET00005940": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 184
         }
       }
     },
@@ -190,18 +214,6 @@
         }
       }
     },
-    "Nelum Kuluna (Tentigo)": {
-      "formats": {
-        "ET00005664": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 220
-        }
-      }
-    },
     "The Running Man": {
       "formats": {
         "ET00005902": {
@@ -214,27 +226,15 @@
         }
       }
     },
-    "Neera": {
+    "Dhurandhar": {
       "formats": {
-        "ET00005849": {
+        "ET00005937": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 46,
-          "gross": 35100.0,
-          "sold": 40,
-          "totalSeats": 7791
-        }
-      }
-    },
-    "Tere Ishk Mein (Tamil)": {
-      "formats": {
-        "ET00005931": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 30,
-          "gross": 11500.0,
-          "sold": 11,
-          "totalSeats": 4853
+          "language": "Hindi",
+          "shows": 12,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1530
         }
       }
     }
