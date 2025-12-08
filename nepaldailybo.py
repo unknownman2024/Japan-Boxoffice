@@ -20,7 +20,7 @@ TOKEN_URL = "https://boxoffice24.pages.dev/Nepal/khaltitoken.txt"
 
 IST = ZoneInfo("Asia/Kolkata")
 DATE = datetime.now(IST).strftime("%Y-%m-%d")   # ✅ Auto today
-CUT_OFF_MINUTES = 200                           # ✅ YOUR REQUIRED CUTOFF
+CUT_OFF_MINUTES = 200                           # ✅ Cutoff (mins from now)
 
 OUT_DIR = "Nepal Boxoffice"
 
@@ -150,8 +150,7 @@ def safe_request(method, url, **kwargs):
 
 def parse_show_datetime(dt_str: str):
     """
-    Khalti gives:
-    '2025-12-09 12:00:00'
+    Khalti gives: '2025-12-09 12:00:00'
     """
     try:
         return datetime.strptime(dt_str, "%Y-%m-%d %H:%M:%S").replace(tzinfo=IST)
@@ -292,7 +291,7 @@ def fetch_movie_list():
     return [{"id": m.get("idx"), "name": m.get("name")} for m in movies]
 
 #########################################
-# PROCESS ONE MOVIE (WITH CUTOFF FILTER AT SOURCE)
+# PROCESS ONE MOVIE (WITH CUTOFF FILTER)
 #########################################
 
 def process_single_movie(movie_id, movie_name):
@@ -310,7 +309,7 @@ def process_single_movie(movie_id, movie_name):
             if not dt:
                 continue
 
-            # ✅ ONLY SHOWS WITHIN 200 MINUTES
+            # ✅ ONLY SHOWS WITHIN CUTOFF WINDOW
             if is_within_cutoff_from_now(dt):
                 show_ids.append(s.get("show_id"))
 
@@ -340,7 +339,7 @@ def process_single_movie(movie_id, movie_name):
     return results
 
 #########################################
-# SUMMARY BUILDER
+# SUMMARY BUILDER (MOVIE + VENUE WISE, NO SHOW LIST)
 #########################################
 
 def build_summary_by_movie(all_rows):
@@ -348,10 +347,13 @@ def build_summary_by_movie(all_rows):
 
     for s in all_rows:
         mid = s["movie_id"]
+        mname = s["movie_name"]
+        venue = s.get("venue") or "Unknown"
+
         if mid not in movies:
             movies[mid] = {
                 "movie_id": mid,
-                "movie_name": s["movie_name"],
+                "movie_name": mname,
                 "total_shows": 0,
                 "seats": 0,
                 "sold": 0,
@@ -359,25 +361,58 @@ def build_summary_by_movie(all_rows):
                 "available": 0,
                 "housefull": 0,
                 "fastfilling": 0,
-                "shows": []
+                "venues": {}
             }
 
-        m = movies[mid]
-        m["total_shows"] += 1
-        m["seats"] += s["seats"]
-        m["sold"] += s["sold"]
-        m["reserved"] += s["reserved"]
-        m["available"] += s["available"]
+        movie_block = movies[mid]
+
+        # movie level aggregate
+        movie_block["total_shows"] += 1
+        movie_block["seats"] += s["seats"]
+        movie_block["sold"] += s["sold"]
+        movie_block["reserved"] += s["reserved"]
+        movie_block["available"] += s["available"]
 
         occ = s["occupancy_percent"]
         if occ >= 98:
-            m["housefull"] += 1
+            movie_block["housefull"] += 1
         elif 50 <= occ < 98:
-            m["fastfilling"] += 1
+            movie_block["fastfilling"] += 1
 
-        m["shows"].append(s)
+        # venue level aggregate
+        if venue not in movie_block["venues"]:
+            movie_block["venues"][venue] = {
+                "venue": venue,
+                "total_shows": 0,
+                "seats": 0,
+                "sold": 0,
+                "reserved": 0,
+                "available": 0,
+                "housefull": 0,
+                "fastfilling": 0
+            }
 
-    return list(movies.values())
+        v = movie_block["venues"][venue]
+        v["total_shows"] += 1
+        v["seats"] += s["seats"]
+        v["sold"] += s["sold"]
+        v["reserved"] += s["reserved"]
+        v["available"] += s["available"]
+
+        if occ >= 98:
+            v["housefull"] += 1
+        elif 50 <= occ < 98:
+            v["fastfilling"] += 1
+
+    # convert venues dict → sorted list for final JSON
+    final_movies = []
+    for mid, mv in movies.items():
+        venues_list = list(mv["venues"].values())
+        venues_list.sort(key=lambda x: x["venue"])
+        mv["venues"] = venues_list
+        final_movies.append(mv)
+
+    return final_movies
 
 #########################################
 # MAIN
@@ -414,7 +449,7 @@ def main():
 
     log(f"\n🆕 Newly fetched this run (within cutoff): {len(new_rows)}")
 
-    # ✅ MERGE (NEVER DELETE OLD)
+    # ✅ MERGE (NEVER DELETE OLD) BY show_id
     data_map = {s["show_id"]: s for s in existing_rows}
     for s in new_rows:
         data_map[s["show_id"]] = s
@@ -422,16 +457,19 @@ def main():
     all_rows = list(data_map.values())
     log(f"📦 Lifetime stored shows: {len(all_rows)}")
 
+    # ✅ Movie + Venue wise summary (NO show list inside summary)
     movies_summary = build_summary_by_movie(all_rows)
 
     timestamp = datetime.now(IST).strftime("%I:%M %p, %d %B %Y")
 
+    # Detailed: full shows list (bada file)
     atomic_dump(detail_file, {
         "date": target_date,
         "lastUpdated": timestamp,
         "shows": all_rows
     })
 
+    # Summary: compact movie + venue level only
     atomic_dump(summary_file, movies_summary)
 
     print("\n================================================")
@@ -441,7 +479,7 @@ def main():
     print(f"📁 Summary  → {summary_file}")
     print(f"📁 Detailed → {detail_file}")
     print("================================================")
-    print("🎉 DONE — SOURCE-LEVEL CUTOFF (200 MIN) ACTIVE\n")
+    print("🎉 DONE — MOVIE + VENUE SUMMARY | SHOW-WISE DETAILED\n")
 
 if __name__ == "__main__":
     main()
