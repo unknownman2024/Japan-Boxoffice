@@ -1,24 +1,16 @@
 {
   "date": "20251209",
-  "lastUpdated": "10:00 AM, 08 December 2025",
+  "lastUpdated": "10:48 AM, 08 December 2025",
   "movies": {
-    "Zootopia 2": {
+    "Neera": {
       "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 48,
-          "gross": 53700.0,
-          "sold": 50,
-          "totalSeats": 9034
-        },
-        "ET00005925": {
+        "ET00005849": {
           "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 4100.0,
-          "sold": 2,
-          "totalSeats": 580
+          "language": "Sinhala",
+          "shows": 48,
+          "gross": 16700.0,
+          "sold": 22,
+          "totalSeats": 8032
         }
       }
     },
@@ -28,9 +20,41 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 76,
-          "gross": 12450.0,
-          "sold": 22,
+          "gross": 12100.0,
+          "sold": 21,
           "totalSeats": 13126
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 4100.0,
+          "sold": 2,
+          "totalSeats": 580
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 48,
+          "gross": 60900.0,
+          "sold": 52,
+          "totalSeats": 9034
+        }
+      }
+    },
+    "Tere Ishk Mein (Tamil)": {
+      "formats": {
+        "ET00005931": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 30,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 4853
         }
       }
     },
@@ -46,15 +70,15 @@
         }
       }
     },
-    "Neera": {
+    "Mask": {
       "formats": {
-        "ET00005849": {
+        "ET00005920": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 48,
-          "gross": 11200.0,
-          "sold": 17,
-          "totalSeats": 8032
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 373
         }
       }
     },
@@ -64,8 +88,8 @@
           "format": "3D",
           "language": "English",
           "shows": 18,
-          "gross": 5500.0,
-          "sold": 4,
+          "gross": 7150.0,
+          "sold": 7,
           "totalSeats": 2546
         },
         "ET00005901": {
@@ -78,39 +102,15 @@
         }
       }
     },
-    "Gehenu Lamai": {
+    "Nelum Kuluna (Tentigo)": {
       "formats": {
-        "ET00005932": {
+        "ET00005664": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 5,
-          "gross": 4200.0,
-          "sold": 4,
-          "totalSeats": 502
-        }
-      }
-    },
-    "Ayu": {
-      "formats": {
-        "ET00005878": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 14,
-          "gross": 2000.0,
+          "shows": 2,
+          "gross": 2200.0,
           "sold": 2,
-          "totalSeats": 1850
-        }
-      }
-    },
-    "Mask": {
-      "formats": {
-        "ET00005920": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 373
+          "totalSeats": 220
         }
       }
     },
@@ -131,6 +131,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 133
+        }
+      }
+    },
+    "Gehenu Lamai": {
+      "formats": {
+        "ET00005932": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 5,
+          "gross": 4200.0,
+          "sold": 4,
+          "totalSeats": 502
         }
       }
     },
@@ -158,15 +170,15 @@
         }
       }
     },
-    "Nelum Kuluna (Tentigo)": {
+    "Eternity": {
       "formats": {
-        "ET00005664": {
+        "ET00005933": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 220
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 34
         }
       }
     },
@@ -184,14 +196,6 @@
     },
     "Wicked: For Good": {
       "formats": {
-        "ET00005916": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 378
-        },
         "ET00005921": {
           "format": "3D",
           "language": "English",
@@ -199,6 +203,14 @@
           "gross": 6000.0,
           "sold": 6,
           "totalSeats": 1396
+        },
+        "ET00005916": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 378
         }
       }
     },
@@ -214,27 +226,15 @@
         }
       }
     },
-    "Eternity": {
+    "Ayu": {
       "formats": {
-        "ET00005933": {
+        "ET00005878": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 34
-        }
-      }
-    },
-    "Tere Ishk Mein (Tamil)": {
-      "formats": {
-        "ET00005931": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 30,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 4853
+          "language": "Sinhala",
+          "shows": 14,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 1850
         }
       }
     }
