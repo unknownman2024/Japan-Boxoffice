@@ -1,29 +1,9 @@
 {
   "date": "20251210",
-  "lastUpdated": "06:06 PM, 09 December 2025",
+  "lastUpdated": "07:03 PM, 09 December 2025",
   "movies": {
-    "Ayu": {
-      "formats": {
-        "ET00005878": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 14,
-          "gross": 10200.0,
-          "sold": 9,
-          "totalSeats": 1850
-        }
-      }
-    },
     "Zootopia 2": {
       "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 49,
-          "gross": 174400.0,
-          "sold": 114,
-          "totalSeats": 9347
-        },
         "ET00005925": {
           "format": "2D",
           "language": "English",
@@ -31,18 +11,26 @@
           "gross": 26000.0,
           "sold": 18,
           "totalSeats": 580
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 49,
+          "gross": 177000.0,
+          "sold": 116,
+          "totalSeats": 9347
         }
       }
     },
-    "Neera": {
+    "Ayu": {
       "formats": {
-        "ET00005849": {
+        "ET00005878": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 46,
-          "gross": 54150.0,
-          "sold": 75,
-          "totalSeats": 7791
+          "shows": 14,
+          "gross": 13500.0,
+          "sold": 12,
+          "totalSeats": 1850
         }
       }
     },
@@ -52,21 +40,41 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 30,
-          "gross": 13100.0,
-          "sold": 13,
+          "gross": 18600.0,
+          "sold": 18,
           "totalSeats": 4853
         }
       }
     },
-    "Moda Tharidu": {
+    "Neera": {
       "formats": {
-        "ET00005884": {
+        "ET00005849": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 77,
-          "gross": 31250.0,
-          "sold": 50,
-          "totalSeats": 13277
+          "shows": 46,
+          "gross": 62450.0,
+          "sold": 86,
+          "totalSeats": 7791
+        }
+      }
+    },
+    "Predator: Badlands": {
+      "formats": {
+        "ET00005901": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 690
+        },
+        "ET00005924": {
+          "format": "3D",
+          "language": "English",
+          "shows": 16,
+          "gross": 24150.0,
+          "sold": 19,
+          "totalSeats": 2142
         }
       }
     },
@@ -82,15 +90,15 @@
         }
       }
     },
-    "Mask": {
+    "Moda Tharidu": {
       "formats": {
-        "ET00005920": {
+        "ET00005884": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 1600.0,
-          "sold": 2,
-          "totalSeats": 373
+          "language": "Sinhala",
+          "shows": 77,
+          "gross": 33500.0,
+          "sold": 53,
+          "totalSeats": 13277
         }
       }
     },
@@ -106,35 +114,15 @@
         }
       }
     },
-    "Predator: Badlands": {
+    "Mask": {
       "formats": {
-        "ET00005924": {
-          "format": "3D",
-          "language": "English",
-          "shows": 16,
-          "gross": 24150.0,
-          "sold": 19,
-          "totalSeats": 2142
-        },
-        "ET00005901": {
+        "ET00005920": {
           "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 690
-        }
-      }
-    },
-    "Nelum Kuluna (Tentigo)": {
-      "formats": {
-        "ET00005664": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 220
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 373
         }
       }
     },
@@ -150,6 +138,70 @@
         }
       }
     },
+    "Adhiran": {
+      "formats": {
+        "ET00005934": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 7,
+          "gross": 8000.0,
+          "sold": 8,
+          "totalSeats": 902
+        },
+        "ET00005935": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 133
+        }
+      }
+    },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 12,
+          "gross": 33700.0,
+          "sold": 20,
+          "totalSeats": 1530
+        }
+      }
+    },
+    "Wicked: For Good": {
+      "formats": {
+        "ET00005916": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 378
+        },
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 12,
+          "gross": 12900.0,
+          "sold": 11,
+          "totalSeats": 1406
+        }
+      }
+    },
+    "Nelum Kuluna (Tentigo)": {
+      "formats": {
+        "ET00005664": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 220
+        }
+      }
+    },
     "Mouna Mozhi": {
       "formats": {
         "ET00005940": {
@@ -159,46 +211,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 184
-        }
-      }
-    },
-    "Adhiran": {
-      "formats": {
-        "ET00005935": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 133
-        },
-        "ET00005934": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 7,
-          "gross": 8000.0,
-          "sold": 8,
-          "totalSeats": 902
-        }
-      }
-    },
-    "Wicked: For Good": {
-      "formats": {
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 12,
-          "gross": 12900.0,
-          "sold": 11,
-          "totalSeats": 1406
-        },
-        "ET00005916": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 378
         }
       }
     },
@@ -223,18 +235,6 @@
           "gross": 4400.0,
           "sold": 2,
           "totalSeats": 22
-        }
-      }
-    },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 12,
-          "gross": 11600.0,
-          "sold": 7,
-          "totalSeats": 1530
         }
       }
     }
