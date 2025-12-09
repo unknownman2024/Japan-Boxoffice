@@ -1,101 +1,111 @@
 {
   "date": "20251209",
-  "lastUpdated": "06:49 AM, 09 December 2025",
+  "lastUpdated": "08:46 AM, 09 December 2025",
   "movies": {
     "Zootopia 2": {
-      "totalShows": 1,
-      "totalGross": 19600.0,
-      "totalSold": 14,
-      "totalSeats": 200,
+      "totalShows": 11,
+      "totalGross": 90300.0,
+      "totalSold": 96,
+      "totalSeats": 1620,
       "formats": {
         "ET00005930": {
           "format": "3D",
           "language": "English",
-          "shows": 1,
-          "gross": 19600.0,
-          "sold": 14,
-          "totalSeats": 200,
+          "shows": 9,
+          "gross": 68200.0,
+          "sold": 79,
+          "totalSeats": 1480,
+          "fastfilling": 0,
+          "housefull": 0
+        },
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 22100.0,
+          "sold": 17,
+          "totalSeats": 140,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 7.0
+      "globalOccupancy": 5.93
     },
     "Neera": {
-      "totalShows": 4,
-      "totalGross": 11500.0,
-      "totalSold": 26,
-      "totalSeats": 743,
+      "totalShows": 16,
+      "totalGross": 33450.0,
+      "totalSold": 65,
+      "totalSeats": 2899,
       "formats": {
         "ET00005849": {
           "format": "2D",
           "language": "Sinhala",
+          "shows": 16,
+          "gross": 33450.0,
+          "sold": 65,
+          "totalSeats": 2899,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 2.24
+    },
+    "Moda Tharidu": {
+      "totalShows": 17,
+      "totalGross": 26450.0,
+      "totalSold": 53,
+      "totalSeats": 2774,
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 17,
+          "gross": 26450.0,
+          "sold": 53,
+          "totalSeats": 2774,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 1.91
+    },
+    "Maariya": {
+      "totalShows": 4,
+      "totalGross": 4400.0,
+      "totalSold": 4,
+      "totalSeats": 563,
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
           "shows": 4,
-          "gross": 11500.0,
-          "sold": 26,
+          "gross": 4400.0,
+          "sold": 4,
+          "totalSeats": 563,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.71
+    },
+    "Tere Ishk Mein (Tamil)": {
+      "totalShows": 5,
+      "totalGross": 3600.0,
+      "totalSold": 6,
+      "totalSeats": 743,
+      "formats": {
+        "ET00005931": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 5,
+          "gross": 3600.0,
+          "sold": 6,
           "totalSeats": 743,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 3.5
-    },
-    "Moda Tharidu": {
-      "totalShows": 8,
-      "totalGross": 12400.0,
-      "totalSold": 36,
-      "totalSeats": 1806,
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 8,
-          "gross": 12400.0,
-          "sold": 36,
-          "totalSeats": 1806,
-          "fastfilling": 0,
-          "housefull": 0
-        }
-      },
-      "globalOccupancy": 1.99
-    },
-    "Maariya": {
-      "totalShows": 1,
-      "totalGross": 0.0,
-      "totalSold": 0,
-      "totalSeats": 134,
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 134,
-          "fastfilling": 0,
-          "housefull": 0
-        }
-      },
-      "globalOccupancy": 0.0
-    },
-    "Tere Ishk Mein (Tamil)": {
-      "totalShows": 1,
-      "totalGross": 0.0,
-      "totalSold": 0,
-      "totalSeats": 184,
-      "formats": {
-        "ET00005931": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 184,
-          "fastfilling": 0,
-          "housefull": 0
-        }
-      },
-      "globalOccupancy": 0.0
+      "globalOccupancy": 0.81
     },
     "Mask": {
       "totalShows": 1,
@@ -117,56 +127,66 @@
       "globalOccupancy": 0.0
     },
     "Mr.Mrs": {
-      "totalShows": 1,
-      "totalGross": 1200.0,
-      "totalSold": 4,
-      "totalSeats": 236,
+      "totalShows": 7,
+      "totalGross": 1400.0,
+      "totalSold": 5,
+      "totalSeats": 1135,
       "formats": {
         "ET00005919": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 1,
-          "gross": 1200.0,
-          "sold": 4,
-          "totalSeats": 236,
+          "shows": 7,
+          "gross": 1400.0,
+          "sold": 5,
+          "totalSeats": 1135,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 1.69
+      "globalOccupancy": 0.44
     },
     "Gehenu Lamai": {
-      "totalShows": 1,
+      "totalShows": 2,
       "totalGross": 9000.0,
       "totalSold": 9,
-      "totalSeats": 121,
+      "totalSeats": 251,
       "formats": {
         "ET00005932": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 1,
+          "shows": 2,
           "gross": 9000.0,
           "sold": 9,
-          "totalSeats": 121,
+          "totalSeats": 251,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 7.44
+      "globalOccupancy": 3.59
     },
     "Adhiran": {
-      "totalShows": 1,
+      "totalShows": 3,
       "totalGross": 0.0,
       "totalSold": 0,
-      "totalSeats": 152,
+      "totalSeats": 285,
       "formats": {
         "ET00005934": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 1,
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 152,
+          "fastfilling": 0,
+          "housefull": 0
+        },
+        "ET00005935": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 133,
           "fastfilling": 0,
           "housefull": 0
         }
@@ -174,23 +194,80 @@
       "globalOccupancy": 0.0
     },
     "Ayu": {
-      "totalShows": 1,
+      "totalShows": 2,
       "totalGross": 0.0,
       "totalSold": 0,
-      "totalSeats": 107,
+      "totalSeats": 143,
       "formats": {
         "ET00005878": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 1,
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 107,
+          "totalSeats": 143,
           "fastfilling": 0,
           "housefull": 0
         }
       },
       "globalOccupancy": 0.0
+    },
+    "Predator: Badlands": {
+      "totalShows": 1,
+      "totalGross": 3000.0,
+      "totalSold": 3,
+      "totalSeats": 96,
+      "formats": {
+        "ET00005901": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 3000.0,
+          "sold": 3,
+          "totalSeats": 96,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 3.12
+    },
+    "Dhurandhar": {
+      "totalShows": 1,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 111,
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 111,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "Wicked: For Good": {
+      "totalShows": 3,
+      "totalGross": 4000.0,
+      "totalSold": 4,
+      "totalSeats": 393,
+      "formats": {
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 4000.0,
+          "sold": 4,
+          "totalSeats": 393,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 1.02
     }
   }
 }
