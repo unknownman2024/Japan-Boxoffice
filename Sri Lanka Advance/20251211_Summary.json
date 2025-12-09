@@ -1,24 +1,16 @@
 {
   "date": "20251211",
-  "lastUpdated": "03:47 AM, 10 December 2025",
+  "lastUpdated": "04:46 AM, 10 December 2025",
   "movies": {
-    "Zootopia 2": {
+    "Ayu": {
       "formats": {
-        "ET00005925": {
+        "ET00005878": {
           "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 4800.0,
+          "language": "Sinhala",
+          "shows": 14,
+          "gross": 4000.0,
           "sold": 4,
-          "totalSeats": 580
-        },
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 49,
-          "gross": 84000.0,
-          "sold": 58,
-          "totalSeats": 9347
+          "totalSeats": 1850
         }
       }
     },
@@ -46,6 +38,26 @@
         }
       }
     },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 49,
+          "gross": 84000.0,
+          "sold": 58,
+          "totalSeats": 9347
+        },
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 4800.0,
+          "sold": 4,
+          "totalSeats": 580
+        }
+      }
+    },
     "Moda Tharidu": {
       "formats": {
         "ET00005884": {
@@ -58,15 +70,15 @@
         }
       }
     },
-    "Maariya": {
+    "Mask": {
       "formats": {
-        "ET00005918": {
+        "ET00005920": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 27,
-          "gross": 4000.0,
-          "sold": 4,
-          "totalSeats": 4808
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 373
         }
       }
     },
@@ -87,18 +99,6 @@
           "gross": 1200.0,
           "sold": 1,
           "totalSeats": 690
-        }
-      }
-    },
-    "Mask": {
-      "formats": {
-        "ET00005920": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 1600.0,
-          "sold": 2,
-          "totalSeats": 373
         }
       }
     },
@@ -126,18 +126,6 @@
         }
       }
     },
-    "Nelum Kuluna (Tentigo)": {
-      "formats": {
-        "ET00005664": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 220
-        }
-      }
-    },
     "Gehenu Lamai": {
       "formats": {
         "ET00005932": {
@@ -152,14 +140,6 @@
     },
     "Adhiran": {
       "formats": {
-        "ET00005935": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 133
-        },
         "ET00005934": {
           "format": "2D",
           "language": "Tamil",
@@ -167,6 +147,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 805
+        },
+        "ET00005935": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 133
         }
       }
     },
@@ -179,6 +167,18 @@
           "gross": 4800.0,
           "sold": 2,
           "totalSeats": 34
+        }
+      }
+    },
+    "Nelum Kuluna (Tentigo)": {
+      "formats": {
+        "ET00005664": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 220
         }
       }
     },
@@ -226,15 +226,15 @@
         }
       }
     },
-    "Ayu": {
+    "Maariya": {
       "formats": {
-        "ET00005878": {
+        "ET00005918": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 14,
+          "shows": 27,
           "gross": 4000.0,
           "sold": 4,
-          "totalSeats": 1850
+          "totalSeats": 4808
         }
       }
     }
