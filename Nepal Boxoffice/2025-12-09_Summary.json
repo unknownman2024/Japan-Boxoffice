@@ -2,14 +2,24 @@
   {
     "movie_id": "WZanbnaScUAfySEmLFK4nP",
     "movie_name": "Dhurandhar",
-    "total_shows": 2,
-    "seats": 351,
-    "sold": 69,
-    "reserved": 2,
-    "available": 280,
+    "total_shows": 6,
+    "seats": 1218,
+    "sold": 152,
+    "reserved": 19,
+    "available": 1047,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 49,
+        "reserved": 3,
+        "available": 297,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "cdc-cinemas",
         "total_shows": 1,
@@ -21,12 +31,42 @@
         "fastfilling": 0
       },
       {
+        "venue": "city-cinema",
+        "total_shows": 1,
+        "seats": 189,
+        "sold": 0,
+        "reserved": 0,
+        "available": 189,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "midtown",
+        "total_shows": 1,
+        "seats": 178,
+        "sold": 5,
+        "reserved": 8,
+        "available": 165,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-kalimati",
+        "total_shows": 1,
+        "seats": 151,
+        "sold": 25,
+        "reserved": 0,
+        "available": 126,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "qfx-labim",
         "total_shows": 1,
         "seats": 182,
-        "sold": 62,
-        "reserved": 0,
-        "available": 120,
+        "sold": 66,
+        "reserved": 6,
+        "available": 110,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -35,14 +75,24 @@
   {
     "movie_id": "kVnqvVNUMvCMvK24wkY8n2",
     "movie_name": "Tere Ishk Mein",
-    "total_shows": 1,
-    "seats": 60,
-    "sold": 0,
-    "reserved": 0,
-    "available": 60,
+    "total_shows": 5,
+    "seats": 837,
+    "sold": 48,
+    "reserved": 12,
+    "available": 777,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 17,
+        "reserved": 0,
+        "available": 262,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "cdc-cinemas",
         "total_shows": 1,
@@ -50,6 +100,36 @@
         "sold": 0,
         "reserved": 0,
         "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "midtown",
+        "total_shows": 1,
+        "seats": 172,
+        "sold": 13,
+        "reserved": 8,
+        "available": 151,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-kalimati",
+        "total_shows": 1,
+        "seats": 136,
+        "sold": 14,
+        "reserved": 0,
+        "available": 122,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "suvakamna-cinemas",
+        "total_shows": 1,
+        "seats": 190,
+        "sold": 4,
+        "reserved": 4,
+        "available": 182,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -73,6 +153,29 @@
         "sold": 0,
         "reserved": 0,
         "available": 270,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "CPzfTDKyaKaQmeY9Wt24cS",
+    "movie_name": "Abhimanyu-Chapter 1",
+    "total_shows": 1,
+    "seats": 98,
+    "sold": 6,
+    "reserved": 0,
+    "available": 92,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "city-cinema",
+        "total_shows": 1,
+        "seats": 98,
+        "sold": 6,
+        "reserved": 0,
+        "available": 92,
         "housefull": 0,
         "fastfilling": 0
       }
