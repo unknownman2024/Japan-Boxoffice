@@ -5,8 +5,8 @@
     "total_shows": 2,
     "seats": 518,
     "sold": 73,
-    "reserved": 16,
-    "available": 429,
+    "reserved": 17,
+    "available": 428,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -15,8 +15,8 @@
         "total_shows": 1,
         "seats": 349,
         "sold": 66,
-        "reserved": 16,
-        "available": 267,
+        "reserved": 17,
+        "available": 266,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -27,6 +27,39 @@
         "sold": 7,
         "reserved": 0,
         "available": 162,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "CPzfTDKyaKaQmeY9Wt24cS",
+    "movie_name": "Abhimanyu-Chapter 1",
+    "total_shows": 2,
+    "seats": 339,
+    "sold": 112,
+    "reserved": 42,
+    "available": 185,
+    "housefull": 0,
+    "fastfilling": 1,
+    "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 112,
+        "reserved": 42,
+        "available": 125,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
         "housefull": 0,
         "fastfilling": 0
       }
