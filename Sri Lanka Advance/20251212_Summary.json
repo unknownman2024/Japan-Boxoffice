@@ -1,39 +1,7 @@
 {
   "date": "20251212",
-  "lastUpdated": "02:48 AM, 11 December 2025",
+  "lastUpdated": "03:47 AM, 11 December 2025",
   "movies": {
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 34,
-          "gross": 129800.0,
-          "sold": 104,
-          "totalSeats": 6542
-        },
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 6,
-          "gross": 6000.0,
-          "sold": 4,
-          "totalSeats": 689
-        }
-      }
-    },
-    "Tere Ishk Mein (Tamil)": {
-      "formats": {
-        "ET00005931": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 6,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 777
-        }
-      }
-    },
     "Neera": {
       "formats": {
         "ET00005849": {
@@ -43,6 +11,26 @@
           "gross": 8900.0,
           "sold": 10,
           "totalSeats": 3635
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 6,
+          "gross": 6000.0,
+          "sold": 4,
+          "totalSeats": 689
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 34,
+          "gross": 129800.0,
+          "sold": 104,
+          "totalSeats": 6542
         }
       }
     },
@@ -58,15 +46,27 @@
         }
       }
     },
-    "Maariya": {
+    "Tere Ishk Mein (Tamil)": {
       "formats": {
-        "ET00005918": {
+        "ET00005931": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 6,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 777
+        }
+      }
+    },
+    "Mr.Mrs": {
+      "formats": {
+        "ET00005919": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 12,
-          "gross": 11200.0,
-          "sold": 8,
-          "totalSeats": 1621
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1182
         }
       }
     },
@@ -102,18 +102,6 @@
         }
       }
     },
-    "Mr.Mrs": {
-      "formats": {
-        "ET00005919": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1182
-        }
-      }
-    },
     "Nelum Kuluna (Tentigo)": {
       "formats": {
         "ET00005664": {
@@ -126,15 +114,15 @@
         }
       }
     },
-    "Dhurandhar": {
+    "Maariya": {
       "formats": {
-        "ET00005937": {
+        "ET00005918": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 11,
-          "gross": 18200.0,
-          "sold": 13,
-          "totalSeats": 993
+          "language": "Sinhala",
+          "shows": 12,
+          "gross": 11200.0,
+          "sold": 8,
+          "totalSeats": 1621
         }
       }
     },
@@ -147,6 +135,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 3174
+        }
+      }
+    },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 11,
+          "gross": 18200.0,
+          "sold": 13,
+          "totalSeats": 993
         }
       }
     },
@@ -171,6 +171,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 97
+        }
+      }
+    },
+    "Eternity": {
+      "formats": {
+        "ET00005933": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 32
         }
       }
     },
@@ -227,18 +239,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 22
-        }
-      }
-    },
-    "Eternity": {
-      "formats": {
-        "ET00005933": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 32
         }
       }
     },
