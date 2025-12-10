@@ -1,7 +1,27 @@
 {
   "date": "20251212",
-  "lastUpdated": "01:50 AM, 11 December 2025",
+  "lastUpdated": "02:48 AM, 11 December 2025",
   "movies": {
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 34,
+          "gross": 129800.0,
+          "sold": 104,
+          "totalSeats": 6542
+        },
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 6,
+          "gross": 6000.0,
+          "sold": 4,
+          "totalSeats": 689
+        }
+      }
+    },
     "Tere Ishk Mein (Tamil)": {
       "formats": {
         "ET00005931": {
@@ -11,26 +31,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 777
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 6,
-          "gross": 6000.0,
-          "sold": 4,
-          "totalSeats": 689
-        },
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 34,
-          "gross": 129800.0,
-          "sold": 104,
-          "totalSeats": 6542
         }
       }
     },
@@ -46,18 +46,6 @@
         }
       }
     },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 12,
-          "gross": 11200.0,
-          "sold": 8,
-          "totalSeats": 1621
-        }
-      }
-    },
     "Moda Tharidu": {
       "formats": {
         "ET00005884": {
@@ -70,15 +58,15 @@
         }
       }
     },
-    "Mask": {
+    "Maariya": {
       "formats": {
-        "ET00005920": {
+        "ET00005918": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 322
+          "language": "Sinhala",
+          "shows": 12,
+          "gross": 11200.0,
+          "sold": 8,
+          "totalSeats": 1621
         }
       }
     },
@@ -99,6 +87,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 1465
+        }
+      }
+    },
+    "Mask": {
+      "formats": {
+        "ET00005920": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 322
         }
       }
     },
@@ -126,15 +126,15 @@
         }
       }
     },
-    "Ayu": {
+    "Dhurandhar": {
       "formats": {
-        "ET00005878": {
+        "ET00005937": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 9,
-          "gross": 5500.0,
-          "sold": 5,
-          "totalSeats": 1054
+          "language": "Hindi",
+          "shows": 11,
+          "gross": 18200.0,
+          "sold": 13,
+          "totalSeats": 993
         }
       }
     },
@@ -150,15 +150,27 @@
         }
       }
     },
-    "Eternity": {
+    "Adhiran": {
       "formats": {
-        "ET00005933": {
+        "ET00005934": {
           "format": "2D",
-          "language": "English",
+          "language": "Tamil",
           "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 32
+          "totalSeats": 107
+        }
+      }
+    },
+    "Mouna Mozhi": {
+      "formats": {
+        "ET00005940": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 97
         }
       }
     },
@@ -182,30 +194,6 @@
         }
       }
     },
-    "Adhiran": {
-      "formats": {
-        "ET00005934": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 107
-        }
-      }
-    },
-    "Padayappa": {
-      "formats": {
-        "ET00005943": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 8,
-          "gross": 269450.0,
-          "sold": 262,
-          "totalSeats": 1566
-        }
-      }
-    },
     "Kis Kisko Pyaar Karoon 2": {
       "formats": {
         "ET00005942": {
@@ -218,15 +206,15 @@
         }
       }
     },
-    "Mouna Mozhi": {
+    "Padayappa": {
       "formats": {
-        "ET00005940": {
+        "ET00005943": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 97
+          "shows": 8,
+          "gross": 271650.0,
+          "sold": 264,
+          "totalSeats": 1566
         }
       }
     },
@@ -242,15 +230,27 @@
         }
       }
     },
-    "Dhurandhar": {
+    "Eternity": {
       "formats": {
-        "ET00005937": {
+        "ET00005933": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 11,
-          "gross": 18200.0,
-          "sold": 13,
-          "totalSeats": 993
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 32
+        }
+      }
+    },
+    "Ayu": {
+      "formats": {
+        "ET00005878": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 9,
+          "gross": 5500.0,
+          "sold": 5,
+          "totalSeats": 1054
         }
       }
     }
