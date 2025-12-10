@@ -1,7 +1,39 @@
 {
   "date": "20251212",
-  "lastUpdated": "03:47 AM, 11 December 2025",
+  "lastUpdated": "04:44 AM, 11 December 2025",
   "movies": {
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 34,
+          "gross": 129800.0,
+          "sold": 104,
+          "totalSeats": 6542
+        },
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 6,
+          "gross": 6000.0,
+          "sold": 4,
+          "totalSeats": 689
+        }
+      }
+    },
+    "Ayu": {
+      "formats": {
+        "ET00005878": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 9,
+          "gross": 5500.0,
+          "sold": 5,
+          "totalSeats": 1054
+        }
+      }
+    },
     "Neera": {
       "formats": {
         "ET00005849": {
@@ -11,26 +43,6 @@
           "gross": 8900.0,
           "sold": 10,
           "totalSeats": 3635
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 6,
-          "gross": 6000.0,
-          "sold": 4,
-          "totalSeats": 689
-        },
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 34,
-          "gross": 129800.0,
-          "sold": 104,
-          "totalSeats": 6542
         }
       }
     },
@@ -58,18 +70,6 @@
         }
       }
     },
-    "Mr.Mrs": {
-      "formats": {
-        "ET00005919": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1182
-        }
-      }
-    },
     "Predator: Badlands": {
       "formats": {
         "ET00005901": {
@@ -90,30 +90,6 @@
         }
       }
     },
-    "Mask": {
-      "formats": {
-        "ET00005920": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 322
-        }
-      }
-    },
-    "Nelum Kuluna (Tentigo)": {
-      "formats": {
-        "ET00005664": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 121
-        }
-      }
-    },
     "Maariya": {
       "formats": {
         "ET00005918": {
@@ -123,6 +99,30 @@
           "gross": 11200.0,
           "sold": 8,
           "totalSeats": 1621
+        }
+      }
+    },
+    "Mr.Mrs": {
+      "formats": {
+        "ET00005919": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1182
+        }
+      }
+    },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 11,
+          "gross": 18200.0,
+          "sold": 13,
+          "totalSeats": 993
         }
       }
     },
@@ -138,15 +138,15 @@
         }
       }
     },
-    "Dhurandhar": {
+    "Nelum Kuluna (Tentigo)": {
       "formats": {
-        "ET00005937": {
+        "ET00005664": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 11,
-          "gross": 18200.0,
-          "sold": 13,
-          "totalSeats": 993
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 121
         }
       }
     },
@@ -206,6 +206,18 @@
         }
       }
     },
+    "Padayappa": {
+      "formats": {
+        "ET00005943": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 8,
+          "gross": 272450.0,
+          "sold": 265,
+          "totalSeats": 1566
+        }
+      }
+    },
     "Kis Kisko Pyaar Karoon 2": {
       "formats": {
         "ET00005942": {
@@ -218,18 +230,6 @@
         }
       }
     },
-    "Padayappa": {
-      "formats": {
-        "ET00005943": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 8,
-          "gross": 271650.0,
-          "sold": 264,
-          "totalSeats": 1566
-        }
-      }
-    },
     "The Running Man": {
       "formats": {
         "ET00005902": {
@@ -239,18 +239,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 22
-        }
-      }
-    },
-    "Ayu": {
-      "formats": {
-        "ET00005878": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 9,
-          "gross": 5500.0,
-          "sold": 5,
-          "totalSeats": 1054
         }
       }
     }
