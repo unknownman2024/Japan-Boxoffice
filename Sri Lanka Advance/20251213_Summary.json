@@ -1,7 +1,31 @@
 {
   "date": "20251213",
-  "lastUpdated": "02:48 AM, 12 December 2025",
+  "lastUpdated": "03:46 AM, 12 December 2025",
   "movies": {
+    "Tere Ishk Mein (Tamil)": {
+      "formats": {
+        "ET00005931": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 11,
+          "gross": 3200.0,
+          "sold": 4,
+          "totalSeats": 1946
+        }
+      }
+    },
+    "Ayu": {
+      "formats": {
+        "ET00005878": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 11,
+          "gross": 14300.0,
+          "sold": 11,
+          "totalSeats": 1430
+        }
+      }
+    },
     "Zootopia 2": {
       "formats": {
         "ET00005930": {
@@ -19,42 +43,6 @@
           "gross": 35500.0,
           "sold": 23,
           "totalSeats": 689
-        }
-      }
-    },
-    "Tere Ishk Mein (Tamil)": {
-      "formats": {
-        "ET00005931": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 11,
-          "gross": 3200.0,
-          "sold": 4,
-          "totalSeats": 1946
-        }
-      }
-    },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 35,
-          "gross": 55850.0,
-          "sold": 75,
-          "totalSeats": 6519
-        }
-      }
-    },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 55,
-          "gross": 65050.0,
-          "sold": 94,
-          "totalSeats": 11504
         }
       }
     },
@@ -90,18 +78,6 @@
         }
       }
     },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 13,
-          "gross": 82550.0,
-          "sold": 55,
-          "totalSeats": 1256
-        }
-      }
-    },
     "Mask": {
       "formats": {
         "ET00005920": {
@@ -126,15 +102,27 @@
         }
       }
     },
-    "Padayappa": {
+    "Dhurandhar": {
       "formats": {
-        "ET00005943": {
+        "ET00005937": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 21,
-          "gross": 288050.0,
-          "sold": 275,
-          "totalSeats": 4361
+          "language": "Hindi",
+          "shows": 13,
+          "gross": 76950.0,
+          "sold": 51,
+          "totalSeats": 1256
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 55,
+          "gross": 65050.0,
+          "sold": 94,
+          "totalSeats": 11504
         }
       }
     },
@@ -158,6 +146,18 @@
         }
       }
     },
+    "Padayappa": {
+      "formats": {
+        "ET00005943": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 21,
+          "gross": 286950.0,
+          "sold": 274,
+          "totalSeats": 4361
+        }
+      }
+    },
     "Wicked: For Good": {
       "formats": {
         "ET00005921": {
@@ -175,6 +175,18 @@
           "gross": 3000.0,
           "sold": 2,
           "totalSeats": 178
+        }
+      }
+    },
+    "Eternity": {
+      "formats": {
+        "ET00005933": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 32
         }
       }
     },
@@ -202,30 +214,6 @@
         }
       }
     },
-    "The Running Man": {
-      "formats": {
-        "ET00005902": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 22
-        }
-      }
-    },
-    "Eternity": {
-      "formats": {
-        "ET00005933": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 32
-        }
-      }
-    },
     "Nelum Kuluna (Tentigo)": {
       "formats": {
         "ET00005664": {
@@ -238,15 +226,27 @@
         }
       }
     },
-    "Ayu": {
+    "The Running Man": {
       "formats": {
-        "ET00005878": {
+        "ET00005902": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 22
+        }
+      }
+    },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 11,
-          "gross": 14300.0,
-          "sold": 11,
-          "totalSeats": 1430
+          "shows": 35,
+          "gross": 58050.0,
+          "sold": 77,
+          "totalSeats": 6519
         }
       }
     }
