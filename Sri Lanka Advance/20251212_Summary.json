@@ -1,17 +1,9 @@
 {
   "date": "20251212",
-  "lastUpdated": "01:55 PM, 11 December 2025",
+  "lastUpdated": "02:52 PM, 11 December 2025",
   "movies": {
     "Zootopia 2": {
       "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 47,
-          "gross": 175800.0,
-          "sold": 141,
-          "totalSeats": 9494
-        },
         "ET00005925": {
           "format": "2D",
           "language": "English",
@@ -19,18 +11,26 @@
           "gross": 25250.0,
           "sold": 14,
           "totalSeats": 689
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 47,
+          "gross": 187500.0,
+          "sold": 147,
+          "totalSeats": 9494
         }
       }
     },
-    "Neera": {
+    "Ayu": {
       "formats": {
-        "ET00005849": {
+        "ET00005878": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 31,
-          "gross": 19100.0,
-          "sold": 22,
-          "totalSeats": 5873
+          "shows": 11,
+          "gross": 8400.0,
+          "sold": 9,
+          "totalSeats": 1430
         }
       }
     },
@@ -40,9 +40,21 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 13,
-          "gross": 3200.0,
-          "sold": 4,
+          "gross": 0.0,
+          "sold": 0,
           "totalSeats": 2476
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 52,
+          "gross": 33100.0,
+          "sold": 42,
+          "totalSeats": 10976
         }
       }
     },
@@ -60,45 +72,9 @@
           "format": "2D",
           "language": "English",
           "shows": 2,
-          "gross": 6500.0,
-          "sold": 5,
+          "gross": 14300.0,
+          "sold": 11,
           "totalSeats": 247
-        }
-      }
-    },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 21,
-          "gross": 12300.0,
-          "sold": 10,
-          "totalSeats": 3652
-        }
-      }
-    },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 52,
-          "gross": 31800.0,
-          "sold": 38,
-          "totalSeats": 10976
-        }
-      }
-    },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 12,
-          "gross": 66600.0,
-          "sold": 37,
-          "totalSeats": 1145
         }
       }
     },
@@ -114,15 +90,15 @@
         }
       }
     },
-    "Ayu": {
+    "Dhurandhar": {
       "formats": {
-        "ET00005878": {
+        "ET00005937": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 11,
-          "gross": 10600.0,
-          "sold": 11,
-          "totalSeats": 1430
+          "language": "Hindi",
+          "shows": 12,
+          "gross": 65200.0,
+          "sold": 36,
+          "totalSeats": 1145
         }
       }
     },
@@ -144,21 +120,45 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 9,
-          "gross": 600.0,
-          "sold": 2,
+          "gross": 1300.0,
+          "sold": 4,
           "totalSeats": 2037
         }
       }
     },
-    "Vaa Vaathiyaar": {
+    "Adhiran": {
       "formats": {
-        "ET00005944": {
+        "ET00005934": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 1,
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 141
+          "totalSeats": 259
+        }
+      }
+    },
+    "Padayappa": {
+      "formats": {
+        "ET00005943": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 21,
+          "gross": 531550.0,
+          "sold": 496,
+          "totalSeats": 4057
+        }
+      }
+    },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 21,
+          "gross": 12300.0,
+          "sold": 10,
+          "totalSeats": 3652
         }
       }
     },
@@ -171,18 +171,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 97
-        }
-      }
-    },
-    "Padayappa": {
-      "formats": {
-        "ET00005943": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 22,
-          "gross": 439000.0,
-          "sold": 425,
-          "totalSeats": 4200
         }
       }
     },
@@ -204,8 +192,8 @@
           "format": "3D",
           "language": "English",
           "shows": 10,
-          "gross": 37500.0,
-          "sold": 26,
+          "gross": 42600.0,
+          "sold": 29,
           "totalSeats": 1185
         },
         "ET00005916": {
@@ -215,18 +203,6 @@
           "gross": 2600.0,
           "sold": 2,
           "totalSeats": 178
-        }
-      }
-    },
-    "Adhiran": {
-      "formats": {
-        "ET00005934": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 259
         }
       }
     },
@@ -251,6 +227,30 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 22
+        }
+      }
+    },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 31,
+          "gross": 25700.0,
+          "sold": 28,
+          "totalSeats": 5873
+        }
+      }
+    },
+    "Vaa Vaathiyaar": {
+      "formats": {
+        "ET00005944": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 141
         }
       }
     }
