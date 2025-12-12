@@ -1,6 +1,6 @@
 {
   "date": "20251213",
-  "lastUpdated": "04:46 AM, 12 December 2025",
+  "lastUpdated": "06:48 AM, 12 December 2025",
   "movies": {
     "Zootopia 2": {
       "formats": {
@@ -8,8 +8,8 @@
           "format": "3D",
           "language": "English",
           "shows": 50,
-          "gross": 355550.0,
-          "sold": 250,
+          "gross": 372550.0,
+          "sold": 262,
           "totalSeats": 9969
         },
         "ET00005925": {
@@ -34,23 +34,15 @@
         }
       }
     },
-    "Predator: Badlands": {
+    "Ayu": {
       "formats": {
-        "ET00005924": {
-          "format": "3D",
-          "language": "English",
-          "shows": 11,
-          "gross": 65900.0,
-          "sold": 46,
-          "totalSeats": 1620
-        },
-        "ET00005901": {
+        "ET00005878": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 15600.0,
-          "sold": 13,
-          "totalSeats": 247
+          "language": "Sinhala",
+          "shows": 11,
+          "gross": 16550.0,
+          "sold": 16,
+          "totalSeats": 1430
         }
       }
     },
@@ -66,15 +58,23 @@
         }
       }
     },
-    "Neera": {
+    "Predator: Badlands": {
       "formats": {
-        "ET00005849": {
+        "ET00005901": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 35,
-          "gross": 55850.0,
-          "sold": 75,
-          "totalSeats": 6519
+          "language": "English",
+          "shows": 2,
+          "gross": 15600.0,
+          "sold": 13,
+          "totalSeats": 247
+        },
+        "ET00005924": {
+          "format": "3D",
+          "language": "English",
+          "shows": 11,
+          "gross": 65900.0,
+          "sold": 46,
+          "totalSeats": 1620
         }
       }
     },
@@ -84,8 +84,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 24,
-          "gross": 14600.0,
-          "sold": 18,
+          "gross": 16200.0,
+          "sold": 22,
           "totalSeats": 4244
         }
       }
@@ -102,18 +102,6 @@
         }
       }
     },
-    "Mr.Mrs": {
-      "formats": {
-        "ET00005919": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 12,
-          "gross": 5100.0,
-          "sold": 6,
-          "totalSeats": 2576
-        }
-      }
-    },
     "Dhurandhar": {
       "formats": {
         "ET00005937": {
@@ -123,6 +111,18 @@
           "gross": 76950.0,
           "sold": 51,
           "totalSeats": 1256
+        }
+      }
+    },
+    "Mr.Mrs": {
+      "formats": {
+        "ET00005919": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 12,
+          "gross": 5100.0,
+          "sold": 6,
+          "totalSeats": 2576
         }
       }
     },
@@ -160,14 +160,6 @@
     },
     "Wicked: For Good": {
       "formats": {
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 12,
-          "gross": 76700.0,
-          "sold": 56,
-          "totalSeats": 1387
-        },
         "ET00005916": {
           "format": "2D",
           "language": "English",
@@ -175,6 +167,14 @@
           "gross": 3000.0,
           "sold": 2,
           "totalSeats": 178
+        },
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 12,
+          "gross": 76700.0,
+          "sold": 56,
+          "totalSeats": 1387
         }
       }
     },
@@ -202,15 +202,15 @@
         }
       }
     },
-    "Kis Kisko Pyaar Karoon 2": {
+    "The Running Man": {
       "formats": {
-        "ET00005942": {
+        "ET00005902": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 7,
-          "gross": 9450.0,
-          "sold": 3,
-          "totalSeats": 810
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 22
         }
       }
     },
@@ -226,27 +226,27 @@
         }
       }
     },
-    "The Running Man": {
+    "Kis Kisko Pyaar Karoon 2": {
       "formats": {
-        "ET00005902": {
+        "ET00005942": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 22
+          "language": "Hindi",
+          "shows": 7,
+          "gross": 9450.0,
+          "sold": 3,
+          "totalSeats": 810
         }
       }
     },
-    "Ayu": {
+    "Neera": {
       "formats": {
-        "ET00005878": {
+        "ET00005849": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 11,
-          "gross": 14300.0,
-          "sold": 11,
-          "totalSeats": 1430
+          "shows": 35,
+          "gross": 56550.0,
+          "sold": 77,
+          "totalSeats": 6519
         }
       }
     }
