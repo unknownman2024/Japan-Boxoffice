@@ -1,7 +1,19 @@
 {
   "date": "20251214",
-  "lastUpdated": "03:46 AM, 13 December 2025",
+  "lastUpdated": "04:46 AM, 13 December 2025",
   "movies": {
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 45,
+          "gross": 72700.0,
+          "sold": 101,
+          "totalSeats": 7640
+        }
+      }
+    },
     "Zootopia 2": {
       "formats": {
         "ET00005930": {
@@ -34,28 +46,32 @@
         }
       }
     },
-    "Neera": {
+    "Ayu": {
       "formats": {
-        "ET00005849": {
+        "ET00005878": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 45,
-          "gross": 72700.0,
-          "sold": 101,
-          "totalSeats": 7640
+          "shows": 12,
+          "gross": 9800.0,
+          "sold": 9,
+          "totalSeats": 1430
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 76,
+          "gross": 85450.0,
+          "sold": 133,
+          "totalSeats": 12907
         }
       }
     },
     "Predator: Badlands": {
       "formats": {
-        "ET00005924": {
-          "format": "3D",
-          "language": "English",
-          "shows": 13,
-          "gross": 32900.0,
-          "sold": 23,
-          "totalSeats": 1892
-        },
         "ET00005901": {
           "format": "2D",
           "language": "English",
@@ -63,18 +79,14 @@
           "gross": 2400.0,
           "sold": 2,
           "totalSeats": 247
-        }
-      }
-    },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 28,
-          "gross": 29300.0,
-          "sold": 29,
-          "totalSeats": 5060
+        },
+        "ET00005924": {
+          "format": "3D",
+          "language": "English",
+          "shows": 13,
+          "gross": 32900.0,
+          "sold": 23,
+          "totalSeats": 1892
         }
       }
     },
@@ -102,18 +114,6 @@
         }
       }
     },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 76,
-          "gross": 85450.0,
-          "sold": 133,
-          "totalSeats": 12907
-        }
-      }
-    },
     "Dhurandhar": {
       "formats": {
         "ET00005937": {
@@ -123,6 +123,18 @@
           "gross": 51350.0,
           "sold": 34,
           "totalSeats": 1222
+        }
+      }
+    },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 28,
+          "gross": 29300.0,
+          "sold": 29,
+          "totalSeats": 5060
         }
       }
     },
@@ -158,18 +170,6 @@
         }
       }
     },
-    "Eternity": {
-      "formats": {
-        "ET00005933": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 32
-        }
-      }
-    },
     "Kis Kisko Pyaar Karoon 2": {
       "formats": {
         "ET00005942": {
@@ -179,18 +179,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 638
-        }
-      }
-    },
-    "Mouna Mozhi": {
-      "formats": {
-        "ET00005940": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 97
         }
       }
     },
@@ -211,6 +199,18 @@
           "gross": 12000.0,
           "sold": 8,
           "totalSeats": 178
+        }
+      }
+    },
+    "Mouna Mozhi": {
+      "formats": {
+        "ET00005940": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 97
         }
       }
     },
@@ -238,15 +238,15 @@
         }
       }
     },
-    "Ayu": {
+    "Eternity": {
       "formats": {
-        "ET00005878": {
+        "ET00005933": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 12,
-          "gross": 9800.0,
-          "sold": 9,
-          "totalSeats": 1430
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 32
         }
       }
     }
