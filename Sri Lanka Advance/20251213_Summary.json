@@ -1,24 +1,24 @@
 {
   "date": "20251213",
-  "lastUpdated": "06:06 PM, 12 December 2025",
+  "lastUpdated": "07:02 PM, 12 December 2025",
   "movies": {
     "Zootopia 2": {
       "formats": {
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 6,
-          "gross": 103100.0,
-          "sold": 57,
-          "totalSeats": 689
-        },
         "ET00005930": {
           "format": "3D",
           "language": "English",
           "shows": 52,
-          "gross": 660000.0,
-          "sold": 474,
+          "gross": 734850.0,
+          "sold": 529,
           "totalSeats": 9950
+        },
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 6,
+          "gross": 105900.0,
+          "sold": 59,
+          "totalSeats": 689
         }
       }
     },
@@ -28,9 +28,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 47,
-          "gross": 101650.0,
-          "sold": 142,
+          "gross": 110150.0,
+          "sold": 154,
           "totalSeats": 7960
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 77,
+          "gross": 161300.0,
+          "sold": 231,
+          "totalSeats": 13132
         }
       }
     },
@@ -40,9 +52,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 12,
-          "gross": 35550.0,
-          "sold": 29,
+          "gross": 42750.0,
+          "sold": 35,
           "totalSeats": 1430
+        }
+      }
+    },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 30,
+          "gross": 77100.0,
+          "sold": 86,
+          "totalSeats": 5410
         }
       }
     },
@@ -66,18 +90,6 @@
         }
       }
     },
-    "Tere Ishk Mein (Tamil)": {
-      "formats": {
-        "ET00005931": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 13,
-          "gross": 8000.0,
-          "sold": 10,
-          "totalSeats": 1914
-        }
-      }
-    },
     "Mask": {
       "formats": {
         "ET00005920": {
@@ -90,15 +102,15 @@
         }
       }
     },
-    "Maariya": {
+    "Tere Ishk Mein (Tamil)": {
       "formats": {
-        "ET00005918": {
+        "ET00005931": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 30,
-          "gross": 66300.0,
-          "sold": 75,
-          "totalSeats": 5410
+          "language": "Tamil",
+          "shows": 13,
+          "gross": 8000.0,
+          "sold": 10,
+          "totalSeats": 1914
         }
       }
     },
@@ -120,9 +132,21 @@
           "format": "2D",
           "language": "Hindi",
           "shows": 12,
-          "gross": 192650.0,
-          "sold": 131,
+          "gross": 206650.0,
+          "sold": 141,
           "totalSeats": 1222
+        }
+      }
+    },
+    "Padayappa": {
+      "formats": {
+        "ET00005943": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 34,
+          "gross": 505050.0,
+          "sold": 484,
+          "totalSeats": 4908
         }
       }
     },
@@ -131,10 +155,10 @@
         "ET00005934": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 3,
+          "shows": 2,
           "gross": 6600.0,
           "sold": 6,
-          "totalSeats": 356
+          "totalSeats": 259
         },
         "ET00005935": {
           "format": "2D",
@@ -172,6 +196,14 @@
     },
     "Wicked: For Good": {
       "formats": {
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 11,
+          "gross": 127000.0,
+          "sold": 91,
+          "totalSeats": 1287
+        },
         "ET00005916": {
           "format": "2D",
           "language": "English",
@@ -179,26 +211,6 @@
           "gross": 3000.0,
           "sold": 2,
           "totalSeats": 178
-        },
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 11,
-          "gross": 111900.0,
-          "sold": 86,
-          "totalSeats": 1287
-        }
-      }
-    },
-    "Mouna Mozhi": {
-      "formats": {
-        "ET00005940": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 97
         }
       }
     },
@@ -214,15 +226,15 @@
         }
       }
     },
-    "Padayappa": {
+    "Mouna Mozhi": {
       "formats": {
-        "ET00005943": {
+        "ET00005940": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 33,
-          "gross": 477450.0,
-          "sold": 460,
-          "totalSeats": 4811
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 97
         }
       }
     },
@@ -247,18 +259,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 121
-        }
-      }
-    },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 77,
-          "gross": 156400.0,
-          "sold": 218,
-          "totalSeats": 13132
         }
       }
     }
