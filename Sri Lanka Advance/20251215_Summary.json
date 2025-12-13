@@ -1,6 +1,6 @@
 {
   "date": "20251215",
-  "lastUpdated": "02:44 AM, 14 December 2025",
+  "lastUpdated": "03:45 AM, 14 December 2025",
   "movies": {
     "Padayappa": {
       "formats": {
@@ -14,26 +14,6 @@
         }
       }
     },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 45,
-          "gross": 216600.0,
-          "sold": 288,
-          "totalSeats": 8369
-        },
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 6000.0,
-          "sold": 5,
-          "totalSeats": 568
-        }
-      }
-    },
     "Ayu": {
       "formats": {
         "ET00005878": {
@@ -43,18 +23,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 1258
-        }
-      }
-    },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 53,
-          "gross": 8600.0,
-          "sold": 18,
-          "totalSeats": 10445
         }
       }
     },
@@ -76,8 +44,8 @@
           "format": "3D",
           "language": "English",
           "shows": 12,
-          "gross": 7100.0,
-          "sold": 7,
+          "gross": 8200.0,
+          "sold": 9,
           "totalSeats": 1925
         },
         "ET00005901": {
@@ -102,6 +70,18 @@
         }
       }
     },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 53,
+          "gross": 8600.0,
+          "sold": 18,
+          "totalSeats": 10445
+        }
+      }
+    },
     "Neera": {
       "formats": {
         "ET00005849": {
@@ -114,15 +94,23 @@
         }
       }
     },
-    "Tere Ishk Mein (Tamil)": {
+    "Zootopia 2": {
       "formats": {
-        "ET00005931": {
+        "ET00005925": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 10,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1652
+          "language": "English",
+          "shows": 5,
+          "gross": 12000.0,
+          "sold": 9,
+          "totalSeats": 568
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 45,
+          "gross": 216600.0,
+          "sold": 288,
+          "totalSeats": 8369
         }
       }
     },
@@ -135,6 +123,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 2611
+        }
+      }
+    },
+    "Tere Ishk Mein (Tamil)": {
+      "formats": {
+        "ET00005931": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 10,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1652
         }
       }
     },
@@ -162,6 +162,18 @@
         }
       }
     },
+    "Eternity": {
+      "formats": {
+        "ET00005933": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 32
+        }
+      }
+    },
     "Kis Kisko Pyaar Karoon 2": {
       "formats": {
         "ET00005942": {
@@ -176,14 +188,6 @@
     },
     "Wicked: For Good": {
       "formats": {
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 12,
-          "gross": 6600.0,
-          "sold": 3,
-          "totalSeats": 1318
-        },
         "ET00005916": {
           "format": "2D",
           "language": "English",
@@ -191,30 +195,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 178
-        }
-      }
-    },
-    "Eternity": {
-      "formats": {
-        "ET00005933": {
-          "format": "2D",
+        },
+        "ET00005921": {
+          "format": "3D",
           "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 32
-        }
-      }
-    },
-    "The Running Man": {
-      "formats": {
-        "ET00005902": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 22
+          "shows": 12,
+          "gross": 6600.0,
+          "sold": 3,
+          "totalSeats": 1318
         }
       }
     },
@@ -227,6 +215,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 121
+        }
+      }
+    },
+    "The Running Man": {
+      "formats": {
+        "ET00005902": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 22
         }
       }
     }
