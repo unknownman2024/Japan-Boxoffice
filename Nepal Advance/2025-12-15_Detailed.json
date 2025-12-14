@@ -1,6 +1,6 @@
 {
   "date": "2025-12-15",
-  "lastUpdated": "02:46 AM, 14 December 2025",
+  "lastUpdated": "06:52 AM, 14 December 2025",
   "shows": [
     {
       "movie_id": "x6qqPznHnMwDaUoc5JLZCe",
@@ -321,16 +321,18 @@
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
       "movie_name": "Dhurandhar",
       "show_id": "38367:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi - 2",
-      "date": "2025-12-15T14:00:00+05:45",
-      "time": "",
-      "seats": 118,
+      "venue": null,
+      "theatre": null,
+      "date": "2025-12-15",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 118,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -456,16 +458,18 @@
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
       "movie_name": "Dhurandhar",
       "show_id": "147724:qfx-square-mall",
-      "venue": "qfx-square-mall",
-      "theatre": "QFX City Square Mall - Audi 1",
-      "date": "2025-12-15T14:30:00+05:45",
-      "time": "",
-      "seats": 177,
+      "venue": null,
+      "theatre": null,
+      "date": "2025-12-15",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 177,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -588,18 +592,16 @@
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
       "movie_name": "Dhurandhar",
       "show_id": "45868:bsr-movies",
-      "venue": null,
-      "theatre": null,
-      "date": "2025-12-15",
-      "time": null,
-      "seats": 0,
+      "venue": "bsr-movies",
+      "theatre": "BSR Movies - Atmos 2",
+      "date": "2025-12-15T20:00:00+05:45",
+      "time": "",
+      "seats": 180,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 180,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -639,18 +641,16 @@
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
       "movie_name": "Dhurandhar",
       "show_id": "45867:bsr-movies",
-      "venue": null,
-      "theatre": null,
-      "date": "2025-12-15",
-      "time": null,
-      "seats": 0,
+      "venue": "bsr-movies",
+      "theatre": "BSR Movies - Atmos 1",
+      "date": "2025-12-15T15:00:00+05:45",
+      "time": "",
+      "seats": 192,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 192,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -676,11 +676,11 @@
       "date": "2025-12-15T16:00:00+05:45",
       "time": "",
       "seats": 151,
-      "sold": 21,
+      "sold": 27,
       "reserved": 0,
-      "available": 130,
-      "gross": 4200,
-      "occupancy_percent": 13.91
+      "available": 124,
+      "gross": 5700,
+      "occupancy_percent": 17.88
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -1292,10 +1292,10 @@
       "time": "",
       "seats": 183,
       "sold": 0,
-      "reserved": 0,
-      "available": 183,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 3,
+      "available": 180,
+      "gross": 1170,
+      "occupancy_percent": 1.64
     },
     {
       "movie_id": "Dbu9CypnHYsBPN5Euq5sDT",
@@ -1562,10 +1562,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 15,
-      "available": 195,
-      "gross": 2625,
-      "occupancy_percent": 7.14
+      "reserved": 17,
+      "available": 193,
+      "gross": 2975,
+      "occupancy_percent": 8.1
     },
     {
       "movie_id": "DSTEii5Q4i2eS2i8Qv9H98",
@@ -1896,6 +1896,21 @@
       "available": 61,
       "gross": 4200,
       "occupancy_percent": 8.96
+    },
+    {
+      "movie_id": "x6qqPznHnMwDaUoc5JLZCe",
+      "movie_name": "Lokhanti",
+      "show_id": "702534:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-2",
+      "date": "2025-12-15T10:30:00+05:45",
+      "time": "",
+      "seats": 143,
+      "sold": 0,
+      "reserved": 0,
+      "available": 143,
+      "gross": 0,
+      "occupancy_percent": 0.0
     }
   ]
 }
