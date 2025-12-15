@@ -1,6 +1,6 @@
 {
   "date": "20251217",
-  "lastUpdated": "02:46 AM, 16 December 2025",
+  "lastUpdated": "03:47 AM, 16 December 2025",
   "movies": {
     "Padayappa": {
       "formats": {
@@ -90,15 +90,27 @@
         }
       }
     },
-    "Mask": {
+    "Neera": {
       "formats": {
-        "ET00005920": {
+        "ET00005849": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
+          "language": "Sinhala",
+          "shows": 46,
+          "gross": 16800.0,
+          "sold": 27,
+          "totalSeats": 7683
+        }
+      }
+    },
+    "Mr.Mrs": {
+      "formats": {
+        "ET00005919": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 24,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 322
+          "totalSeats": 3548
         }
       }
     },
@@ -114,6 +126,18 @@
         }
       }
     },
+    "Mask": {
+      "formats": {
+        "ET00005920": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 322
+        }
+      }
+    },
     "Kis Kisko Pyaar Karoon 2": {
       "formats": {
         "ET00005942": {
@@ -123,42 +147,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 388
-        }
-      }
-    },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 46,
-          "gross": 16800.0,
-          "sold": 27,
-          "totalSeats": 7683
-        }
-      }
-    },
-    "Eternity": {
-      "formats": {
-        "ET00005933": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 33
-        }
-      }
-    },
-    "Mr.Mrs": {
-      "formats": {
-        "ET00005919": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 24,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 3548
         }
       }
     },
@@ -176,14 +164,6 @@
     },
     "Wicked: For Good": {
       "formats": {
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 12,
-          "gross": 40800.0,
-          "sold": 24,
-          "totalSeats": 1406
-        },
         "ET00005916": {
           "format": "2D",
           "language": "English",
@@ -191,6 +171,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 178
+        },
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 12,
+          "gross": 40800.0,
+          "sold": 24,
+          "totalSeats": 1406
         }
       }
     },
@@ -206,6 +194,18 @@
         }
       }
     },
+    "Nelum Kuluna (Tentigo)": {
+      "formats": {
+        "ET00005664": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 4400.0,
+          "sold": 4,
+          "totalSeats": 121
+        }
+      }
+    },
     "The Running Man": {
       "formats": {
         "ET00005902": {
@@ -218,15 +218,15 @@
         }
       }
     },
-    "Nelum Kuluna (Tentigo)": {
+    "Eternity": {
       "formats": {
-        "ET00005664": {
+        "ET00005933": {
           "format": "2D",
-          "language": "Sinhala",
+          "language": "English",
           "shows": 1,
-          "gross": 4400.0,
-          "sold": 4,
-          "totalSeats": 121
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 33
         }
       }
     }
