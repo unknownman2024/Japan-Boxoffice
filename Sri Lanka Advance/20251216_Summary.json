@@ -1,6 +1,6 @@
 {
   "date": "20251216",
-  "lastUpdated": "11:59 AM, 15 December 2025",
+  "lastUpdated": "12:51 PM, 15 December 2025",
   "movies": {
     "Padayappa": {
       "formats": {
@@ -8,29 +8,9 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 34,
-          "gross": 10300.0,
-          "sold": 13,
+          "gross": 8600.0,
+          "sold": 10,
           "totalSeats": 5170
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 50,
-          "gross": 77800.0,
-          "sold": 69,
-          "totalSeats": 9213
-        },
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 6,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 689
         }
       }
     },
@@ -40,8 +20,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 12,
-          "gross": 7700.0,
-          "sold": 7,
+          "gross": 9300.0,
+          "sold": 11,
           "totalSeats": 1430
         }
       }
@@ -58,15 +38,23 @@
         }
       }
     },
-    "Neera": {
+    "Zootopia 2": {
       "formats": {
-        "ET00005849": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 50,
+          "gross": 76400.0,
+          "sold": 67,
+          "totalSeats": 9213
+        },
+        "ET00005925": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 45,
-          "gross": 5300.0,
-          "sold": 9,
-          "totalSeats": 7496
+          "language": "English",
+          "shows": 6,
+          "gross": 4100.0,
+          "sold": 2,
+          "totalSeats": 689
         }
       }
     },
@@ -102,6 +90,42 @@
         }
       }
     },
+    "Mr.Mrs": {
+      "formats": {
+        "ET00005919": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 25,
+          "gross": 600.0,
+          "sold": 2,
+          "totalSeats": 3465
+        }
+      }
+    },
+    "Mask": {
+      "formats": {
+        "ET00005920": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 322
+        }
+      }
+    },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 45,
+          "gross": 5300.0,
+          "sold": 9,
+          "totalSeats": 7496
+        }
+      }
+    },
     "Dhurandhar": {
       "formats": {
         "ET00005937": {
@@ -134,30 +158,6 @@
         }
       }
     },
-    "Mr.Mrs": {
-      "formats": {
-        "ET00005919": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 25,
-          "gross": 600.0,
-          "sold": 2,
-          "totalSeats": 3465
-        }
-      }
-    },
-    "Tere Ishk Mein (Tamil)": {
-      "formats": {
-        "ET00005931": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 12,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 1652
-        }
-      }
-    },
     "Eternity": {
       "formats": {
         "ET00005933": {
@@ -167,30 +167,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 33
-        }
-      }
-    },
-    "Kis Kisko Pyaar Karoon 2": {
-      "formats": {
-        "ET00005942": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 6,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 639
-        }
-      }
-    },
-    "Mask": {
-      "formats": {
-        "ET00005920": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 322
         }
       }
     },
@@ -208,9 +184,33 @@
           "format": "3D",
           "language": "English",
           "shows": 10,
-          "gross": 29100.0,
-          "sold": 20,
+          "gross": 32100.0,
+          "sold": 23,
           "totalSeats": 1175
+        }
+      }
+    },
+    "Kis Kisko Pyaar Karoon 2": {
+      "formats": {
+        "ET00005942": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 6,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 639
+        }
+      }
+    },
+    "Tere Ishk Mein (Tamil)": {
+      "formats": {
+        "ET00005931": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 12,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1652
         }
       }
     },
