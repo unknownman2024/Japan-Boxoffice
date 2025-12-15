@@ -1,6 +1,6 @@
 {
   "date": "20251216",
-  "lastUpdated": "07:08 PM, 15 December 2025",
+  "lastUpdated": "07:51 PM, 15 December 2025",
   "movies": {
     "Padayappa": {
       "formats": {
@@ -8,8 +8,8 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 34,
-          "gross": 15000.0,
-          "sold": 16,
+          "gross": 18300.0,
+          "sold": 19,
           "totalSeats": 5170
         }
       }
@@ -20,17 +20,29 @@
           "format": "3D",
           "language": "English",
           "shows": 50,
-          "gross": 151700.0,
-          "sold": 124,
+          "gross": 172200.0,
+          "sold": 141,
           "totalSeats": 9213
         },
         "ET00005925": {
           "format": "2D",
           "language": "English",
           "shows": 6,
-          "gross": 20000.0,
-          "sold": 9,
+          "gross": 24100.0,
+          "sold": 11,
           "totalSeats": 689
+        }
+      }
+    },
+    "Ayu": {
+      "formats": {
+        "ET00005878": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 12,
+          "gross": 13700.0,
+          "sold": 16,
+          "totalSeats": 1430
         }
       }
     },
@@ -40,29 +52,41 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 79,
-          "gross": 51450.0,
-          "sold": 75,
+          "gross": 52700.0,
+          "sold": 77,
           "totalSeats": 13208
         }
       }
     },
     "Predator: Badlands": {
       "formats": {
-        "ET00005924": {
-          "format": "3D",
-          "language": "English",
-          "shows": 15,
-          "gross": 23400.0,
-          "sold": 17,
-          "totalSeats": 2300
-        },
         "ET00005901": {
           "format": "2D",
           "language": "English",
           "shows": 2,
-          "gross": 2000.0,
-          "sold": 2,
+          "gross": 4200.0,
+          "sold": 4,
           "totalSeats": 247
+        },
+        "ET00005924": {
+          "format": "3D",
+          "language": "English",
+          "shows": 15,
+          "gross": 42800.0,
+          "sold": 25,
+          "totalSeats": 2300
+        }
+      }
+    },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 44,
+          "gross": 25050.0,
+          "sold": 38,
+          "totalSeats": 7363
         }
       }
     },
@@ -83,66 +107,10 @@
         "ET00005919": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 24,
-          "gross": 1900.0,
-          "sold": 6,
-          "totalSeats": 3332
-        }
-      }
-    },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 29,
-          "gross": 7250.0,
-          "sold": 10,
-          "totalSeats": 5254
-        }
-      }
-    },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 11,
-          "gross": 36900.0,
-          "sold": 29,
-          "totalSeats": 1190
-        }
-      }
-    },
-    "Wicked: For Good": {
-      "formats": {
-        "ET00005916": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 178
-        },
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 10,
-          "gross": 43300.0,
-          "sold": 33,
-          "totalSeats": 1175
-        }
-      }
-    },
-    "Eternity": {
-      "formats": {
-        "ET00005933": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 33
+          "shows": 25,
+          "gross": 2600.0,
+          "sold": 8,
+          "totalSeats": 3596
         }
       }
     },
@@ -155,6 +123,18 @@
           "gross": 2000.0,
           "sold": 2,
           "totalSeats": 1652
+        }
+      }
+    },
+    "Eternity": {
+      "formats": {
+        "ET00005933": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 33
         }
       }
     },
@@ -182,6 +162,38 @@
         }
       }
     },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 11,
+          "gross": 36900.0,
+          "sold": 29,
+          "totalSeats": 1190
+        }
+      }
+    },
+    "Wicked: For Good": {
+      "formats": {
+        "ET00005916": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 178
+        },
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 10,
+          "gross": 45700.0,
+          "sold": 35,
+          "totalSeats": 1175
+        }
+      }
+    },
     "The Running Man": {
       "formats": {
         "ET00005902": {
@@ -206,27 +218,15 @@
         }
       }
     },
-    "Ayu": {
+    "Maariya": {
       "formats": {
-        "ET00005878": {
+        "ET00005918": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 12,
-          "gross": 11700.0,
-          "sold": 14,
-          "totalSeats": 1430
-        }
-      }
-    },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 44,
-          "gross": 17950.0,
-          "sold": 29,
-          "totalSeats": 7363
+          "shows": 28,
+          "gross": 8850.0,
+          "sold": 12,
+          "totalSeats": 4990
         }
       }
     }
