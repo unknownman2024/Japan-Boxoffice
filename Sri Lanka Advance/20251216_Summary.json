@@ -1,6 +1,6 @@
 {
   "date": "20251216",
-  "lastUpdated": "10:52 AM, 15 December 2025",
+  "lastUpdated": "11:59 AM, 15 December 2025",
   "movies": {
     "Padayappa": {
       "formats": {
@@ -8,8 +8,8 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 34,
-          "gross": 8600.0,
-          "sold": 10,
+          "gross": 10300.0,
+          "sold": 13,
           "totalSeats": 5170
         }
       }
@@ -20,16 +20,16 @@
           "format": "3D",
           "language": "English",
           "shows": 50,
-          "gross": 76400.0,
-          "sold": 67,
+          "gross": 77800.0,
+          "sold": 69,
           "totalSeats": 9213
         },
         "ET00005925": {
           "format": "2D",
           "language": "English",
           "shows": 6,
-          "gross": 10250.0,
-          "sold": 5,
+          "gross": 0.0,
+          "sold": 0,
           "totalSeats": 689
         }
       }
@@ -52,21 +52,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 79,
-          "gross": 17950.0,
-          "sold": 30,
+          "gross": 18100.0,
+          "sold": 33,
           "totalSeats": 13187
-        }
-      }
-    },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 30,
-          "gross": 6550.0,
-          "sold": 8,
-          "totalSeats": 5387
         }
       }
     },
@@ -76,8 +64,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 45,
-          "gross": 9050.0,
-          "sold": 14,
+          "gross": 5300.0,
+          "sold": 9,
           "totalSeats": 7496
         }
       }
@@ -96,21 +84,21 @@
           "format": "3D",
           "language": "English",
           "shows": 15,
-          "gross": 14600.0,
-          "sold": 10,
+          "gross": 17600.0,
+          "sold": 13,
           "totalSeats": 2300
         }
       }
     },
-    "Mask": {
+    "Maariya": {
       "formats": {
-        "ET00005920": {
+        "ET00005918": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 322
+          "language": "Sinhala",
+          "shows": 30,
+          "gross": 6550.0,
+          "sold": 8,
+          "totalSeats": 5387
         }
       }
     },
@@ -120,9 +108,29 @@
           "format": "2D",
           "language": "Hindi",
           "shows": 11,
-          "gross": 4600.0,
-          "sold": 4,
+          "gross": 7000.0,
+          "sold": 6,
           "totalSeats": 1190
+        }
+      }
+    },
+    "Adhiran": {
+      "formats": {
+        "ET00005934": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 107
+        },
+        "ET00005935": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 133
         }
       }
     },
@@ -135,6 +143,18 @@
           "gross": 600.0,
           "sold": 2,
           "totalSeats": 3465
+        }
+      }
+    },
+    "Tere Ishk Mein (Tamil)": {
+      "formats": {
+        "ET00005931": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 12,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 1652
         }
       }
     },
@@ -162,15 +182,15 @@
         }
       }
     },
-    "Tere Ishk Mein (Tamil)": {
+    "Mask": {
       "formats": {
-        "ET00005931": {
+        "ET00005920": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 12,
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1652
+          "totalSeats": 322
         }
       }
     },
@@ -191,26 +211,6 @@
           "gross": 29100.0,
           "sold": 20,
           "totalSeats": 1175
-        }
-      }
-    },
-    "Adhiran": {
-      "formats": {
-        "ET00005935": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 133
-        },
-        "ET00005934": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 107
         }
       }
     },
