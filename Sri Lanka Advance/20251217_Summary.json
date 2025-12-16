@@ -1,21 +1,17 @@
 {
   "date": "20251217",
-  "lastUpdated": "06:50 AM, 16 December 2025",
+  "lastUpdated": "08:51 AM, 16 December 2025",
   "movies": {
-    "Padayappa": {
-      "formats": {
-        "ET00005943": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 34,
-          "gross": 18400.0,
-          "sold": 19,
-          "totalSeats": 5005
-        }
-      }
-    },
     "Zootopia 2": {
       "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 51,
+          "gross": 130250.0,
+          "sold": 89,
+          "totalSeats": 9303
+        },
         "ET00005925": {
           "format": "2D",
           "language": "English",
@@ -23,14 +19,18 @@
           "gross": 21900.0,
           "sold": 17,
           "totalSeats": 689
-        },
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 51,
-          "gross": 115400.0,
-          "sold": 82,
-          "totalSeats": 9303
+        }
+      }
+    },
+    "Padayappa": {
+      "formats": {
+        "ET00005943": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 37,
+          "gross": 18400.0,
+          "sold": 19,
+          "totalSeats": 5866
         }
       }
     },
@@ -46,115 +46,15 @@
         }
       }
     },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 25,
-          "gross": 12900.0,
-          "sold": 11,
-          "totalSeats": 4426
-        }
-      }
-    },
     "Moda Tharidu": {
       "formats": {
         "ET00005884": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 78,
-          "gross": 18900.0,
-          "sold": 29,
+          "gross": 19600.0,
+          "sold": 31,
           "totalSeats": 13018
-        }
-      }
-    },
-    "Predator: Badlands": {
-      "formats": {
-        "ET00005924": {
-          "format": "3D",
-          "language": "English",
-          "shows": 12,
-          "gross": 2500.0,
-          "sold": 1,
-          "totalSeats": 1964
-        },
-        "ET00005901": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 247
-        }
-      }
-    },
-    "Tere Ishk Mein (Tamil)": {
-      "formats": {
-        "ET00005931": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 11,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 1509
-        }
-      }
-    },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 11,
-          "gross": 36400.0,
-          "sold": 29,
-          "totalSeats": 1190
-        }
-      }
-    },
-    "Eternity": {
-      "formats": {
-        "ET00005933": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 33
-        }
-      }
-    },
-    "Wicked: For Good": {
-      "formats": {
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 12,
-          "gross": 40800.0,
-          "sold": 24,
-          "totalSeats": 1406
-        },
-        "ET00005916": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 178
-        }
-      }
-    },
-    "Kis Kisko Pyaar Karoon 2": {
-      "formats": {
-        "ET00005942": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 388
         }
       }
     },
@@ -167,6 +67,86 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 322
+        }
+      }
+    },
+    "Predator: Badlands": {
+      "formats": {
+        "ET00005901": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 247
+        },
+        "ET00005924": {
+          "format": "3D",
+          "language": "English",
+          "shows": 12,
+          "gross": 2500.0,
+          "sold": 1,
+          "totalSeats": 1964
+        }
+      }
+    },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 25,
+          "gross": 12900.0,
+          "sold": 11,
+          "totalSeats": 4426
+        }
+      }
+    },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 11,
+          "gross": 37600.0,
+          "sold": 30,
+          "totalSeats": 1190
+        }
+      }
+    },
+    "Mr.Mrs": {
+      "formats": {
+        "ET00005919": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 24,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 3548
+        }
+      }
+    },
+    "Tere Ishk Mein (Tamil)": {
+      "formats": {
+        "ET00005931": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 14,
+          "gross": 2400.0,
+          "sold": 2,
+          "totalSeats": 2418
+        }
+      }
+    },
+    "Kis Kisko Pyaar Karoon 2": {
+      "formats": {
+        "ET00005942": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 388
         }
       }
     },
@@ -194,6 +174,26 @@
         }
       }
     },
+    "Wicked: For Good": {
+      "formats": {
+        "ET00005916": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 178
+        },
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 12,
+          "gross": 40800.0,
+          "sold": 24,
+          "totalSeats": 1406
+        }
+      }
+    },
     "Nelum Kuluna (Tentigo)": {
       "formats": {
         "ET00005664": {
@@ -212,21 +212,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 46,
-          "gross": 16800.0,
-          "sold": 27,
+          "gross": 18750.0,
+          "sold": 30,
           "totalSeats": 7683
         }
       }
     },
-    "Mr.Mrs": {
+    "Eternity": {
       "formats": {
-        "ET00005919": {
+        "ET00005933": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 24,
+          "language": "English",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 3548
+          "totalSeats": 33
         }
       }
     }
