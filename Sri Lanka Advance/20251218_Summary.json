@@ -1,16 +1,16 @@
 {
   "date": "20251218",
-  "lastUpdated": "12:47 AM, 17 December 2025",
+  "lastUpdated": "01:50 AM, 17 December 2025",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005939": {
-          "format": "2D",
+        "ET00005938": {
+          "format": "3D",
           "language": "English",
-          "shows": 16,
-          "gross": 74600.0,
-          "sold": 43,
-          "totalSeats": 2266
+          "shows": 122,
+          "gross": 3908850.0,
+          "sold": 1438,
+          "totalSeats": 20671
         },
         "ET00005946": {
           "format": "2D",
@@ -28,13 +28,13 @@
           "sold": 94,
           "totalSeats": 1090
         },
-        "ET00005938": {
-          "format": "3D",
+        "ET00005939": {
+          "format": "2D",
           "language": "English",
-          "shows": 122,
-          "gross": 3893250.0,
-          "sold": 1427,
-          "totalSeats": 20671
+          "shows": 16,
+          "gross": 74600.0,
+          "sold": 43,
+          "totalSeats": 2266
         }
       }
     },
@@ -50,18 +50,6 @@
         }
       }
     },
-    "Ayu": {
-      "formats": {
-        "ET00005878": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 121
-        }
-      }
-    },
     "Zootopia 2": {
       "formats": {
         "ET00005930": {
@@ -71,6 +59,18 @@
           "gross": 72600.0,
           "sold": 60,
           "totalSeats": 1617
+        }
+      }
+    },
+    "Ayu": {
+      "formats": {
+        "ET00005878": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 121
         }
       }
     },
@@ -100,14 +100,6 @@
     },
     "Predator: Badlands": {
       "formats": {
-        "ET00005924": {
-          "format": "3D",
-          "language": "English",
-          "shows": 3,
-          "gross": 15800.0,
-          "sold": 8,
-          "totalSeats": 326
-        },
         "ET00005901": {
           "format": "2D",
           "language": "English",
@@ -115,18 +107,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 96
-        }
-      }
-    },
-    "Mr.Mrs": {
-      "formats": {
-        "ET00005919": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 9,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2376
+        },
+        "ET00005924": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 15800.0,
+          "sold": 8,
+          "totalSeats": 326
         }
       }
     },
@@ -139,6 +127,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 703
+        }
+      }
+    },
+    "Mr.Mrs": {
+      "formats": {
+        "ET00005919": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 9,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 2376
         }
       }
     },
@@ -166,26 +166,6 @@
         }
       }
     },
-    "Wicked: For Good": {
-      "formats": {
-        "ET00005916": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 12100.0,
-          "sold": 11,
-          "totalSeats": 140
-        },
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 102
-        }
-      }
-    },
     "Kis Kisko Pyaar Karoon 2": {
       "formats": {
         "ET00005942": {
@@ -195,6 +175,26 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 102
+        }
+      }
+    },
+    "Wicked: For Good": {
+      "formats": {
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 102
+        },
+        "ET00005916": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 12100.0,
+          "sold": 11,
+          "totalSeats": 140
         }
       }
     }
