@@ -1,29 +1,9 @@
 {
   "date": "20251217",
-  "lastUpdated": "10:51 PM, 16 December 2025",
+  "lastUpdated": "11:56 PM, 16 December 2025",
   "movies": {
-    "Padayappa": {
-      "formats": {
-        "ET00005943": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 36,
-          "gross": 53000.0,
-          "sold": 47,
-          "totalSeats": 5611
-        }
-      }
-    },
     "Zootopia 2": {
       "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 51,
-          "gross": 329150.0,
-          "sold": 229,
-          "totalSeats": 9303
-        },
         "ET00005925": {
           "format": "2D",
           "language": "English",
@@ -31,6 +11,14 @@
           "gross": 66950.0,
           "sold": 45,
           "totalSeats": 689
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 51,
+          "gross": 340050.0,
+          "sold": 239,
+          "totalSeats": 9303
         }
       }
     },
@@ -46,15 +34,15 @@
         }
       }
     },
-    "Moda Tharidu": {
+    "Maariya": {
       "formats": {
-        "ET00005884": {
+        "ET00005918": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 78,
-          "gross": 49600.0,
-          "sold": 92,
-          "totalSeats": 13018
+          "shows": 25,
+          "gross": 45700.0,
+          "sold": 43,
+          "totalSeats": 4426
         }
       }
     },
@@ -64,8 +52,8 @@
           "format": "3D",
           "language": "English",
           "shows": 12,
-          "gross": 30100.0,
-          "sold": 21,
+          "gross": 37100.0,
+          "sold": 25,
           "totalSeats": 1964
         },
         "ET00005901": {
@@ -78,15 +66,39 @@
         }
       }
     },
-    "Mask": {
+    "Neera": {
       "formats": {
-        "ET00005920": {
+        "ET00005849": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
+          "language": "Sinhala",
+          "shows": 46,
+          "gross": 64150.0,
+          "sold": 109,
+          "totalSeats": 7683
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 78,
+          "gross": 59000.0,
+          "sold": 103,
+          "totalSeats": 13018
+        }
+      }
+    },
+    "Eternity": {
+      "formats": {
+        "ET00005933": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 322
+          "totalSeats": 33
         }
       }
     },
@@ -102,6 +114,30 @@
         }
       }
     },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 11,
+          "gross": 105700.0,
+          "sold": 81,
+          "totalSeats": 1190
+        }
+      }
+    },
+    "Kis Kisko Pyaar Karoon 2": {
+      "formats": {
+        "ET00005942": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 388
+        }
+      }
+    },
     "Mr.Mrs": {
       "formats": {
         "ET00005919": {
@@ -111,18 +147,6 @@
           "gross": 3050.0,
           "sold": 5,
           "totalSeats": 3548
-        }
-      }
-    },
-    "Eternity": {
-      "formats": {
-        "ET00005933": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 33
         }
       }
     },
@@ -140,21 +164,9 @@
           "format": "3D",
           "language": "English",
           "shows": 12,
-          "gross": 61400.0,
-          "sold": 43,
+          "gross": 67400.0,
+          "sold": 47,
           "totalSeats": 1406
-        }
-      }
-    },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 46,
-          "gross": 55450.0,
-          "sold": 94,
-          "totalSeats": 7683
         }
       }
     },
@@ -167,30 +179,6 @@
           "gross": 1600.0,
           "sold": 2,
           "totalSeats": 204
-        }
-      }
-    },
-    "Kis Kisko Pyaar Karoon 2": {
-      "formats": {
-        "ET00005942": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 388
-        }
-      }
-    },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 11,
-          "gross": 92000.0,
-          "sold": 72,
-          "totalSeats": 1190
         }
       }
     },
@@ -218,15 +206,27 @@
         }
       }
     },
-    "Maariya": {
+    "Padayappa": {
       "formats": {
-        "ET00005918": {
+        "ET00005943": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 25,
-          "gross": 41200.0,
-          "sold": 39,
-          "totalSeats": 4426
+          "language": "Tamil",
+          "shows": 36,
+          "gross": 55000.0,
+          "sold": 49,
+          "totalSeats": 5611
+        }
+      }
+    },
+    "Mask": {
+      "formats": {
+        "ET00005920": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 322
         }
       }
     }
