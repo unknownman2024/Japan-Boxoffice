@@ -1,16 +1,16 @@
 {
   "date": "20251219",
-  "lastUpdated": "02:46 AM, 18 December 2025",
+  "lastUpdated": "03:46 AM, 18 December 2025",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005939": {
+        "ET00005946": {
           "format": "2D",
-          "language": "English",
-          "shows": 18,
-          "gross": 27400.0,
-          "sold": 17,
-          "totalSeats": 2467
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 7800.0,
+          "sold": 8,
+          "totalSeats": 419
         },
         "ET00005945": {
           "format": "3D",
@@ -20,6 +20,14 @@
           "sold": 120,
           "totalSeats": 1476
         },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 18,
+          "gross": 27400.0,
+          "sold": 17,
+          "totalSeats": 2467
+        },
         "ET00005938": {
           "format": "3D",
           "language": "English",
@@ -27,14 +35,6 @@
           "gross": 3595200.0,
           "sold": 1422,
           "totalSeats": 22154
-        },
-        "ET00005946": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 7800.0,
-          "sold": 8,
-          "totalSeats": 419
         }
       }
     },
@@ -64,21 +64,9 @@
           "format": "3D",
           "language": "English",
           "shows": 13,
-          "gross": 92250.0,
-          "sold": 66,
+          "gross": 94450.0,
+          "sold": 68,
           "totalSeats": 1563
-        }
-      }
-    },
-    "Ayu": {
-      "formats": {
-        "ET00005878": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 232
         }
       }
     },
@@ -91,6 +79,18 @@
           "gross": 10750.0,
           "sold": 17,
           "totalSeats": 7300
+        }
+      }
+    },
+    "Ayu": {
+      "formats": {
+        "ET00005878": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 232
         }
       }
     },
@@ -146,18 +146,6 @@
         }
       }
     },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 9,
-          "gross": 9500.0,
-          "sold": 14,
-          "totalSeats": 2143
-        }
-      }
-    },
     "Dhurandhar": {
       "formats": {
         "ET00005937": {
@@ -182,6 +170,18 @@
         }
       }
     },
+    "Adhiran": {
+      "formats": {
+        "ET00005935": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 133
+        }
+      }
+    },
     "Eternity": {
       "formats": {
         "ET00005933": {
@@ -194,15 +194,15 @@
         }
       }
     },
-    "Adhiran": {
+    "Neera": {
       "formats": {
-        "ET00005935": {
+        "ET00005849": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 133
+          "shows": 9,
+          "gross": 9500.0,
+          "sold": 14,
+          "totalSeats": 2143
         }
       }
     }
