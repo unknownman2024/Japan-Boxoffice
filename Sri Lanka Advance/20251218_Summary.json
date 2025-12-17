@@ -1,43 +1,7 @@
 {
   "date": "20251218",
-  "lastUpdated": "04:45 AM, 17 December 2025",
+  "lastUpdated": "06:44 AM, 17 December 2025",
   "movies": {
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 124,
-          "gross": 3895350.0,
-          "sold": 1428,
-          "totalSeats": 20851
-        },
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 16,
-          "gross": 74600.0,
-          "sold": 43,
-          "totalSeats": 2266
-        },
-        "ET00005946": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
-        },
-        "ET00005945": {
-          "format": "3D",
-          "language": "Tamil",
-          "shows": 7,
-          "gross": 112900.0,
-          "sold": 94,
-          "totalSeats": 1090
-        }
-      }
-    },
     "Padayappa": {
       "formats": {
         "ET00005943": {
@@ -47,6 +11,42 @@
           "gross": 700.0,
           "sold": 2,
           "totalSeats": 2258
+        }
+      }
+    },
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005946": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 16,
+          "gross": 74600.0,
+          "sold": 43,
+          "totalSeats": 2266
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 124,
+          "gross": 3904550.0,
+          "sold": 1433,
+          "totalSeats": 20851
+        },
+        "ET00005945": {
+          "format": "3D",
+          "language": "Tamil",
+          "shows": 7,
+          "gross": 112900.0,
+          "sold": 94,
+          "totalSeats": 1090
         }
       }
     },
@@ -150,18 +150,6 @@
         }
       }
     },
-    "Mr.Mrs": {
-      "formats": {
-        "ET00005919": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 9,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2376
-        }
-      }
-    },
     "Eternity": {
       "formats": {
         "ET00005933": {
@@ -215,6 +203,18 @@
           "gross": 14300.0,
           "sold": 13,
           "totalSeats": 801
+        }
+      }
+    },
+    "Mr.Mrs": {
+      "formats": {
+        "ET00005919": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 9,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 2376
         }
       }
     }
