@@ -1,7 +1,43 @@
 {
   "date": "20251218",
-  "lastUpdated": "06:44 AM, 17 December 2025",
+  "lastUpdated": "08:47 AM, 17 December 2025",
   "movies": {
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 124,
+          "gross": 3916600.0,
+          "sold": 1446,
+          "totalSeats": 20875
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 16,
+          "gross": 81800.0,
+          "sold": 47,
+          "totalSeats": 2266
+        },
+        "ET00005945": {
+          "format": "3D",
+          "language": "Tamil",
+          "shows": 7,
+          "gross": 112900.0,
+          "sold": 94,
+          "totalSeats": 1090
+        },
+        "ET00005946": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
+        }
+      }
+    },
     "Padayappa": {
       "formats": {
         "ET00005943": {
@@ -14,74 +50,6 @@
         }
       }
     },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005946": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
-        },
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 16,
-          "gross": 74600.0,
-          "sold": 43,
-          "totalSeats": 2266
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 124,
-          "gross": 3904550.0,
-          "sold": 1433,
-          "totalSeats": 20851
-        },
-        "ET00005945": {
-          "format": "3D",
-          "language": "Tamil",
-          "shows": 7,
-          "gross": 112900.0,
-          "sold": 94,
-          "totalSeats": 1090
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 34
-        },
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 17,
-          "gross": 72600.0,
-          "sold": 60,
-          "totalSeats": 2149
-        }
-      }
-    },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 47,
-          "gross": 17000.0,
-          "sold": 19,
-          "totalSeats": 10100
-        }
-      }
-    },
     "Ayu": {
       "formats": {
         "ET00005878": {
@@ -91,6 +59,18 @@
           "gross": 2200.0,
           "sold": 2,
           "totalSeats": 232
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 47,
+          "gross": 21400.0,
+          "sold": 23,
+          "totalSeats": 10108
         }
       }
     },
@@ -114,6 +94,26 @@
         }
       }
     },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 34
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 17,
+          "gross": 72600.0,
+          "sold": 60,
+          "totalSeats": 2149
+        }
+      }
+    },
     "Maariya": {
       "formats": {
         "ET00005918": {
@@ -132,8 +132,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 19,
-          "gross": 2000.0,
-          "sold": 2,
+          "gross": 4200.0,
+          "sold": 4,
           "totalSeats": 4073
         }
       }
@@ -150,15 +150,27 @@
         }
       }
     },
-    "Eternity": {
+    "Mr.Mrs": {
       "formats": {
-        "ET00005933": {
+        "ET00005919": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
+          "language": "Sinhala",
+          "shows": 9,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 34
+          "totalSeats": 2376
+        }
+      }
+    },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 8,
+          "gross": 14300.0,
+          "sold": 13,
+          "totalSeats": 801
         }
       }
     },
@@ -194,27 +206,15 @@
         }
       }
     },
-    "Dhurandhar": {
+    "Eternity": {
       "formats": {
-        "ET00005937": {
+        "ET00005933": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 8,
-          "gross": 14300.0,
-          "sold": 13,
-          "totalSeats": 801
-        }
-      }
-    },
-    "Mr.Mrs": {
-      "formats": {
-        "ET00005919": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 9,
+          "language": "English",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 2376
+          "totalSeats": 34
         }
       }
     }
