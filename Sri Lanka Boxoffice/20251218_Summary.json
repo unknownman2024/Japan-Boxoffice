@@ -1,25 +1,168 @@
 {
   "date": "20251218",
-  "lastUpdated": "04:47 AM, 18 December 2025",
+  "lastUpdated": "06:48 AM, 18 December 2025",
   "movies": {
     "Avatar: Fire and Ash": {
-      "totalShows": 4,
-      "totalGross": 521800.0,
-      "totalSold": 142,
-      "totalSeats": 1070,
+      "totalShows": 23,
+      "totalGross": 723500.0,
+      "totalSold": 341,
+      "totalSeats": 4087,
       "formats": {
         "ET00005938": {
           "format": "3D",
           "language": "English",
-          "shows": 4,
-          "gross": 521800.0,
-          "sold": 142,
-          "totalSeats": 1070,
+          "shows": 20,
+          "gross": 703900.0,
+          "sold": 327,
+          "totalSeats": 3693,
+          "fastfilling": 0,
+          "housefull": 0
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 19600.0,
+          "sold": 14,
+          "totalSeats": 394,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 13.27
+      "globalOccupancy": 8.34
+    },
+    "Padayappa": {
+      "totalShows": 2,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 281,
+      "formats": {
+        "ET00005943": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 281,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "Moda Tharidu": {
+      "totalShows": 5,
+      "totalGross": 500.0,
+      "totalSold": 2,
+      "totalSeats": 1219,
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 5,
+          "gross": 500.0,
+          "sold": 2,
+          "totalSeats": 1219,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.16
+    },
+    "Zootopia 2": {
+      "totalShows": 3,
+      "totalGross": 61350.0,
+      "totalSold": 57,
+      "totalSeats": 464,
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 61350.0,
+          "sold": 57,
+          "totalSeats": 464,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 12.28
+    },
+    "Maariya": {
+      "totalShows": 1,
+      "totalGross": 3200.0,
+      "totalSold": 4,
+      "totalSeats": 134,
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 3200.0,
+          "sold": 4,
+          "totalSeats": 134,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 2.99
+    },
+    "Neera": {
+      "totalShows": 3,
+      "totalGross": 11500.0,
+      "totalSold": 13,
+      "totalSeats": 365,
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 3,
+          "gross": 11500.0,
+          "sold": 13,
+          "totalSeats": 365,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 3.56
+    },
+    "Tere Ishk Mein (Tamil)": {
+      "totalShows": 1,
+      "totalGross": 2600.0,
+      "totalSold": 2,
+      "totalSeats": 142,
+      "formats": {
+        "ET00005931": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 2600.0,
+          "sold": 2,
+          "totalSeats": 142,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 1.41
+    },
+    "Kis Kisko Pyaar Karoon 2": {
+      "totalShows": 1,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 102,
+      "formats": {
+        "ET00005942": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 102,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
     }
   }
 }
