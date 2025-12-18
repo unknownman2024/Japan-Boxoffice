@@ -1,15 +1,23 @@
 {
   "date": "20251220",
-  "lastUpdated": "12:45 AM, 19 December 2025",
+  "lastUpdated": "01:47 AM, 19 December 2025",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 121,
+          "gross": 5353200.0,
+          "sold": 2086,
+          "totalSeats": 20424
+        },
         "ET00005945": {
           "format": "3D",
           "language": "Tamil",
           "shows": 13,
-          "gross": 260000.0,
-          "sold": 236,
+          "gross": 262000.0,
+          "sold": 238,
           "totalSeats": 2705
         },
         "ET00005946": {
@@ -20,14 +28,6 @@
           "sold": 2,
           "totalSeats": 419
         },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 121,
-          "gross": 5347200.0,
-          "sold": 2082,
-          "totalSeats": 20424
-        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -35,6 +35,18 @@
           "gross": 58200.0,
           "sold": 35,
           "totalSeats": 2618
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 45,
+          "gross": 39150.0,
+          "sold": 62,
+          "totalSeats": 9718
         }
       }
     },
@@ -47,18 +59,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 3216
-        }
-      }
-    },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 45,
-          "gross": 35850.0,
-          "sold": 58,
-          "totalSeats": 9718
         }
       }
     },
@@ -82,27 +82,23 @@
         }
       }
     },
-    "Ayu": {
+    "Predator: Badlands": {
       "formats": {
-        "ET00005878": {
-          "format": "2D",
-          "language": "Sinhala",
+        "ET00005924": {
+          "format": "3D",
+          "language": "English",
           "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 334
-        }
-      }
-    },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
+          "gross": 1100.0,
+          "sold": 1,
+          "totalSeats": 326
+        },
+        "ET00005901": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 13,
-          "gross": 13200.0,
-          "sold": 10,
-          "totalSeats": 2106
+          "language": "English",
+          "shows": 2,
+          "gross": 7700.0,
+          "sold": 7,
+          "totalSeats": 210
         }
       }
     },
@@ -130,38 +126,6 @@
         }
       }
     },
-    "Predator: Badlands": {
-      "formats": {
-        "ET00005901": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 7700.0,
-          "sold": 7,
-          "totalSeats": 210
-        },
-        "ET00005924": {
-          "format": "3D",
-          "language": "English",
-          "shows": 3,
-          "gross": 1100.0,
-          "sold": 1,
-          "totalSeats": 326
-        }
-      }
-    },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 9,
-          "gross": 81950.0,
-          "sold": 44,
-          "totalSeats": 849
-        }
-      }
-    },
     "Wicked: For Good": {
       "formats": {
         "ET00005916": {
@@ -182,15 +146,15 @@
         }
       }
     },
-    "Tere Ishk Mein (Tamil)": {
+    "Dhurandhar": {
       "formats": {
-        "ET00005931": {
+        "ET00005937": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 97
+          "language": "Hindi",
+          "shows": 9,
+          "gross": 81950.0,
+          "sold": 44,
+          "totalSeats": 849
         }
       }
     },
@@ -206,15 +170,15 @@
         }
       }
     },
-    "Neera": {
+    "Tere Ishk Mein (Tamil)": {
       "formats": {
-        "ET00005849": {
+        "ET00005931": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 20,
-          "gross": 22300.0,
-          "sold": 29,
-          "totalSeats": 4136
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 97
         }
       }
     },
@@ -239,6 +203,42 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 240
+        }
+      }
+    },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 20,
+          "gross": 22300.0,
+          "sold": 29,
+          "totalSeats": 4136
+        }
+      }
+    },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 13,
+          "gross": 13200.0,
+          "sold": 10,
+          "totalSeats": 2106
+        }
+      }
+    },
+    "Ayu": {
+      "formats": {
+        "ET00005878": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 334
         }
       }
     }
