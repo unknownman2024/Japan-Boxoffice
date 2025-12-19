@@ -1,6 +1,6 @@
 {
   "date": "20251221",
-  "lastUpdated": "01:48 AM, 20 December 2025",
+  "lastUpdated": "02:45 AM, 20 December 2025",
   "movies": {
     "Padayappa": {
       "formats": {
@@ -8,8 +8,8 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 23,
-          "gross": 10000.0,
-          "sold": 13,
+          "gross": 12400.0,
+          "sold": 15,
           "totalSeats": 3510
         }
       }
@@ -24,14 +24,6 @@
           "sold": 2348,
           "totalSeats": 21135
         },
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 15,
-          "gross": 82000.0,
-          "sold": 44,
-          "totalSeats": 2047
-        },
         "ET00005945": {
           "format": "3D",
           "language": "Tamil",
@@ -39,6 +31,14 @@
           "gross": 340950.0,
           "sold": 325,
           "totalSeats": 3307
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 15,
+          "gross": 82000.0,
+          "sold": 44,
+          "totalSeats": 2047
         },
         "ET00005946": {
           "format": "2D",
@@ -50,28 +50,8 @@
         }
       }
     },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 55,
-          "gross": 42300.0,
-          "sold": 63,
-          "totalSeats": 10104
-        }
-      }
-    },
     "Zootopia 2": {
       "formats": {
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 6,
-          "gross": 120750.0,
-          "sold": 96,
-          "totalSeats": 605
-        },
         "ET00005930": {
           "format": "3D",
           "language": "English",
@@ -79,6 +59,14 @@
           "gross": 226500.0,
           "sold": 186,
           "totalSeats": 2211
+        },
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 6,
+          "gross": 120750.0,
+          "sold": 96,
+          "totalSeats": 605
         }
       }
     },
@@ -94,28 +82,8 @@
         }
       }
     },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 15,
-          "gross": 15300.0,
-          "sold": 14,
-          "totalSeats": 2496
-        }
-      }
-    },
     "Predator: Badlands": {
       "formats": {
-        "ET00005901": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 5800.0,
-          "sold": 5,
-          "totalSeats": 210
-        },
         "ET00005924": {
           "format": "3D",
           "language": "English",
@@ -123,6 +91,14 @@
           "gross": 3600.0,
           "sold": 3,
           "totalSeats": 326
+        },
+        "ET00005901": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 5800.0,
+          "sold": 5,
+          "totalSeats": 210
         }
       }
     },
@@ -138,6 +114,38 @@
         }
       }
     },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 15,
+          "gross": 15300.0,
+          "sold": 14,
+          "totalSeats": 2496
+        }
+      }
+    },
+    "Wicked: For Good": {
+      "formats": {
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 14400.0,
+          "sold": 12,
+          "totalSeats": 211
+        },
+        "ET00005916": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 9600.0,
+          "sold": 8,
+          "totalSeats": 239
+        }
+      }
+    },
     "Dhurandhar": {
       "formats": {
         "ET00005937": {
@@ -150,36 +158,8 @@
         }
       }
     },
-    "Wicked: For Good": {
-      "formats": {
-        "ET00005916": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 9600.0,
-          "sold": 8,
-          "totalSeats": 239
-        },
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 14400.0,
-          "sold": 12,
-          "totalSeats": 211
-        }
-      }
-    },
     "Adhiran": {
       "formats": {
-        "ET00005934": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0,
-          "sold": 0,
-          "totalSeats": 0
-        },
         "ET00005935": {
           "format": "2D",
           "language": "Sinhala",
@@ -187,18 +167,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 133
-        }
-      }
-    },
-    "Eternity": {
-      "formats": {
-        "ET00005933": {
+        },
+        "ET00005934": {
           "format": "2D",
-          "language": "English",
+          "language": "Tamil",
           "shows": 1,
-          "gross": 10600.0,
-          "sold": 4,
-          "totalSeats": 34
+          "gross": 0,
+          "sold": 0,
+          "totalSeats": 0
         }
       }
     },
@@ -214,6 +190,30 @@
         }
       }
     },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 26,
+          "gross": 19350.0,
+          "sold": 31,
+          "totalSeats": 4426
+        }
+      }
+    },
+    "Eternity": {
+      "formats": {
+        "ET00005933": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 10600.0,
+          "sold": 4,
+          "totalSeats": 34
+        }
+      }
+    },
     "Sihina Sarungal": {
       "formats": {
         "ET00005866": {
@@ -226,15 +226,15 @@
         }
       }
     },
-    "Neera": {
+    "Moda Tharidu": {
       "formats": {
-        "ET00005849": {
+        "ET00005884": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 26,
-          "gross": 19350.0,
-          "sold": 31,
-          "totalSeats": 4426
+          "shows": 55,
+          "gross": 42300.0,
+          "sold": 63,
+          "totalSeats": 10104
         }
       }
     }
