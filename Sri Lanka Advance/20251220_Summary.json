@@ -1,40 +1,52 @@
 {
   "date": "20251220",
-  "lastUpdated": "08:51 AM, 19 December 2025",
+  "lastUpdated": "10:01 AM, 19 December 2025",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005946": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 6400.0,
-          "sold": 8,
-          "totalSeats": 419
-        },
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 19,
-          "gross": 72100.0,
-          "sold": 44,
-          "totalSeats": 2618
-        },
         "ET00005945": {
           "format": "3D",
           "language": "Tamil",
           "shows": 13,
-          "gross": 280800.0,
-          "sold": 255,
+          "gross": 301200.0,
+          "sold": 275,
           "totalSeats": 2705
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 17,
+          "gross": 72100.0,
+          "sold": 44,
+          "totalSeats": 2342
+        },
+        "ET00005946": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
         },
         "ET00005938": {
           "format": "3D",
           "language": "English",
           "shows": 121,
-          "gross": 5512750.0,
-          "sold": 2203,
+          "gross": 5542850.0,
+          "sold": 2234,
           "totalSeats": 20424
+        }
+      }
+    },
+    "Padayappa": {
+      "formats": {
+        "ET00005943": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 22,
+          "gross": 1400.0,
+          "sold": 4,
+          "totalSeats": 3370
         }
       }
     },
@@ -43,9 +55,9 @@
         "ET00005884": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 45,
-          "gross": 39800.0,
-          "sold": 67,
+          "shows": 53,
+          "gross": 42000.0,
+          "sold": 69,
           "totalSeats": 9718
         }
       }
@@ -55,18 +67,86 @@
         "ET00005930": {
           "format": "3D",
           "language": "English",
-          "shows": 16,
-          "gross": 170400.0,
-          "sold": 141,
+          "shows": 17,
+          "gross": 192900.0,
+          "sold": 157,
           "totalSeats": 1933
         },
         "ET00005925": {
           "format": "2D",
           "language": "English",
           "shows": 6,
-          "gross": 111150.0,
-          "sold": 88,
+          "gross": 114750.0,
+          "sold": 91,
           "totalSeats": 605
+        }
+      }
+    },
+    "Ayu": {
+      "formats": {
+        "ET00005878": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 3,
+          "gross": 3300.0,
+          "sold": 3,
+          "totalSeats": 334
+        }
+      }
+    },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 13,
+          "gross": 17100.0,
+          "sold": 13,
+          "totalSeats": 2106
+        }
+      }
+    },
+    "Mr.Mrs": {
+      "formats": {
+        "ET00005919": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 13,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1954
+        }
+      }
+    },
+    "Mask": {
+      "formats": {
+        "ET00005920": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 184
+        }
+      }
+    },
+    "Wicked: For Good": {
+      "formats": {
+        "ET00005916": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 32400.0,
+          "sold": 27,
+          "totalSeats": 239
+        },
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 19200.0,
+          "sold": 16,
+          "totalSeats": 211
         }
       }
     },
@@ -90,83 +170,35 @@
         }
       }
     },
-    "Ayu": {
-      "formats": {
-        "ET00005878": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 334
-        }
-      }
-    },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 13,
-          "gross": 17100.0,
-          "sold": 13,
-          "totalSeats": 2106
-        }
-      }
-    },
-    "Mask": {
-      "formats": {
-        "ET00005920": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 184
-        }
-      }
-    },
-    "Mr.Mrs": {
-      "formats": {
-        "ET00005919": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1954
-        }
-      }
-    },
     "Dhurandhar": {
       "formats": {
         "ET00005937": {
           "format": "2D",
           "language": "Hindi",
-          "shows": 9,
-          "gross": 84750.0,
-          "sold": 46,
-          "totalSeats": 849
+          "shows": 8,
+          "gross": 87550.0,
+          "sold": 48,
+          "totalSeats": 695
         }
       }
     },
-    "Wicked: For Good": {
+    "Adhiran": {
       "formats": {
-        "ET00005916": {
+        "ET00005934": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 28800.0,
-          "sold": 24,
-          "totalSeats": 239
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0,
+          "sold": 0,
+          "totalSeats": 0
         },
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 19200.0,
-          "sold": 16,
-          "totalSeats": 211
+        "ET00005935": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 133
         }
       }
     },
@@ -175,34 +207,10 @@
         "ET00005931": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 1,
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 97
-        }
-      }
-    },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 20,
-          "gross": 22300.0,
-          "sold": 29,
-          "totalSeats": 4136
-        }
-      }
-    },
-    "Eternity": {
-      "formats": {
-        "ET00005933": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 5300.0,
-          "sold": 2,
-          "totalSeats": 34
         }
       }
     },
@@ -218,27 +226,27 @@
         }
       }
     },
-    "Adhiran": {
+    "Neera": {
       "formats": {
-        "ET00005935": {
+        "ET00005849": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 133
+          "shows": 25,
+          "gross": 24500.0,
+          "sold": 31,
+          "totalSeats": 4136
         }
       }
     },
-    "Padayappa": {
+    "Eternity": {
       "formats": {
-        "ET00005943": {
+        "ET00005933": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 18,
-          "gross": 1400.0,
-          "sold": 4,
-          "totalSeats": 3216
+          "language": "English",
+          "shows": 1,
+          "gross": 5300.0,
+          "sold": 2,
+          "totalSeats": 34
         }
       }
     }
