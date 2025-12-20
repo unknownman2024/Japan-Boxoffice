@@ -1,5 +1,25 @@
 {
   "date": "20251221",
-  "lastUpdated": "03:45 AM, 21 December 2025",
-  "movies": {}
+  "lastUpdated": "04:46 AM, 21 December 2025",
+  "movies": {
+    "Avatar: Fire and Ash": {
+      "totalShows": 4,
+      "totalGross": 869500.0,
+      "totalSold": 219,
+      "totalSeats": 1070,
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 4,
+          "gross": 869500.0,
+          "sold": 219,
+          "totalSeats": 1070,
+          "fastfilling": 1,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 20.47
+    }
+  }
 }
