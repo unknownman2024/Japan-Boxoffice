@@ -1,39 +1,39 @@
 {
   "date": "20251221",
-  "lastUpdated": "01:50 PM, 20 December 2025",
+  "lastUpdated": "02:46 PM, 20 December 2025",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005938": {
           "format": "3D",
           "language": "English",
-          "shows": 122,
-          "gross": 7035650.0,
-          "sold": 2925,
-          "totalSeats": 21135
+          "shows": 121,
+          "gross": 7102850.0,
+          "sold": 2970,
+          "totalSeats": 21015
         },
         "ET00005945": {
           "format": "3D",
           "language": "Tamil",
           "shows": 15,
-          "gross": 519400.0,
-          "sold": 495,
+          "gross": 564950.0,
+          "sold": 537,
           "totalSeats": 3307
         },
         "ET00005939": {
           "format": "2D",
           "language": "English",
           "shows": 15,
-          "gross": 107200.0,
-          "sold": 61,
+          "gross": 115800.0,
+          "sold": 67,
           "totalSeats": 2047
         },
         "ET00005946": {
           "format": "2D",
           "language": "Tamil",
           "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 1600.0,
+          "sold": 2,
           "totalSeats": 695
         }
       }
@@ -44,21 +44,29 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 23,
-          "gross": 27900.0,
-          "sold": 33,
+          "gross": 31400.0,
+          "sold": 38,
           "totalSeats": 3510
         }
       }
     },
-    "Moda Tharidu": {
+    "Zootopia 2": {
       "formats": {
-        "ET00005884": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 19,
+          "gross": 419200.0,
+          "sold": 350,
+          "totalSeats": 2211
+        },
+        "ET00005925": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 57,
-          "gross": 90200.0,
-          "sold": 130,
-          "totalSeats": 10104
+          "language": "English",
+          "shows": 6,
+          "gross": 189250.0,
+          "sold": 150,
+          "totalSeats": 605
         }
       }
     },
@@ -68,29 +76,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 3,
-          "gross": 23300.0,
-          "sold": 21,
+          "gross": 25500.0,
+          "sold": 23,
           "totalSeats": 334
         }
       }
     },
-    "Zootopia 2": {
+    "Moda Tharidu": {
       "formats": {
-        "ET00005925": {
+        "ET00005884": {
           "format": "2D",
-          "language": "English",
-          "shows": 6,
-          "gross": 178350.0,
-          "sold": 144,
-          "totalSeats": 605
-        },
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 19,
-          "gross": 359300.0,
-          "sold": 300,
-          "totalSeats": 2211
+          "language": "Sinhala",
+          "shows": 57,
+          "gross": 102900.0,
+          "sold": 140,
+          "totalSeats": 10104
         }
       }
     },
@@ -108,6 +108,14 @@
     },
     "Predator: Badlands": {
       "formats": {
+        "ET00005924": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 16800.0,
+          "sold": 9,
+          "totalSeats": 326
+        },
         "ET00005901": {
           "format": "2D",
           "language": "English",
@@ -115,26 +123,6 @@
           "gross": 11800.0,
           "sold": 10,
           "totalSeats": 210
-        },
-        "ET00005924": {
-          "format": "3D",
-          "language": "English",
-          "shows": 3,
-          "gross": 6000.0,
-          "sold": 5,
-          "totalSeats": 326
-        }
-      }
-    },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 8,
-          "gross": 190950.0,
-          "sold": 93,
-          "totalSeats": 695
         }
       }
     },
@@ -144,8 +132,8 @@
           "format": "3D",
           "language": "English",
           "shows": 2,
-          "gross": 24000.0,
-          "sold": 20,
+          "gross": 26400.0,
+          "sold": 22,
           "totalSeats": 211
         },
         "ET00005916": {
@@ -155,6 +143,18 @@
           "gross": 14400.0,
           "sold": 12,
           "totalSeats": 239
+        }
+      }
+    },
+    "Mr.Mrs": {
+      "formats": {
+        "ET00005919": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 13,
+          "gross": 1250.0,
+          "sold": 5,
+          "totalSeats": 2144
         }
       }
     },
@@ -178,6 +178,18 @@
         }
       }
     },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 8,
+          "gross": 209150.0,
+          "sold": 106,
+          "totalSeats": 695
+        }
+      }
+    },
     "Tere Ishk Mein (Tamil)": {
       "formats": {
         "ET00005931": {
@@ -196,21 +208,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 26,
-          "gross": 48950.0,
-          "sold": 65,
+          "gross": 49650.0,
+          "sold": 67,
           "totalSeats": 4426
-        }
-      }
-    },
-    "Eternity": {
-      "formats": {
-        "ET00005933": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 21200.0,
-          "sold": 8,
-          "totalSeats": 34
         }
       }
     },
@@ -226,15 +226,15 @@
         }
       }
     },
-    "Mr.Mrs": {
+    "Eternity": {
       "formats": {
-        "ET00005919": {
+        "ET00005933": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 13,
-          "gross": 1250.0,
-          "sold": 5,
-          "totalSeats": 2144
+          "language": "English",
+          "shows": 1,
+          "gross": 18550.0,
+          "sold": 7,
+          "totalSeats": 34
         }
       }
     }
