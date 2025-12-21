@@ -1,6 +1,6 @@
 {
   "date": "2025-12-21",
-  "lastUpdated": "10:07 AM, 21 December 2025",
+  "lastUpdated": "10:51 AM, 21 December 2025",
   "shows": [
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -991,10 +991,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 2,
-      "available": 208,
-      "gross": 1000,
-      "occupancy_percent": 0.95
+      "reserved": 0,
+      "available": 210,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -1005,11 +1005,11 @@
       "date": "2025-12-21T11:45:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 12,
-      "reserved": 23,
-      "available": 175,
-      "gross": 18550,
-      "occupancy_percent": 16.67
+      "sold": 22,
+      "reserved": 0,
+      "available": 188,
+      "gross": 11660,
+      "occupancy_percent": 10.48
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -1020,11 +1020,11 @@
       "date": "2025-12-21T11:45:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 20,
+      "sold": 28,
       "reserved": 0,
-      "available": 188,
-      "gross": 10000,
-      "occupancy_percent": 9.62
+      "available": 180,
+      "gross": 14000,
+      "occupancy_percent": 13.46
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -1035,45 +1035,41 @@
       "date": "2025-12-21T11:45:00+05:45",
       "time": "",
       "seats": 251,
-      "sold": 19,
+      "sold": 24,
       "reserved": 0,
-      "available": 232,
-      "gross": 8550,
-      "occupancy_percent": 7.57
+      "available": 227,
+      "gross": 10800,
+      "occupancy_percent": 9.56
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
       "movie_name": "Avatar: Fire and Ash",
       "show_id": "24034:one-cinemas-kalimati",
-      "venue": null,
-      "theatre": null,
-      "date": "2025-12-21",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "one-cinemas-kalimati",
+      "theatre": "One Cinemas Kalimati - Audi 2",
+      "date": "2025-12-21T11:45:00+05:45",
+      "time": "",
+      "seats": 136,
+      "sold": 7,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "available": 129,
+      "gross": 3490,
+      "occupancy_percent": 5.15
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
       "movie_name": "Avatar: Fire and Ash",
       "show_id": "11180:infinity-movies",
-      "venue": null,
-      "theatre": null,
-      "date": "2025-12-21",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "infinity-movies",
+      "theatre": "Infinity Movies - Audi 2",
+      "date": "2025-12-21T11:45:00+05:45",
+      "time": "",
+      "seats": 154,
+      "sold": 1,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "available": 153,
+      "gross": 350,
+      "occupancy_percent": 0.65
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -1118,11 +1114,11 @@
       "date": "2025-12-21T12:00:00+05:45",
       "time": "",
       "seats": 499,
-      "sold": 92,
-      "reserved": 1,
-      "available": 406,
-      "gross": 58200,
-      "occupancy_percent": 18.64
+      "sold": 100,
+      "reserved": 0,
+      "available": 399,
+      "gross": 63000,
+      "occupancy_percent": 20.04
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -1177,18 +1173,16 @@
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
       "movie_name": "Avatar: Fire and Ash",
       "show_id": "148653:qfx-jalma",
-      "venue": null,
-      "theatre": null,
-      "date": "2025-12-21",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "venue": "qfx-jalma",
+      "theatre": "QFX Jalma, Narayangarh - AUDI 1",
+      "date": "2025-12-21T11:30:00+05:45",
+      "time": "",
+      "seats": 268,
+      "sold": 19,
+      "reserved": 1,
+      "available": 248,
+      "gross": 8000,
+      "occupancy_percent": 7.46
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -1209,18 +1203,16 @@
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
       "movie_name": "Avatar: Fire and Ash",
       "show_id": "148670:chitwan-cineplex",
-      "venue": null,
-      "theatre": null,
-      "date": "2025-12-21",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "chitwan-cineplex",
+      "theatre": "QFX Cinemas CG Mall - SCREEN 1",
+      "date": "2025-12-21T12:15:00+05:45",
+      "time": "",
+      "seats": 219,
+      "sold": 11,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "available": 208,
+      "gross": 4400,
+      "occupancy_percent": 5.02
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -1231,11 +1223,11 @@
       "date": "2025-12-21T11:30:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 9,
-      "reserved": 3,
-      "available": 184,
-      "gross": 3840,
-      "occupancy_percent": 6.12
+      "sold": 11,
+      "reserved": 0,
+      "available": 185,
+      "gross": 3520,
+      "occupancy_percent": 5.61
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -1256,18 +1248,16 @@
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
       "movie_name": "Avatar: Fire and Ash",
       "show_id": "148678:pokhara-cineplex",
-      "venue": null,
-      "theatre": null,
-      "date": "2025-12-21",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "pokhara-cineplex",
+      "theatre": "QFX Cinemas Trade Mall - SCREEN 1",
+      "date": "2025-12-21T12:15:00+05:45",
+      "time": "",
+      "seats": 342,
+      "sold": 14,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "available": 328,
+      "gross": 6580,
+      "occupancy_percent": 4.09
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -1278,11 +1268,11 @@
       "date": "2025-12-21T11:30:00+05:45",
       "time": "",
       "seats": 204,
-      "sold": 36,
-      "reserved": 4,
-      "available": 164,
-      "gross": 15200,
-      "occupancy_percent": 19.61
+      "sold": 45,
+      "reserved": 0,
+      "available": 159,
+      "gross": 17100,
+      "occupancy_percent": 22.06
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -1293,11 +1283,11 @@
       "date": "2025-12-21T11:45:00+05:45",
       "time": "",
       "seats": 176,
-      "sold": 29,
-      "reserved": 20,
-      "available": 127,
-      "gross": 19200,
-      "occupancy_percent": 27.84
+      "sold": 35,
+      "reserved": 18,
+      "available": 123,
+      "gross": 20600,
+      "occupancy_percent": 30.11
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -1308,11 +1298,11 @@
       "date": "2025-12-21T11:30:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 5,
-      "reserved": 7,
-      "available": 202,
-      "gross": 4200,
-      "occupancy_percent": 5.61
+      "sold": 8,
+      "reserved": 0,
+      "available": 206,
+      "gross": 2800,
+      "occupancy_percent": 3.74
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -1383,11 +1373,11 @@
       "date": "2025-12-21T11:45:00+05:45",
       "time": "",
       "seats": 279,
-      "sold": 70,
+      "sold": 106,
       "reserved": 21,
-      "available": 188,
-      "gross": 31850,
-      "occupancy_percent": 32.62
+      "available": 152,
+      "gross": 44450,
+      "occupancy_percent": 45.52
     },
     {
       "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
@@ -1458,11 +1448,11 @@
       "date": "2025-12-21T11:15:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 14,
+      "sold": 20,
       "reserved": 0,
-      "available": 233,
-      "gross": 6160,
-      "occupancy_percent": 5.67
+      "available": 227,
+      "gross": 8800,
+      "occupancy_percent": 8.1
     },
     {
       "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
@@ -1473,11 +1463,11 @@
       "date": "2025-12-21T12:15:00+05:45",
       "time": "",
       "seats": 203,
-      "sold": 17,
+      "sold": 19,
       "reserved": 0,
-      "available": 186,
-      "gross": 7650,
-      "occupancy_percent": 8.37
+      "available": 184,
+      "gross": 8550,
+      "occupancy_percent": 9.36
     },
     {
       "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
@@ -1521,10 +1511,10 @@
       "time": "",
       "seats": 240,
       "sold": 0,
-      "reserved": 0,
-      "available": 240,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 238,
+      "gross": 800,
+      "occupancy_percent": 0.83
     },
     {
       "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
@@ -1580,11 +1570,11 @@
       "date": "2025-12-21T12:00:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 12,
-      "reserved": 20,
-      "available": 164,
-      "gross": 8640,
-      "occupancy_percent": 16.33
+      "sold": 14,
+      "reserved": 23,
+      "available": 159,
+      "gross": 9990,
+      "occupancy_percent": 18.88
     },
     {
       "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
@@ -1620,18 +1610,16 @@
       "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
       "movie_name": "Jhari Pachhi Ko Indreni",
       "show_id": "113161:cdc-cinemas",
-      "venue": null,
-      "theatre": null,
-      "date": "2025-12-21",
-      "time": null,
-      "seats": 0,
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Dine",
+      "date": "2025-12-21T12:00:00+05:45",
+      "time": "",
+      "seats": 60,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 60,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
@@ -1682,35 +1670,31 @@
       "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
       "movie_name": "Jhari Pachhi Ko Indreni",
       "show_id": "53518:himaz-cinema",
-      "venue": null,
-      "theatre": null,
-      "date": "2025-12-21",
-      "time": null,
-      "seats": 0,
+      "venue": "himaz-cinema",
+      "theatre": "Himaz Cinema - Audi 1",
+      "date": "2025-12-21T11:15:00+05:45",
+      "time": "",
+      "seats": 75,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 75,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
       "movie_name": "Jhari Pachhi Ko Indreni",
       "show_id": "162999:oasis-cinema",
-      "venue": null,
-      "theatre": null,
-      "date": "2025-12-21",
-      "time": null,
-      "seats": 0,
+      "venue": "oasis-cinema",
+      "theatre": "Oasis Cinema - Screen B",
+      "date": "2025-12-21T12:00:00+05:45",
+      "time": "",
+      "seats": 133,
       "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "reserved": 1,
+      "available": 132,
+      "gross": 250,
+      "occupancy_percent": 0.75
     },
     {
       "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
@@ -1721,11 +1705,11 @@
       "date": "2025-12-21T12:00:00+05:45",
       "time": "",
       "seats": 143,
-      "sold": 0,
-      "reserved": 2,
-      "available": 141,
-      "gross": 600,
-      "occupancy_percent": 1.4
+      "sold": 4,
+      "reserved": 0,
+      "available": 139,
+      "gross": 1200,
+      "occupancy_percent": 2.8
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -1736,11 +1720,11 @@
       "date": "2025-12-21T12:00:00+05:45",
       "time": "",
       "seats": 270,
-      "sold": 54,
-      "reserved": 27,
-      "available": 189,
-      "gross": 28350,
-      "occupancy_percent": 30.0
+      "sold": 66,
+      "reserved": 26,
+      "available": 178,
+      "gross": 32200,
+      "occupancy_percent": 34.07
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -1766,11 +1750,11 @@
       "date": "2025-12-21T12:15:00+05:45",
       "time": "",
       "seats": 53,
-      "sold": 16,
+      "sold": 17,
       "reserved": 0,
-      "available": 37,
-      "gross": 22400,
-      "occupancy_percent": 30.19
+      "available": 36,
+      "gross": 23800,
+      "occupancy_percent": 32.08
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -1781,11 +1765,11 @@
       "date": "2025-12-21T12:00:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 43,
-      "reserved": 20,
-      "available": 184,
-      "gross": 34440,
-      "occupancy_percent": 25.51
+      "sold": 54,
+      "reserved": 3,
+      "available": 190,
+      "gross": 31320,
+      "occupancy_percent": 23.08
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -1796,11 +1780,11 @@
       "date": "2025-12-21T12:15:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 61,
-      "reserved": 0,
-      "available": 186,
-      "gross": 26840,
-      "occupancy_percent": 24.7
+      "sold": 71,
+      "reserved": 9,
+      "available": 167,
+      "gross": 35200,
+      "occupancy_percent": 32.39
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -1811,11 +1795,11 @@
       "date": "2025-12-21T11:15:00+05:45",
       "time": "",
       "seats": 132,
-      "sold": 8,
+      "sold": 16,
       "reserved": 2,
-      "available": 122,
-      "gross": 3000,
-      "occupancy_percent": 7.58
+      "available": 114,
+      "gross": 5400,
+      "occupancy_percent": 13.64
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -1857,10 +1841,10 @@
       "time": "",
       "seats": 118,
       "sold": 0,
-      "reserved": 0,
-      "available": 118,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 9,
+      "available": 109,
+      "gross": 2950,
+      "occupancy_percent": 7.63
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -1871,11 +1855,11 @@
       "date": "2025-12-21T12:00:00+05:45",
       "time": "",
       "seats": 265,
-      "sold": 38,
-      "reserved": 3,
-      "available": 224,
-      "gross": 13120,
-      "occupancy_percent": 15.47
+      "sold": 51,
+      "reserved": 0,
+      "available": 214,
+      "gross": 16320,
+      "occupancy_percent": 19.25
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -1901,11 +1885,11 @@
       "date": "2025-12-21T12:00:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 2,
+      "sold": 9,
       "reserved": 0,
-      "available": 215,
-      "gross": 800,
-      "occupancy_percent": 0.92
+      "available": 208,
+      "gross": 3600,
+      "occupancy_percent": 4.15
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -1916,11 +1900,11 @@
       "date": "2025-12-21T12:00:00+05:45",
       "time": "",
       "seats": 129,
-      "sold": 29,
+      "sold": 32,
       "reserved": 0,
-      "available": 100,
-      "gross": 13410,
-      "occupancy_percent": 22.48
+      "available": 97,
+      "gross": 14580,
+      "occupancy_percent": 24.81
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -1961,11 +1945,11 @@
       "date": "2025-12-21T11:45:00+05:45",
       "time": "",
       "seats": 285,
-      "sold": 13,
+      "sold": 17,
       "reserved": 4,
-      "available": 268,
-      "gross": 6350,
-      "occupancy_percent": 5.96
+      "available": 264,
+      "gross": 7750,
+      "occupancy_percent": 7.37
     },
     {
       "movie_id": "txgxCnmZREqoEgdtacpQWf",
@@ -1976,11 +1960,11 @@
       "date": "2025-12-21T11:15:00+05:45",
       "time": "",
       "seats": 143,
-      "sold": 4,
-      "reserved": 0,
-      "available": 139,
-      "gross": 1280,
-      "occupancy_percent": 2.8
+      "sold": 14,
+      "reserved": 1,
+      "available": 128,
+      "gross": 4800,
+      "occupancy_percent": 10.49
     },
     {
       "movie_id": "txgxCnmZREqoEgdtacpQWf",
@@ -1991,11 +1975,11 @@
       "date": "2025-12-21T11:30:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 34,
-      "reserved": 1,
-      "available": 98,
-      "gross": 14300,
-      "occupancy_percent": 26.32
+      "sold": 36,
+      "reserved": 3,
+      "available": 94,
+      "gross": 15820,
+      "occupancy_percent": 29.32
     },
     {
       "movie_id": "txgxCnmZREqoEgdtacpQWf",
@@ -2006,11 +1990,11 @@
       "date": "2025-12-21T12:15:00+05:45",
       "time": "",
       "seats": 394,
-      "sold": 19,
-      "reserved": 10,
-      "available": 365,
-      "gross": 12400,
-      "occupancy_percent": 7.36
+      "sold": 25,
+      "reserved": 12,
+      "available": 357,
+      "gross": 15600,
+      "occupancy_percent": 9.39
     },
     {
       "movie_id": "txgxCnmZREqoEgdtacpQWf",
@@ -2036,11 +2020,11 @@
       "date": "2025-12-21T11:45:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 2,
-      "reserved": 0,
-      "available": 215,
-      "gross": 1000,
-      "occupancy_percent": 0.92
+      "sold": 4,
+      "reserved": 2,
+      "available": 211,
+      "gross": 3000,
+      "occupancy_percent": 2.76
     },
     {
       "movie_id": "txgxCnmZREqoEgdtacpQWf",
@@ -2051,11 +2035,11 @@
       "date": "2025-12-21T12:15:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 5,
-      "reserved": 22,
-      "available": 203,
-      "gross": 11560,
-      "occupancy_percent": 11.74
+      "sold": 9,
+      "reserved": 24,
+      "available": 197,
+      "gross": 13840,
+      "occupancy_percent": 14.35
     },
     {
       "movie_id": "txgxCnmZREqoEgdtacpQWf",
@@ -2081,11 +2065,11 @@
       "date": "2025-12-21T12:20:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 3,
+      "sold": 5,
       "reserved": 11,
-      "available": 233,
-      "gross": 6500,
-      "occupancy_percent": 5.67
+      "available": 231,
+      "gross": 7400,
+      "occupancy_percent": 6.48
     },
     {
       "movie_id": "txgxCnmZREqoEgdtacpQWf",
@@ -2096,11 +2080,11 @@
       "date": "2025-12-21T11:30:00+05:45",
       "time": "",
       "seats": 290,
-      "sold": 10,
+      "sold": 15,
       "reserved": 0,
-      "available": 280,
-      "gross": 2800,
-      "occupancy_percent": 3.45
+      "available": 275,
+      "gross": 4200,
+      "occupancy_percent": 5.17
     },
     {
       "movie_id": "Dbu9CypnHYsBPN5Euq5sDT",
@@ -2112,10 +2096,10 @@
       "time": "",
       "seats": 201,
       "sold": 0,
-      "reserved": 5,
-      "available": 196,
-      "gross": 1750,
-      "occupancy_percent": 2.49
+      "reserved": 3,
+      "available": 198,
+      "gross": 1050,
+      "occupancy_percent": 1.49
     },
     {
       "movie_id": "Dbu9CypnHYsBPN5Euq5sDT",
@@ -2171,11 +2155,11 @@
       "date": "2025-12-21T12:15:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 8,
-      "reserved": 15,
-      "available": 175,
-      "gross": 11040,
-      "occupancy_percent": 11.62
+      "sold": 12,
+      "reserved": 13,
+      "available": 173,
+      "gross": 12000,
+      "occupancy_percent": 12.63
     },
     {
       "movie_id": "Dbu9CypnHYsBPN5Euq5sDT",
@@ -2186,11 +2170,11 @@
       "date": "2025-12-21T11:30:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 25,
+      "sold": 26,
       "reserved": 0,
-      "available": 158,
-      "gross": 12000,
-      "occupancy_percent": 13.66
+      "available": 157,
+      "gross": 12480,
+      "occupancy_percent": 14.21
     },
     {
       "movie_id": "Dbu9CypnHYsBPN5Euq5sDT",
@@ -2246,11 +2230,11 @@
       "date": "2025-12-21T12:45:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 13,
-      "reserved": 9,
-      "available": 208,
-      "gross": 8520,
-      "occupancy_percent": 9.57
+      "sold": 25,
+      "reserved": 10,
+      "available": 195,
+      "gross": 12810,
+      "occupancy_percent": 15.22
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -2276,11 +2260,11 @@
       "date": "2025-12-21T13:15:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 60,
-      "reserved": 22,
-      "available": 130,
-      "gross": 52620,
-      "occupancy_percent": 38.68
+      "sold": 64,
+      "reserved": 19,
+      "available": 129,
+      "gross": 52890,
+      "occupancy_percent": 39.15
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -2306,28 +2290,26 @@
       "date": "2025-12-21T12:30:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 36,
-      "reserved": 0,
-      "available": 141,
-      "gross": 20870,
-      "occupancy_percent": 20.34
+      "sold": 42,
+      "reserved": 2,
+      "available": 133,
+      "gross": 25740,
+      "occupancy_percent": 24.86
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
       "movie_name": "Avatar: Fire and Ash",
       "show_id": "24030:one-cinemas-kalimati",
-      "venue": null,
-      "theatre": null,
-      "date": "2025-12-21",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "venue": "one-cinemas-kalimati",
+      "theatre": "One Cinemas Kalimati - Audi 1",
+      "date": "2025-12-21T12:45:00+05:45",
+      "time": "",
+      "seats": 151,
+      "sold": 9,
+      "reserved": 2,
+      "available": 140,
+      "gross": 5390,
+      "occupancy_percent": 7.28
     },
     {
       "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
@@ -2354,10 +2336,10 @@
       "time": "",
       "seats": 213,
       "sold": 5,
-      "reserved": 26,
-      "available": 182,
-      "gross": 9300,
-      "occupancy_percent": 14.55
+      "reserved": 30,
+      "available": 178,
+      "gross": 10500,
+      "occupancy_percent": 16.43
     },
     {
       "movie_id": "txgxCnmZREqoEgdtacpQWf",
@@ -2368,11 +2350,11 @@
       "date": "2025-12-21T13:15:00+05:45",
       "time": "",
       "seats": 117,
-      "sold": 24,
-      "reserved": 0,
-      "available": 93,
-      "gross": 10120,
-      "occupancy_percent": 20.51
+      "sold": 30,
+      "reserved": 1,
+      "available": 86,
+      "gross": 13280,
+      "occupancy_percent": 26.5
     },
     {
       "movie_id": "txgxCnmZREqoEgdtacpQWf",
@@ -2383,11 +2365,11 @@
       "date": "2025-12-21T12:30:00+05:45",
       "time": "",
       "seats": 216,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 216,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 214,
+      "gross": 900,
+      "occupancy_percent": 0.93
     },
     {
       "movie_id": "txgxCnmZREqoEgdtacpQWf",
@@ -2398,11 +2380,11 @@
       "date": "2025-12-21T12:00:00+05:45",
       "time": "",
       "seats": 378,
-      "sold": 0,
+      "sold": 2,
       "reserved": 20,
-      "available": 358,
-      "gross": 5250,
-      "occupancy_percent": 5.29
+      "available": 356,
+      "gross": 5850,
+      "occupancy_percent": 5.82
     },
     {
       "movie_id": "DSTEii5Q4i2eS2i8Qv9H98",
@@ -2413,11 +2395,161 @@
       "date": "2025-12-21T12:30:00+05:45",
       "time": "",
       "seats": 126,
-      "sold": 6,
+      "sold": 9,
       "reserved": 0,
-      "available": 120,
-      "gross": 2400,
-      "occupancy_percent": 4.76
+      "available": 117,
+      "gross": 3600,
+      "occupancy_percent": 7.14
+    },
+    {
+      "movie_id": "WZanbnaScUAfySEmLFK4nP",
+      "movie_name": "Dhurandhar",
+      "show_id": "148536:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 03",
+      "date": "2025-12-21T13:45:00+05:45",
+      "time": "",
+      "seats": 139,
+      "sold": 21,
+      "reserved": 0,
+      "available": 118,
+      "gross": 8610,
+      "occupancy_percent": 15.11
+    },
+    {
+      "movie_id": "WZanbnaScUAfySEmLFK4nP",
+      "movie_name": "Dhurandhar",
+      "show_id": "59408:ini-qbox-butwal",
+      "venue": "ini-qbox-butwal",
+      "theatre": "iNi Cinemas QBox - Audi 1",
+      "date": "2025-12-21T13:30:00+05:45",
+      "time": "",
+      "seats": 196,
+      "sold": 22,
+      "reserved": 8,
+      "available": 166,
+      "gross": 8100,
+      "occupancy_percent": 15.31
+    },
+    {
+      "movie_id": "WZanbnaScUAfySEmLFK4nP",
+      "movie_name": "Dhurandhar",
+      "show_id": "113166:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Theatre",
+      "date": "2025-12-21T14:00:00+05:45",
+      "time": "",
+      "seats": 169,
+      "sold": 0,
+      "reserved": 11,
+      "available": 158,
+      "gross": 3300,
+      "occupancy_percent": 6.51
+    },
+    {
+      "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
+      "movie_name": "Avatar: Fire and Ash",
+      "show_id": "59399:ini-cinemas-nb-center",
+      "venue": "ini-cinemas-nb-center",
+      "theatre": "iNi Cinemas NB Center - Audi -1 (DTS: X)",
+      "date": "2025-12-21T14:00:00+05:45",
+      "time": "",
+      "seats": 177,
+      "sold": 9,
+      "reserved": 5,
+      "available": 163,
+      "gross": 7000,
+      "occupancy_percent": 7.91
+    },
+    {
+      "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
+      "movie_name": "Avatar: Fire and Ash",
+      "show_id": "60843:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 3",
+      "date": "2025-12-21T13:45:00+05:45",
+      "time": "",
+      "seats": 349,
+      "sold": 54,
+      "reserved": 34,
+      "available": 261,
+      "gross": 39600,
+      "occupancy_percent": 25.21
+    },
+    {
+      "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
+      "movie_name": "Avatar: Fire and Ash",
+      "show_id": "148489:qfx-bhaktapur",
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 1",
+      "date": "2025-12-21T14:00:00+05:45",
+      "time": "",
+      "seats": 207,
+      "sold": 75,
+      "reserved": 16,
+      "available": 116,
+      "gross": 60200,
+      "occupancy_percent": 43.96
+    },
+    {
+      "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
+      "movie_name": "Jhari Pachhi Ko Indreni",
+      "show_id": "38438:ranjana-cineplex",
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi - 2",
+      "date": "2025-12-21T13:30:00+05:45",
+      "time": "",
+      "seats": 118,
+      "sold": 0,
+      "reserved": 0,
+      "available": 118,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
+      "movie_name": "Jhari Pachhi Ko Indreni",
+      "show_id": "222149:bamel-cinemas",
+      "venue": "bamel-cinemas",
+      "theatre": "Bamel Cinemas - Audi 1",
+      "date": "2025-12-21T13:30:00+05:45",
+      "time": "",
+      "seats": 137,
+      "sold": 0,
+      "reserved": 0,
+      "available": 137,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "Dbu9CypnHYsBPN5Euq5sDT",
+      "movie_name": "Paran",
+      "show_id": "45924:bsr-movies",
+      "venue": "bsr-movies",
+      "theatre": "BSR Movies - Atmos 2",
+      "date": "2025-12-21T13:45:00+05:45",
+      "time": "",
+      "seats": 180,
+      "sold": 0,
+      "reserved": 15,
+      "available": 165,
+      "gross": 6000,
+      "occupancy_percent": 8.33
+    },
+    {
+      "movie_id": "Dbu9CypnHYsBPN5Euq5sDT",
+      "movie_name": "Paran",
+      "show_id": "39713:ck-cinemas",
+      "venue": "ck-cinemas",
+      "theatre": "Ck Cinemas - Audi 2",
+      "date": "2025-12-21T14:00:00+05:45",
+      "time": "",
+      "seats": 175,
+      "sold": 0,
+      "reserved": 0,
+      "available": 175,
+      "gross": 0,
+      "occupancy_percent": 0.0
     }
   ]
 }
