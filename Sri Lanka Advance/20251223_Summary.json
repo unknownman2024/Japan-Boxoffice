@@ -1,16 +1,16 @@
 {
   "date": "20251223",
-  "lastUpdated": "02:44 AM, 22 December 2025",
+  "lastUpdated": "03:45 AM, 22 December 2025",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005938": {
+        "ET00005945": {
           "format": "3D",
-          "language": "English",
-          "shows": 120,
-          "gross": 1792100.0,
-          "sold": 608,
-          "totalSeats": 19988
+          "language": "Tamil",
+          "shows": 11,
+          "gross": 21000.0,
+          "sold": 21,
+          "totalSeats": 2384
         },
         "ET00005939": {
           "format": "2D",
@@ -20,25 +20,13 @@
           "sold": 2,
           "totalSeats": 2088
         },
-        "ET00005945": {
+        "ET00005938": {
           "format": "3D",
-          "language": "Tamil",
-          "shows": 11,
-          "gross": 21000.0,
-          "sold": 21,
-          "totalSeats": 2384
-        }
-      }
-    },
-    "Padayappa": {
-      "formats": {
-        "ET00005943": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 15,
-          "gross": 4800.0,
-          "sold": 4,
-          "totalSeats": 1776
+          "language": "English",
+          "shows": 120,
+          "gross": 1795300.0,
+          "sold": 610,
+          "totalSeats": 19988
         }
       }
     },
@@ -51,6 +39,18 @@
           "gross": 7600.0,
           "sold": 13,
           "totalSeats": 7693
+        }
+      }
+    },
+    "Padayappa": {
+      "formats": {
+        "ET00005943": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 15,
+          "gross": 4800.0,
+          "sold": 4,
+          "totalSeats": 1776
         }
       }
     },
@@ -71,18 +71,6 @@
           "gross": 24000.0,
           "sold": 24,
           "totalSeats": 573
-        }
-      }
-    },
-    "Ayu": {
-      "formats": {
-        "ET00005878": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 3,
-          "gross": 6000.0,
-          "sold": 6,
-          "totalSeats": 334
         }
       }
     },
@@ -142,6 +130,38 @@
         }
       }
     },
+    "Ayu": {
+      "formats": {
+        "ET00005878": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 3,
+          "gross": 6000.0,
+          "sold": 6,
+          "totalSeats": 334
+        }
+      }
+    },
+    "Wicked: For Good": {
+      "formats": {
+        "ET00005916": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 239
+        },
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 6000.0,
+          "sold": 6,
+          "totalSeats": 211
+        }
+      }
+    },
     "Mr.Mrs": {
       "formats": {
         "ET00005919": {
@@ -154,23 +174,39 @@
         }
       }
     },
-    "Wicked: For Good": {
+    "Dhurandhar": {
       "formats": {
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 6000.0,
-          "sold": 6,
-          "totalSeats": 211
-        },
-        "ET00005916": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 9,
+          "gross": 49900.0,
+          "sold": 21,
+          "totalSeats": 794
+        }
+      }
+    },
+    "Tere Ishk Mein (Tamil)": {
+      "formats": {
+        "ET00005931": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 422
+        }
+      }
+    },
+    "Eternity": {
+      "formats": {
+        "ET00005933": {
           "format": "2D",
           "language": "English",
-          "shows": 2,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 239
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 34
         }
       }
     },
@@ -194,30 +230,6 @@
         }
       }
     },
-    "Tere Ishk Mein (Tamil)": {
-      "formats": {
-        "ET00005931": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 422
-        }
-      }
-    },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 9,
-          "gross": 49900.0,
-          "sold": 21,
-          "totalSeats": 794
-        }
-      }
-    },
     "Sihina Sarungal": {
       "formats": {
         "ET00005866": {
@@ -227,18 +239,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 240
-        }
-      }
-    },
-    "Eternity": {
-      "formats": {
-        "ET00005933": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 34
         }
       }
     }
