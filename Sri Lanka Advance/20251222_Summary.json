@@ -1,40 +1,52 @@
 {
   "date": "20251222",
-  "lastUpdated": "10:04 AM, 21 December 2025",
+  "lastUpdated": "10:47 AM, 21 December 2025",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 16,
+          "gross": 14500.0,
+          "sold": 11,
+          "totalSeats": 2187
+        },
         "ET00005938": {
           "format": "3D",
           "language": "English",
           "shows": 96,
-          "gross": 1773750.0,
-          "sold": 563,
+          "gross": 1834800.0,
+          "sold": 593,
           "totalSeats": 19197
         },
         "ET00005945": {
           "format": "3D",
           "language": "Tamil",
           "shows": 9,
-          "gross": 37950.0,
-          "sold": 39,
+          "gross": 38950.0,
+          "sold": 40,
           "totalSeats": 1628
         },
         "ET00005946": {
           "format": "2D",
           "language": "Tamil",
           "shows": 2,
-          "gross": 1600.0,
-          "sold": 2,
+          "gross": 0.0,
+          "sold": 0,
           "totalSeats": 276
-        },
-        "ET00005939": {
+        }
+      }
+    },
+    "Padayappa": {
+      "formats": {
+        "ET00005943": {
           "format": "2D",
-          "language": "English",
-          "shows": 16,
-          "gross": 6700.0,
-          "sold": 5,
-          "totalSeats": 2187
+          "language": "Tamil",
+          "shows": 13,
+          "gross": 6400.0,
+          "sold": 6,
+          "totalSeats": 1919
         }
       }
     },
@@ -52,45 +64,21 @@
     },
     "Zootopia 2": {
       "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 21,
-          "gross": 88200.0,
-          "sold": 70,
-          "totalSeats": 2537
-        },
         "ET00005925": {
           "format": "2D",
           "language": "English",
           "shows": 6,
-          "gross": 89200.0,
-          "sold": 87,
+          "gross": 80400.0,
+          "sold": 79,
           "totalSeats": 573
-        }
-      }
-    },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 12,
-          "gross": 1100.0,
-          "sold": 1,
-          "totalSeats": 2004
-        }
-      }
-    },
-    "Ayu": {
-      "formats": {
-        "ET00005878": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 3,
-          "gross": 3000.0,
-          "sold": 3,
-          "totalSeats": 334
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 21,
+          "gross": 91500.0,
+          "sold": 72,
+          "totalSeats": 2537
         }
       }
     },
@@ -114,39 +102,27 @@
         }
       }
     },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 12,
+          "gross": 2300.0,
+          "sold": 2,
+          "totalSeats": 2004
+        }
+      }
+    },
     "Neera": {
       "formats": {
         "ET00005849": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 22,
-          "gross": 5400.0,
-          "sold": 12,
+          "gross": 8200.0,
+          "sold": 16,
           "totalSeats": 4842
-        }
-      }
-    },
-    "Mr.Mrs": {
-      "formats": {
-        "ET00005919": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 7,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1716
-        }
-      }
-    },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 8,
-          "gross": 14550.0,
-          "sold": 7,
-          "totalSeats": 695
         }
       }
     },
@@ -170,15 +146,39 @@
         }
       }
     },
-    "Tere Ishk Mein (Tamil)": {
+    "Mr.Mrs": {
       "formats": {
-        "ET00005931": {
+        "ET00005919": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
+          "language": "Sinhala",
+          "shows": 7,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 284
+          "totalSeats": 1716
+        }
+      }
+    },
+    "Ayu": {
+      "formats": {
+        "ET00005878": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 3,
+          "gross": 3000.0,
+          "sold": 3,
+          "totalSeats": 334
+        }
+      }
+    },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 8,
+          "gross": 4800.0,
+          "sold": 4,
+          "totalSeats": 695
         }
       }
     },
@@ -200,9 +200,21 @@
           "format": "2D",
           "language": "English",
           "shows": 1,
+          "gross": 5300.0,
+          "sold": 2,
+          "totalSeats": 34
+        }
+      }
+    },
+    "Tere Ishk Mein (Tamil)": {
+      "formats": {
+        "ET00005931": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 34
+          "totalSeats": 284
         }
       }
     },
@@ -215,18 +227,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 240
-        }
-      }
-    },
-    "Padayappa": {
-      "formats": {
-        "ET00005943": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 13,
-          "gross": 6400.0,
-          "sold": 6,
-          "totalSeats": 1919
         }
       }
     }
