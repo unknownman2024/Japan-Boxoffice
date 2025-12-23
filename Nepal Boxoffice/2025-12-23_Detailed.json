@@ -1,6 +1,6 @@
 {
   "date": "2025-12-23",
-  "lastUpdated": "07:49 PM, 23 December 2025",
+  "lastUpdated": "08:50 PM, 23 December 2025",
   "shows": [
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -4927,16 +4927,18 @@
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
       "movie_name": "Dhurandhar",
       "show_id": "15580:friends-cinemas",
-      "venue": "friends-cinemas",
-      "theatre": "Friends Cinemas - Dharan - Audi-1",
-      "date": "2025-12-23T21:15:00+05:45",
-      "time": "",
-      "seats": 214,
-      "sold": 65,
-      "reserved": 21,
-      "available": 128,
-      "gross": 16340,
-      "occupancy_percent": 40.19
+      "venue": null,
+      "theatre": null,
+      "date": "2025-12-23",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -5142,11 +5144,11 @@
       "date": "2025-12-23T21:30:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 58,
-      "reserved": 25,
-      "available": 115,
-      "gross": 19920,
-      "occupancy_percent": 41.92
+      "sold": 84,
+      "reserved": 0,
+      "available": 114,
+      "gross": 20160,
+      "occupancy_percent": 42.42
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -5157,11 +5159,11 @@
       "date": "2025-12-23T22:00:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 20,
-      "reserved": 23,
-      "available": 167,
-      "gross": 12470,
-      "occupancy_percent": 20.48
+      "sold": 27,
+      "reserved": 0,
+      "available": 183,
+      "gross": 7830,
+      "occupancy_percent": 12.86
     }
   ]
 }
