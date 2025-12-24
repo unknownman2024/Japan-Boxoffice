@@ -1,16 +1,16 @@
 {
   "date": "20251225",
-  "lastUpdated": "04:45 AM, 24 December 2025",
+  "lastUpdated": "06:48 AM, 24 December 2025",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
+        "ET00005939": {
+          "format": "2D",
           "language": "English",
-          "shows": 107,
-          "gross": 4201950.0,
-          "sold": 1828,
-          "totalSeats": 18000
+          "shows": 8,
+          "gross": 52200.0,
+          "sold": 34,
+          "totalSeats": 1068
         },
         "ET00005945": {
           "format": "3D",
@@ -20,13 +20,13 @@
           "sold": 198,
           "totalSeats": 2913
         },
-        "ET00005939": {
-          "format": "2D",
+        "ET00005938": {
+          "format": "3D",
           "language": "English",
-          "shows": 8,
-          "gross": 47400.0,
-          "sold": 28,
-          "totalSeats": 1068
+          "shows": 107,
+          "gross": 4213550.0,
+          "sold": 1832,
+          "totalSeats": 18000
         }
       }
     },
@@ -36,8 +36,8 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 12,
-          "gross": 20000.0,
-          "sold": 25,
+          "gross": 20800.0,
+          "sold": 26,
           "totalSeats": 1390
         }
       }
@@ -48,8 +48,8 @@
           "format": "3D",
           "language": "English",
           "shows": 24,
-          "gross": 224800.0,
-          "sold": 221,
+          "gross": 227200.0,
+          "sold": 223,
           "totalSeats": 2729
         },
         "ET00005925": {
@@ -68,29 +68,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 48,
-          "gross": 40900.0,
-          "sold": 54,
+          "gross": 41500.0,
+          "sold": 56,
           "totalSeats": 7513
         }
       }
     },
-    "Predator: Badlands": {
+    "Ayu": {
       "formats": {
-        "ET00005924": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 23500.0,
-          "sold": 13,
-          "totalSeats": 174
-        },
-        "ET00005901": {
+        "ET00005878": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 4000.0,
-          "sold": 4,
-          "totalSeats": 210
+          "language": "Sinhala",
+          "shows": 3,
+          "gross": 15600.0,
+          "sold": 16,
+          "totalSeats": 334
         }
       }
     },
@@ -106,6 +98,26 @@
         }
       }
     },
+    "Predator: Badlands": {
+      "formats": {
+        "ET00005901": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 4000.0,
+          "sold": 4,
+          "totalSeats": 210
+        },
+        "ET00005924": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 23500.0,
+          "sold": 13,
+          "totalSeats": 174
+        }
+      }
+    },
     "Mask": {
       "formats": {
         "ET00005920": {
@@ -115,18 +127,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 356
-        }
-      }
-    },
-    "Ayu": {
-      "formats": {
-        "ET00005878": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 3,
-          "gross": 15600.0,
-          "sold": 16,
-          "totalSeats": 334
         }
       }
     },
@@ -148,8 +148,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 25,
-          "gross": 42750.0,
-          "sold": 51,
+          "gross": 43550.0,
+          "sold": 53,
           "totalSeats": 4055
         }
       }
@@ -163,26 +163,6 @@
           "gross": 51250.0,
           "sold": 33,
           "totalSeats": 905
-        }
-      }
-    },
-    "Wicked: For Good": {
-      "formats": {
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 28000.0,
-          "sold": 28,
-          "totalSeats": 211
-        },
-        "ET00005916": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 99
         }
       }
     },
@@ -218,15 +198,23 @@
         }
       }
     },
-    "Retta Thala": {
+    "Wicked: For Good": {
       "formats": {
-        "ET00005949": {
+        "ET00005916": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 6800.0,
-          "sold": 7,
-          "totalSeats": 1451
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 99
+        },
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 28000.0,
+          "sold": 28,
+          "totalSeats": 211
         }
       }
     },
@@ -239,6 +227,18 @@
           "gross": 1600.0,
           "sold": 2,
           "totalSeats": 280
+        }
+      }
+    },
+    "Retta Thala": {
+      "formats": {
+        "ET00005949": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 9,
+          "gross": 6800.0,
+          "sold": 7,
+          "totalSeats": 1451
         }
       }
     },
