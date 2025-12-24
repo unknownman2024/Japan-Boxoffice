@@ -1,19 +1,7 @@
 {
   "date": "20251226",
-  "lastUpdated": "02:45 AM, 25 December 2025",
+  "lastUpdated": "03:46 AM, 25 December 2025",
   "movies": {
-    "Padayappa": {
-      "formats": {
-        "ET00005943": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 543
-        }
-      }
-    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005939": {
@@ -24,13 +12,13 @@
           "sold": 0,
           "totalSeats": 763
         },
-        "ET00005938": {
+        "ET00005945": {
           "format": "3D",
-          "language": "English",
-          "shows": 92,
-          "gross": 3472900.0,
-          "sold": 1095,
-          "totalSeats": 15676
+          "language": "Tamil",
+          "shows": 15,
+          "gross": 40600.0,
+          "sold": 40,
+          "totalSeats": 3399
         },
         "ET00005946": {
           "format": "2D",
@@ -40,13 +28,25 @@
           "sold": 7,
           "totalSeats": 418
         },
-        "ET00005945": {
+        "ET00005938": {
           "format": "3D",
-          "language": "Tamil",
-          "shows": 15,
-          "gross": 40600.0,
-          "sold": 40,
-          "totalSeats": 3399
+          "language": "English",
+          "shows": 92,
+          "gross": 3473950.0,
+          "sold": 1097,
+          "totalSeats": 15676
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 41,
+          "gross": 20100.0,
+          "sold": 28,
+          "totalSeats": 5797
         }
       }
     },
@@ -70,15 +70,27 @@
         }
       }
     },
-    "Moda Tharidu": {
+    "Ayu": {
       "formats": {
-        "ET00005884": {
+        "ET00005878": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 41,
-          "gross": 20100.0,
-          "sold": 28,
-          "totalSeats": 5797
+          "shows": 2,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 263
+        }
+      }
+    },
+    "Padayappa": {
+      "formats": {
+        "ET00005943": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 543
         }
       }
     },
@@ -94,15 +106,27 @@
         }
       }
     },
-    "Ayu": {
+    "Retta Thala": {
       "formats": {
-        "ET00005878": {
+        "ET00005949": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 20,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 3721
+        }
+      }
+    },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 2,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 263
+          "shows": 17,
+          "gross": 13500.0,
+          "sold": 22,
+          "totalSeats": 2464
         }
       }
     },
@@ -126,18 +150,6 @@
         }
       }
     },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 17,
-          "gross": 13500.0,
-          "sold": 22,
-          "totalSeats": 2464
-        }
-      }
-    },
     "Mr.Mrs": {
       "formats": {
         "ET00005919": {
@@ -147,18 +159,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 658
-        }
-      }
-    },
-    "Retta Thala": {
-      "formats": {
-        "ET00005949": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 20,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 3721
         }
       }
     },
@@ -188,14 +188,6 @@
     },
     "Wicked: For Good": {
       "formats": {
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 4400.0,
-          "sold": 4,
-          "totalSeats": 121
-        },
         "ET00005916": {
           "format": "2D",
           "language": "English",
@@ -203,18 +195,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 99
-        }
-      }
-    },
-    "Cyanide": {
-      "formats": {
-        "ET00005950": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 6,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1054
+        },
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 4400.0,
+          "sold": 4,
+          "totalSeats": 121
         }
       }
     },
@@ -239,6 +227,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 549
+        }
+      }
+    },
+    "Cyanide": {
+      "formats": {
+        "ET00005950": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 6,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1054
         }
       }
     }
