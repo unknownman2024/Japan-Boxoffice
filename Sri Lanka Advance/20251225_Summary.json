@@ -1,32 +1,64 @@
 {
   "date": "20251225",
-  "lastUpdated": "02:51 PM, 24 December 2025",
+  "lastUpdated": "03:48 PM, 24 December 2025",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
+        "ET00005945": {
+          "format": "3D",
+          "language": "Tamil",
+          "shows": 14,
+          "gross": 323700.0,
+          "sold": 331,
+          "totalSeats": 2913
+        },
         "ET00005938": {
           "format": "3D",
           "language": "English",
           "shows": 105,
-          "gross": 5192650.0,
-          "sold": 2403,
+          "gross": 5365350.0,
+          "sold": 2481,
           "totalSeats": 18000
         },
         "ET00005939": {
           "format": "2D",
           "language": "English",
           "shows": 8,
-          "gross": 55000.0,
-          "sold": 36,
+          "gross": 60600.0,
+          "sold": 40,
           "totalSeats": 1068
-        },
-        "ET00005945": {
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 52,
+          "gross": 72650.0,
+          "sold": 96,
+          "totalSeats": 8697
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
           "format": "3D",
-          "language": "Tamil",
-          "shows": 14,
-          "gross": 316050.0,
-          "sold": 324,
-          "totalSeats": 2913
+          "language": "English",
+          "shows": 24,
+          "gross": 331750.0,
+          "sold": 329,
+          "totalSeats": 2729
+        },
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 7,
+          "gross": 109800.0,
+          "sold": 105,
+          "totalSeats": 694
         }
       }
     },
@@ -42,46 +74,14 @@
         }
       }
     },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 52,
-          "gross": 69850.0,
-          "sold": 92,
-          "totalSeats": 8697
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 7,
-          "gross": 109800.0,
-          "sold": 105,
-          "totalSeats": 694
-        },
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 24,
-          "gross": 325150.0,
-          "sold": 324,
-          "totalSeats": 2729
-        }
-      }
-    },
     "Ayu": {
       "formats": {
         "ET00005878": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 3,
-          "gross": 25200.0,
-          "sold": 26,
+          "gross": 29200.0,
+          "sold": 30,
           "totalSeats": 334
         }
       }
@@ -136,9 +136,29 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 26,
-          "gross": 71850.0,
-          "sold": 86,
+          "gross": 74150.0,
+          "sold": 92,
           "totalSeats": 4447
+        }
+      }
+    },
+    "Wicked: For Good": {
+      "formats": {
+        "ET00005916": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 4000.0,
+          "sold": 4,
+          "totalSeats": 99
+        },
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 36000.0,
+          "sold": 36,
+          "totalSeats": 211
         }
       }
     },
@@ -166,35 +186,15 @@
         }
       }
     },
-    "Dhurandhar": {
+    "Tere Ishk Mein (Tamil)": {
       "formats": {
-        "ET00005937": {
+        "ET00005931": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 10,
-          "gross": 100250.0,
-          "sold": 73,
-          "totalSeats": 905
-        }
-      }
-    },
-    "Wicked: For Good": {
-      "formats": {
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 31000.0,
-          "sold": 31,
-          "totalSeats": 211
-        },
-        "ET00005916": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 4000.0,
-          "sold": 4,
-          "totalSeats": 99
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 9000.0,
+          "sold": 10,
+          "totalSeats": 280
         }
       }
     },
@@ -230,18 +230,6 @@
         }
       }
     },
-    "Tere Ishk Mein (Tamil)": {
-      "formats": {
-        "ET00005931": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 9000.0,
-          "sold": 10,
-          "totalSeats": 280
-        }
-      }
-    },
     "Tu Meri Main Tera Main Tera Tu Meri": {
       "formats": {
         "ET00005948": {
@@ -263,6 +251,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 240
+        }
+      }
+    },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 10,
+          "gross": 102850.0,
+          "sold": 75,
+          "totalSeats": 905
         }
       }
     }
