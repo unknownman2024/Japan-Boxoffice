@@ -1,32 +1,16 @@
 {
   "date": "20251227",
-  "lastUpdated": "10:49 AM, 26 December 2025",
+  "lastUpdated": "11:57 AM, 26 December 2025",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005945": {
-          "format": "3D",
-          "language": "Tamil",
-          "shows": 15,
-          "gross": 60200.0,
-          "sold": 67,
-          "totalSeats": 3399
-        },
         "ET00005938": {
           "format": "3D",
           "language": "English",
           "shows": 95,
-          "gross": 3775350.0,
-          "sold": 1635,
+          "gross": 4085400.0,
+          "sold": 1780,
           "totalSeats": 16414
-        },
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 6,
-          "gross": 25300.0,
-          "sold": 14,
-          "totalSeats": 766
         },
         "ET00005946": {
           "format": "2D",
@@ -35,38 +19,54 @@
           "gross": 7100.0,
           "sold": 7,
           "totalSeats": 280
-        }
-      }
-    },
-    "Padayappa": {
-      "formats": {
-        "ET00005943": {
+        },
+        "ET00005939": {
           "format": "2D",
+          "language": "English",
+          "shows": 6,
+          "gross": 28500.0,
+          "sold": 16,
+          "totalSeats": 766
+        },
+        "ET00005945": {
+          "format": "3D",
           "language": "Tamil",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 389
+          "shows": 15,
+          "gross": 69200.0,
+          "sold": 76,
+          "totalSeats": 3399
         }
       }
     },
     "Zootopia 2": {
       "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 25,
-          "gross": 159550.0,
-          "sold": 128,
-          "totalSeats": 3060
-        },
         "ET00005925": {
           "format": "2D",
           "language": "English",
           "shows": 9,
-          "gross": 86200.0,
-          "sold": 60,
+          "gross": 95500.0,
+          "sold": 67,
           "totalSeats": 1061
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 25,
+          "gross": 191250.0,
+          "sold": 152,
+          "totalSeats": 3060
+        }
+      }
+    },
+    "Ayu": {
+      "formats": {
+        "ET00005878": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 3,
+          "gross": 38200.0,
+          "sold": 32,
+          "totalSeats": 393
         }
       }
     },
@@ -76,8 +76,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 55,
-          "gross": 35050.0,
-          "sold": 51,
+          "gross": 38850.0,
+          "sold": 57,
           "totalSeats": 9293
         }
       }
@@ -91,30 +91,6 @@
           "gross": 15400.0,
           "sold": 11,
           "totalSeats": 1774
-        }
-      }
-    },
-    "Ayu": {
-      "formats": {
-        "ET00005878": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 3,
-          "gross": 27400.0,
-          "sold": 23,
-          "totalSeats": 393
-        }
-      }
-    },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 25,
-          "gross": 25450.0,
-          "sold": 41,
-          "totalSeats": 4700
         }
       }
     },
@@ -144,8 +120,8 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 17,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 2400.0,
+          "sold": 3,
           "totalSeats": 2789
         }
       }
@@ -162,15 +138,15 @@
         }
       }
     },
-    "Runseokjin Ep. Tour The Movie": {
+    "Wicked: For Good": {
       "formats": {
-        "ET00005947": {
+        "ET00005916": {
           "format": "2D",
-          "language": "Korean",
-          "shows": 3,
-          "gross": 396900.0,
-          "sold": 188,
-          "totalSeats": 253
+          "language": "English",
+          "shows": 1,
+          "gross": 15400.0,
+          "sold": 14,
+          "totalSeats": 99
         }
       }
     },
@@ -179,10 +155,10 @@
         "ET00005929": {
           "format": "2D",
           "language": "English",
-          "shows": 25,
-          "gross": 39600.0,
-          "sold": 25,
-          "totalSeats": 3833
+          "shows": 24,
+          "gross": 42600.0,
+          "sold": 27,
+          "totalSeats": 3714
         }
       }
     },
@@ -192,9 +168,21 @@
           "format": "2D",
           "language": "Hindi",
           "shows": 8,
-          "gross": 88500.0,
-          "sold": 50,
+          "gross": 98250.0,
+          "sold": 53,
           "totalSeats": 723
+        }
+      }
+    },
+    "Runseokjin Ep. Tour The Movie": {
+      "formats": {
+        "ET00005947": {
+          "format": "2D",
+          "language": "Korean",
+          "shows": 3,
+          "gross": 396900.0,
+          "sold": 188,
+          "totalSeats": 253
         }
       }
     },
@@ -224,21 +212,9 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 7,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 800.0,
+          "sold": 1,
           "totalSeats": 994
-        }
-      }
-    },
-    "Wicked: For Good": {
-      "formats": {
-        "ET00005916": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 15400.0,
-          "sold": 14,
-          "totalSeats": 99
         }
       }
     },
@@ -248,9 +224,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 8,
-          "gross": 3400.0,
-          "sold": 6,
+          "gross": 4000.0,
+          "sold": 8,
           "totalSeats": 1862
+        }
+      }
+    },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 25,
+          "gross": 37200.0,
+          "sold": 56,
+          "totalSeats": 4700
         }
       }
     },
@@ -260,9 +248,21 @@
           "format": "2D",
           "language": "Hindi",
           "shows": 4,
-          "gross": 5200.0,
-          "sold": 4,
+          "gross": 7800.0,
+          "sold": 6,
           "totalSeats": 549
+        }
+      }
+    },
+    "Padayappa": {
+      "formats": {
+        "ET00005943": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 389
         }
       }
     }
