@@ -1,6 +1,6 @@
 {
   "date": "2025-12-27",
-  "lastUpdated": "07:48 PM, 27 December 2025",
+  "lastUpdated": "08:48 PM, 27 December 2025",
   "shows": [
     {
       "movie_id": "WVsTy4cKtgspdA5kes9sMa",
@@ -6026,16 +6026,18 @@
       "movie_id": "WVsTy4cKtgspdA5kes9sMa",
       "movie_name": "Tu Meri Main Tera Main Tera Tu Meri",
       "show_id": "149660:qfx-labim",
-      "venue": "qfx-labim",
-      "theatre": "QFX Labim - AUDI 3",
-      "date": "2025-12-27T21:15:00+05:45",
-      "time": "",
-      "seats": 183,
-      "sold": 24,
+      "venue": null,
+      "theatre": null,
+      "date": "2025-12-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 159,
-      "gross": 11520,
-      "occupancy_percent": 13.11
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "WVsTy4cKtgspdA5kes9sMa",
@@ -6166,11 +6168,11 @@
       "date": "2025-12-27T21:15:00+05:45",
       "time": "",
       "seats": 51,
-      "sold": 2,
-      "reserved": 2,
-      "available": 47,
-      "gross": 5600,
-      "occupancy_percent": 7.84
+      "sold": 9,
+      "reserved": 6,
+      "available": 36,
+      "gross": 21000,
+      "occupancy_percent": 29.41
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -6363,26 +6365,28 @@
       "date": "2025-12-27T21:15:00+05:45",
       "time": "",
       "seats": 134,
-      "sold": 6,
+      "sold": 8,
       "reserved": 0,
-      "available": 128,
-      "gross": 2580,
-      "occupancy_percent": 4.48
+      "available": 126,
+      "gross": 3440,
+      "occupancy_percent": 5.97
     },
     {
       "movie_id": "qvHmyEj2pzQ2y87B2Tneqn",
       "movie_name": "Anaconda",
       "show_id": "149569:qfx-one-stop-mall",
-      "venue": "qfx-one-stop-mall",
-      "theatre": "QFX One Stop, Birtamod - AUDI 1",
-      "date": "2025-12-27T21:10:00+05:45",
-      "time": "",
-      "seats": 138,
+      "venue": null,
+      "theatre": null,
+      "date": "2025-12-27",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 138,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "txgxCnmZREqoEgdtacpQWf",
@@ -6438,11 +6442,11 @@
       "date": "2025-12-27T22:00:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 0,
+      "sold": 6,
       "reserved": 0,
-      "available": 177,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 171,
+      "gross": 2980,
+      "occupancy_percent": 3.39
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -6453,11 +6457,11 @@
       "date": "2025-12-27T21:30:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 10,
-      "reserved": 2,
-      "available": 202,
-      "gross": 4200,
-      "occupancy_percent": 5.61
+      "sold": 20,
+      "reserved": 4,
+      "available": 190,
+      "gross": 8400,
+      "occupancy_percent": 11.21
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -6468,11 +6472,11 @@
       "date": "2025-12-27T21:30:00+05:45",
       "time": "",
       "seats": 53,
-      "sold": 20,
+      "sold": 25,
       "reserved": 0,
-      "available": 33,
-      "gross": 32000,
-      "occupancy_percent": 37.74
+      "available": 28,
+      "gross": 40000,
+      "occupancy_percent": 47.17
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -6483,11 +6487,11 @@
       "date": "2025-12-27T21:30:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 35,
-      "reserved": 4,
-      "available": 143,
-      "gross": 24960,
-      "occupancy_percent": 21.43
+      "sold": 58,
+      "reserved": 0,
+      "available": 124,
+      "gross": 37120,
+      "occupancy_percent": 31.87
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -6516,10 +6520,10 @@
       "time": "",
       "seats": 165,
       "sold": 3,
-      "reserved": 0,
-      "available": 162,
-      "gross": 1620,
-      "occupancy_percent": 1.82
+      "reserved": 2,
+      "available": 160,
+      "gross": 2700,
+      "occupancy_percent": 3.03
     }
   ]
 }
