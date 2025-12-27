@@ -1,17 +1,9 @@
 {
   "date": "20251228",
-  "lastUpdated": "07:45 PM, 27 December 2025",
+  "lastUpdated": "08:45 PM, 27 December 2025",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 96,
-          "gross": 7011050.0,
-          "sold": 2887,
-          "totalSeats": 16788
-        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -20,77 +12,41 @@
           "sold": 52,
           "totalSeats": 765
         },
-        "ET00005945": {
-          "format": "3D",
-          "language": "Tamil",
-          "shows": 11,
-          "gross": 113350.0,
-          "sold": 118,
-          "totalSeats": 2195
-        },
         "ET00005946": {
           "format": "2D",
           "language": "Tamil",
           "shows": 2,
-          "gross": 8800.0,
-          "sold": 11,
+          "gross": 13000.0,
+          "sold": 15,
           "totalSeats": 280
-        }
-      }
-    },
-    "Ayu": {
-      "formats": {
-        "ET00005878": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 40300.0,
-          "sold": 35,
-          "totalSeats": 263
-        }
-      }
-    },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 11,
-          "gross": 31200.0,
-          "sold": 24,
-          "totalSeats": 2020
-        }
-      }
-    },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 55,
-          "gross": 138200.0,
-          "sold": 160,
-          "totalSeats": 9434
-        }
-      }
-    },
-    "Predator: Badlands": {
-      "formats": {
-        "ET00005901": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 111
         },
-        "ET00005924": {
+        "ET00005945": {
+          "format": "3D",
+          "language": "Tamil",
+          "shows": 11,
+          "gross": 120400.0,
+          "sold": 124,
+          "totalSeats": 2195
+        },
+        "ET00005938": {
           "format": "3D",
           "language": "English",
-          "shows": 1,
-          "gross": 5400.0,
-          "sold": 2,
-          "totalSeats": 22
+          "shows": 96,
+          "gross": 7282150.0,
+          "sold": 3066,
+          "totalSeats": 16788
+        }
+      }
+    },
+    "Padayappa": {
+      "formats": {
+        "ET00005943": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 4,
+          "gross": 18000.0,
+          "sold": 18,
+          "totalSeats": 389
         }
       }
     },
@@ -100,17 +56,61 @@
           "format": "3D",
           "language": "English",
           "shows": 27,
-          "gross": 457200.0,
-          "sold": 341,
+          "gross": 536600.0,
+          "sold": 401,
           "totalSeats": 3339
         },
         "ET00005925": {
           "format": "2D",
           "language": "English",
           "shows": 9,
-          "gross": 151900.0,
-          "sold": 108,
+          "gross": 172600.0,
+          "sold": 123,
           "totalSeats": 1061
+        }
+      }
+    },
+    "Ayu": {
+      "formats": {
+        "ET00005878": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 48700.0,
+          "sold": 42,
+          "totalSeats": 263
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 55,
+          "gross": 149850.0,
+          "sold": 181,
+          "totalSeats": 9434
+        }
+      }
+    },
+    "Predator: Badlands": {
+      "formats": {
+        "ET00005924": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 5400.0,
+          "sold": 2,
+          "totalSeats": 22
+        },
+        "ET00005901": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 2400.0,
+          "sold": 2,
+          "totalSeats": 111
         }
       }
     },
@@ -120,8 +120,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 26,
-          "gross": 107700.0,
-          "sold": 172,
+          "gross": 111250.0,
+          "sold": 171,
           "totalSeats": 4938
         }
       }
@@ -138,6 +138,30 @@
         }
       }
     },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 11,
+          "gross": 35500.0,
+          "sold": 29,
+          "totalSeats": 2020
+        }
+      }
+    },
+    "Sirai": {
+      "formats": {
+        "ET00005951": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 16,
+          "gross": 16100.0,
+          "sold": 22,
+          "totalSeats": 1961
+        }
+      }
+    },
     "Mr.Mrs": {
       "formats": {
         "ET00005919": {
@@ -150,15 +174,15 @@
         }
       }
     },
-    "Dhurandhar": {
+    "Runseokjin Ep. Tour The Movie": {
       "formats": {
-        "ET00005937": {
+        "ET00005947": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 8,
-          "gross": 202400.0,
-          "sold": 97,
-          "totalSeats": 723
+          "language": "Korean",
+          "shows": 3,
+          "gross": 418950.0,
+          "sold": 196,
+          "totalSeats": 253
         }
       }
     },
@@ -168,21 +192,9 @@
           "format": "2D",
           "language": "English",
           "shows": 25,
-          "gross": 164000.0,
-          "sold": 109,
+          "gross": 167300.0,
+          "sold": 114,
           "totalSeats": 3704
-        }
-      }
-    },
-    "Runseokjin Ep. Tour The Movie": {
-      "formats": {
-        "ET00005947": {
-          "format": "2D",
-          "language": "Korean",
-          "shows": 3,
-          "gross": 412650.0,
-          "sold": 193,
-          "totalSeats": 253
         }
       }
     },
@@ -192,8 +204,8 @@
           "format": "2D",
           "language": "English",
           "shows": 1,
-          "gross": 20900.0,
-          "sold": 19,
+          "gross": 25300.0,
+          "sold": 23,
           "totalSeats": 99
         }
       }
@@ -215,18 +227,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 133
-        }
-      }
-    },
-    "Sirai": {
-      "formats": {
-        "ET00005951": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 13,
-          "gross": 8100.0,
-          "sold": 10,
-          "totalSeats": 1583
         }
       }
     },
@@ -254,15 +254,15 @@
         }
       }
     },
-    "Padayappa": {
+    "Dhurandhar": {
       "formats": {
-        "ET00005943": {
+        "ET00005937": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 4,
-          "gross": 12500.0,
-          "sold": 13,
-          "totalSeats": 389
+          "language": "Hindi",
+          "shows": 8,
+          "gross": 194000.0,
+          "sold": 91,
+          "totalSeats": 723
         }
       }
     }
