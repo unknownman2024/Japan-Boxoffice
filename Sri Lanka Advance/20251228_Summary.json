@@ -1,16 +1,24 @@
 {
   "date": "20251228",
-  "lastUpdated": "08:50 AM, 27 December 2025",
+  "lastUpdated": "09:59 AM, 27 December 2025",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005938": {
           "format": "3D",
           "language": "English",
-          "shows": 96,
-          "gross": 5412800.0,
-          "sold": 1845,
-          "totalSeats": 16711
+          "shows": 95,
+          "gross": 5509050.0,
+          "sold": 1914,
+          "totalSeats": 16609
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 6,
+          "gross": 50200.0,
+          "sold": 29,
+          "totalSeats": 765
         },
         "ET00005946": {
           "format": "2D",
@@ -24,17 +32,9 @@
           "format": "3D",
           "language": "Tamil",
           "shows": 14,
-          "gross": 108700.0,
-          "sold": 110,
+          "gross": 118000.0,
+          "sold": 120,
           "totalSeats": 3098
-        },
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 6,
-          "gross": 47000.0,
-          "sold": 27,
-          "totalSeats": 765
         }
       }
     },
@@ -52,21 +52,21 @@
     },
     "Zootopia 2": {
       "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 25,
-          "gross": 220000.0,
-          "sold": 165,
-          "totalSeats": 3060
-        },
         "ET00005925": {
           "format": "2D",
           "language": "English",
           "shows": 9,
-          "gross": 64500.0,
-          "sold": 46,
+          "gross": 74500.0,
+          "sold": 53,
           "totalSeats": 1061
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 25,
+          "gross": 247500.0,
+          "sold": 185,
+          "totalSeats": 3060
         }
       }
     },
@@ -76,21 +76,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 55,
-          "gross": 40550.0,
+          "gross": 40950.0,
           "sold": 53,
           "totalSeats": 9434
-        }
-      }
-    },
-    "Ayu": {
-      "formats": {
-        "ET00005878": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 15400.0,
-          "sold": 13,
-          "totalSeats": 263
         }
       }
     },
@@ -100,8 +88,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 11,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 2800.0,
+          "sold": 2,
           "totalSeats": 2020
         }
       }
@@ -132,21 +120,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 26,
-          "gross": 48850.0,
-          "sold": 77,
+          "gross": 52900.0,
+          "sold": 84,
           "totalSeats": 4938
-        }
-      }
-    },
-    "Runseokjin Ep. Tour The Movie": {
-      "formats": {
-        "ET00005947": {
-          "format": "2D",
-          "language": "Korean",
-          "shows": 3,
-          "gross": 406350.0,
-          "sold": 190,
-          "totalSeats": 253
         }
       }
     },
@@ -162,71 +138,15 @@
         }
       }
     },
-    "Anaconda": {
+    "Ayu": {
       "formats": {
-        "ET00005929": {
-          "format": "2D",
-          "language": "English",
-          "shows": 24,
-          "gross": 40800.0,
-          "sold": 24,
-          "totalSeats": 3602
-        }
-      }
-    },
-    "Mr.Mrs": {
-      "formats": {
-        "ET00005919": {
+        "ET00005878": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 17,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 3168
-        }
-      }
-    },
-    "Wicked: For Good": {
-      "formats": {
-        "ET00005916": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 4400.0,
-          "sold": 4,
-          "totalSeats": 99
-        }
-      }
-    },
-    "Adhiran": {
-      "formats": {
-        "ET00005934": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0,
-          "sold": 0,
-          "totalSeats": 0
-        },
-        "ET00005935": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 133
-        }
-      }
-    },
-    "Cyanide": {
-      "formats": {
-        "ET00005950": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 10,
-          "gross": 340.0,
-          "sold": 2,
-          "totalSeats": 2059
+          "shows": 2,
+          "gross": 15400.0,
+          "sold": 13,
+          "totalSeats": 263
         }
       }
     },
@@ -239,6 +159,50 @@
           "gross": 113450.0,
           "sold": 48,
           "totalSeats": 723
+        }
+      }
+    },
+    "Anaconda": {
+      "formats": {
+        "ET00005929": {
+          "format": "2D",
+          "language": "English",
+          "shows": 25,
+          "gross": 43800.0,
+          "sold": 28,
+          "totalSeats": 3704
+        }
+      }
+    },
+    "Runseokjin Ep. Tour The Movie": {
+      "formats": {
+        "ET00005947": {
+          "format": "2D",
+          "language": "Korean",
+          "shows": 3,
+          "gross": 406350.0,
+          "sold": 190,
+          "totalSeats": 253
+        }
+      }
+    },
+    "Adhiran": {
+      "formats": {
+        "ET00005935": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 133
+        },
+        "ET00005934": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0,
+          "sold": 0,
+          "totalSeats": 0
         }
       }
     },
@@ -260,9 +224,45 @@
           "format": "2D",
           "language": "Hindi",
           "shows": 4,
-          "gross": 1300.0,
-          "sold": 1,
+          "gross": 5200.0,
+          "sold": 4,
           "totalSeats": 549
+        }
+      }
+    },
+    "Cyanide": {
+      "formats": {
+        "ET00005950": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 10,
+          "gross": 340.0,
+          "sold": 2,
+          "totalSeats": 2059
+        }
+      }
+    },
+    "Wicked: For Good": {
+      "formats": {
+        "ET00005916": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 4400.0,
+          "sold": 4,
+          "totalSeats": 99
+        }
+      }
+    },
+    "Mr.Mrs": {
+      "formats": {
+        "ET00005919": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 17,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 3168
         }
       }
     }
