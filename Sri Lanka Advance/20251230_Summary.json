@@ -1,27 +1,15 @@
 {
   "date": "20251230",
-  "lastUpdated": "04:45 AM, 29 December 2025",
+  "lastUpdated": "09:15 AM, 29 December 2025",
   "movies": {
-    "Padayappa": {
-      "formats": {
-        "ET00005943": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 389
-        }
-      }
-    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005938": {
           "format": "3D",
           "language": "English",
           "shows": 95,
-          "gross": 1977550.0,
-          "sold": 633,
+          "gross": 2045750.0,
+          "sold": 653,
           "totalSeats": 16529
         },
         "ET00005939": {
@@ -32,6 +20,14 @@
           "sold": 2,
           "totalSeats": 627
         },
+        "ET00005945": {
+          "format": "3D",
+          "language": "Tamil",
+          "shows": 10,
+          "gross": 4000.0,
+          "sold": 4,
+          "totalSeats": 2085
+        },
         "ET00005946": {
           "format": "2D",
           "language": "Tamil",
@@ -39,14 +35,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 142
-        },
-        "ET00005945": {
-          "format": "3D",
-          "language": "Tamil",
-          "shows": 10,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 2085
         }
       }
     },
@@ -56,8 +44,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 51,
-          "gross": 7900.0,
-          "sold": 9,
+          "gross": 9900.0,
+          "sold": 11,
           "totalSeats": 8642
         }
       }
@@ -82,6 +70,42 @@
         }
       }
     },
+    "Ayu": {
+      "formats": {
+        "ET00005878": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 263
+        }
+      }
+    },
+    "Padayappa": {
+      "formats": {
+        "ET00005943": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 389
+        }
+      }
+    },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 10,
+          "gross": 6200.0,
+          "sold": 5,
+          "totalSeats": 1844
+        }
+      }
+    },
     "Predator: Badlands": {
       "formats": {
         "ET00005924": {
@@ -102,39 +126,15 @@
         }
       }
     },
-    "Ayu": {
+    "Neera": {
       "formats": {
-        "ET00005878": {
+        "ET00005849": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 2,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 263
-        }
-      }
-    },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 10,
-          "gross": 6200.0,
-          "sold": 5,
-          "totalSeats": 1844
-        }
-      }
-    },
-    "Mr.Mrs": {
-      "formats": {
-        "ET00005919": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 15,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2640
+          "shows": 26,
+          "gross": 10300.0,
+          "sold": 16,
+          "totalSeats": 5036
         }
       }
     },
@@ -144,8 +144,8 @@
           "format": "2D",
           "language": "Hindi",
           "shows": 8,
-          "gross": 45150.0,
-          "sold": 23,
+          "gross": 47950.0,
+          "sold": 25,
           "totalSeats": 723
         }
       }
@@ -162,28 +162,8 @@
         }
       }
     },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 26,
-          "gross": 10300.0,
-          "sold": 16,
-          "totalSeats": 5036
-        }
-      }
-    },
     "Wicked: For Good": {
       "formats": {
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 19000.0,
-          "sold": 19,
-          "totalSeats": 121
-        },
         "ET00005916": {
           "format": "2D",
           "language": "English",
@@ -191,6 +171,70 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 99
+        },
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 19000.0,
+          "sold": 19,
+          "totalSeats": 121
+        }
+      }
+    },
+    "Mr.Mrs": {
+      "formats": {
+        "ET00005919": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 15,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 2640
+        }
+      }
+    },
+    "Retta Thala": {
+      "formats": {
+        "ET00005949": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 13,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1700
+        }
+      }
+    },
+    "Adhiran": {
+      "formats": {
+        "ET00005934": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0,
+          "sold": 0,
+          "totalSeats": 0
+        },
+        "ET00005935": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 133
+        }
+      }
+    },
+    "Tu Meri Main Tera Main Tera Tu Meri": {
+      "formats": {
+        "ET00005948": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 409
         }
       }
     },
@@ -215,50 +259,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 2235
-        }
-      }
-    },
-    "Retta Thala": {
-      "formats": {
-        "ET00005949": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 13,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1700
-        }
-      }
-    },
-    "Adhiran": {
-      "formats": {
-        "ET00005935": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 133
-        },
-        "ET00005934": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0,
-          "sold": 0,
-          "totalSeats": 0
-        }
-      }
-    },
-    "Tu Meri Main Tera Main Tera Tu Meri": {
-      "formats": {
-        "ET00005948": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 409
         }
       }
     }
