@@ -1,25 +1,226 @@
 {
   "date": "20251230",
-  "lastUpdated": "04:46 AM, 30 December 2025",
+  "lastUpdated": "06:51 AM, 30 December 2025",
   "movies": {
     "Avatar: Fire and Ash": {
-      "totalShows": 1,
-      "totalGross": 123200.0,
-      "totalSold": 28,
-      "totalSeats": 305,
+      "totalShows": 13,
+      "totalGross": 296650.0,
+      "totalSold": 177,
+      "totalSeats": 2181,
       "formats": {
         "ET00005938": {
           "format": "3D",
           "language": "English",
+          "shows": 10,
+          "gross": 274950.0,
+          "sold": 158,
+          "totalSeats": 1662,
+          "fastfilling": 0,
+          "housefull": 0
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
           "shows": 1,
-          "gross": 123200.0,
-          "sold": 28,
-          "totalSeats": 305,
+          "gross": 12800.0,
+          "sold": 8,
+          "totalSeats": 99,
+          "fastfilling": 0,
+          "housefull": 0
+        },
+        "ET00005945": {
+          "format": "3D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 8900.0,
+          "sold": 11,
+          "totalSeats": 420,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 9.18
+      "globalOccupancy": 8.12
+    },
+    "Padayappa": {
+      "totalShows": 1,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 138,
+      "formats": {
+        "ET00005943": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 138,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "Zootopia 2": {
+      "totalShows": 5,
+      "totalGross": 54600.0,
+      "totalSold": 47,
+      "totalSeats": 689,
+      "formats": {
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 12600.0,
+          "sold": 9,
+          "totalSeats": 240,
+          "fastfilling": 0,
+          "housefull": 0
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 42000.0,
+          "sold": 38,
+          "totalSeats": 449,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 6.82
+    },
+    "Maariya": {
+      "totalShows": 1,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 216,
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 216,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "Retta Thala": {
+      "totalShows": 1,
+      "totalGross": 3200.0,
+      "totalSold": 4,
+      "totalSeats": 184,
+      "formats": {
+        "ET00005949": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 3200.0,
+          "sold": 4,
+          "totalSeats": 184,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 2.17
+    },
+    "Neera": {
+      "totalShows": 4,
+      "totalGross": 8000.0,
+      "totalSold": 20,
+      "totalSeats": 860,
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 4,
+          "gross": 8000.0,
+          "sold": 20,
+          "totalSeats": 860,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 2.33
+    },
+    "Dhurandhar": {
+      "totalShows": 1,
+      "totalGross": 11200.0,
+      "totalSold": 8,
+      "totalSeats": 101,
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 11200.0,
+          "sold": 8,
+          "totalSeats": 101,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 7.92
+    },
+    "Cyanide": {
+      "totalShows": 1,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 107,
+      "formats": {
+        "ET00005950": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 107,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "Anaconda": {
+      "totalShows": 2,
+      "totalGross": 12600.0,
+      "totalSold": 4,
+      "totalSeats": 175,
+      "formats": {
+        "ET00005929": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 12600.0,
+          "sold": 4,
+          "totalSeats": 175,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 2.29
+    },
+    "Moda Tharidu": {
+      "totalShows": 6,
+      "totalGross": 20700.0,
+      "totalSold": 28,
+      "totalSeats": 1252,
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 6,
+          "gross": 20700.0,
+          "sold": 28,
+          "totalSeats": 1252,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 2.24
     }
   }
 }
