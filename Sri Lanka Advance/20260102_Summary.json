@@ -1,9 +1,25 @@
 {
   "date": "20260102",
-  "lastUpdated": "02:45 AM, 01 January 2026",
+  "lastUpdated": "03:47 AM, 01 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 75,
+          "gross": 1435500.0,
+          "sold": 366,
+          "totalSeats": 15465
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 286
+        },
         "ET00005946": {
           "format": "2D",
           "language": "Tamil",
@@ -19,46 +35,6 @@
           "gross": 5000.0,
           "sold": 5,
           "totalSeats": 2960
-        },
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 286
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 75,
-          "gross": 1435500.0,
-          "sold": 366,
-          "totalSeats": 15465
-        }
-      }
-    },
-    "Padayappa": {
-      "formats": {
-        "ET00005943": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 389
-        }
-      }
-    },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 24,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 5531
         }
       }
     },
@@ -82,47 +58,15 @@
         }
       }
     },
-    "Maariya": {
+    "Padayappa": {
       "formats": {
-        "ET00005918": {
+        "ET00005943": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 5,
+          "language": "Tamil",
+          "shows": 3,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 726
-        }
-      }
-    },
-    "Predator: Badlands": {
-      "formats": {
-        "ET00005901": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 263
-        },
-        "ET00005924": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 22
-        }
-      }
-    },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 12,
-          "gross": 5000.0,
-          "sold": 10,
-          "totalSeats": 2580
+          "totalSeats": 389
         }
       }
     },
@@ -138,15 +82,35 @@
         }
       }
     },
-    "Sirai": {
+    "Predator: Badlands": {
       "formats": {
-        "ET00005951": {
+        "ET00005924": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 22
+        },
+        "ET00005901": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 16,
-          "gross": 3200.0,
-          "sold": 4,
-          "totalSeats": 2659
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 263
+        }
+      }
+    },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 726
         }
       }
     },
@@ -159,6 +123,30 @@
           "gross": 6900.0,
           "sold": 9,
           "totalSeats": 5794
+        }
+      }
+    },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 12,
+          "gross": 5000.0,
+          "sold": 10,
+          "totalSeats": 2580
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 24,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 5531
         }
       }
     },
@@ -188,14 +176,6 @@
     },
     "Wicked: For Good": {
       "formats": {
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 121
-        },
         "ET00005916": {
           "format": "2D",
           "language": "English",
@@ -203,50 +183,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 220
-        }
-      }
-    },
-    "Anaconda": {
-      "formats": {
-        "ET00005929": {
-          "format": "2D",
-          "language": "English",
-          "shows": 12,
-          "gross": 9800.0,
-          "sold": 7,
-          "totalSeats": 1519
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 11,
-          "gross": 62100.0,
-          "sold": 37,
-          "totalSeats": 1363
-        }
-      }
-    },
-    "The SpongeBob Movie: Search for SquarePants": {
-      "formats": {
-        "ET00005953": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 14000.0,
-          "sold": 12,
-          "totalSeats": 476
         },
-        "ET00005952": {
+        "ET00005921": {
           "format": "3D",
           "language": "English",
-          "shows": 13,
-          "gross": 10400.0,
-          "sold": 8,
-          "totalSeats": 1835
+          "shows": 1,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 121
         }
       }
     },
@@ -262,15 +206,35 @@
         }
       }
     },
-    "Tu Meri Main Tera Main Tera Tu Meri": {
+    "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
-        "ET00005948": {
+        "ET00005952": {
+          "format": "3D",
+          "language": "English",
+          "shows": 13,
+          "gross": 10400.0,
+          "sold": 8,
+          "totalSeats": 1835
+        },
+        "ET00005953": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 176
+          "language": "English",
+          "shows": 4,
+          "gross": 14000.0,
+          "sold": 12,
+          "totalSeats": 476
+        }
+      }
+    },
+    "Anaconda": {
+      "formats": {
+        "ET00005929": {
+          "format": "2D",
+          "language": "English",
+          "shows": 12,
+          "gross": 9800.0,
+          "sold": 7,
+          "totalSeats": 1519
         }
       }
     },
@@ -283,6 +247,42 @@
           "gross": 600.0,
           "sold": 2,
           "totalSeats": 718
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 11,
+          "gross": 62100.0,
+          "sold": 37,
+          "totalSeats": 1363
+        }
+      }
+    },
+    "Sirai": {
+      "formats": {
+        "ET00005951": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 16,
+          "gross": 3200.0,
+          "sold": 4,
+          "totalSeats": 2659
+        }
+      }
+    },
+    "Tu Meri Main Tera Main Tera Tu Meri": {
+      "formats": {
+        "ET00005948": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 176
         }
       }
     }
