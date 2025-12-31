@@ -1,16 +1,16 @@
 {
   "date": "20260101",
-  "lastUpdated": "10:52 AM, 31 December 2025",
+  "lastUpdated": "11:57 AM, 31 December 2025",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005945": {
-          "format": "3D",
-          "language": "Tamil",
-          "shows": 13,
-          "gross": 16300.0,
-          "sold": 17,
-          "totalSeats": 2811
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 15100.0,
+          "sold": 8,
+          "totalSeats": 528
         },
         "ET00005946": {
           "format": "2D",
@@ -20,21 +20,41 @@
           "sold": 2,
           "totalSeats": 142
         },
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 6100.0,
-          "sold": 2,
-          "totalSeats": 528
+        "ET00005945": {
+          "format": "3D",
+          "language": "Tamil",
+          "shows": 13,
+          "gross": 19300.0,
+          "sold": 20,
+          "totalSeats": 2811
         },
         "ET00005938": {
           "format": "3D",
           "language": "English",
           "shows": 88,
-          "gross": 1567750.0,
-          "sold": 597,
+          "gross": 1576250.0,
+          "sold": 611,
           "totalSeats": 15193
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 10,
+          "gross": 22700.0,
+          "sold": 15,
+          "totalSeats": 1101
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 28,
+          "gross": 48800.0,
+          "sold": 40,
+          "totalSeats": 3779
         }
       }
     },
@@ -44,8 +64,8 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 4,
-          "gross": 1600.0,
-          "sold": 2,
+          "gross": 0.0,
+          "sold": 0,
           "totalSeats": 389
         }
       }
@@ -62,60 +82,20 @@
         }
       }
     },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 28,
-          "gross": 48800.0,
-          "sold": 40,
-          "totalSeats": 3779
-        },
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 10,
-          "gross": 22700.0,
-          "sold": 15,
-          "totalSeats": 1101
-        }
-      }
-    },
     "Maariya": {
       "formats": {
         "ET00005918": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 8,
-          "gross": 8400.0,
-          "sold": 6,
+          "gross": 4200.0,
+          "sold": 3,
           "totalSeats": 1578
-        }
-      }
-    },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 25,
-          "gross": 3000.0,
-          "sold": 8,
-          "totalSeats": 4765
         }
       }
     },
     "Predator: Badlands": {
       "formats": {
-        "ET00005901": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 111
-        },
         "ET00005924": {
           "format": "3D",
           "language": "English",
@@ -123,18 +103,14 @@
           "gross": 18900.0,
           "sold": 7,
           "totalSeats": 22
-        }
-      }
-    },
-    "Ayu": {
-      "formats": {
-        "ET00005878": {
+        },
+        "ET00005901": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 263
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 111
         }
       }
     },
@@ -162,6 +138,30 @@
         }
       }
     },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 25,
+          "gross": 7650.0,
+          "sold": 17,
+          "totalSeats": 4765
+        }
+      }
+    },
+    "Ayu": {
+      "formats": {
+        "ET00005878": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 263
+        }
+      }
+    },
     "Retta Thala": {
       "formats": {
         "ET00005949": {
@@ -174,27 +174,15 @@
         }
       }
     },
-    "Dhurandhar": {
+    "Anaconda": {
       "formats": {
-        "ET00005937": {
+        "ET00005929": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 8,
-          "gross": 46600.0,
-          "sold": 28,
-          "totalSeats": 723
-        }
-      }
-    },
-    "Adhiran": {
-      "formats": {
-        "ET00005934": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0,
-          "sold": 0,
-          "totalSeats": 0
+          "language": "English",
+          "shows": 19,
+          "gross": 43800.0,
+          "sold": 31,
+          "totalSeats": 2607
         }
       }
     },
@@ -218,15 +206,15 @@
         }
       }
     },
-    "Anaconda": {
+    "Dhurandhar": {
       "formats": {
-        "ET00005929": {
+        "ET00005937": {
           "format": "2D",
-          "language": "English",
-          "shows": 19,
+          "language": "Hindi",
+          "shows": 8,
           "gross": 43800.0,
-          "sold": 31,
-          "totalSeats": 2607
+          "sold": 26,
+          "totalSeats": 723
         }
       }
     },
@@ -251,6 +239,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 2135
+        }
+      }
+    },
+    "Adhiran": {
+      "formats": {
+        "ET00005934": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0,
+          "sold": 0,
+          "totalSeats": 0
         }
       }
     }
