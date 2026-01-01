@@ -1,16 +1,16 @@
 {
   "date": "20260102",
-  "lastUpdated": "04:45 PM, 01 January 2026",
+  "lastUpdated": "06:05 PM, 01 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005945": {
+        "ET00005938": {
           "format": "3D",
-          "language": "Tamil",
-          "shows": 13,
-          "gross": 20200.0,
-          "sold": 20,
-          "totalSeats": 2960
+          "language": "English",
+          "shows": 75,
+          "gross": 1937000.0,
+          "sold": 597,
+          "totalSeats": 15465
         },
         "ET00005946": {
           "format": "2D",
@@ -20,41 +20,21 @@
           "sold": 0,
           "totalSeats": 142
         },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 75,
-          "gross": 1811800.0,
-          "sold": 549,
-          "totalSeats": 15465
-        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
           "shows": 2,
-          "gross": 5600.0,
-          "sold": 4,
+          "gross": 6000.0,
+          "sold": 5,
           "totalSeats": 286
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 18,
-          "gross": 70200.0,
-          "sold": 53,
-          "totalSeats": 2335
         },
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 9,
-          "gross": 12200.0,
-          "sold": 9,
-          "totalSeats": 1055
+        "ET00005945": {
+          "format": "3D",
+          "language": "Tamil",
+          "shows": 13,
+          "gross": 19200.0,
+          "sold": 19,
+          "totalSeats": 2960
         }
       }
     },
@@ -64,21 +44,9 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 3,
-          "gross": 3300.0,
-          "sold": 3,
+          "gross": 4900.0,
+          "sold": 5,
           "totalSeats": 389
-        }
-      }
-    },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 7,
-          "gross": 1000.0,
-          "sold": 2,
-          "totalSeats": 1164
         }
       }
     },
@@ -91,6 +59,26 @@
           "gross": 1200.0,
           "sold": 2,
           "totalSeats": 5533
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 18,
+          "gross": 76200.0,
+          "sold": 57,
+          "totalSeats": 2335
+        },
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 9,
+          "gross": 15000.0,
+          "sold": 11,
+          "totalSeats": 1055
         }
       }
     },
@@ -108,14 +96,6 @@
     },
     "Predator: Badlands": {
       "formats": {
-        "ET00005901": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 263
-        },
         "ET00005924": {
           "format": "3D",
           "language": "English",
@@ -123,18 +103,38 @@
           "gross": 4600.0,
           "sold": 2,
           "totalSeats": 22
+        },
+        "ET00005901": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 263
         }
       }
     },
-    "Sirai": {
+    "Maariya": {
       "formats": {
-        "ET00005951": {
+        "ET00005918": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 17,
-          "gross": 3200.0,
-          "sold": 4,
-          "totalSeats": 2837
+          "language": "Sinhala",
+          "shows": 7,
+          "gross": 4200.0,
+          "sold": 3,
+          "totalSeats": 1164
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 36,
+          "gross": 80300.0,
+          "sold": 89,
+          "totalSeats": 7044
         }
       }
     },
@@ -150,27 +150,27 @@
         }
       }
     },
+    "Sirai": {
+      "formats": {
+        "ET00005951": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 17,
+          "gross": 3200.0,
+          "sold": 4,
+          "totalSeats": 2837
+        }
+      }
+    },
     "Neera": {
       "formats": {
         "ET00005849": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 15,
-          "gross": 14700.0,
-          "sold": 25,
+          "gross": 17600.0,
+          "sold": 29,
           "totalSeats": 3336
-        }
-      }
-    },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 9,
-          "gross": 45350.0,
-          "sold": 18,
-          "totalSeats": 807
         }
       }
     },
@@ -180,49 +180,21 @@
           "format": "2D",
           "language": "English",
           "shows": 11,
-          "gross": 69900.0,
-          "sold": 43,
+          "gross": 74700.0,
+          "sold": 47,
           "totalSeats": 1363
         }
       }
     },
-    "The SpongeBob Movie: Search for SquarePants": {
+    "Dhurandhar": {
       "formats": {
-        "ET00005953": {
+        "ET00005937": {
           "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 29600.0,
-          "sold": 26,
-          "totalSeats": 476
-        },
-        "ET00005952": {
-          "format": "3D",
-          "language": "English",
-          "shows": 13,
-          "gross": 22500.0,
-          "sold": 18,
-          "totalSeats": 1835
-        }
-      }
-    },
-    "Wicked: For Good": {
-      "formats": {
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 4400.0,
-          "sold": 4,
-          "totalSeats": 121
-        },
-        "ET00005916": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 220
+          "language": "Hindi",
+          "shows": 9,
+          "gross": 53550.0,
+          "sold": 24,
+          "totalSeats": 807
         }
       }
     },
@@ -232,9 +204,49 @@
           "format": "2D",
           "language": "English",
           "shows": 12,
-          "gross": 42900.0,
-          "sold": 30,
+          "gross": 36100.0,
+          "sold": 26,
           "totalSeats": 1519
+        }
+      }
+    },
+    "The SpongeBob Movie: Search for SquarePants": {
+      "formats": {
+        "ET00005953": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 30700.0,
+          "sold": 27,
+          "totalSeats": 476
+        },
+        "ET00005952": {
+          "format": "3D",
+          "language": "English",
+          "shows": 13,
+          "gross": 20900.0,
+          "sold": 17,
+          "totalSeats": 1835
+        }
+      }
+    },
+    "Wicked: For Good": {
+      "formats": {
+        "ET00005916": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 220
+        },
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 7700.0,
+          "sold": 7,
+          "totalSeats": 121
         }
       }
     },
@@ -271,18 +283,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 176
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 36,
-          "gross": 78800.0,
-          "sold": 84,
-          "totalSeats": 7044
         }
       }
     }
