@@ -1,25 +1,9 @@
 {
   "date": "20260105",
-  "lastUpdated": "02:45 AM, 04 January 2026",
+  "lastUpdated": "03:45 AM, 04 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 76,
-          "gross": 589900.0,
-          "sold": 166,
-          "totalSeats": 12823
-        },
-        "ET00005946": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 281
-        },
         "ET00005945": {
           "format": "3D",
           "language": "Tamil",
@@ -35,6 +19,22 @@
           "gross": 2600.0,
           "sold": 2,
           "totalSeats": 568
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 76,
+          "gross": 589900.0,
+          "sold": 166,
+          "totalSeats": 12823
+        },
+        "ET00005946": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 281
         }
       }
     },
@@ -55,30 +55,6 @@
           "gross": 2000.0,
           "sold": 2,
           "totalSeats": 876
-        }
-      }
-    },
-    "Padayappa": {
-      "formats": {
-        "ET00005943": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 391
-        }
-      }
-    },
-    "Ayu": {
-      "formats": {
-        "ET00005878": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 1000.0,
-          "sold": 1,
-          "totalSeats": 232
         }
       }
     },
@@ -111,6 +87,42 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 22
+        }
+      }
+    },
+    "Ayu": {
+      "formats": {
+        "ET00005878": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 1000.0,
+          "sold": 1,
+          "totalSeats": 232
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 39,
+          "gross": 4900.0,
+          "sold": 14,
+          "totalSeats": 7874
+        }
+      }
+    },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 16,
+          "gross": 2450.0,
+          "sold": 7,
+          "totalSeats": 3330
         }
       }
     },
@@ -152,14 +164,6 @@
     },
     "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
-        "ET00005953": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 236
-        },
         "ET00005952": {
           "format": "3D",
           "language": "English",
@@ -167,6 +171,26 @@
           "gross": 3200.0,
           "sold": 3,
           "totalSeats": 2570
+        },
+        "ET00005953": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 236
+        }
+      }
+    },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 8,
+          "gross": 6500.0,
+          "sold": 5,
+          "totalSeats": 706
         }
       }
     },
@@ -190,27 +214,15 @@
         }
       }
     },
-    "Malaki Duwe Numba": {
+    "Cyanide": {
       "formats": {
-        "ET00005955": {
+        "ET00005950": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 39,
-          "gross": 5600.0,
-          "sold": 16,
-          "totalSeats": 7874
-        }
-      }
-    },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 16,
-          "gross": 2450.0,
-          "sold": 7,
-          "totalSeats": 3330
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1008
         }
       }
     },
@@ -226,15 +238,15 @@
         }
       }
     },
-    "Cyanide": {
+    "Tu Meri Main Tera Main Tera Tu Meri": {
       "formats": {
-        "ET00005950": {
+        "ET00005948": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1008
+          "language": "Hindi",
+          "shows": 2,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 135
         }
       }
     },
@@ -250,27 +262,15 @@
         }
       }
     },
-    "Dhurandhar": {
+    "Padayappa": {
       "formats": {
-        "ET00005937": {
+        "ET00005943": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 8,
-          "gross": 6500.0,
-          "sold": 5,
-          "totalSeats": 706
-        }
-      }
-    },
-    "Tu Meri Main Tera Main Tera Tu Meri": {
-      "formats": {
-        "ET00005948": {
-          "format": "2D",
-          "language": "Hindi",
+          "language": "Tamil",
           "shows": 2,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 135
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 391
         }
       }
     },
