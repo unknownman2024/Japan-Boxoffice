@@ -1,32 +1,16 @@
 {
   "date": "20260105",
-  "lastUpdated": "07:45 PM, 04 January 2026",
+  "lastUpdated": "08:45 PM, 04 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005946": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 281
-        },
         "ET00005938": {
           "format": "3D",
           "language": "English",
           "shows": 81,
-          "gross": 848750.0,
-          "sold": 292,
+          "gross": 888400.0,
+          "sold": 313,
           "totalSeats": 14388
-        },
-        "ET00005945": {
-          "format": "3D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 7000.0,
-          "sold": 7,
-          "totalSeats": 2134
         },
         "ET00005939": {
           "format": "2D",
@@ -35,6 +19,34 @@
           "gross": 2600.0,
           "sold": 2,
           "totalSeats": 568
+        },
+        "ET00005946": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 281
+        },
+        "ET00005945": {
+          "format": "3D",
+          "language": "Tamil",
+          "shows": 9,
+          "gross": 19000.0,
+          "sold": 19,
+          "totalSeats": 2134
+        }
+      }
+    },
+    "Padayappa": {
+      "formats": {
+        "ET00005943": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 391
         }
       }
     },
@@ -50,22 +62,34 @@
         }
       }
     },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 6,
+          "gross": 9800.0,
+          "sold": 10,
+          "totalSeats": 1062
+        }
+      }
+    },
     "Zootopia 2": {
       "formats": {
         "ET00005930": {
           "format": "3D",
           "language": "English",
           "shows": 17,
-          "gross": 24100.0,
-          "sold": 22,
+          "gross": 27100.0,
+          "sold": 25,
           "totalSeats": 2365
         },
         "ET00005925": {
           "format": "2D",
           "language": "English",
           "shows": 7,
-          "gross": 16000.0,
-          "sold": 16,
+          "gross": 14000.0,
+          "sold": 14,
           "totalSeats": 876
         }
       }
@@ -79,18 +103,6 @@
           "gross": 3000.0,
           "sold": 3,
           "totalSeats": 232
-        }
-      }
-    },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 6,
-          "gross": 9800.0,
-          "sold": 10,
-          "totalSeats": 1062
         }
       }
     },
@@ -114,37 +126,13 @@
         }
       }
     },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 18,
-          "gross": 12400.0,
-          "sold": 21,
-          "totalSeats": 4013
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 42,
-          "gross": 11850.0,
-          "sold": 30,
-          "totalSeats": 8386
-        }
-      }
-    },
     "Sirai": {
       "formats": {
         "ET00005951": {
           "format": "2D",
           "language": "Tamil",
           "shows": 13,
-          "gross": 1100.0,
+          "gross": 2000.0,
           "sold": 2,
           "totalSeats": 2312
         }
@@ -162,28 +150,20 @@
         }
       }
     },
-    "Dhurandhar": {
+    "Neera": {
       "formats": {
-        "ET00005937": {
+        "ET00005849": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 8,
-          "gross": 9100.0,
-          "sold": 7,
-          "totalSeats": 706
+          "language": "Sinhala",
+          "shows": 18,
+          "gross": 16000.0,
+          "sold": 27,
+          "totalSeats": 4013
         }
       }
     },
     "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
-        "ET00005952": {
-          "format": "3D",
-          "language": "English",
-          "shows": 16,
-          "gross": 7800.0,
-          "sold": 8,
-          "totalSeats": 2317
-        },
         "ET00005953": {
           "format": "2D",
           "language": "English",
@@ -191,6 +171,14 @@
           "gross": 4000.0,
           "sold": 4,
           "totalSeats": 236
+        },
+        "ET00005952": {
+          "format": "3D",
+          "language": "English",
+          "shows": 16,
+          "gross": 7800.0,
+          "sold": 8,
+          "totalSeats": 2317
         }
       }
     },
@@ -208,14 +196,6 @@
     },
     "Wicked: For Good": {
       "formats": {
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 121
-        },
         "ET00005916": {
           "format": "2D",
           "language": "English",
@@ -223,6 +203,38 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 220
+        },
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 121
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 42,
+          "gross": 13350.0,
+          "sold": 32,
+          "totalSeats": 8386
+        }
+      }
+    },
+    "Cyanide": {
+      "formats": {
+        "ET00005950": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1008
         }
       }
     },
@@ -250,39 +262,27 @@
         }
       }
     },
-    "Cyanide": {
-      "formats": {
-        "ET00005950": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1008
-        }
-      }
-    },
-    "Padayappa": {
-      "formats": {
-        "ET00005943": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 1600.0,
-          "sold": 2,
-          "totalSeats": 391
-        }
-      }
-    },
     "The Housemaid": {
       "formats": {
         "ET00005954": {
           "format": "2D",
           "language": "English",
           "shows": 11,
-          "gross": 55000.0,
-          "sold": 27,
+          "gross": 57200.0,
+          "sold": 29,
           "totalSeats": 1363
+        }
+      }
+    },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 8,
+          "gross": 15600.0,
+          "sold": 9,
+          "totalSeats": 706
         }
       }
     }
