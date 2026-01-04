@@ -1,25 +1,9 @@
 {
   "date": "20260105",
-  "lastUpdated": "10:44 PM, 04 January 2026",
+  "lastUpdated": "11:54 PM, 04 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005946": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 3200.0,
-          "sold": 4,
-          "totalSeats": 281
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 81,
-          "gross": 977800.0,
-          "sold": 356,
-          "totalSeats": 14388
-        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -35,6 +19,22 @@
           "gross": 14000.0,
           "sold": 14,
           "totalSeats": 2134
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 81,
+          "gross": 992600.0,
+          "sold": 368,
+          "totalSeats": 14388
+        },
+        "ET00005946": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 3200.0,
+          "sold": 4,
+          "totalSeats": 281
         }
       }
     },
@@ -47,18 +47,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 391
-        }
-      }
-    },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 28,
-          "gross": 1600.0,
-          "sold": 4,
-          "totalSeats": 6628
         }
       }
     },
@@ -76,9 +64,21 @@
           "format": "2D",
           "language": "English",
           "shows": 7,
-          "gross": 18000.0,
-          "sold": 18,
+          "gross": 16000.0,
+          "sold": 16,
           "totalSeats": 876
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 29,
+          "gross": 1600.0,
+          "sold": 4,
+          "totalSeats": 6845
         }
       }
     },
@@ -100,41 +100,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 6,
-          "gross": 9800.0,
-          "sold": 10,
+          "gross": 14600.0,
+          "sold": 14,
           "totalSeats": 1062
-        }
-      }
-    },
-    "Predator: Badlands": {
-      "formats": {
-        "ET00005901": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 263
-        },
-        "ET00005924": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 22
-        }
-      }
-    },
-    "Retta Thala": {
-      "formats": {
-        "ET00005949": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 6,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 916
         }
       }
     },
@@ -144,9 +112,29 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 42,
-          "gross": 14050.0,
-          "sold": 36,
+          "gross": 13150.0,
+          "sold": 34,
           "totalSeats": 8386
+        }
+      }
+    },
+    "Predator: Badlands": {
+      "formats": {
+        "ET00005924": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 22
+        },
+        "ET00005901": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 263
         }
       }
     },
@@ -156,21 +144,21 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 13,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 4000.0,
+          "sold": 4,
           "totalSeats": 2312
         }
       }
     },
-    "Anaconda": {
+    "Retta Thala": {
       "formats": {
-        "ET00005929": {
+        "ET00005949": {
           "format": "2D",
-          "language": "English",
-          "shows": 10,
-          "gross": 14000.0,
-          "sold": 14,
-          "totalSeats": 1240
+          "language": "Tamil",
+          "shows": 6,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 916
         }
       }
     },
@@ -186,23 +174,27 @@
         }
       }
     },
-    "The SpongeBob Movie: Search for SquarePants": {
+    "Mr.Mrs": {
       "formats": {
-        "ET00005952": {
-          "format": "3D",
-          "language": "English",
-          "shows": 16,
-          "gross": 12000.0,
-          "sold": 12,
-          "totalSeats": 2317
-        },
-        "ET00005953": {
+        "ET00005919": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 7,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 2244
+        }
+      }
+    },
+    "Anaconda": {
+      "formats": {
+        "ET00005929": {
           "format": "2D",
           "language": "English",
-          "shows": 2,
-          "gross": 4000.0,
-          "sold": 4,
-          "totalSeats": 236
+          "shows": 10,
+          "gross": 15000.0,
+          "sold": 15,
+          "totalSeats": 1240
         }
       }
     },
@@ -212,9 +204,29 @@
           "format": "2D",
           "language": "English",
           "shows": 11,
-          "gross": 69550.0,
-          "sold": 36,
+          "gross": 67350.0,
+          "sold": 34,
           "totalSeats": 1363
+        }
+      }
+    },
+    "The SpongeBob Movie: Search for SquarePants": {
+      "formats": {
+        "ET00005953": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 4000.0,
+          "sold": 4,
+          "totalSeats": 236
+        },
+        "ET00005952": {
+          "format": "3D",
+          "language": "English",
+          "shows": 16,
+          "gross": 12000.0,
+          "sold": 12,
+          "totalSeats": 2317
         }
       }
     },
@@ -244,8 +256,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 4,
-          "gross": 600.0,
-          "sold": 2,
+          "gross": 0.0,
+          "sold": 0,
           "totalSeats": 1008
         }
       }
@@ -271,18 +283,6 @@
           "gross": 15600.0,
           "sold": 9,
           "totalSeats": 706
-        }
-      }
-    },
-    "Mr.Mrs": {
-      "formats": {
-        "ET00005919": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 6,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2027
         }
       }
     }
