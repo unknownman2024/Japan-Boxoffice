@@ -1,17 +1,9 @@
 {
   "date": "20260106",
-  "lastUpdated": "02:58 PM, 05 January 2026",
+  "lastUpdated": "03:51 PM, 05 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005946": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
-        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -20,12 +12,20 @@
           "sold": 0,
           "totalSeats": 430
         },
+        "ET00005946": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
+        },
         "ET00005938": {
           "format": "3D",
           "language": "English",
           "shows": 82,
-          "gross": 536250.0,
-          "sold": 157,
+          "gross": 580050.0,
+          "sold": 178,
           "totalSeats": 14507
         },
         "ET00005945": {
@@ -50,6 +50,18 @@
         }
       }
     },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 34,
+          "gross": 900.0,
+          "sold": 2,
+          "totalSeats": 6688
+        }
+      }
+    },
     "Zootopia 2": {
       "formats": {
         "ET00005930": {
@@ -67,18 +79,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 876
-        }
-      }
-    },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 34,
-          "gross": 900.0,
-          "sold": 2,
-          "totalSeats": 6688
         }
       }
     },
@@ -126,26 +126,14 @@
         }
       }
     },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 24,
-          "gross": 9300.0,
-          "sold": 19,
-          "totalSeats": 4436
-        }
-      }
-    },
     "Malaki Duwe Numba": {
       "formats": {
         "ET00005955": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 53,
-          "gross": 61200.0,
-          "sold": 69,
+          "gross": 61900.0,
+          "sold": 71,
           "totalSeats": 8603
         }
       }
@@ -159,6 +147,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 2352
+        }
+      }
+    },
+    "Retta Thala": {
+      "formats": {
+        "ET00005949": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 9,
+          "gross": 700.0,
+          "sold": 2,
+          "totalSeats": 1272
         }
       }
     },
@@ -188,21 +188,9 @@
           "format": "3D",
           "language": "English",
           "shows": 14,
-          "gross": 13000.0,
-          "sold": 12,
+          "gross": 8200.0,
+          "sold": 8,
           "totalSeats": 1964
-        }
-      }
-    },
-    "Retta Thala": {
-      "formats": {
-        "ET00005949": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 700.0,
-          "sold": 2,
-          "totalSeats": 1272
         }
       }
     },
@@ -212,8 +200,8 @@
           "format": "2D",
           "language": "English",
           "shows": 10,
-          "gross": 23300.0,
-          "sold": 15,
+          "gross": 34300.0,
+          "sold": 21,
           "totalSeats": 1233
         }
       }
@@ -224,21 +212,9 @@
           "format": "2D",
           "language": "English",
           "shows": 13,
-          "gross": 45700.0,
-          "sold": 27,
+          "gross": 51200.0,
+          "sold": 29,
           "totalSeats": 1504
-        }
-      }
-    },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 7,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 672
         }
       }
     },
@@ -274,6 +250,18 @@
         }
       }
     },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 7,
+          "gross": 1300.0,
+          "sold": 1,
+          "totalSeats": 672
+        }
+      }
+    },
     "Tu Meri Main Tera Main Tera Tu Meri": {
       "formats": {
         "ET00005948": {
@@ -283,6 +271,18 @@
           "gross": 1000.0,
           "sold": 1,
           "totalSeats": 135
+        }
+      }
+    },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 24,
+          "gross": 9300.0,
+          "sold": 19,
+          "totalSeats": 4436
         }
       }
     }
