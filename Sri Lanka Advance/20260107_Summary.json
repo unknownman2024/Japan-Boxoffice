@@ -1,9 +1,17 @@
 {
   "date": "20260107",
-  "lastUpdated": "03:47 AM, 06 January 2026",
+  "lastUpdated": "04:46 AM, 06 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 430
+        },
         "ET00005946": {
           "format": "2D",
           "language": "Tamil",
@@ -11,14 +19,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 143
-        },
-        "ET00005945": {
-          "format": "3D",
-          "language": "Tamil",
-          "shows": 11,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2204
         },
         "ET00005938": {
           "format": "3D",
@@ -28,13 +28,13 @@
           "sold": 127,
           "totalSeats": 14069
         },
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 430
+        "ET00005945": {
+          "format": "3D",
+          "language": "Tamil",
+          "shows": 11,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 2204
         }
       }
     },
@@ -47,6 +47,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 97
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 36,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 6978
         }
       }
     },
@@ -84,14 +96,6 @@
     },
     "Predator: Badlands": {
       "formats": {
-        "ET00005924": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 22
-        },
         "ET00005901": {
           "format": "2D",
           "language": "English",
@@ -99,18 +103,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 263
-        }
-      }
-    },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 36,
+        },
+        "ET00005924": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 6978
+          "totalSeats": 22
         }
       }
     },
@@ -138,18 +138,6 @@
         }
       }
     },
-    "Mr.Mrs": {
-      "formats": {
-        "ET00005919": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 14,
-          "gross": 500.0,
-          "sold": 2,
-          "totalSeats": 2344
-        }
-      }
-    },
     "Neera": {
       "formats": {
         "ET00005849": {
@@ -162,18 +150,6 @@
         }
       }
     },
-    "Sirai": {
-      "formats": {
-        "ET00005951": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 14,
-          "gross": 1600.0,
-          "sold": 2,
-          "totalSeats": 2352
-        }
-      }
-    },
     "Retta Thala": {
       "formats": {
         "ET00005949": {
@@ -183,6 +159,30 @@
           "gross": 2400.0,
           "sold": 3,
           "totalSeats": 1622
+        }
+      }
+    },
+    "Mr.Mrs": {
+      "formats": {
+        "ET00005919": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 14,
+          "gross": 500.0,
+          "sold": 2,
+          "totalSeats": 2344
+        }
+      }
+    },
+    "Sirai": {
+      "formats": {
+        "ET00005951": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 14,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 2352
         }
       }
     },
@@ -210,35 +210,15 @@
         }
       }
     },
-    "The SpongeBob Movie: Search for SquarePants": {
+    "Cyanide": {
       "formats": {
-        "ET00005953": {
+        "ET00005950": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
+          "language": "Sinhala",
+          "shows": 4,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 236
-        },
-        "ET00005952": {
-          "format": "3D",
-          "language": "English",
-          "shows": 15,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2215
-        }
-      }
-    },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 7,
-          "gross": 5200.0,
-          "sold": 4,
-          "totalSeats": 672
+          "totalSeats": 1008
         }
       }
     },
@@ -254,6 +234,38 @@
         }
       }
     },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 7,
+          "gross": 5200.0,
+          "sold": 4,
+          "totalSeats": 672
+        }
+      }
+    },
+    "The SpongeBob Movie: Search for SquarePants": {
+      "formats": {
+        "ET00005952": {
+          "format": "3D",
+          "language": "English",
+          "shows": 15,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 2215
+        },
+        "ET00005953": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 236
+        }
+      }
+    },
     "Tu Meri Main Tera Main Tera Tu Meri": {
       "formats": {
         "ET00005948": {
@@ -263,18 +275,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 34
-        }
-      }
-    },
-    "Cyanide": {
-      "formats": {
-        "ET00005950": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1008
         }
       }
     }
