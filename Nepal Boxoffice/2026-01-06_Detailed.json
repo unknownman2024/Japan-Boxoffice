@@ -1,6 +1,6 @@
 {
   "date": "2026-01-06",
-  "lastUpdated": "05:35 PM, 06 January 2026",
+  "lastUpdated": "06:13 PM, 06 January 2026",
   "shows": [
     {
       "movie_id": "4rrtAWfKfKYhhsWEYUU2KE",
@@ -3899,16 +3899,18 @@
       "movie_id": "pZfLtimsFz9yfCLa5P5ABP",
       "movie_name": "Eklo I",
       "show_id": "24381:one-cinemas-new-baneshwor",
-      "venue": "one-cinemas-new-baneshwor",
-      "theatre": "One Cinemas New Baneshwor - Audi 1",
-      "date": "2026-01-06T18:30:00+05:45",
-      "time": "",
-      "seats": 208,
-      "sold": 49,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-06",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 159,
-      "gross": 12250,
-      "occupancy_percent": 23.56
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "pZfLtimsFz9yfCLa5P5ABP",
@@ -3919,11 +3921,11 @@
       "date": "2026-01-06T18:45:00+05:45",
       "time": "",
       "seats": 89,
-      "sold": 8,
+      "sold": 12,
       "reserved": 0,
-      "available": 81,
-      "gross": 1600,
-      "occupancy_percent": 8.99
+      "available": 77,
+      "gross": 2400,
+      "occupancy_percent": 13.48
     },
     {
       "movie_id": "pZfLtimsFz9yfCLa5P5ABP",
@@ -3983,11 +3985,11 @@
       "date": "2026-01-06T19:00:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 10,
+      "sold": 13,
       "reserved": 0,
-      "available": 237,
-      "gross": 3500,
-      "occupancy_percent": 4.05
+      "available": 234,
+      "gross": 4550,
+      "occupancy_percent": 5.26
     },
     {
       "movie_id": "4rrtAWfKfKYhhsWEYUU2KE",
@@ -3998,28 +4000,26 @@
       "date": "2026-01-06T19:00:00+05:45",
       "time": "",
       "seats": 139,
-      "sold": 10,
+      "sold": 15,
       "reserved": 0,
-      "available": 129,
-      "gross": 2200,
-      "occupancy_percent": 7.19
+      "available": 124,
+      "gross": 3300,
+      "occupancy_percent": 10.79
     },
     {
       "movie_id": "H9Lj2EsyKfCdNhXCYK5zwS",
       "movie_name": "45",
       "show_id": "151047:qs-cinemas",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-06",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 2",
+      "date": "2026-01-06T19:00:00+05:45",
+      "time": "",
+      "seats": 129,
+      "sold": 5,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "available": 124,
+      "gross": 1000,
+      "occupancy_percent": 3.88
     },
     {
       "movie_id": "H9Lj2EsyKfCdNhXCYK5zwS",
@@ -4042,16 +4042,18 @@
       "movie_id": "H9Lj2EsyKfCdNhXCYK5zwS",
       "movie_name": "45",
       "show_id": "1402:pathivara-cine-plaza",
-      "venue": "pathivara-cine-plaza",
-      "theatre": "Pathivara Cineplaza - Birtamode - Hall-A",
-      "date": "2026-01-06T18:45:00+05:45",
-      "time": "",
-      "seats": 268,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-06",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 268,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "H9Lj2EsyKfCdNhXCYK5zwS",
@@ -4074,18 +4076,16 @@
       "movie_id": "H9Lj2EsyKfCdNhXCYK5zwS",
       "movie_name": "45",
       "show_id": "1587:suvakamna-cinemas",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-06",
-      "time": null,
-      "seats": 0,
+      "venue": "suvakamna-cinemas",
+      "theatre": "Shuvakamana Cinema - Hall-A",
+      "date": "2026-01-06T19:00:00+05:45",
+      "time": "",
+      "seats": 190,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 190,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "H9Lj2EsyKfCdNhXCYK5zwS",
@@ -4108,16 +4108,18 @@
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
       "movie_name": "Dhurandhar",
       "show_id": "72635:fcube",
-      "venue": "fcube",
-      "theatre": "FCube Cinemas - Cube 1",
-      "date": "2026-01-06T19:00:00+05:45",
-      "time": "",
-      "seats": 210,
-      "sold": 40,
-      "reserved": 25,
-      "available": 145,
-      "gross": 15600,
-      "occupancy_percent": 30.95
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-06",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -4128,11 +4130,11 @@
       "date": "2026-01-06T19:00:00+05:45",
       "time": "",
       "seats": 136,
-      "sold": 23,
+      "sold": 9,
       "reserved": 0,
-      "available": 113,
-      "gross": 5950,
-      "occupancy_percent": 16.91
+      "available": 127,
+      "gross": 2450,
+      "occupancy_percent": 6.62
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -4143,11 +4145,11 @@
       "date": "2026-01-06T19:00:00+05:45",
       "time": "",
       "seats": 203,
-      "sold": 23,
-      "reserved": 1,
-      "available": 179,
-      "gross": 6000,
-      "occupancy_percent": 11.82
+      "sold": 26,
+      "reserved": 0,
+      "available": 177,
+      "gross": 6500,
+      "occupancy_percent": 12.81
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -4173,11 +4175,11 @@
       "date": "2026-01-06T18:45:00+05:45",
       "time": "",
       "seats": 172,
-      "sold": 16,
-      "reserved": 8,
-      "available": 148,
-      "gross": 4800,
-      "occupancy_percent": 13.95
+      "sold": 20,
+      "reserved": 0,
+      "available": 152,
+      "gross": 4000,
+      "occupancy_percent": 11.63
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -4188,11 +4190,11 @@
       "date": "2026-01-06T18:30:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 36,
-      "reserved": 0,
-      "available": 146,
-      "gross": 16920,
-      "occupancy_percent": 19.78
+      "sold": 50,
+      "reserved": 5,
+      "available": 127,
+      "gross": 25850,
+      "occupancy_percent": 30.22
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -4203,11 +4205,11 @@
       "date": "2026-01-06T18:30:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 20,
-      "reserved": 0,
-      "available": 197,
-      "gross": 4000,
-      "occupancy_percent": 9.22
+      "sold": 25,
+      "reserved": 1,
+      "available": 191,
+      "gross": 5200,
+      "occupancy_percent": 11.98
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -4218,11 +4220,11 @@
       "date": "2026-01-06T19:00:00+05:45",
       "time": "",
       "seats": 189,
-      "sold": 3,
+      "sold": 8,
       "reserved": 0,
-      "available": 186,
-      "gross": 700,
-      "occupancy_percent": 1.59
+      "available": 181,
+      "gross": 1700,
+      "occupancy_percent": 4.23
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -4233,28 +4235,26 @@
       "date": "2026-01-06T18:30:00+05:45",
       "time": "",
       "seats": 231,
-      "sold": 22,
+      "sold": 31,
       "reserved": 0,
-      "available": 209,
-      "gross": 4400,
-      "occupancy_percent": 9.52
+      "available": 200,
+      "gross": 6200,
+      "occupancy_percent": 13.42
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
       "movie_name": "Dhurandhar",
       "show_id": "77369:vfx-cinemas",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-06",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI -1",
+      "date": "2026-01-06T18:30:00+05:45",
+      "time": "",
+      "seats": 247,
+      "sold": 11,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "available": 236,
+      "gross": 1925,
+      "occupancy_percent": 4.45
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -4265,11 +4265,11 @@
       "date": "2026-01-06T18:45:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 10,
-      "reserved": 2,
-      "available": 165,
-      "gross": 4920,
-      "occupancy_percent": 6.78
+      "sold": 26,
+      "reserved": 1,
+      "available": 150,
+      "gross": 10290,
+      "occupancy_percent": 15.25
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -4295,11 +4295,11 @@
       "date": "2026-01-06T18:30:00+05:45",
       "time": "",
       "seats": 240,
-      "sold": 0,
+      "sold": 7,
       "reserved": 0,
-      "available": 240,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 233,
+      "gross": 1750,
+      "occupancy_percent": 2.92
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -4325,11 +4325,11 @@
       "date": "2026-01-06T19:00:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 39,
-      "reserved": 3,
-      "available": 138,
-      "gross": 23100,
-      "occupancy_percent": 23.33
+      "sold": 52,
+      "reserved": 0,
+      "available": 128,
+      "gross": 28600,
+      "occupancy_percent": 28.89
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -4365,18 +4365,16 @@
       "movie_id": "qvHmyEj2pzQ2y87B2Tneqn",
       "movie_name": "Anaconda",
       "show_id": "151079:qfx-chhaya",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-06",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-chhaya",
+      "theatre": "QFX Chhaya - AUDI 1",
+      "date": "2026-01-06T18:30:00+05:45",
+      "time": "",
+      "seats": 112,
+      "sold": 79,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "available": 33,
+      "gross": 30810,
+      "occupancy_percent": 70.54
     },
     {
       "movie_id": "txgxCnmZREqoEgdtacpQWf",
@@ -4388,10 +4386,10 @@
       "time": "",
       "seats": 126,
       "sold": 19,
-      "reserved": 1,
-      "available": 106,
-      "gross": 6000,
-      "occupancy_percent": 15.87
+      "reserved": 0,
+      "available": 107,
+      "gross": 5700,
+      "occupancy_percent": 15.08
     },
     {
       "movie_id": "txgxCnmZREqoEgdtacpQWf",
@@ -4402,11 +4400,11 @@
       "date": "2026-01-06T19:00:00+05:45",
       "time": "",
       "seats": 285,
-      "sold": 11,
+      "sold": 19,
       "reserved": 8,
-      "available": 266,
-      "gross": 3800,
-      "occupancy_percent": 6.67
+      "available": 258,
+      "gross": 5400,
+      "occupancy_percent": 9.47
     },
     {
       "movie_id": "pZfLtimsFz9yfCLa5P5ABP",
@@ -4417,11 +4415,11 @@
       "date": "2026-01-06T19:45:00+05:45",
       "time": "",
       "seats": 279,
-      "sold": 18,
+      "sold": 24,
       "reserved": 0,
-      "available": 261,
-      "gross": 5400,
-      "occupancy_percent": 6.45
+      "available": 255,
+      "gross": 7200,
+      "occupancy_percent": 8.6
     },
     {
       "movie_id": "pZfLtimsFz9yfCLa5P5ABP",
@@ -4472,16 +4470,18 @@
       "movie_id": "pZfLtimsFz9yfCLa5P5ABP",
       "movie_name": "Eklo I",
       "show_id": "60054:ini-lotse-ktm",
-      "venue": "ini-lotse-ktm",
-      "theatre": "iNi Cinemas Lotse - Audi 1",
-      "date": "2026-01-06T20:00:00+05:45",
-      "time": "",
-      "seats": 240,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-06",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 3,
-      "available": 237,
-      "gross": 600,
-      "occupancy_percent": 1.25
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "pZfLtimsFz9yfCLa5P5ABP",
@@ -4492,11 +4492,11 @@
       "date": "2026-01-06T19:45:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 38,
-      "reserved": 20,
-      "available": 140,
-      "gross": 13920,
-      "occupancy_percent": 29.29
+      "sold": 55,
+      "reserved": 10,
+      "available": 133,
+      "gross": 15600,
+      "occupancy_percent": 32.83
     },
     {
       "movie_id": "pZfLtimsFz9yfCLa5P5ABP",
@@ -4517,18 +4517,16 @@
       "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
       "movie_name": "Jhari Pachhi Ko Indreni",
       "show_id": "151028:qfx-bhaktapur",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-06",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 3",
+      "date": "2026-01-06T19:15:00+05:45",
+      "time": "",
+      "seats": 247,
+      "sold": 49,
+      "reserved": 2,
+      "available": 196,
+      "gross": 18810,
+      "occupancy_percent": 20.65
     },
     {
       "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
@@ -4573,16 +4571,31 @@
       "date": "2026-01-06T19:15:00+05:45",
       "time": "",
       "seats": 143,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 143,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 139,
+      "gross": 1280,
+      "occupancy_percent": 2.8
     },
     {
       "movie_id": "H9Lj2EsyKfCdNhXCYK5zwS",
       "movie_name": "45",
       "show_id": "151006:qfx-civil",
+      "venue": "qfx-civil",
+      "theatre": "QFX Civil - AUDI 2",
+      "date": "2026-01-06T19:30:00+05:45",
+      "time": "",
+      "seats": 247,
+      "sold": 2,
+      "reserved": 0,
+      "available": 245,
+      "gross": 700,
+      "occupancy_percent": 0.81
+    },
+    {
+      "movie_id": "H9Lj2EsyKfCdNhXCYK5zwS",
+      "movie_name": "45",
+      "show_id": "74185:city-cinema",
       "venue": null,
       "theatre": null,
       "date": "2026-01-06",
@@ -4595,21 +4608,6 @@
       "occupancy_percent": 0,
       "error": "HTTP 429",
       "skipped": true
-    },
-    {
-      "movie_id": "H9Lj2EsyKfCdNhXCYK5zwS",
-      "movie_name": "45",
-      "show_id": "74185:city-cinema",
-      "venue": "city-cinema",
-      "theatre": "City Cinema - HALL B",
-      "date": "2026-01-06T19:30:00+05:45",
-      "time": "",
-      "seats": 98,
-      "sold": 6,
-      "reserved": 0,
-      "available": 92,
-      "gross": 1300,
-      "occupancy_percent": 6.12
     },
     {
       "movie_id": "H9Lj2EsyKfCdNhXCYK5zwS",
@@ -4632,23 +4630,36 @@
       "movie_id": "H9Lj2EsyKfCdNhXCYK5zwS",
       "movie_name": "45",
       "show_id": "3102:kirtipur-cineplex",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-06",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "venue": "kirtipur-cineplex",
+      "theatre": "Kirtipur Cineplex - Audi-2",
+      "date": "2026-01-06T19:30:00+05:45",
+      "time": "",
+      "seats": 101,
+      "sold": 16,
+      "reserved": 1,
+      "available": 84,
+      "gross": 2975,
+      "occupancy_percent": 16.83
     },
     {
       "movie_id": "H9Lj2EsyKfCdNhXCYK5zwS",
       "movie_name": "45",
       "show_id": "222213:bamel-cinemas",
+      "venue": "bamel-cinemas",
+      "theatre": "Bamel Cinemas - Audi 1",
+      "date": "2026-01-06T19:30:00+05:45",
+      "time": "",
+      "seats": 137,
+      "sold": 0,
+      "reserved": 0,
+      "available": 137,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "H9Lj2EsyKfCdNhXCYK5zwS",
+      "movie_name": "45",
+      "show_id": "115291:cdc-cinemas",
       "venue": null,
       "theatre": null,
       "date": "2026-01-06",
@@ -4661,21 +4672,6 @@
       "occupancy_percent": 0,
       "error": "HTTP 429",
       "skipped": true
-    },
-    {
-      "movie_id": "H9Lj2EsyKfCdNhXCYK5zwS",
-      "movie_name": "45",
-      "show_id": "115291:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Dine",
-      "date": "2026-01-06T20:00:00+05:45",
-      "time": "",
-      "seats": 60,
-      "sold": 0,
-      "reserved": 8,
-      "available": 52,
-      "gross": 4000,
-      "occupancy_percent": 13.33
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -4687,10 +4683,10 @@
       "time": "",
       "seats": 118,
       "sold": 0,
-      "reserved": 7,
-      "available": 111,
-      "gross": 2100,
-      "occupancy_percent": 5.93
+      "reserved": 8,
+      "available": 110,
+      "gross": 2400,
+      "occupancy_percent": 6.78
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -4701,11 +4697,11 @@
       "date": "2026-01-06T19:15:00+05:45",
       "time": "",
       "seats": 270,
-      "sold": 9,
-      "reserved": 1,
-      "available": 260,
-      "gross": 3000,
-      "occupancy_percent": 3.7
+      "sold": 16,
+      "reserved": 0,
+      "available": 254,
+      "gross": 4800,
+      "occupancy_percent": 5.93
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -4716,11 +4712,11 @@
       "date": "2026-01-06T19:45:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 14,
+      "sold": 20,
       "reserved": 17,
-      "available": 149,
-      "gross": 6200,
-      "occupancy_percent": 17.22
+      "available": 143,
+      "gross": 7400,
+      "occupancy_percent": 20.56
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -4731,11 +4727,11 @@
       "date": "2026-01-06T19:45:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 0,
-      "reserved": 7,
-      "available": 223,
-      "gross": 2180,
-      "occupancy_percent": 3.04
+      "sold": 2,
+      "reserved": 6,
+      "available": 222,
+      "gross": 2380,
+      "occupancy_percent": 3.48
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -4746,28 +4742,26 @@
       "date": "2026-01-06T19:30:00+05:45",
       "time": "",
       "seats": 288,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 288,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 286,
+      "gross": 360,
+      "occupancy_percent": 0.69
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
       "movie_name": "Dhurandhar",
       "show_id": "94008:sts-cinema",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-06",
-      "time": null,
-      "seats": 0,
+      "venue": "sts-cinema",
+      "theatre": "STS Cinema - screen 1",
+      "date": "2026-01-06T19:45:00+05:45",
+      "time": "",
+      "seats": 394,
       "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "reserved": 4,
+      "available": 390,
+      "gross": 1400,
+      "occupancy_percent": 1.02
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -4778,11 +4772,11 @@
       "date": "2026-01-06T19:30:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 2,
+      "sold": 3,
       "reserved": 0,
-      "available": 208,
-      "gross": 500,
-      "occupancy_percent": 0.95
+      "available": 207,
+      "gross": 750,
+      "occupancy_percent": 1.43
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -4793,11 +4787,11 @@
       "date": "2026-01-06T19:30:00+05:45",
       "time": "",
       "seats": 51,
-      "sold": 9,
+      "sold": 12,
       "reserved": 2,
-      "available": 40,
-      "gross": 15400,
-      "occupancy_percent": 21.57
+      "available": 37,
+      "gross": 19600,
+      "occupancy_percent": 27.45
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -4808,11 +4802,11 @@
       "date": "2026-01-06T19:30:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 32,
-      "reserved": 16,
-      "available": 164,
-      "gross": 18895,
-      "occupancy_percent": 22.64
+      "sold": 35,
+      "reserved": 21,
+      "available": 156,
+      "gross": 22120,
+      "occupancy_percent": 26.42
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -4824,10 +4818,10 @@
       "time": "",
       "seats": 349,
       "sold": 4,
-      "reserved": 0,
-      "available": 345,
-      "gross": 1600,
-      "occupancy_percent": 1.15
+      "reserved": 1,
+      "available": 344,
+      "gross": 2000,
+      "occupancy_percent": 1.43
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -4929,10 +4923,25 @@
       "time": "",
       "seats": 53,
       "sold": 7,
-      "reserved": 2,
-      "available": 44,
-      "gross": 10800,
-      "occupancy_percent": 16.98
+      "reserved": 5,
+      "available": 41,
+      "gross": 14400,
+      "occupancy_percent": 22.64
+    },
+    {
+      "movie_id": "WZanbnaScUAfySEmLFK4nP",
+      "movie_name": "Dhurandhar",
+      "show_id": "15642:friends-cinemas",
+      "venue": "friends-cinemas",
+      "theatre": "Friends Cinemas - Dharan - Audi-1",
+      "date": "2026-01-06T21:00:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 3,
+      "reserved": 0,
+      "available": 211,
+      "gross": 570,
+      "occupancy_percent": 1.4
     }
   ]
 }
