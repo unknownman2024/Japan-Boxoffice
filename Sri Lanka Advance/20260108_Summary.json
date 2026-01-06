@@ -1,17 +1,9 @@
 {
   "date": "20260108",
-  "lastUpdated": "03:47 AM, 07 January 2026",
+  "lastUpdated": "04:47 AM, 07 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 7200.0,
-          "sold": 8,
-          "totalSeats": 430
-        },
         "ET00005938": {
           "format": "3D",
           "language": "English",
@@ -20,14 +12,6 @@
           "sold": 219,
           "totalSeats": 13732
         },
-        "ET00005945": {
-          "format": "3D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 1600.0,
-          "sold": 2,
-          "totalSeats": 1799
-        },
         "ET00005946": {
           "format": "2D",
           "language": "Tamil",
@@ -35,6 +19,22 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 143
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 7200.0,
+          "sold": 8,
+          "totalSeats": 430
+        },
+        "ET00005945": {
+          "format": "3D",
+          "language": "Tamil",
+          "shows": 9,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 1799
         }
       }
     },
@@ -47,6 +47,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 97
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 34,
+          "gross": 8400.0,
+          "sold": 12,
+          "totalSeats": 6668
         }
       }
     },
@@ -70,30 +82,6 @@
         }
       }
     },
-    "Ayu": {
-      "formats": {
-        "ET00005878": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 8000.0,
-          "sold": 8,
-          "totalSeats": 232
-        }
-      }
-    },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 7,
-          "gross": 7200.0,
-          "sold": 6,
-          "totalSeats": 1208
-        }
-      }
-    },
     "Predator: Badlands": {
       "formats": {
         "ET00005924": {
@@ -114,15 +102,15 @@
         }
       }
     },
-    "Moda Tharidu": {
+    "Maariya": {
       "formats": {
-        "ET00005884": {
+        "ET00005918": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 34,
-          "gross": 8400.0,
-          "sold": 12,
-          "totalSeats": 6668
+          "shows": 7,
+          "gross": 7200.0,
+          "sold": 6,
+          "totalSeats": 1208
         }
       }
     },
@@ -144,21 +132,9 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 13,
-          "gross": 2000.0,
-          "sold": 2,
+          "gross": 0.0,
+          "sold": 0,
           "totalSeats": 2198
-        }
-      }
-    },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 23,
-          "gross": 11100.0,
-          "sold": 15,
-          "totalSeats": 4316
         }
       }
     },
@@ -171,18 +147,6 @@
           "gross": 2000.0,
           "sold": 2,
           "totalSeats": 1622
-        }
-      }
-    },
-    "Anaconda": {
-      "formats": {
-        "ET00005929": {
-          "format": "2D",
-          "language": "English",
-          "shows": 9,
-          "gross": 8600.0,
-          "sold": 8,
-          "totalSeats": 1107
         }
       }
     },
@@ -218,15 +182,15 @@
         }
       }
     },
-    "Cyanide": {
+    "The Housemaid": {
       "formats": {
-        "ET00005950": {
+        "ET00005954": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1008
+          "language": "English",
+          "shows": 14,
+          "gross": 55500.0,
+          "sold": 30,
+          "totalSeats": 1575
         }
       }
     },
@@ -242,6 +206,18 @@
         }
       }
     },
+    "Cyanide": {
+      "formats": {
+        "ET00005950": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1008
+        }
+      }
+    },
     "Tu Meri Main Tera Main Tera Tu Meri": {
       "formats": {
         "ET00005948": {
@@ -251,6 +227,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 34
+        }
+      }
+    },
+    "Anaconda": {
+      "formats": {
+        "ET00005929": {
+          "format": "2D",
+          "language": "English",
+          "shows": 9,
+          "gross": 8600.0,
+          "sold": 8,
+          "totalSeats": 1107
         }
       }
     },
@@ -266,15 +254,27 @@
         }
       }
     },
-    "The Housemaid": {
+    "Ayu": {
       "formats": {
-        "ET00005954": {
+        "ET00005878": {
           "format": "2D",
-          "language": "English",
-          "shows": 14,
-          "gross": 55500.0,
-          "sold": 30,
-          "totalSeats": 1575
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 8000.0,
+          "sold": 8,
+          "totalSeats": 232
+        }
+      }
+    },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 23,
+          "gross": 11100.0,
+          "sold": 15,
+          "totalSeats": 4316
         }
       }
     }
