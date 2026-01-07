@@ -1,6 +1,6 @@
 {
   "date": "20260109",
-  "lastUpdated": "01:51 AM, 08 January 2026",
+  "lastUpdated": "02:47 AM, 08 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
@@ -8,9 +8,21 @@
           "format": "3D",
           "language": "English",
           "shows": 16,
-          "gross": 586700.0,
-          "sold": 160,
+          "gross": 585700.0,
+          "sold": 158,
           "totalSeats": 3433
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 5,
+          "gross": 14300.0,
+          "sold": 11,
+          "totalSeats": 783
         }
       }
     },
@@ -38,18 +50,6 @@
         }
       }
     },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 5,
-          "gross": 14300.0,
-          "sold": 11,
-          "totalSeats": 783
-        }
-      }
-    },
     "Malaki Duwe Numba": {
       "formats": {
         "ET00005955": {
@@ -62,18 +62,6 @@
         }
       }
     },
-    "Predator: Badlands": {
-      "formats": {
-        "ET00005924": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 22
-        }
-      }
-    },
     "Neera": {
       "formats": {
         "ET00005849": {
@@ -83,6 +71,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 563
+        }
+      }
+    },
+    "Predator: Badlands": {
+      "formats": {
+        "ET00005924": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 22
         }
       }
     },
@@ -124,14 +124,6 @@
     },
     "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
-        "ET00005953": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 376
-        },
         "ET00005952": {
           "format": "3D",
           "language": "English",
@@ -139,6 +131,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 299
+        },
+        "ET00005953": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 376
         }
       }
     },
