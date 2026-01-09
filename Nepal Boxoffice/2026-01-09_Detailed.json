@@ -1,6 +1,6 @@
 {
   "date": "2026-01-09",
-  "lastUpdated": "07:52 PM, 09 January 2026",
+  "lastUpdated": "08:52 PM, 09 January 2026",
   "shows": [
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -5400,16 +5400,18 @@
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
       "movie_name": "The RajaSaab",
       "show_id": "151658:qfx-labim",
-      "venue": "qfx-labim",
-      "theatre": "QFX Labim - AUDI 3",
-      "date": "2026-01-09T21:30:00+05:45",
-      "time": "",
-      "seats": 183,
-      "sold": 89,
-      "reserved": 4,
-      "available": 90,
-      "gross": 44640,
-      "occupancy_percent": 50.82
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-09",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -5520,16 +5522,18 @@
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
       "movie_name": "The RajaSaab",
       "show_id": "151349:qs-cinemas",
-      "venue": "qs-cinemas",
-      "theatre": "QFX Rising Mall - Audi 01",
-      "date": "2026-01-09T21:30:00+05:45",
-      "time": "",
-      "seats": 182,
-      "sold": 38,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-09",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 144,
-      "gross": 14820,
-      "occupancy_percent": 20.88
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -5694,11 +5698,11 @@
       "date": "2026-01-09T22:00:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 3,
+      "sold": 9,
       "reserved": 9,
-      "available": 235,
-      "gross": 4200,
-      "occupancy_percent": 4.86
+      "available": 229,
+      "gross": 6300,
+      "occupancy_percent": 7.29
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -5709,11 +5713,11 @@
       "date": "2026-01-09T21:45:00+05:45",
       "time": "",
       "seats": 129,
-      "sold": 13,
-      "reserved": 0,
-      "available": 116,
-      "gross": 5520,
-      "occupancy_percent": 10.08
+      "sold": 15,
+      "reserved": 3,
+      "available": 111,
+      "gross": 7470,
+      "occupancy_percent": 13.95
     }
   ]
 }
