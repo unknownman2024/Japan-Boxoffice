@@ -1,43 +1,7 @@
 {
   "date": "20260111",
-  "lastUpdated": "01:50 AM, 10 January 2026",
+  "lastUpdated": "02:47 AM, 10 January 2026",
   "movies": {
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 5900.0,
-          "sold": 5,
-          "totalSeats": 285
-        },
-        "ET00005946": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
-        },
-        "ET00005945": {
-          "format": "3D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 5500.0,
-          "sold": 5,
-          "totalSeats": 152
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 45,
-          "gross": 1219000.0,
-          "sold": 461,
-          "totalSeats": 7740
-        }
-      }
-    },
     "Moda Tharidu": {
       "formats": {
         "ET00005884": {
@@ -50,27 +14,51 @@
         }
       }
     },
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 45,
+          "gross": 1219000.0,
+          "sold": 461,
+          "totalSeats": 7740
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 5900.0,
+          "sold": 5,
+          "totalSeats": 285
+        },
+        "ET00005945": {
+          "format": "3D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 5500.0,
+          "sold": 5,
+          "totalSeats": 152
+        },
+        "ET00005946": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
+        }
+      }
+    },
     "Zootopia 2": {
       "formats": {
         "ET00005930": {
           "format": "3D",
           "language": "English",
           "shows": 10,
-          "gross": 60400.0,
-          "sold": 47,
+          "gross": 58000.0,
+          "sold": 45,
           "totalSeats": 1284
-        }
-      }
-    },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 4,
-          "gross": 5200.0,
-          "sold": 4,
-          "totalSeats": 583
         }
       }
     },
@@ -86,18 +74,6 @@
         }
       }
     },
-    "Parasakthi": {
-      "formats": {
-        "ET00005926": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 102,
-          "gross": 732900.0,
-          "sold": 600,
-          "totalSeats": 17638
-        }
-      }
-    },
     "Malaki Duwe Numba": {
       "formats": {
         "ET00005955": {
@@ -110,15 +86,27 @@
         }
       }
     },
-    " Father": {
+    "The Raja Saab": {
       "formats": {
-        "ET00005963": {
+        "ET00005958": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 45,
-          "gross": 83600.0,
-          "sold": 111,
-          "totalSeats": 8153
+          "language": "Tamil",
+          "shows": 23,
+          "gross": 8550.0,
+          "sold": 9,
+          "totalSeats": 3625
+        }
+      }
+    },
+    "Parasakthi": {
+      "formats": {
+        "ET00005926": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 102,
+          "gross": 729350.0,
+          "sold": 596,
+          "totalSeats": 17638
         }
       }
     },
@@ -146,18 +134,6 @@
         }
       }
     },
-    "The Raja Saab": {
-      "formats": {
-        "ET00005958": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 23,
-          "gross": 8550.0,
-          "sold": 9,
-          "totalSeats": 3625
-        }
-      }
-    },
     "The Housemaid": {
       "formats": {
         "ET00005954": {
@@ -167,38 +143,6 @@
           "gross": 144650.0,
           "sold": 94,
           "totalSeats": 1534
-        }
-      }
-    },
-    "The SpongeBob Movie: Search for SquarePants": {
-      "formats": {
-        "ET00005952": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 9000.0,
-          "sold": 6,
-          "totalSeats": 299
-        },
-        "ET00005953": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 13200.0,
-          "sold": 11,
-          "totalSeats": 236
-        }
-      }
-    },
-    "Ayu": {
-      "formats": {
-        "ET00005878": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 151
         }
       }
     },
@@ -222,15 +166,47 @@
         }
       }
     },
-    "Sirai": {
+    "Ayu": {
       "formats": {
-        "ET00005951": {
+        "ET00005878": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
+          "language": "Sinhala",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 222
+          "totalSeats": 151
+        }
+      }
+    },
+    "The SpongeBob Movie: Search for SquarePants": {
+      "formats": {
+        "ET00005952": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 9000.0,
+          "sold": 6,
+          "totalSeats": 299
+        },
+        "ET00005953": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 13200.0,
+          "sold": 11,
+          "totalSeats": 236
+        }
+      }
+    },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 3,
+          "gross": 19200.0,
+          "sold": 16,
+          "totalSeats": 303
         }
       }
     },
@@ -246,15 +222,39 @@
         }
       }
     },
-    "Dhurandhar": {
+    "Sirai": {
       "formats": {
-        "ET00005937": {
+        "ET00005951": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 3,
-          "gross": 19200.0,
-          "sold": 16,
-          "totalSeats": 303
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 222
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 45,
+          "gross": 83600.0,
+          "sold": 111,
+          "totalSeats": 8153
+        }
+      }
+    },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 4,
+          "gross": 5200.0,
+          "sold": 4,
+          "totalSeats": 583
         }
       }
     }
