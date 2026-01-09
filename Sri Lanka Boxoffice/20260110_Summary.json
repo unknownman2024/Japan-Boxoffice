@@ -1,25 +1,44 @@
 {
   "date": "20260110",
-  "lastUpdated": "03:48 AM, 10 January 2026",
+  "lastUpdated": "04:47 AM, 10 January 2026",
   "movies": {
     "Parasakthi": {
       "totalShows": 11,
-      "totalGross": 455400.0,
-      "totalSold": 308,
+      "totalGross": 451200.0,
+      "totalSold": 306,
       "totalSeats": 2156,
       "formats": {
         "ET00005926": {
           "format": "2D",
           "language": "Tamil",
           "shows": 11,
-          "gross": 455400.0,
-          "sold": 308,
+          "gross": 451200.0,
+          "sold": 306,
           "totalSeats": 2156,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 14.29
+      "globalOccupancy": 14.19
+    },
+    "Avatar: Fire and Ash": {
+      "totalShows": 1,
+      "totalGross": 123200.0,
+      "totalSold": 28,
+      "totalSeats": 305,
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 123200.0,
+          "sold": 28,
+          "totalSeats": 305,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 9.18
     }
   }
 }
