@@ -1,17 +1,9 @@
 {
   "date": "20260111",
-  "lastUpdated": "08:46 PM, 10 January 2026",
+  "lastUpdated": "09:49 PM, 10 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005945": {
-          "format": "3D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 7700.0,
-          "sold": 7,
-          "totalSeats": 152
-        },
         "ET00005946": {
           "format": "2D",
           "language": "Tamil",
@@ -24,17 +16,25 @@
           "format": "3D",
           "language": "English",
           "shows": 49,
-          "gross": 2510500.0,
-          "sold": 1229,
+          "gross": 2742050.0,
+          "sold": 1368,
           "totalSeats": 7978
         },
         "ET00005939": {
           "format": "2D",
           "language": "English",
           "shows": 2,
-          "gross": 45600.0,
-          "sold": 36,
+          "gross": 40400.0,
+          "sold": 32,
           "totalSeats": 285
+        },
+        "ET00005945": {
+          "format": "3D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 13200.0,
+          "sold": 12,
+          "totalSeats": 152
         }
       }
     },
@@ -43,9 +43,9 @@
         "ET00005926": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 120,
-          "gross": 2292500.0,
-          "sold": 2142,
+          "shows": 125,
+          "gross": 2709550.0,
+          "sold": 2546,
           "totalSeats": 21116
         }
       }
@@ -56,21 +56,33 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 58,
-          "gross": 561150.0,
-          "sold": 741,
+          "gross": 656400.0,
+          "sold": 873,
           "totalSeats": 9413
         }
       }
     },
-    "Ayu": {
+    "Maariya": {
       "formats": {
-        "ET00005878": {
+        "ET00005918": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 1,
+          "shows": 5,
           "gross": 31200.0,
-          "sold": 26,
-          "totalSeats": 151
+          "sold": 24,
+          "totalSeats": 716
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 47,
+          "gross": 121950.0,
+          "sold": 226,
+          "totalSeats": 7484
         }
       }
     },
@@ -98,51 +110,27 @@
         }
       }
     },
-    "Maariya": {
+    "The Raja Saab": {
       "formats": {
-        "ET00005918": {
+        "ET00005958": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 22,
+          "gross": 20650.0,
+          "sold": 22,
+          "totalSeats": 2579
+        }
+      }
+    },
+    "Mr.Mrs": {
+      "formats": {
+        "ET00005919": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 5,
-          "gross": 23400.0,
-          "sold": 18,
-          "totalSeats": 716
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 47,
-          "gross": 114000.0,
-          "sold": 206,
-          "totalSeats": 7484
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 12,
-          "gross": 234450.0,
-          "sold": 156,
-          "totalSeats": 1534
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 10,
-          "gross": 246550.0,
-          "sold": 191,
-          "totalSeats": 1284
+          "shows": 9,
+          "gross": 500.0,
+          "sold": 2,
+          "totalSeats": 1164
         }
       }
     },
@@ -166,40 +154,32 @@
         }
       }
     },
-    "Anaconda": {
+    "Zootopia 2": {
       "formats": {
-        "ET00005929": {
-          "format": "2D",
+        "ET00005930": {
+          "format": "3D",
           "language": "English",
-          "shows": 6,
-          "gross": 39300.0,
-          "sold": 37,
-          "totalSeats": 683
+          "shows": 10,
+          "gross": 279800.0,
+          "sold": 219,
+          "totalSeats": 1284
         }
       }
     },
-    "Mr.Mrs": {
+    "The Housemaid": {
       "formats": {
-        "ET00005919": {
+        "ET00005954": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 9,
-          "gross": 500.0,
-          "sold": 2,
-          "totalSeats": 1164
+          "language": "English",
+          "shows": 12,
+          "gross": 233950.0,
+          "sold": 157,
+          "totalSeats": 1534
         }
       }
     },
     "Wicked: For Good": {
       "formats": {
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 18000.0,
-          "sold": 15,
-          "totalSeats": 140
-        },
         "ET00005916": {
           "format": "2D",
           "language": "English",
@@ -207,18 +187,14 @@
           "gross": 2400.0,
           "sold": 2,
           "totalSeats": 99
-        }
-      }
-    },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 13,
-          "gross": 64250.0,
-          "sold": 81,
-          "totalSeats": 2367
+        },
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 18000.0,
+          "sold": 15,
+          "totalSeats": 140
         }
       }
     },
@@ -234,27 +210,51 @@
         }
       }
     },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 13,
+          "gross": 68550.0,
+          "sold": 87,
+          "totalSeats": 2367
+        }
+      }
+    },
     "Dhurandhar": {
       "formats": {
         "ET00005937": {
           "format": "2D",
           "language": "Hindi",
           "shows": 3,
-          "gross": 58800.0,
-          "sold": 49,
+          "gross": 64800.0,
+          "sold": 54,
           "totalSeats": 303
         }
       }
     },
-    "The Raja Saab": {
+    "Ayu": {
       "formats": {
-        "ET00005958": {
+        "ET00005878": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 22,
-          "gross": 15350.0,
-          "sold": 15,
-          "totalSeats": 2579
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 33600.0,
+          "sold": 28,
+          "totalSeats": 151
+        }
+      }
+    },
+    "Anaconda": {
+      "formats": {
+        "ET00005929": {
+          "format": "2D",
+          "language": "English",
+          "shows": 6,
+          "gross": 46300.0,
+          "sold": 43,
+          "totalSeats": 683
         }
       }
     }
