@@ -1,6 +1,6 @@
 {
   "date": "2026-01-12",
-  "lastUpdated": "02:48 AM, 11 January 2026",
+  "lastUpdated": "06:57 AM, 11 January 2026",
   "shows": [
     {
       "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
@@ -501,16 +501,18 @@
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
       "movie_name": "The RajaSaab",
       "show_id": "151804:qfx-one-stop-mall",
-      "venue": "qfx-one-stop-mall",
-      "theatre": "QFX One Stop, Birtamod - AUDI 2",
-      "date": "2026-01-12T15:15:00+05:45",
-      "time": "",
-      "seats": 133,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-12",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 133,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -941,11 +943,11 @@
       "date": "2026-01-12T15:30:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 0,
+      "sold": 2,
       "reserved": 10,
-      "available": 202,
-      "gross": 4800,
-      "occupancy_percent": 4.72
+      "available": 200,
+      "gross": 5760,
+      "occupancy_percent": 5.66
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -1851,16 +1853,18 @@
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
       "movie_name": "The RajaSaab",
       "show_id": "46165:bsr-movies",
-      "venue": "bsr-movies",
-      "theatre": "BSR Movies - Atmos 1",
-      "date": "2026-01-12T13:45:00+05:45",
-      "time": "",
-      "seats": 192,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-12",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 16,
-      "available": 176,
-      "gross": 5600,
-      "occupancy_percent": 8.33
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -1986,16 +1990,18 @@
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
       "movie_name": "The RajaSaab",
       "show_id": "151926:qfx-apex-mall",
-      "venue": "qfx-apex-mall",
-      "theatre": "QFX Apex Mall, Damauli - AUDI 2",
-      "date": "2026-01-12T18:00:00+05:45",
-      "time": "",
-      "seats": 240,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-12",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 240,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
