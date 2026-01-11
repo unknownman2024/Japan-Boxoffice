@@ -1,6 +1,6 @@
 {
   "date": "2026-01-13",
-  "lastUpdated": "02:08 PM, 11 January 2026",
+  "lastUpdated": "04:00 PM, 11 January 2026",
   "shows": [
     {
       "movie_id": "pZfLtimsFz9yfCLa5P5ABP",
@@ -207,10 +207,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 21,
-      "available": 191,
-      "gross": 7280,
-      "occupancy_percent": 9.91
+      "reserved": 23,
+      "available": 189,
+      "gross": 7960,
+      "occupancy_percent": 10.85
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -237,10 +237,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 16,
-      "available": 196,
-      "gross": 5580,
-      "occupancy_percent": 7.55
+      "reserved": 22,
+      "available": 190,
+      "gross": 7620,
+      "occupancy_percent": 10.38
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -446,11 +446,11 @@
       "date": "2026-01-13T12:00:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 247,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 245,
+      "gross": 700,
+      "occupancy_percent": 0.81
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -582,10 +582,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 15,
-      "available": 195,
-      "gross": 4350,
-      "occupancy_percent": 7.14
+      "reserved": 17,
+      "available": 193,
+      "gross": 4930,
+      "occupancy_percent": 8.1
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -597,10 +597,10 @@
       "time": "",
       "seats": 210,
       "sold": 2,
-      "reserved": 13,
-      "available": 195,
-      "gross": 4350,
-      "occupancy_percent": 7.14
+      "reserved": 15,
+      "available": 193,
+      "gross": 4930,
+      "occupancy_percent": 8.1
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -712,13 +712,13 @@
       "movie_name": "The RajaSaab",
       "show_id": "151951:qfx-labim",
       "venue": "qfx-labim",
-      "theatre": "QFX Labim - AUDI 2",
-      "date": "2026-01-13T11:15:00+05:45",
+      "theatre": "QFX Labim - AUDI 3",
+      "date": "2026-01-13T10:45:00+05:45",
       "time": "",
-      "seats": 180,
+      "seats": 183,
       "sold": 0,
       "reserved": 0,
-      "available": 180,
+      "available": 183,
       "gross": 0,
       "occupancy_percent": 0.0
     },
@@ -787,13 +787,13 @@
       "movie_name": "Avatar: Fire and Ash",
       "show_id": "151952:qfx-labim",
       "venue": "qfx-labim",
-      "theatre": "QFX Labim - AUDI 3",
-      "date": "2026-01-13T14:00:00+05:45",
+      "theatre": "QFX Labim - AUDI 2",
+      "date": "2026-01-13T11:15:00+05:45",
       "time": "",
-      "seats": 183,
+      "seats": 180,
       "sold": 0,
       "reserved": 0,
-      "available": 183,
+      "available": 180,
       "gross": 0,
       "occupancy_percent": 0.0
     },
@@ -802,13 +802,13 @@
       "movie_name": "Paran",
       "show_id": "151948:qfx-labim",
       "venue": "qfx-labim",
-      "theatre": "QFX Labim - AUDI 1",
-      "date": "2026-01-13T11:30:00+05:45",
+      "theatre": "QFX Labim - AUDI 3",
+      "date": "2026-01-13T19:45:00+05:45",
       "time": "",
-      "seats": 182,
+      "seats": 183,
       "sold": 0,
       "reserved": 0,
-      "available": 182,
+      "available": 183,
       "gross": 0,
       "occupancy_percent": 0.0
     },
@@ -966,18 +966,16 @@
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
       "movie_name": "The RajaSaab",
       "show_id": "151987:qfx-skyline",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-13",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-skyline",
+      "theatre": "QFX Skyline - Audi 1",
+      "date": "2026-01-13T17:00:00+05:45",
+      "time": "",
+      "seats": 132,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 132,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -1210,7 +1208,7 @@
       "show_id": "151993:qfx-labim",
       "venue": "qfx-labim",
       "theatre": "QFX Labim - AUDI 3",
-      "date": "2026-01-13T18:00:00+05:45",
+      "date": "2026-01-13T17:00:00+05:45",
       "time": "",
       "seats": 183,
       "sold": 0,
@@ -1288,11 +1286,11 @@
       "date": "2026-01-13T15:15:00+05:45",
       "time": "",
       "seats": 67,
-      "sold": 6,
+      "sold": 7,
       "reserved": 0,
-      "available": 61,
-      "gross": 2700,
-      "occupancy_percent": 8.96
+      "available": 60,
+      "gross": 3150,
+      "occupancy_percent": 10.45
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -1366,6 +1364,21 @@
       "sold": 0,
       "reserved": 0,
       "available": 117,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "ohmZAyf63oDKd3uQoQBUwL",
+      "movie_name": "Dimag Ghochne Manche",
+      "show_id": "151953:qfx-labim",
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 3",
+      "date": "2026-01-13T14:30:00+05:45",
+      "time": "",
+      "seats": 183,
+      "sold": 0,
+      "reserved": 0,
+      "available": 183,
       "gross": 0,
       "occupancy_percent": 0.0
     }
