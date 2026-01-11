@@ -1,25 +1,291 @@
 {
   "date": "20260111",
-  "lastUpdated": "04:46 AM, 11 January 2026",
+  "lastUpdated": "07:10 AM, 11 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
-      "totalShows": 1,
-      "totalGross": 149600.0,
-      "totalSold": 34,
-      "totalSeats": 305,
+      "totalShows": 7,
+      "totalGross": 458950.0,
+      "totalSold": 229,
+      "totalSeats": 912,
       "formats": {
         "ET00005938": {
           "format": "3D",
           "language": "English",
-          "shows": 1,
-          "gross": 149600.0,
-          "sold": 34,
-          "totalSeats": 305,
+          "shows": 7,
+          "gross": 458950.0,
+          "sold": 229,
+          "totalSeats": 912,
+          "fastfilling": 2,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 25.11
+    },
+    "Parasakthi": {
+      "totalShows": 18,
+      "totalGross": 514400.0,
+      "totalSold": 571,
+      "totalSeats": 3599,
+      "formats": {
+        "ET00005926": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 18,
+          "gross": 514400.0,
+          "sold": 571,
+          "totalSeats": 3599,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 11.15
+      "globalOccupancy": 15.87
+    },
+    "Malaki Duwe Numba": {
+      "totalShows": 15,
+      "totalGross": 24600.0,
+      "totalSold": 67,
+      "totalSeats": 1891,
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 15,
+          "gross": 24600.0,
+          "sold": 67,
+          "totalSeats": 1891,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 3.54
+    },
+    " Father": {
+      "totalShows": 15,
+      "totalGross": 205950.0,
+      "totalSold": 339,
+      "totalSeats": 2826,
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 15,
+          "gross": 205950.0,
+          "sold": 339,
+          "totalSeats": 2826,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 12.0
+    },
+    "Mr.Mrs": {
+      "totalShows": 3,
+      "totalGross": 500.0,
+      "totalSold": 2,
+      "totalSeats": 900,
+      "formats": {
+        "ET00005919": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 3,
+          "gross": 500.0,
+          "sold": 2,
+          "totalSeats": 900,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.22
+    },
+    "The Raja Saab": {
+      "totalShows": 4,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 389,
+      "formats": {
+        "ET00005958": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 389,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "Zootopia 2": {
+      "totalShows": 1,
+      "totalGross": 22800.0,
+      "totalSold": 19,
+      "totalSeats": 125,
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 22800.0,
+          "sold": 19,
+          "totalSeats": 125,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 15.2
+    },
+    "The Housemaid": {
+      "totalShows": 1,
+      "totalGross": 41600.0,
+      "totalSold": 32,
+      "totalSeats": 121,
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 41600.0,
+          "sold": 32,
+          "totalSeats": 121,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 26.45
+    },
+    "The SpongeBob Movie: Search for SquarePants": {
+      "totalShows": 1,
+      "totalGross": 21600.0,
+      "totalSold": 18,
+      "totalSeats": 140,
+      "formats": {
+        "ET00005953": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 21600.0,
+          "sold": 18,
+          "totalSeats": 140,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 12.86
+    },
+    "Moda Tharidu": {
+      "totalShows": 4,
+      "totalGross": 9350.0,
+      "totalSold": 12,
+      "totalSeats": 264,
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 4,
+          "gross": 9350.0,
+          "sold": 12,
+          "totalSeats": 264,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 4.55
+    },
+    "Neera": {
+      "totalShows": 6,
+      "totalGross": 77850.0,
+      "totalSold": 102,
+      "totalSeats": 875,
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 6,
+          "gross": 77850.0,
+          "sold": 102,
+          "totalSeats": 875,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 11.66
+    },
+    "Anaconda": {
+      "totalShows": 2,
+      "totalGross": 28700.0,
+      "totalSold": 25,
+      "totalSeats": 253,
+      "formats": {
+        "ET00005929": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 28700.0,
+          "sold": 25,
+          "totalSeats": 253,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 9.88
+    },
+    "Dhurandhar": {
+      "totalShows": 1,
+      "totalGross": 7200.0,
+      "totalSold": 6,
+      "totalSeats": 101,
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 7200.0,
+          "sold": 6,
+          "totalSeats": 101,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 5.94
+    },
+    "Ayu": {
+      "totalShows": 1,
+      "totalGross": 43200.0,
+      "totalSold": 36,
+      "totalSeats": 151,
+      "formats": {
+        "ET00005878": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 43200.0,
+          "sold": 36,
+          "totalSeats": 151,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 23.84
+    },
+    "Wicked: For Good": {
+      "totalShows": 1,
+      "totalGross": 2400.0,
+      "totalSold": 2,
+      "totalSeats": 99,
+      "formats": {
+        "ET00005916": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 2400.0,
+          "sold": 2,
+          "totalSeats": 99,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 2.02
     }
   }
 }
