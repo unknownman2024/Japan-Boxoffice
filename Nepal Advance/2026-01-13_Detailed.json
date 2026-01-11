@@ -1,6 +1,6 @@
 {
   "date": "2026-01-13",
-  "lastUpdated": "10:07 PM, 11 January 2026",
+  "lastUpdated": "02:49 AM, 12 January 2026",
   "shows": [
     {
       "movie_id": "pZfLtimsFz9yfCLa5P5ABP",
@@ -477,10 +477,10 @@
       "time": "",
       "seats": 248,
       "sold": 3,
-      "reserved": 2,
-      "available": 243,
-      "gross": 1750,
-      "occupancy_percent": 2.02
+      "reserved": 0,
+      "available": 245,
+      "gross": 1050,
+      "occupancy_percent": 1.21
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -582,10 +582,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 17,
-      "available": 193,
-      "gross": 4930,
-      "occupancy_percent": 8.1
+      "reserved": 19,
+      "available": 191,
+      "gross": 5510,
+      "occupancy_percent": 9.05
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -597,10 +597,10 @@
       "time": "",
       "seats": 210,
       "sold": 2,
-      "reserved": 15,
-      "available": 193,
-      "gross": 4930,
-      "occupancy_percent": 8.1
+      "reserved": 16,
+      "available": 192,
+      "gross": 5220,
+      "occupancy_percent": 8.57
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -656,11 +656,11 @@
       "date": "2026-01-13T11:30:00+05:45",
       "time": "",
       "seats": 207,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 207,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 205,
+      "gross": 860,
+      "occupancy_percent": 0.97
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -731,11 +731,11 @@
       "date": "2026-01-13T15:15:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 0,
+      "sold": 5,
       "reserved": 0,
-      "available": 180,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 175,
+      "gross": 2350,
+      "occupancy_percent": 2.78
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -1116,16 +1116,18 @@
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
       "movie_name": "Dhurandhar",
       "show_id": "24495:one-cinemas-new-baneshwor",
-      "venue": "one-cinemas-new-baneshwor",
-      "theatre": "One Cinemas New Baneshwor - Audi 1",
-      "date": "2026-01-13T15:30:00+05:45",
-      "time": "",
-      "seats": 208,
-      "sold": 17,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-13",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 191,
-      "gross": 4250,
-      "occupancy_percent": 8.17
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -1677,10 +1679,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 5,
-      "available": 205,
-      "gross": 1000,
-      "occupancy_percent": 2.38
+      "reserved": 7,
+      "available": 203,
+      "gross": 1400,
+      "occupancy_percent": 3.33
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -1716,18 +1718,16 @@
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
       "movie_name": "The RajaSaab",
       "show_id": "152003:qfx-square-mall",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-13",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 1",
+      "date": "2026-01-13T11:15:00+05:45",
+      "time": "",
+      "seats": 177,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 177,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -1823,18 +1823,16 @@
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
       "movie_name": "The RajaSaab",
       "show_id": "152022:pokhara-cineplex",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-13",
-      "time": null,
-      "seats": 0,
+      "venue": "pokhara-cineplex",
+      "theatre": "QFX Cinemas Trade Mall - SCREEN 1",
+      "date": "2026-01-13T19:30:00+05:45",
+      "time": "",
+      "seats": 342,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 342,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -2056,10 +2054,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 2,
-      "available": 194,
-      "gross": 400,
-      "occupancy_percent": 1.02
+      "reserved": 4,
+      "available": 192,
+      "gross": 800,
+      "occupancy_percent": 2.04
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -2080,18 +2078,16 @@
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
       "movie_name": "Dhurandhar",
       "show_id": "3155:kirtipur-cineplex",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-13",
-      "time": null,
-      "seats": 0,
+      "venue": "kirtipur-cineplex",
+      "theatre": "Kirtipur Cineplex - Audi-2",
+      "date": "2026-01-13T18:30:00+05:45",
+      "time": "",
+      "seats": 101,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 101,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -2382,18 +2378,16 @@
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
       "movie_name": "Dhurandhar",
       "show_id": "152000:qs-cinemas",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-13",
-      "time": null,
-      "seats": 0,
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 2",
+      "date": "2026-01-13T18:30:00+05:45",
+      "time": "",
+      "seats": 129,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 129,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "4rrtAWfKfKYhhsWEYUU2KE",
