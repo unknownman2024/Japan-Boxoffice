@@ -1,6 +1,6 @@
 {
   "date": "2026-01-14",
-  "lastUpdated": "10:12 PM, 12 January 2026",
+  "lastUpdated": "02:51 AM, 13 January 2026",
   "shows": [
     {
       "movie_id": "pZfLtimsFz9yfCLa5P5ABP",
@@ -218,16 +218,18 @@
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
       "movie_name": "The RajaSaab",
       "show_id": "60398:ini-cinemas-nb-center",
-      "venue": "ini-cinemas-nb-center",
-      "theatre": "iNi Cinemas NB Center - Audi -2 (DTS: X)",
-      "date": "2026-01-14T18:30:00+05:45",
-      "time": "",
-      "seats": 210,
-      "sold": 2,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-14",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 208,
-      "gross": 400,
-      "occupancy_percent": 0.95
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -434,10 +436,10 @@
       "time": "",
       "seats": 199,
       "sold": 0,
-      "reserved": 7,
-      "available": 192,
-      "gross": 1050,
-      "occupancy_percent": 3.52
+      "reserved": 6,
+      "available": 193,
+      "gross": 900,
+      "occupancy_percent": 3.02
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -584,10 +586,10 @@
       "time": "",
       "seats": 212,
       "sold": 6,
-      "reserved": 22,
-      "available": 184,
-      "gross": 9520,
-      "occupancy_percent": 13.21
+      "reserved": 24,
+      "available": 182,
+      "gross": 10200,
+      "occupancy_percent": 14.15
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -698,18 +700,16 @@
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
       "movie_name": "Dhurandhar",
       "show_id": "152031:qs-cinemas",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-14",
-      "time": null,
-      "seats": 0,
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 2",
+      "date": "2026-01-14T18:30:00+05:45",
+      "time": "",
+      "seats": 129,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 129,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -736,10 +736,10 @@
       "time": "",
       "seats": 177,
       "sold": 0,
-      "reserved": 3,
-      "available": 174,
-      "gross": 600,
-      "occupancy_percent": 1.69
+      "reserved": 4,
+      "available": 173,
+      "gross": 800,
+      "occupancy_percent": 2.26
     },
     {
       "movie_id": "4rrtAWfKfKYhhsWEYUU2KE",
@@ -925,35 +925,31 @@
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
       "movie_name": "The RajaSaab",
       "show_id": "11361:infinity-movies",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-14",
-      "time": null,
-      "seats": 0,
+      "venue": "infinity-movies",
+      "theatre": "Infinity Movies - Audi 2",
+      "date": "2026-01-14T17:45:00+05:45",
+      "time": "",
+      "seats": 154,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 154,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
       "movie_name": "The RajaSaab",
       "show_id": "11356:infinity-movies",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-14",
-      "time": null,
-      "seats": 0,
+      "venue": "infinity-movies",
+      "theatre": "Infinity Movies - Audi 1",
+      "date": "2026-01-14T11:15:00+05:45",
+      "time": "",
+      "seats": 181,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 181,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -979,11 +975,11 @@
       "date": "2026-01-14T20:00:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 217,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 213,
+      "gross": 800,
+      "occupancy_percent": 1.84
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -1549,11 +1545,11 @@
       "date": "2026-01-14T11:45:00+05:45",
       "time": "",
       "seats": 51,
-      "sold": 0,
+      "sold": 3,
       "reserved": 2,
-      "available": 49,
-      "gross": 1600,
-      "occupancy_percent": 3.92
+      "available": 46,
+      "gross": 4000,
+      "occupancy_percent": 9.8
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -1835,10 +1831,10 @@
       "time": "",
       "seats": 251,
       "sold": 0,
-      "reserved": 0,
-      "available": 251,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 249,
+      "gross": 350,
+      "occupancy_percent": 0.8
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -1859,16 +1855,18 @@
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
       "movie_name": "The RajaSaab",
       "show_id": "38699:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi - 1",
-      "date": "2026-01-14T12:00:00+05:45",
-      "time": "",
-      "seats": 251,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-14",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 251,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -2299,11 +2297,11 @@
       "date": "2026-01-14T13:00:00+05:45",
       "time": "",
       "seats": 139,
-      "sold": 0,
+      "sold": 10,
       "reserved": 0,
-      "available": 139,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 129,
+      "gross": 2200,
+      "occupancy_percent": 7.19
     },
     {
       "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
@@ -2459,18 +2457,16 @@
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
       "movie_name": "Dhurandhar",
       "show_id": "152100:qfx-labim",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-14",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 1",
+      "date": "2026-01-14T14:15:00+05:45",
+      "time": "",
+      "seats": 182,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 182,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -2662,27 +2658,25 @@
       "time": "",
       "seats": 136,
       "sold": 14,
-      "reserved": 2,
-      "available": 120,
-      "gross": 4000,
-      "occupancy_percent": 11.76
+      "reserved": 0,
+      "available": 122,
+      "gross": 3500,
+      "occupancy_percent": 10.29
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
       "movie_name": "Dhurandhar",
       "show_id": "24512:one-cinemas-kalimati",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-14",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "one-cinemas-kalimati",
+      "theatre": "One Cinemas Kalimati - Audi 2",
+      "date": "2026-01-14T11:15:00+05:45",
+      "time": "",
+      "seats": 136,
+      "sold": 14,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "available": 122,
+      "gross": 3500,
+      "occupancy_percent": 10.29
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -2698,6 +2692,51 @@
       "available": 122,
       "gross": 4200,
       "occupancy_percent": 10.29
+    },
+    {
+      "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
+      "movie_name": "The RajaSaab",
+      "show_id": "163115:oasis-cinema",
+      "venue": "oasis-cinema",
+      "theatre": "Oasis Cinema - Screen A",
+      "date": "2026-01-14T15:00:00+05:45",
+      "time": "",
+      "seats": 171,
+      "sold": 0,
+      "reserved": 0,
+      "available": 171,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
+      "movie_name": "The RajaSaab",
+      "show_id": "163113:oasis-cinema",
+      "venue": "oasis-cinema",
+      "theatre": "Oasis Cinema - Screen B",
+      "date": "2026-01-14T12:00:00+05:45",
+      "time": "",
+      "seats": 133,
+      "sold": 0,
+      "reserved": 0,
+      "available": 133,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
+      "movie_name": "The RajaSaab",
+      "show_id": "163114:oasis-cinema",
+      "venue": "oasis-cinema",
+      "theatre": "Oasis Cinema - Screen B",
+      "date": "2026-01-14T18:00:00+05:45",
+      "time": "",
+      "seats": 133,
+      "sold": 0,
+      "reserved": 0,
+      "available": 133,
+      "gross": 0,
+      "occupancy_percent": 0.0
     }
   ]
 }
