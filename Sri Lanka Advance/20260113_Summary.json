@@ -1,6 +1,6 @@
 {
   "date": "20260113",
-  "lastUpdated": "04:46 AM, 12 January 2026",
+  "lastUpdated": "09:16 AM, 12 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
@@ -8,17 +8,17 @@
           "format": "3D",
           "language": "English",
           "shows": 42,
-          "gross": 196500.0,
-          "sold": 75,
+          "gross": 216100.0,
+          "sold": 85,
           "totalSeats": 6938
         },
-        "ET00005939": {
+        "ET00005946": {
           "format": "2D",
-          "language": "English",
-          "shows": 3,
+          "language": "Tamil",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 429
+          "totalSeats": 143
         },
         "ET00005945": {
           "format": "3D",
@@ -28,13 +28,13 @@
           "sold": 0,
           "totalSeats": 152
         },
-        "ET00005946": {
+        "ET00005939": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
+          "language": "English",
+          "shows": 3,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 143
+          "totalSeats": 429
         }
       }
     },
@@ -56,8 +56,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 37,
-          "gross": 3400.0,
-          "sold": 6,
+          "gross": 4000.0,
+          "sold": 8,
           "totalSeats": 7364
         }
       }
@@ -71,6 +71,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 716
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1668
         }
       }
     },
@@ -98,18 +110,6 @@
         }
       }
     },
-    "Mr.Mrs": {
-      "formats": {
-        "ET00005919": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1164
-        }
-      }
-    },
     "Anaconda": {
       "formats": {
         "ET00005929": {
@@ -128,22 +128,14 @@
           "format": "2D",
           "language": "English",
           "shows": 12,
-          "gross": 8500.0,
-          "sold": 8,
+          "gross": 13700.0,
+          "sold": 10,
           "totalSeats": 1534
         }
       }
     },
     "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
-        "ET00005953": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 236
-        },
         "ET00005952": {
           "format": "3D",
           "language": "English",
@@ -151,19 +143,19 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 299
+        },
+        "ET00005953": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 236
         }
       }
     },
     "Wicked: For Good": {
       "formats": {
-        "ET00005921": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 140
-        },
         "ET00005916": {
           "format": "2D",
           "language": "English",
@@ -171,6 +163,38 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 99
+        },
+        "ET00005921": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 140
+        }
+      }
+    },
+    "Mr.Mrs": {
+      "formats": {
+        "ET00005919": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1164
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 63,
+          "gross": 30000.0,
+          "sold": 40,
+          "totalSeats": 11654
         }
       }
     },
@@ -180,21 +204,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 11,
-          "gross": 6000.0,
-          "sold": 8,
+          "gross": 4200.0,
+          "sold": 6,
           "totalSeats": 1995
-        }
-      }
-    },
-    "Sirai": {
-      "formats": {
-        "ET00005951": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 253
         }
       }
     },
@@ -210,15 +222,15 @@
         }
       }
     },
-    "Ayu": {
+    "Sirai": {
       "formats": {
-        "ET00005878": {
+        "ET00005951": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 4000.0,
-          "sold": 4,
-          "totalSeats": 151
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 253
         }
       }
     },
@@ -234,27 +246,15 @@
         }
       }
     },
-    " Father": {
+    "Ayu": {
       "formats": {
-        "ET00005963": {
+        "ET00005878": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 63,
-          "gross": 25250.0,
-          "sold": 33,
-          "totalSeats": 11654
-        }
-      }
-    },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1668
+          "shows": 1,
+          "gross": 4000.0,
+          "sold": 4,
+          "totalSeats": 151
         }
       }
     }
