@@ -1,6 +1,6 @@
 {
   "date": "20260114",
-  "lastUpdated": "01:56 PM, 13 January 2026",
+  "lastUpdated": "02:55 PM, 13 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
@@ -12,14 +12,6 @@
           "sold": 10,
           "totalSeats": 430
         },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 45,
-          "gross": 692850.0,
-          "sold": 210,
-          "totalSeats": 6730
-        },
         "ET00005945": {
           "format": "3D",
           "language": "Tamil",
@@ -27,6 +19,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 152
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 45,
+          "gross": 738450.0,
+          "sold": 221,
+          "totalSeats": 6730
         }
       }
     },
@@ -36,9 +36,21 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 58,
-          "gross": 99900.0,
-          "sold": 104,
+          "gross": 116300.0,
+          "sold": 114,
           "totalSeats": 9555
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 76,
+          "gross": 225000.0,
+          "sold": 293,
+          "totalSeats": 12385
         }
       }
     },
@@ -48,8 +60,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 43,
-          "gross": 28500.0,
-          "sold": 48,
+          "gross": 27800.0,
+          "sold": 46,
           "totalSeats": 6668
         }
       }
@@ -78,18 +90,6 @@
         }
       }
     },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 11,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1568
-        }
-      }
-    },
     "Zootopia 2": {
       "formats": {
         "ET00005925": {
@@ -110,15 +110,27 @@
         }
       }
     },
-    "The Raja Saab": {
+    "Mr.Mrs": {
       "formats": {
-        "ET00005958": {
+        "ET00005919": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 10,
+          "language": "Sinhala",
+          "shows": 9,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1221
+          "totalSeats": 1164
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 12,
+          "gross": 72000.0,
+          "sold": 61,
+          "totalSeats": 1477
         }
       }
     },
@@ -134,47 +146,27 @@
         }
       }
     },
-    "The Housemaid": {
+    "The Raja Saab": {
       "formats": {
-        "ET00005954": {
+        "ET00005958": {
           "format": "2D",
-          "language": "English",
-          "shows": 12,
-          "gross": 65000.0,
-          "sold": 55,
-          "totalSeats": 1477
-        }
-      }
-    },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 5,
-          "gross": 18600.0,
-          "sold": 15,
-          "totalSeats": 433
-        }
-      }
-    },
-    "The SpongeBob Movie: Search for SquarePants": {
-      "formats": {
-        "ET00005953": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
+          "language": "Tamil",
+          "shows": 10,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 236
-        },
-        "ET00005952": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 12000.0,
-          "sold": 10,
-          "totalSeats": 299
+          "totalSeats": 1221
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 11,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1568
         }
       }
     },
@@ -198,15 +190,23 @@
         }
       }
     },
-    "Vaa Vaathiyaar": {
+    "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
-        "ET00005944": {
+        "ET00005952": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 16800.0,
+          "sold": 14,
+          "totalSeats": 299
+        },
+        "ET00005953": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 8,
-          "gross": 8900.0,
-          "sold": 10,
-          "totalSeats": 1238
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 236
         }
       }
     },
@@ -222,6 +222,18 @@
         }
       }
     },
+    "Vaa Vaathiyaar": {
+      "formats": {
+        "ET00005944": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 8,
+          "gross": 8100.0,
+          "sold": 9,
+          "totalSeats": 1238
+        }
+      }
+    },
     "Sirai": {
       "formats": {
         "ET00005951": {
@@ -234,15 +246,15 @@
         }
       }
     },
-    "Mr.Mrs": {
+    "Dhurandhar": {
       "formats": {
-        "ET00005919": {
+        "ET00005937": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 9,
-          "gross": 1750.0,
-          "sold": 7,
-          "totalSeats": 1164
+          "language": "Hindi",
+          "shows": 5,
+          "gross": 22200.0,
+          "sold": 18,
+          "totalSeats": 433
         }
       }
     },
@@ -255,18 +267,6 @@
           "gross": 2000.0,
           "sold": 2,
           "totalSeats": 151
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 76,
-          "gross": 187900.0,
-          "sold": 249,
-          "totalSeats": 12385
         }
       }
     }
