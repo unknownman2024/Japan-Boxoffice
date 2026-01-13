@@ -1,17 +1,9 @@
 {
   "date": "20260114",
-  "lastUpdated": "11:58 AM, 13 January 2026",
+  "lastUpdated": "12:52 PM, 13 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 7500.0,
-          "sold": 5,
-          "totalSeats": 430
-        },
         "ET00005945": {
           "format": "3D",
           "language": "Tamil",
@@ -24,9 +16,17 @@
           "format": "3D",
           "language": "English",
           "shows": 45,
-          "gross": 641250.0,
-          "sold": 187,
+          "gross": 656550.0,
+          "sold": 194,
           "totalSeats": 6730
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 7500.0,
+          "sold": 5,
+          "totalSeats": 430
         }
       }
     },
@@ -36,8 +36,8 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 58,
-          "gross": 75900.0,
-          "sold": 80,
+          "gross": 79500.0,
+          "sold": 84,
           "totalSeats": 9555
         }
       }
@@ -48,8 +48,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 43,
-          "gross": 26200.0,
-          "sold": 42,
+          "gross": 27100.0,
+          "sold": 44,
           "totalSeats": 6668
         }
       }
@@ -60,21 +60,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 75,
-          "gross": 165250.0,
-          "sold": 216,
+          "gross": 176650.0,
+          "sold": 233,
           "totalSeats": 12171
-        }
-      }
-    },
-    "Predator: Badlands": {
-      "formats": {
-        "ET00005924": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 22
         }
       }
     },
@@ -90,23 +78,15 @@
         }
       }
     },
-    "Zootopia 2": {
+    "Moda Tharidu": {
       "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 8,
-          "gross": 24500.0,
-          "sold": 22,
-          "totalSeats": 1050
-        },
-        "ET00005925": {
+        "ET00005884": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 111
+          "language": "Sinhala",
+          "shows": 11,
+          "gross": 400.0,
+          "sold": 2,
+          "totalSeats": 1568
         }
       }
     },
@@ -122,35 +102,47 @@
         }
       }
     },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 111
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 8,
+          "gross": 32000.0,
+          "sold": 29,
+          "totalSeats": 1050
+        }
+      }
+    },
+    "Predator: Badlands": {
+      "formats": {
+        "ET00005924": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 22
+        }
+      }
+    },
     "The Housemaid": {
       "formats": {
         "ET00005954": {
           "format": "2D",
           "language": "English",
           "shows": 12,
-          "gross": 60400.0,
-          "sold": 51,
+          "gross": 62800.0,
+          "sold": 53,
           "totalSeats": 1477
-        }
-      }
-    },
-    "The SpongeBob Movie: Search for SquarePants": {
-      "formats": {
-        "ET00005952": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 299
-        },
-        "ET00005953": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 236
         }
       }
     },
@@ -166,15 +158,23 @@
         }
       }
     },
-    "Moda Tharidu": {
+    "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
-        "ET00005884": {
+        "ET00005953": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 11,
+          "language": "English",
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1568
+          "totalSeats": 236
+        },
+        "ET00005952": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 299
         }
       }
     },
@@ -190,28 +190,20 @@
         }
       }
     },
-    "The Raja Saab": {
+    "Neera": {
       "formats": {
-        "ET00005958": {
+        "ET00005849": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 10,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1221
+          "language": "Sinhala",
+          "shows": 11,
+          "gross": 8150.0,
+          "sold": 13,
+          "totalSeats": 1954
         }
       }
     },
     "Wicked: For Good": {
       "formats": {
-        "ET00005916": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 99
-        },
         "ET00005921": {
           "format": "3D",
           "language": "English",
@@ -219,30 +211,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 140
-        }
-      }
-    },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
+        },
+        "ET00005916": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 11,
-          "gross": 6150.0,
-          "sold": 11,
-          "totalSeats": 1954
-        }
-      }
-    },
-    "Vaa Vaathiyaar": {
-      "formats": {
-        "ET00005944": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 8,
-          "gross": 8100.0,
-          "sold": 9,
-          "totalSeats": 1238
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 99
         }
       }
     },
@@ -258,6 +234,18 @@
         }
       }
     },
+    "Vaa Vaathiyaar": {
+      "formats": {
+        "ET00005944": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 8,
+          "gross": 8900.0,
+          "sold": 10,
+          "totalSeats": 1238
+        }
+      }
+    },
     "Ayu": {
       "formats": {
         "ET00005878": {
@@ -267,6 +255,18 @@
           "gross": 2000.0,
           "sold": 2,
           "totalSeats": 151
+        }
+      }
+    },
+    "The Raja Saab": {
+      "formats": {
+        "ET00005958": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 10,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1221
         }
       }
     }
