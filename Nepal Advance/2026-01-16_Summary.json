@@ -5,8 +5,8 @@
     "total_shows": 1,
     "seats": 210,
     "sold": 0,
-    "reserved": 19,
-    "available": 191,
+    "reserved": 21,
+    "available": 189,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -15,8 +15,8 @@
         "total_shows": 1,
         "seats": 210,
         "sold": 0,
-        "reserved": 19,
-        "available": 191,
+        "reserved": 21,
+        "available": 189,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -275,10 +275,10 @@
     "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
     "movie_name": "The RajaSaab",
     "total_shows": 20,
-    "seats": 3429,
+    "seats": 1357,
     "sold": 0,
-    "reserved": 36,
-    "available": 3393,
+    "reserved": 0,
+    "available": 1357,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -293,12 +293,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "qfx-skyline",
-        "total_shows": 5,
-        "seats": 633,
+        "venue": "Unknown",
+        "total_shows": 12,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 633,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -333,16 +333,6 @@
         "fastfilling": 0
       },
       {
-        "venue": "qfx-durbar",
-        "total_shows": 1,
-        "seats": 53,
-        "sold": 0,
-        "reserved": 0,
-        "available": 53,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
         "venue": "qfx-chhaya",
         "total_shows": 1,
         "seats": 112,
@@ -353,62 +343,32 @@
         "fastfilling": 0
       },
       {
-        "venue": "pokhara-cineplex",
-        "total_shows": 1,
-        "seats": 342,
-        "sold": 0,
-        "reserved": 0,
-        "available": 342,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
         "venue": "qfx-bhaktapur",
-        "total_shows": 2,
-        "seats": 454,
+        "total_shows": 1,
+        "seats": 207,
         "sold": 0,
         "reserved": 0,
-        "available": 454,
+        "available": 207,
         "housefull": 0,
         "fastfilling": 0
       },
       {
-        "venue": "qfx-butwal",
-        "total_shows": 2,
-        "seats": 352,
+        "venue": "qfx-skyline",
+        "total_shows": 1,
+        "seats": 117,
         "sold": 0,
-        "reserved": 36,
-        "available": 316,
+        "reserved": 0,
+        "available": 117,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "qfx-one-stop-mall",
-        "total_shows": 2,
-        "seats": 271,
-        "sold": 0,
-        "reserved": 0,
-        "available": 271,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "qfx-bageshwori",
         "total_shows": 1,
-        "seats": 290,
+        "seats": 133,
         "sold": 0,
         "reserved": 0,
-        "available": 290,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "qfx-cineflix-itahari",
-        "total_shows": 1,
-        "seats": 134,
-        "sold": 0,
-        "reserved": 0,
-        "available": 134,
+        "available": 133,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -535,6 +495,29 @@
         "sold": 0,
         "reserved": 0,
         "available": 207,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
+    "movie_name": "Jhari Pachhi Ko Indreni",
+    "total_shows": 1,
+    "seats": 248,
+    "sold": 0,
+    "reserved": 0,
+    "available": 248,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 1,
+        "seats": 248,
+        "sold": 0,
+        "reserved": 0,
+        "available": 248,
         "housefull": 0,
         "fastfilling": 0
       }
