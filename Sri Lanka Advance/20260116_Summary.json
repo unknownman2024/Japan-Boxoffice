@@ -1,7 +1,27 @@
 {
   "date": "20260116",
-  "lastUpdated": "02:48 AM, 15 January 2026",
+  "lastUpdated": "03:48 AM, 15 January 2026",
   "movies": {
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005945": {
+          "format": "3D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 152
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 41,
+          "gross": 335950.0,
+          "sold": 144,
+          "totalSeats": 7570
+        }
+      }
+    },
     "Parasakthi": {
       "formats": {
         "ET00005926": {
@@ -14,35 +34,15 @@
         }
       }
     },
-    "Avatar: Fire and Ash": {
+    "Malaki Duwe Numba": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 41,
-          "gross": 335950.0,
-          "sold": 144,
-          "totalSeats": 7570
-        },
-        "ET00005945": {
-          "format": "3D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 152
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
+        "ET00005955": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 79,
-          "gross": 119100.0,
-          "sold": 137,
-          "totalSeats": 12994
+          "shows": 37,
+          "gross": 22500.0,
+          "sold": 31,
+          "totalSeats": 6060
         }
       }
     },
@@ -58,15 +58,27 @@
         }
       }
     },
-    "Maariya": {
+    " Father": {
       "formats": {
-        "ET00005918": {
+        "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 1,
-          "gross": 500.0,
-          "sold": 1,
-          "totalSeats": 244
+          "shows": 79,
+          "gross": 119100.0,
+          "sold": 137,
+          "totalSeats": 12994
+        }
+      }
+    },
+    "Vaa Vaathiyaar": {
+      "formats": {
+        "ET00005944": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 35,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 5570
         }
       }
     },
@@ -87,18 +99,6 @@
           "gross": 12500.0,
           "sold": 11,
           "totalSeats": 680
-        }
-      }
-    },
-    "Vaa Vaathiyaar": {
-      "formats": {
-        "ET00005944": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 35,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 5570
         }
       }
     },
@@ -128,14 +128,6 @@
     },
     "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
-        "ET00005953": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 9900.0,
-          "sold": 9,
-          "totalSeats": 140
-        },
         "ET00005952": {
           "format": "3D",
           "language": "English",
@@ -143,6 +135,14 @@
           "gross": 2600.0,
           "sold": 2,
           "totalSeats": 178
+        },
+        "ET00005953": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 9900.0,
+          "sold": 9,
+          "totalSeats": 140
         }
       }
     },
@@ -194,18 +194,6 @@
         }
       }
     },
-    "Greenland 2: Migration": {
-      "formats": {
-        "ET00005968": {
-          "format": "2D",
-          "language": "English",
-          "shows": 6,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 559
-        }
-      }
-    },
     "Thalaivar Thambi Thalaimaiyil": {
       "formats": {
         "ET00005970": {
@@ -230,15 +218,27 @@
         }
       }
     },
-    "Malaki Duwe Numba": {
+    "Greenland 2: Migration": {
       "formats": {
-        "ET00005955": {
+        "ET00005968": {
+          "format": "2D",
+          "language": "English",
+          "shows": 6,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 559
+        }
+      }
+    },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 37,
-          "gross": 22500.0,
-          "sold": 31,
-          "totalSeats": 6060
+          "shows": 1,
+          "gross": 500.0,
+          "sold": 1,
+          "totalSeats": 244
         }
       }
     }
