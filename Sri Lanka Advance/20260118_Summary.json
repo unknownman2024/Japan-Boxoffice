@@ -1,23 +1,15 @@
 {
   "date": "20260118",
-  "lastUpdated": "03:47 AM, 17 January 2026",
+  "lastUpdated": "04:46 AM, 17 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005945": {
-          "format": "3D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 152
-        },
         "ET00005938": {
           "format": "3D",
           "language": "English",
           "shows": 47,
-          "gross": 914850.0,
-          "sold": 409,
+          "gross": 913550.0,
+          "sold": 407,
           "totalSeats": 8199
         },
         "ET00005939": {
@@ -27,6 +19,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 143
+        },
+        "ET00005945": {
+          "format": "3D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 152
         }
       }
     },
@@ -48,9 +48,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 117,
-          "gross": 461050.0,
-          "sold": 569,
+          "gross": 460050.0,
+          "sold": 567,
           "totalSeats": 19960
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 49,
+          "gross": 37100.0,
+          "sold": 68,
+          "totalSeats": 7569
         }
       }
     },
@@ -110,15 +122,15 @@
         }
       }
     },
-    "Vaa Vaathiyaar": {
+    "Primate": {
       "formats": {
-        "ET00005944": {
+        "ET00005969": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 29,
-          "gross": 1250.0,
-          "sold": 3,
-          "totalSeats": 4408
+          "language": "English",
+          "shows": 15,
+          "gross": 10300.0,
+          "sold": 8,
+          "totalSeats": 1685
         }
       }
     },
@@ -131,18 +143,6 @@
           "gross": 47100.0,
           "sold": 29,
           "totalSeats": 864
-        }
-      }
-    },
-    "David": {
-      "formats": {
-        "ET00005972": {
-          "format": "2D",
-          "language": "English",
-          "shows": 6,
-          "gross": 44400.0,
-          "sold": 37,
-          "totalSeats": 688
         }
       }
     },
@@ -170,15 +170,27 @@
         }
       }
     },
-    "Malaki Duwe Numba": {
+    "Greenland 2: Migration": {
       "formats": {
-        "ET00005955": {
+        "ET00005968": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 49,
-          "gross": 37100.0,
-          "sold": 68,
-          "totalSeats": 7569
+          "language": "English",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 415
+        }
+      }
+    },
+    "David": {
+      "formats": {
+        "ET00005972": {
+          "format": "2D",
+          "language": "English",
+          "shows": 6,
+          "gross": 44400.0,
+          "sold": 37,
+          "totalSeats": 688
         }
       }
     },
@@ -191,18 +203,6 @@
           "gross": 7000.0,
           "sold": 5,
           "totalSeats": 344
-        }
-      }
-    },
-    "Primate": {
-      "formats": {
-        "ET00005969": {
-          "format": "2D",
-          "language": "English",
-          "shows": 15,
-          "gross": 10300.0,
-          "sold": 8,
-          "totalSeats": 1685
         }
       }
     },
@@ -220,14 +220,6 @@
     },
     "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
-        "ET00005952": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 178
-        },
         "ET00005953": {
           "format": "2D",
           "language": "English",
@@ -235,18 +227,26 @@
           "gross": 18000.0,
           "sold": 15,
           "totalSeats": 140
+        },
+        "ET00005952": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 178
         }
       }
     },
-    "Greenland 2: Migration": {
+    "Vaa Vaathiyaar": {
       "formats": {
-        "ET00005968": {
+        "ET00005944": {
           "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 415
+          "language": "Tamil",
+          "shows": 29,
+          "gross": 1250.0,
+          "sold": 3,
+          "totalSeats": 4408
         }
       }
     }
