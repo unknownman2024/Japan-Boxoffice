@@ -1,16 +1,16 @@
 {
   "date": "20260118",
-  "lastUpdated": "04:46 AM, 17 January 2026",
+  "lastUpdated": "06:48 AM, 17 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005938": {
+        "ET00005945": {
           "format": "3D",
-          "language": "English",
-          "shows": 47,
-          "gross": 913550.0,
-          "sold": 407,
-          "totalSeats": 8199
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 152
         },
         "ET00005939": {
           "format": "2D",
@@ -20,13 +20,13 @@
           "sold": 0,
           "totalSeats": 143
         },
-        "ET00005945": {
+        "ET00005938": {
           "format": "3D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 152
+          "language": "English",
+          "shows": 47,
+          "gross": 924600.0,
+          "sold": 412,
+          "totalSeats": 8199
         }
       }
     },
@@ -36,8 +36,8 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 55,
-          "gross": 166400.0,
-          "sold": 168,
+          "gross": 169600.0,
+          "sold": 172,
           "totalSeats": 10405
         }
       }
@@ -48,33 +48,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 117,
-          "gross": 460050.0,
-          "sold": 567,
+          "gross": 462900.0,
+          "sold": 570,
           "totalSeats": 19960
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 49,
-          "gross": 37100.0,
-          "sold": 68,
-          "totalSeats": 7569
-        }
-      }
-    },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 3,
-          "gross": 2000.0,
-          "sold": 4,
-          "totalSeats": 476
         }
       }
     },
@@ -107,6 +83,30 @@
           "gross": 2400.0,
           "sold": 2,
           "totalSeats": 145
+        }
+      }
+    },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 3,
+          "gross": 2000.0,
+          "sold": 4,
+          "totalSeats": 476
+        }
+      }
+    },
+    "Vaa Vaathiyaar": {
+      "formats": {
+        "ET00005944": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 29,
+          "gross": 1250.0,
+          "sold": 3,
+          "totalSeats": 4408
         }
       }
     },
@@ -146,30 +146,6 @@
         }
       }
     },
-    "Thalaivar Thambi Thalaimaiyil": {
-      "formats": {
-        "ET00005970": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 23,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2543
-        }
-      }
-    },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 7,
-          "gross": 23900.0,
-          "sold": 27,
-          "totalSeats": 1482
-        }
-      }
-    },
     "Greenland 2: Migration": {
       "formats": {
         "ET00005968": {
@@ -194,6 +170,18 @@
         }
       }
     },
+    "Thalaivar Thambi Thalaimaiyil": {
+      "formats": {
+        "ET00005970": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 23,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 2543
+        }
+      }
+    },
     "Dhurandhar": {
       "formats": {
         "ET00005937": {
@@ -203,6 +191,18 @@
           "gross": 7000.0,
           "sold": 5,
           "totalSeats": 344
+        }
+      }
+    },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 7,
+          "gross": 23900.0,
+          "sold": 27,
+          "totalSeats": 1482
         }
       }
     },
@@ -220,14 +220,6 @@
     },
     "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
-        "ET00005953": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 18000.0,
-          "sold": 15,
-          "totalSeats": 140
-        },
         "ET00005952": {
           "format": "3D",
           "language": "English",
@@ -235,18 +227,26 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 178
+        },
+        "ET00005953": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 18000.0,
+          "sold": 15,
+          "totalSeats": 140
         }
       }
     },
-    "Vaa Vaathiyaar": {
+    "Malaki Duwe Numba": {
       "formats": {
-        "ET00005944": {
+        "ET00005955": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 29,
-          "gross": 1250.0,
-          "sold": 3,
-          "totalSeats": 4408
+          "language": "Sinhala",
+          "shows": 49,
+          "gross": 37100.0,
+          "sold": 68,
+          "totalSeats": 7569
         }
       }
     }
