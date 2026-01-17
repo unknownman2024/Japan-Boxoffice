@@ -1,16 +1,16 @@
 {
   "date": "20260118",
-  "lastUpdated": "10:47 AM, 17 January 2026",
+  "lastUpdated": "11:55 AM, 17 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005938": {
           "format": "3D",
           "language": "English",
-          "shows": 47,
-          "gross": 1027450.0,
-          "sold": 470,
-          "totalSeats": 8199
+          "shows": 48,
+          "gross": 1099250.0,
+          "sold": 522,
+          "totalSeats": 8351
         },
         "ET00005939": {
           "format": "2D",
@@ -19,14 +19,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 143
-        },
-        "ET00005945": {
-          "format": "3D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 152
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 49,
+          "gross": 48400.0,
+          "sold": 93,
+          "totalSeats": 7569
         }
       }
     },
@@ -36,8 +40,8 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 55,
-          "gross": 176900.0,
-          "sold": 181,
+          "gross": 184100.0,
+          "sold": 190,
           "totalSeats": 10405
         }
       }
@@ -48,9 +52,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 117,
-          "gross": 590550.0,
-          "sold": 729,
-          "totalSeats": 19960
+          "gross": 693250.0,
+          "sold": 854,
+          "totalSeats": 20046
         }
       }
     },
@@ -59,10 +63,34 @@
         "ET00005884": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 8,
+          "shows": 9,
           "gross": 4000.0,
           "sold": 5,
-          "totalSeats": 1459
+          "totalSeats": 1579
+        }
+      }
+    },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 3,
+          "gross": 2000.0,
+          "sold": 4,
+          "totalSeats": 476
+        }
+      }
+    },
+    "Primate": {
+      "formats": {
+        "ET00005969": {
+          "format": "2D",
+          "language": "English",
+          "shows": 15,
+          "gross": 21100.0,
+          "sold": 14,
+          "totalSeats": 1685
         }
       }
     },
@@ -72,16 +100,16 @@
           "format": "2D",
           "language": "English",
           "shows": 2,
-          "gross": 2400.0,
-          "sold": 2,
+          "gross": 4800.0,
+          "sold": 4,
           "totalSeats": 145
         },
         "ET00005930": {
           "format": "3D",
           "language": "English",
           "shows": 5,
-          "gross": 39100.0,
-          "sold": 32,
+          "gross": 43900.0,
+          "sold": 36,
           "totalSeats": 680
         }
       }
@@ -92,33 +120,9 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 29,
-          "gross": 2650.0,
-          "sold": 7,
+          "gross": 3350.0,
+          "sold": 9,
           "totalSeats": 4408
-        }
-      }
-    },
-    "Primate": {
-      "formats": {
-        "ET00005969": {
-          "format": "2D",
-          "language": "English",
-          "shows": 15,
-          "gross": 10300.0,
-          "sold": 8,
-          "totalSeats": 1685
-        }
-      }
-    },
-    "Anaconda": {
-      "formats": {
-        "ET00005929": {
-          "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 22900.0,
-          "sold": 17,
-          "totalSeats": 541
         }
       }
     },
@@ -127,10 +131,22 @@
         "ET00005954": {
           "format": "2D",
           "language": "English",
-          "shows": 8,
-          "gross": 72300.0,
-          "sold": 45,
-          "totalSeats": 864
+          "shows": 9,
+          "gross": 68900.0,
+          "sold": 43,
+          "totalSeats": 898
+        }
+      }
+    },
+    "David": {
+      "formats": {
+        "ET00005972": {
+          "format": "2D",
+          "language": "English",
+          "shows": 6,
+          "gross": 44400.0,
+          "sold": 37,
+          "totalSeats": 688
         }
       }
     },
@@ -146,39 +162,15 @@
         }
       }
     },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 49,
-          "gross": 42400.0,
-          "sold": 82,
-          "totalSeats": 7569
-        }
-      }
-    },
     "Thalaivar Thambi Thalaimaiyil": {
       "formats": {
         "ET00005970": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 22,
-          "gross": 1700.0,
-          "sold": 2,
-          "totalSeats": 2424
-        }
-      }
-    },
-    "David": {
-      "formats": {
-        "ET00005972": {
-          "format": "2D",
-          "language": "English",
-          "shows": 6,
-          "gross": 44400.0,
-          "sold": 37,
-          "totalSeats": 688
+          "shows": 23,
+          "gross": 9000.0,
+          "sold": 10,
+          "totalSeats": 2543
         }
       }
     },
@@ -199,10 +191,10 @@
         "ET00005849": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 7,
-          "gross": 26900.0,
-          "sold": 30,
-          "totalSeats": 1482
+          "shows": 8,
+          "gross": 36400.0,
+          "sold": 40,
+          "totalSeats": 1602
         }
       }
     },
@@ -226,27 +218,27 @@
         }
       }
     },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 3,
-          "gross": 2000.0,
-          "sold": 4,
-          "totalSeats": 476
-        }
-      }
-    },
     "Mr.Mrs": {
       "formats": {
         "ET00005919": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 5,
+          "shows": 6,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 563
+          "totalSeats": 683
+        }
+      }
+    },
+    "Anaconda": {
+      "formats": {
+        "ET00005929": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 22900.0,
+          "sold": 17,
+          "totalSeats": 541
         }
       }
     }
