@@ -1,6 +1,6 @@
 {
   "date": "2026-01-17",
-  "lastUpdated": "07:00 PM, 17 January 2026",
+  "lastUpdated": "07:47 PM, 17 January 2026",
   "shows": [
     {
       "movie_id": "qXZ3Wzvity6DkZNsp9fSgc",
@@ -6624,11 +6624,11 @@
       "date": "2026-01-17T20:30:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 7,
+      "sold": 16,
       "reserved": 0,
-      "available": 176,
-      "gross": 3360,
-      "occupancy_percent": 3.83
+      "available": 167,
+      "gross": 7680,
+      "occupancy_percent": 8.74
     },
     {
       "movie_id": "DXC3Qb9sGJZirLuSLCAUoZ",
@@ -6639,11 +6639,11 @@
       "date": "2026-01-17T20:15:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 9,
+      "sold": 13,
       "reserved": 0,
-      "available": 238,
-      "gross": 3960,
-      "occupancy_percent": 3.64
+      "available": 234,
+      "gross": 5720,
+      "occupancy_percent": 5.26
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -6654,11 +6654,11 @@
       "date": "2026-01-17T20:30:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 0,
+      "sold": 3,
       "reserved": 6,
-      "available": 224,
-      "gross": 3300,
-      "occupancy_percent": 2.61
+      "available": 221,
+      "gross": 4290,
+      "occupancy_percent": 3.91
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -6669,11 +6669,11 @@
       "date": "2026-01-17T20:30:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 20,
+      "sold": 28,
       "reserved": 0,
-      "available": 197,
-      "gross": 8000,
-      "occupancy_percent": 9.22
+      "available": 189,
+      "gross": 11200,
+      "occupancy_percent": 12.9
     },
     {
       "movie_id": "qXZ3Wzvity6DkZNsp9fSgc",
@@ -6684,11 +6684,11 @@
       "date": "2026-01-17T20:15:00+05:45",
       "time": "",
       "seats": 219,
-      "sold": 14,
-      "reserved": 0,
-      "available": 205,
-      "gross": 5320,
-      "occupancy_percent": 6.39
+      "sold": 21,
+      "reserved": 11,
+      "available": 187,
+      "gross": 12160,
+      "occupancy_percent": 14.61
     },
     {
       "movie_id": "Pytcw2QFRid6aPwJ5NkuS5",
@@ -6699,11 +6699,11 @@
       "date": "2026-01-17T20:30:00+05:45",
       "time": "",
       "seats": 143,
-      "sold": 9,
+      "sold": 12,
       "reserved": 0,
-      "available": 134,
-      "gross": 3420,
-      "occupancy_percent": 6.29
+      "available": 131,
+      "gross": 4560,
+      "occupancy_percent": 8.39
     },
     {
       "movie_id": "Pytcw2QFRid6aPwJ5NkuS5",
@@ -6744,11 +6744,11 @@
       "date": "2026-01-17T20:45:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 4,
+      "sold": 8,
       "reserved": 4,
-      "available": 206,
-      "gross": 2400,
-      "occupancy_percent": 3.74
+      "available": 202,
+      "gross": 3600,
+      "occupancy_percent": 5.61
     },
     {
       "movie_id": "Pytcw2QFRid6aPwJ5NkuS5",
@@ -6759,26 +6759,28 @@
       "date": "2026-01-17T20:15:00+05:45",
       "time": "",
       "seats": 169,
-      "sold": 2,
-      "reserved": 10,
-      "available": 157,
-      "gross": 3800,
-      "occupancy_percent": 7.1
+      "sold": 8,
+      "reserved": 0,
+      "available": 161,
+      "gross": 2600,
+      "occupancy_percent": 4.73
     },
     {
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
       "movie_name": "Gobar Ganesh",
       "show_id": "38761:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi - 3",
-      "date": "2026-01-17T20:45:00+05:45",
-      "time": "",
-      "seats": 164,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-17",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 10,
-      "available": 154,
-      "gross": 4000,
-      "occupancy_percent": 6.1
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "gC68WZa2QwZjit5DJ5fRte",
@@ -6790,25 +6792,27 @@
       "time": "",
       "seats": 60,
       "sold": 1,
-      "reserved": 6,
-      "available": 53,
-      "gross": 4550,
-      "occupancy_percent": 11.67
+      "reserved": 1,
+      "available": 58,
+      "gross": 1300,
+      "occupancy_percent": 3.33
     },
     {
       "movie_id": "txgxCnmZREqoEgdtacpQWf",
       "movie_name": "Avatar: Fire and Ash : Hindi Dubbed",
       "show_id": "38751:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi - 1",
-      "date": "2026-01-17T20:30:00+05:45",
-      "time": "",
-      "seats": 251,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-17",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 251,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -6851,11 +6855,11 @@
       "date": "2026-01-17T20:15:00+05:45",
       "time": "",
       "seats": 53,
-      "sold": 5,
+      "sold": 8,
       "reserved": 0,
-      "available": 48,
-      "gross": 8000,
-      "occupancy_percent": 9.43
+      "available": 45,
+      "gross": 12800,
+      "occupancy_percent": 15.09
     }
   ]
 }
