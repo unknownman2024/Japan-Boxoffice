@@ -1,9 +1,17 @@
 {
   "date": "20260118",
-  "lastUpdated": "03:46 PM, 17 January 2026",
+  "lastUpdated": "04:44 PM, 17 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 48,
+          "gross": 1397250.0,
+          "sold": 699,
+          "totalSeats": 8351
+        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -11,26 +19,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 143
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 48,
-          "gross": 1295600.0,
-          "sold": 632,
-          "totalSeats": 8351
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 117,
-          "gross": 914600.0,
-          "sold": 1141,
-          "totalSeats": 20046
         }
       }
     },
@@ -40,29 +28,33 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 49,
-          "gross": 71900.0,
-          "sold": 124,
+          "gross": 75000.0,
+          "sold": 132,
           "totalSeats": 7569
         }
       }
     },
-    "Zootopia 2": {
+    "Parasakthi": {
       "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 5,
-          "gross": 60000.0,
-          "sold": 49,
-          "totalSeats": 680
-        },
-        "ET00005925": {
+        "ET00005926": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 13200.0,
-          "sold": 11,
-          "totalSeats": 145
+          "language": "Tamil",
+          "shows": 54,
+          "gross": 244050.0,
+          "sold": 261,
+          "totalSeats": 10286
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 117,
+          "gross": 983900.0,
+          "sold": 1230,
+          "totalSeats": 20046
         }
       }
     },
@@ -83,10 +75,30 @@
         "ET00005944": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 28,
-          "gross": 4050.0,
-          "sold": 11,
-          "totalSeats": 4289
+          "shows": 27,
+          "gross": 7250.0,
+          "sold": 15,
+          "totalSeats": 4170
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 18000.0,
+          "sold": 15,
+          "totalSeats": 145
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 5,
+          "gross": 85500.0,
+          "sold": 70,
+          "totalSeats": 680
         }
       }
     },
@@ -102,15 +114,15 @@
         }
       }
     },
-    "Primate": {
+    "Moda Tharidu": {
       "formats": {
-        "ET00005969": {
+        "ET00005884": {
           "format": "2D",
-          "language": "English",
-          "shows": 15,
-          "gross": 26300.0,
-          "sold": 18,
-          "totalSeats": 1685
+          "language": "Sinhala",
+          "shows": 9,
+          "gross": 4000.0,
+          "sold": 5,
+          "totalSeats": 1579
         }
       }
     },
@@ -120,8 +132,8 @@
           "format": "2D",
           "language": "English",
           "shows": 9,
-          "gross": 95200.0,
-          "sold": 61,
+          "gross": 116650.0,
+          "sold": 70,
           "totalSeats": 898
         }
       }
@@ -138,15 +150,39 @@
         }
       }
     },
+    "Primate": {
+      "formats": {
+        "ET00005969": {
+          "format": "2D",
+          "language": "English",
+          "shows": 15,
+          "gross": 43100.0,
+          "sold": 30,
+          "totalSeats": 1685
+        }
+      }
+    },
     "Greenland 2: Migration": {
       "formats": {
         "ET00005968": {
           "format": "2D",
           "language": "English",
           "shows": 4,
-          "gross": 3600.0,
-          "sold": 3,
+          "gross": 2400.0,
+          "sold": 2,
           "totalSeats": 415
+        }
+      }
+    },
+    "Thalaivar Thambi Thalaimaiyil": {
+      "formats": {
+        "ET00005970": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 26,
+          "gross": 27900.0,
+          "sold": 34,
+          "totalSeats": 2959
         }
       }
     },
@@ -156,33 +192,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 8,
-          "gross": 44150.0,
-          "sold": 48,
+          "gross": 46150.0,
+          "sold": 50,
           "totalSeats": 1602
-        }
-      }
-    },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 3,
-          "gross": 9800.0,
-          "sold": 7,
-          "totalSeats": 344
-        }
-      }
-    },
-    "Thalaivar Thambi Thalaimaiyil": {
-      "formats": {
-        "ET00005970": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 25,
-          "gross": 20700.0,
-          "sold": 25,
-          "totalSeats": 2840
         }
       }
     },
@@ -218,27 +230,15 @@
         }
       }
     },
-    "Parasakthi": {
+    "Dhurandhar": {
       "formats": {
-        "ET00005926": {
+        "ET00005937": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 55,
-          "gross": 228050.0,
-          "sold": 244,
-          "totalSeats": 10405
-        }
-      }
-    },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 9,
-          "gross": 4000.0,
-          "sold": 5,
-          "totalSeats": 1579
+          "language": "Hindi",
+          "shows": 3,
+          "gross": 9800.0,
+          "sold": 7,
+          "totalSeats": 344
         }
       }
     }
