@@ -1,9 +1,17 @@
 {
   "date": "20260118",
-  "lastUpdated": "08:46 PM, 17 January 2026",
+  "lastUpdated": "09:49 PM, 17 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 48,
+          "gross": 1852100.0,
+          "sold": 1039,
+          "totalSeats": 8351
+        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -11,14 +19,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 143
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 48,
-          "gross": 1705900.0,
-          "sold": 929,
-          "totalSeats": 8351
         }
       }
     },
@@ -28,9 +28,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 49,
-          "gross": 115750.0,
-          "sold": 174,
+          "gross": 126500.0,
+          "sold": 192,
           "totalSeats": 7569
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 117,
+          "gross": 1468850.0,
+          "sold": 1810,
+          "totalSeats": 20111
         }
       }
     },
@@ -46,15 +58,47 @@
         }
       }
     },
-    " Father": {
+    "Zootopia 2": {
       "formats": {
-        "ET00005963": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 5,
+          "gross": 145000.0,
+          "sold": 117,
+          "totalSeats": 680
+        },
+        "ET00005925": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 117,
-          "gross": 1359900.0,
-          "sold": 1682,
-          "totalSeats": 20111
+          "language": "English",
+          "shows": 2,
+          "gross": 33150.0,
+          "sold": 23,
+          "totalSeats": 145
+        }
+      }
+    },
+    "Vaa Vaathiyaar": {
+      "formats": {
+        "ET00005944": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 27,
+          "gross": 16150.0,
+          "sold": 31,
+          "totalSeats": 4105
+        }
+      }
+    },
+    "Anaconda": {
+      "formats": {
+        "ET00005929": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 45900.0,
+          "sold": 36,
+          "totalSeats": 541
         }
       }
     },
@@ -70,46 +114,14 @@
         }
       }
     },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 30750.0,
-          "sold": 21,
-          "totalSeats": 145
-        },
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 5,
-          "gross": 128500.0,
-          "sold": 104,
-          "totalSeats": 680
-        }
-      }
-    },
-    "Vaa Vaathiyaar": {
-      "formats": {
-        "ET00005944": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 27,
-          "gross": 17250.0,
-          "sold": 29,
-          "totalSeats": 4105
-        }
-      }
-    },
     "The Housemaid": {
       "formats": {
         "ET00005954": {
           "format": "2D",
           "language": "English",
           "shows": 9,
-          "gross": 170200.0,
-          "sold": 108,
+          "gross": 178400.0,
+          "sold": 112,
           "totalSeats": 898
         }
       }
@@ -120,33 +132,21 @@
           "format": "2D",
           "language": "English",
           "shows": 6,
-          "gross": 55600.0,
-          "sold": 47,
+          "gross": 68800.0,
+          "sold": 58,
           "totalSeats": 688
         }
       }
     },
-    "Thalaivar Thambi Thalaimaiyil": {
+    "Primate": {
       "formats": {
-        "ET00005970": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 26,
-          "gross": 36750.0,
-          "sold": 43,
-          "totalSeats": 2959
-        }
-      }
-    },
-    "Anaconda": {
-      "formats": {
-        "ET00005929": {
+        "ET00005969": {
           "format": "2D",
           "language": "English",
-          "shows": 5,
-          "gross": 32900.0,
-          "sold": 26,
-          "totalSeats": 541
+          "shows": 15,
+          "gross": 71700.0,
+          "sold": 48,
+          "totalSeats": 1685
         }
       }
     },
@@ -162,15 +162,15 @@
         }
       }
     },
-    "Primate": {
+    "Neera": {
       "formats": {
-        "ET00005969": {
+        "ET00005849": {
           "format": "2D",
-          "language": "English",
-          "shows": 15,
-          "gross": 67500.0,
-          "sold": 44,
-          "totalSeats": 1685
+          "language": "Sinhala",
+          "shows": 8,
+          "gross": 53650.0,
+          "sold": 61,
+          "totalSeats": 1602
         }
       }
     },
@@ -180,41 +180,21 @@
           "format": "2D",
           "language": "Hindi",
           "shows": 3,
-          "gross": 12600.0,
-          "sold": 9,
+          "gross": 14000.0,
+          "sold": 10,
           "totalSeats": 344
         }
       }
     },
-    "The SpongeBob Movie: Search for SquarePants": {
+    "Thalaivar Thambi Thalaimaiyil": {
       "formats": {
-        "ET00005952": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 24000.0,
-          "sold": 16,
-          "totalSeats": 178
-        },
-        "ET00005953": {
+        "ET00005970": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 33600.0,
-          "sold": 28,
-          "totalSeats": 140
-        }
-      }
-    },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 8,
-          "gross": 46650.0,
-          "sold": 52,
-          "totalSeats": 1602
+          "language": "Tamil",
+          "shows": 26,
+          "gross": 54250.0,
+          "sold": 70,
+          "totalSeats": 2959
         }
       }
     },
@@ -230,14 +210,34 @@
         }
       }
     },
+    "The SpongeBob Movie: Search for SquarePants": {
+      "formats": {
+        "ET00005952": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 33000.0,
+          "sold": 22,
+          "totalSeats": 178
+        },
+        "ET00005953": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 33600.0,
+          "sold": 28,
+          "totalSeats": 140
+        }
+      }
+    },
     "Parasakthi": {
       "formats": {
         "ET00005926": {
           "format": "2D",
           "language": "Tamil",
           "shows": 54,
-          "gross": 303300.0,
-          "sold": 337,
+          "gross": 366500.0,
+          "sold": 407,
           "totalSeats": 10286
         }
       }
