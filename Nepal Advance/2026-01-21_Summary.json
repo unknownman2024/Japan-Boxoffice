@@ -488,10 +488,10 @@
     "movie_id": "JipRPABDzwSJN54KT4F9bJ",
     "movie_name": "Gobar Ganesh",
     "total_shows": 26,
-    "seats": 3392,
+    "seats": 4410,
     "sold": 0,
     "reserved": 70,
-    "available": 3322,
+    "available": 4340,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -507,11 +507,21 @@
       },
       {
         "venue": "qfx-square-mall",
-        "total_shows": 3,
-        "seats": 519,
+        "total_shows": 1,
+        "seats": 165,
         "sold": 0,
         "reserved": 0,
-        "available": 519,
+        "available": 165,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 3,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -546,32 +556,42 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 8,
-        "seats": 0,
+        "venue": "bishwojyoti-cineplex",
+        "total_shows": 2,
+        "seats": 402,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 402,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "qfx-apex-mall",
-        "total_shows": 1,
-        "seats": 120,
+        "total_shows": 2,
+        "seats": 360,
         "sold": 0,
         "reserved": 0,
-        "available": 120,
+        "available": 360,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ksr-movies",
+        "total_shows": 2,
+        "seats": 317,
+        "sold": 0,
+        "reserved": 0,
+        "available": 317,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "cineroyale",
-        "total_shows": 2,
-        "seats": 434,
+        "total_shows": 3,
+        "seats": 651,
         "sold": 0,
         "reserved": 0,
-        "available": 434,
+        "available": 651,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -587,11 +607,11 @@
       },
       {
         "venue": "ini-qbox-butwal",
-        "total_shows": 1,
-        "seats": 196,
+        "total_shows": 2,
+        "seats": 392,
         "sold": 0,
         "reserved": 0,
-        "available": 196,
+        "available": 392,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -624,20 +644,40 @@
     "movie_id": "WZanbnaScUAfySEmLFK4nP",
     "movie_name": "Dhurandhar",
     "total_shows": 4,
-    "seats": 0,
+    "seats": 479,
     "sold": 0,
-    "reserved": 0,
-    "available": 0,
+    "reserved": 13,
+    "available": 466,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
-        "venue": "Unknown",
-        "total_shows": 4,
-        "seats": 0,
+        "venue": "qfx-durbar",
+        "total_shows": 2,
+        "seats": 102,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 102,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "fcube",
+        "total_shows": 1,
+        "seats": 212,
+        "sold": 0,
+        "reserved": 13,
+        "available": 199,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 165,
+        "sold": 0,
+        "reserved": 0,
+        "available": 165,
         "housefull": 0,
         "fastfilling": 0
       }
