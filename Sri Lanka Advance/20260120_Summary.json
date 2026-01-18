@@ -1,7 +1,27 @@
 {
   "date": "20260120",
-  "lastUpdated": "03:46 AM, 19 January 2026",
+  "lastUpdated": "04:46 AM, 19 January 2026",
   "movies": {
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 44,
+          "gross": 208250.0,
+          "sold": 99,
+          "totalSeats": 7733
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
+        }
+      }
+    },
     " Father": {
       "formats": {
         "ET00005963": {
@@ -35,26 +55,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 476
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 44,
-          "gross": 208250.0,
-          "sold": 99,
-          "totalSeats": 7733
         }
       }
     },
@@ -102,18 +102,6 @@
         }
       }
     },
-    "Anaconda": {
-      "formats": {
-        "ET00005929": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 363
-        }
-      }
-    },
     "The Housemaid": {
       "formats": {
         "ET00005954": {
@@ -123,6 +111,30 @@
           "gross": 3900.0,
           "sold": 3,
           "totalSeats": 864
+        }
+      }
+    },
+    "Vaa Vaathiyaar": {
+      "formats": {
+        "ET00005944": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 24,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 3369
+        }
+      }
+    },
+    "Anaconda": {
+      "formats": {
+        "ET00005929": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 363
         }
       }
     },
@@ -150,18 +162,6 @@
         }
       }
     },
-    "Vaa Vaathiyaar": {
-      "formats": {
-        "ET00005944": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 24,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 3369
-        }
-      }
-    },
     "Thalaivar Thambi Thalaimaiyil": {
       "formats": {
         "ET00005970": {
@@ -186,15 +186,15 @@
         }
       }
     },
-    "Primate": {
+    "Mr.Mrs": {
       "formats": {
-        "ET00005969": {
+        "ET00005919": {
           "format": "2D",
-          "language": "English",
-          "shows": 14,
+          "language": "Sinhala",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1598
+          "totalSeats": 120
         }
       }
     },
@@ -210,15 +210,15 @@
         }
       }
     },
-    "Mr.Mrs": {
+    "Primate": {
       "formats": {
-        "ET00005919": {
+        "ET00005969": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
+          "language": "English",
+          "shows": 14,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 120
+          "totalSeats": 1598
         }
       }
     },
