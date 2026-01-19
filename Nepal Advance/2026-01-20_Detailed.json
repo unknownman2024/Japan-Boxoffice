@@ -1,6 +1,6 @@
 {
   "date": "2026-01-20",
-  "lastUpdated": "02:49 AM, 19 January 2026",
+  "lastUpdated": "06:56 AM, 19 January 2026",
   "shows": [
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -207,10 +207,10 @@
       "time": "",
       "seats": 247,
       "sold": 0,
-      "reserved": 0,
-      "available": 247,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 3,
+      "available": 244,
+      "gross": 525,
+      "occupancy_percent": 1.21
     },
     {
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
@@ -1131,18 +1131,16 @@
       "movie_id": "Pytcw2QFRid6aPwJ5NkuS5",
       "movie_name": "Mirmire",
       "show_id": "60733:ini-qbox-butwal",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-20",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-qbox-butwal",
+      "theatre": "iNi Cinemas QBox - Audi 2",
+      "date": "2026-01-20T11:15:00+05:45",
+      "time": "",
+      "seats": 196,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 196,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "Pytcw2QFRid6aPwJ5NkuS5",
@@ -1238,18 +1236,16 @@
       "movie_id": "Pytcw2QFRid6aPwJ5NkuS5",
       "movie_name": "Mirmire",
       "show_id": "60766:ini-qbox-butwal",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-20",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-qbox-butwal",
+      "theatre": "iNi Cinemas QBox - Audi 1",
+      "date": "2026-01-20T17:00:00+05:45",
+      "time": "",
+      "seats": 196,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 196,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "Pytcw2QFRid6aPwJ5NkuS5",
@@ -2530,16 +2526,18 @@
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
       "movie_name": "Gobar Ganesh",
       "show_id": "153044:pokhara-cineplex",
-      "venue": "pokhara-cineplex",
-      "theatre": "QFX Cinemas Trade Mall - SCREEN 2",
-      "date": "2026-01-20T19:45:00+05:45",
-      "time": "",
-      "seats": 231,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-20",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 231,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
