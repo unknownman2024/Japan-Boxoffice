@@ -1,9 +1,17 @@
 {
   "date": "20260120",
-  "lastUpdated": "08:52 PM, 19 January 2026",
+  "lastUpdated": "09:54 PM, 19 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 46,
+          "gross": 372000.0,
+          "sold": 194,
+          "totalSeats": 7733
+        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -11,14 +19,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 143
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 46,
-          "gross": 340450.0,
-          "sold": 170,
-          "totalSeats": 7733
+        }
+      }
+    },
+    "Parasakthi": {
+      "formats": {
+        "ET00005926": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 38,
+          "gross": 25550.0,
+          "sold": 33,
+          "totalSeats": 6926
         }
       }
     },
@@ -28,45 +40,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 49,
-          "gross": 13850.0,
-          "sold": 30,
+          "gross": 19000.0,
+          "sold": 41,
           "totalSeats": 7359
-        }
-      }
-    },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 3,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 476
-        }
-      }
-    },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 894
-        }
-      }
-    },
-    "Vaa Vaathiyaar": {
-      "formats": {
-        "ET00005944": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 22,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 3082
         }
       }
     },
@@ -90,15 +66,39 @@
         }
       }
     },
-    "Anaconda": {
+    "Moda Tharidu": {
       "formats": {
-        "ET00005929": {
+        "ET00005884": {
           "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 1400.0,
+          "language": "Sinhala",
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 894
+        }
+      }
+    },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 3,
+          "gross": 2400.0,
           "sold": 2,
-          "totalSeats": 363
+          "totalSeats": 476
+        }
+      }
+    },
+    "Vaa Vaathiyaar": {
+      "formats": {
+        "ET00005944": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 22,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 3082
         }
       }
     },
@@ -120,45 +120,33 @@
           "format": "2D",
           "language": "English",
           "shows": 8,
-          "gross": 11600.0,
-          "sold": 10,
+          "gross": 13850.0,
+          "sold": 11,
           "totalSeats": 864
         }
       }
     },
-    "Thalaivar Thambi Thalaimaiyil": {
+    "Anaconda": {
       "formats": {
-        "ET00005970": {
+        "ET00005929": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 24,
-          "gross": 16600.0,
-          "sold": 19,
-          "totalSeats": 2847
+          "language": "English",
+          "shows": 4,
+          "gross": 2400.0,
+          "sold": 3,
+          "totalSeats": 363
         }
       }
     },
-    "Neera": {
+    "Greenland 2: Migration": {
       "formats": {
-        "ET00005849": {
+        "ET00005968": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 8,
-          "gross": 14700.0,
-          "sold": 17,
-          "totalSeats": 1601
-        }
-      }
-    },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 3,
+          "language": "English",
+          "shows": 5,
           "gross": 2000.0,
           "sold": 2,
-          "totalSeats": 236
+          "totalSeats": 485
         }
       }
     },
@@ -186,15 +174,27 @@
         }
       }
     },
-    "Greenland 2: Migration": {
+    "Thalaivar Thambi Thalaimaiyil": {
       "formats": {
-        "ET00005968": {
+        "ET00005970": {
           "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 485
+          "language": "Tamil",
+          "shows": 24,
+          "gross": 15700.0,
+          "sold": 17,
+          "totalSeats": 2847
+        }
+      }
+    },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 8,
+          "gross": 16500.0,
+          "sold": 19,
+          "totalSeats": 1601
         }
       }
     },
@@ -218,27 +218,27 @@
         }
       }
     },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 3,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 236
+        }
+      }
+    },
     " Father": {
       "formats": {
         "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 120,
-          "gross": 284750.0,
-          "sold": 340,
+          "gross": 326400.0,
+          "sold": 417,
           "totalSeats": 22565
-        }
-      }
-    },
-    "Parasakthi": {
-      "formats": {
-        "ET00005926": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 38,
-          "gross": 20550.0,
-          "sold": 28,
-          "totalSeats": 6926
         }
       }
     }
