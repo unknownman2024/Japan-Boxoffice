@@ -99,10 +99,10 @@
     "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
     "movie_name": "The RajaSaab",
     "total_shows": 9,
-    "seats": 1425,
+    "seats": 1372,
     "sold": 0,
     "reserved": 12,
-    "available": 1413,
+    "available": 1360,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -137,12 +137,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "qfx-durbar",
-        "total_shows": 2,
-        "seats": 104,
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
         "sold": 0,
-        "reserved": 2,
-        "available": 102,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -173,6 +173,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 199,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-durbar",
+        "total_shows": 1,
+        "seats": 51,
+        "sold": 0,
+        "reserved": 2,
+        "available": 49,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -255,10 +265,10 @@
     "movie_id": "Pytcw2QFRid6aPwJ5NkuS5",
     "movie_name": "Mirmire",
     "total_shows": 10,
-    "seats": 1910,
+    "seats": 1380,
     "sold": 0,
     "reserved": 12,
-    "available": 1898,
+    "available": 1368,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -273,12 +283,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "ini-lotse-ktm",
-        "total_shows": 2,
-        "seats": 480,
+        "venue": "Unknown",
+        "total_shows": 3,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 480,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -293,22 +303,22 @@
         "fastfilling": 0
       },
       {
+        "venue": "ini-lotse-ktm",
+        "total_shows": 1,
+        "seats": 240,
+        "sold": 0,
+        "reserved": 0,
+        "available": 240,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "ini-cinemas-nb-center",
         "total_shows": 2,
         "seats": 420,
         "sold": 0,
         "reserved": 0,
         "available": 420,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "bishwojyoti-cineplex",
-        "total_shows": 2,
-        "seats": 290,
-        "sold": 0,
-        "reserved": 0,
-        "available": 290,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -328,20 +338,30 @@
     "movie_id": "JipRPABDzwSJN54KT4F9bJ",
     "movie_name": "Gobar Ganesh",
     "total_shows": 13,
-    "seats": 2584,
+    "seats": 1938,
     "sold": 6,
-    "reserved": 50,
-    "available": 2528,
+    "reserved": 39,
+    "available": 1893,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
-        "venue": "fcube",
+        "venue": "Unknown",
         "total_shows": 3,
-        "seats": 606,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "fcube",
+        "total_shows": 2,
+        "seats": 396,
         "sold": 6,
-        "reserved": 50,
-        "available": 550,
+        "reserved": 39,
+        "available": 351,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -352,16 +372,6 @@
         "sold": 0,
         "reserved": 0,
         "available": 402,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "ini-lotse-ktm",
-        "total_shows": 2,
-        "seats": 480,
-        "sold": 0,
-        "reserved": 0,
-        "available": 480,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -387,11 +397,21 @@
       },
       {
         "venue": "ini-qbox-butwal",
-        "total_shows": 2,
-        "seats": 392,
+        "total_shows": 1,
+        "seats": 196,
         "sold": 0,
         "reserved": 0,
-        "available": 392,
+        "available": 196,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-lotse-ktm",
+        "total_shows": 1,
+        "seats": 240,
+        "sold": 0,
+        "reserved": 0,
+        "available": 240,
         "housefull": 0,
         "fastfilling": 0
       }
