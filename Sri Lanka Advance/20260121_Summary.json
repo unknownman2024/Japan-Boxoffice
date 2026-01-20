@@ -1,9 +1,17 @@
 {
   "date": "20260121",
-  "lastUpdated": "07:13 PM, 20 January 2026",
+  "lastUpdated": "07:57 PM, 20 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 47,
+          "gross": 276650.0,
+          "sold": 127,
+          "totalSeats": 7911
+        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -11,38 +19,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 143
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 47,
-          "gross": 255050.0,
-          "sold": 113,
-          "totalSeats": 7911
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 49,
-          "gross": 19200.0,
-          "sold": 35,
-          "totalSeats": 7359
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 117,
-          "gross": 260700.0,
-          "sold": 309,
-          "totalSeats": 22338
         }
       }
     },
@@ -58,15 +34,15 @@
         }
       }
     },
-    "Moda Tharidu": {
+    "Malaki Duwe Numba": {
       "formats": {
-        "ET00005884": {
+        "ET00005955": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 894
+          "shows": 49,
+          "gross": 19200.0,
+          "sold": 35,
+          "totalSeats": 7359
         }
       }
     },
@@ -82,16 +58,32 @@
         }
       }
     },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 894
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 117,
+          "gross": 284000.0,
+          "sold": 341,
+          "totalSeats": 22338
+        }
+      }
+    },
     "Zootopia 2": {
       "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 6,
-          "gross": 12000.0,
-          "sold": 12,
-          "totalSeats": 780
-        },
         "ET00005925": {
           "format": "2D",
           "language": "English",
@@ -99,42 +91,14 @@
           "gross": 4100.0,
           "sold": 2,
           "totalSeats": 178
-        }
-      }
-    },
-    "Anaconda": {
-      "formats": {
-        "ET00005929": {
-          "format": "2D",
+        },
+        "ET00005930": {
+          "format": "3D",
           "language": "English",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 541
-        }
-      }
-    },
-    "Primate": {
-      "formats": {
-        "ET00005969": {
-          "format": "2D",
-          "language": "English",
-          "shows": 13,
-          "gross": 12300.0,
-          "sold": 9,
-          "totalSeats": 1498
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 8,
-          "gross": 38000.0,
-          "sold": 20,
-          "totalSeats": 864
+          "shows": 6,
+          "gross": 13000.0,
+          "sold": 13,
+          "totalSeats": 780
         }
       }
     },
@@ -162,6 +126,42 @@
         }
       }
     },
+    "Anaconda": {
+      "formats": {
+        "ET00005929": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 541
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 8,
+          "gross": 38000.0,
+          "sold": 20,
+          "totalSeats": 864
+        }
+      }
+    },
+    "Primate": {
+      "formats": {
+        "ET00005969": {
+          "format": "2D",
+          "language": "English",
+          "shows": 13,
+          "gross": 12300.0,
+          "sold": 9,
+          "totalSeats": 1498
+        }
+      }
+    },
     "David": {
       "formats": {
         "ET00005972": {
@@ -186,15 +186,15 @@
         }
       }
     },
-    "Neera": {
+    "Cyanide": {
       "formats": {
-        "ET00005849": {
+        "ET00005950": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 8,
-          "gross": 4350.0,
-          "sold": 7,
-          "totalSeats": 1601
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 210
         }
       }
     },
@@ -222,18 +222,6 @@
         }
       }
     },
-    "Cyanide": {
-      "formats": {
-        "ET00005950": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 210
-        }
-      }
-    },
     "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
         "ET00005952": {
@@ -251,6 +239,18 @@
           "gross": 4000.0,
           "sold": 4,
           "totalSeats": 140
+        }
+      }
+    },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 8,
+          "gross": 3600.0,
+          "sold": 4,
+          "totalSeats": 1601
         }
       }
     }
