@@ -1,7 +1,43 @@
 {
   "date": "20260123",
-  "lastUpdated": "06:54 AM, 22 January 2026",
+  "lastUpdated": "09:14 AM, 22 January 2026",
   "movies": {
+    "Master": {
+      "formats": {
+        "ET00001066": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 850.0,
+          "sold": 1,
+          "totalSeats": 387
+        }
+      }
+    },
+    "Parasakthi": {
+      "formats": {
+        "ET00005926": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1154
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 98,
+          "gross": 108900.0,
+          "sold": 119,
+          "totalSeats": 16922
+        }
+      }
+    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005939": {
@@ -16,57 +52,9 @@
           "format": "3D",
           "language": "English",
           "shows": 26,
-          "gross": 71100.0,
-          "sold": 31,
+          "gross": 80600.0,
+          "sold": 38,
           "totalSeats": 4457
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 32,
-          "gross": 11450.0,
-          "sold": 19,
-          "totalSeats": 4573
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 95,
-          "gross": 99100.0,
-          "sold": 109,
-          "totalSeats": 16394
-        }
-      }
-    },
-    "Master": {
-      "formats": {
-        "ET00001066": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 387
-        }
-      }
-    },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 8800.0,
-          "sold": 7,
-          "totalSeats": 198
         }
       }
     },
@@ -102,6 +90,18 @@
         }
       }
     },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 69,
+          "gross": 181500.0,
+          "sold": 202,
+          "totalSeats": 11375
+        }
+      }
+    },
     "Thalaivar Thambi Thalaimaiyil": {
       "formats": {
         "ET00005970": {
@@ -114,15 +114,15 @@
         }
       }
     },
-    "Primate": {
+    "Malaki Duwe Numba": {
       "formats": {
-        "ET00005969": {
+        "ET00005955": {
           "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 16600.0,
-          "sold": 9,
-          "totalSeats": 410
+          "language": "Sinhala",
+          "shows": 32,
+          "gross": 11450.0,
+          "sold": 19,
+          "totalSeats": 4573
         }
       }
     },
@@ -132,21 +132,21 @@
           "format": "2D",
           "language": "English",
           "shows": 6,
-          "gross": 28400.0,
-          "sold": 19,
+          "gross": 36800.0,
+          "sold": 22,
           "totalSeats": 534
         }
       }
     },
-    "Dharmayuddhaya 2": {
+    "Maariya": {
       "formats": {
-        "ET00005975": {
+        "ET00005918": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 69,
-          "gross": 168650.0,
-          "sold": 187,
-          "totalSeats": 11375
+          "shows": 2,
+          "gross": 8800.0,
+          "sold": 7,
+          "totalSeats": 198
         }
       }
     },
@@ -174,15 +174,15 @@
         }
       }
     },
-    "Border 2": {
+    "Greenland 2: Migration": {
       "formats": {
-        "ET00005957": {
+        "ET00005968": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 5,
-          "gross": 13000.0,
-          "sold": 10,
-          "totalSeats": 457
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 176
         }
       }
     },
@@ -206,27 +206,15 @@
         }
       }
     },
-    "Greenland 2: Migration": {
+    "Border 2": {
       "formats": {
-        "ET00005968": {
+        "ET00005957": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 176
-        }
-      }
-    },
-    "Draupathi 2": {
-      "formats": {
-        "ET00005980": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 288
+          "language": "Hindi",
+          "shows": 5,
+          "gross": 13000.0,
+          "sold": 10,
+          "totalSeats": 457
         }
       }
     },
@@ -239,6 +227,42 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 818
+        }
+      }
+    },
+    "Cyanide": {
+      "formats": {
+        "ET00005950": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 210
+        }
+      }
+    },
+    "Mankatha": {
+      "formats": {
+        "ET00005294": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 6,
+          "gross": 27200.0,
+          "sold": 24,
+          "totalSeats": 761
+        }
+      }
+    },
+    "Draupathi 2": {
+      "formats": {
+        "ET00005980": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 288
         }
       }
     },
@@ -260,45 +284,9 @@
           "format": "2D",
           "language": "English",
           "shows": 6,
-          "gross": 21200.0,
-          "sold": 19,
+          "gross": 22300.0,
+          "sold": 20,
           "totalSeats": 574
-        }
-      }
-    },
-    "Mankatha": {
-      "formats": {
-        "ET00005294": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 6,
-          "gross": 26100.0,
-          "sold": 23,
-          "totalSeats": 761
-        }
-      }
-    },
-    "Cyanide": {
-      "formats": {
-        "ET00005950": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 210
-        }
-      }
-    },
-    "Parasakthi": {
-      "formats": {
-        "ET00005926": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1154
         }
       }
     },
@@ -311,6 +299,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 140
+        }
+      }
+    },
+    "Primate": {
+      "formats": {
+        "ET00005969": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 16600.0,
+          "sold": 9,
+          "totalSeats": 410
         }
       }
     }
