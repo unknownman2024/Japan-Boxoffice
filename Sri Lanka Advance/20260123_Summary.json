@@ -1,24 +1,24 @@
 {
   "date": "20260123",
-  "lastUpdated": "03:53 PM, 22 January 2026",
+  "lastUpdated": "04:50 PM, 22 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 6000.0,
-          "sold": 4,
-          "totalSeats": 144
-        },
         "ET00005938": {
           "format": "3D",
           "language": "English",
           "shows": 27,
-          "gross": 182100.0,
-          "sold": 99,
+          "gross": 181700.0,
+          "sold": 98,
           "totalSeats": 4755
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 144
         }
       }
     },
@@ -34,95 +34,15 @@
         }
       }
     },
-    "Master": {
-      "formats": {
-        "ET00001066": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 7,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1507
-        }
-      }
-    },
     " Father": {
       "formats": {
         "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 105,
-          "gross": 242050.0,
-          "sold": 273,
-          "totalSeats": 18504
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 33,
-          "gross": 26250.0,
-          "sold": 37,
-          "totalSeats": 4871
-        }
-      }
-    },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 563
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 4,
-          "gross": 29700.0,
-          "sold": 27,
-          "totalSeats": 480
-        },
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 34
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 83,
-          "gross": 398700.0,
-          "sold": 478,
-          "totalSeats": 13474
-        }
-      }
-    },
-    "Thalaivar Thambi Thalaimaiyil": {
-      "formats": {
-        "ET00005970": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 1600.0,
-          "sold": 2,
-          "totalSeats": 1469
+          "shows": 106,
+          "gross": 275800.0,
+          "sold": 317,
+          "totalSeats": 18624
         }
       }
     },
@@ -138,15 +58,83 @@
         }
       }
     },
-    "The Housemaid": {
+    "Malaki Duwe Numba": {
       "formats": {
-        "ET00005954": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 33,
+          "gross": 26250.0,
+          "sold": 37,
+          "totalSeats": 4871
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 4,
+          "gross": 31900.0,
+          "sold": 29,
+          "totalSeats": 480
+        },
+        "ET00005925": {
           "format": "2D",
           "language": "English",
-          "shows": 6,
-          "gross": 64300.0,
-          "sold": 35,
-          "totalSeats": 534
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 34
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 563
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 85,
+          "gross": 422700.0,
+          "sold": 511,
+          "totalSeats": 13714
+        }
+      }
+    },
+    "Thalaivar Thambi Thalaimaiyil": {
+      "formats": {
+        "ET00005970": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 10,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 1580
+        }
+      }
+    },
+    "Vaa Vaathiyaar": {
+      "formats": {
+        "ET00005944": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 138
         }
       }
     },
@@ -170,27 +158,15 @@
         }
       }
     },
-    "Vaa Vaathiyaar": {
+    "The Housemaid": {
       "formats": {
-        "ET00005944": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 138
-        }
-      }
-    },
-    "David": {
-      "formats": {
-        "ET00005972": {
+        "ET00005954": {
           "format": "2D",
           "language": "English",
-          "shows": 4,
-          "gross": 19800.0,
-          "sold": 18,
-          "totalSeats": 412
+          "shows": 6,
+          "gross": 64300.0,
+          "sold": 35,
+          "totalSeats": 534
         }
       }
     },
@@ -203,6 +179,18 @@
           "gross": 16600.0,
           "sold": 9,
           "totalSeats": 410
+        }
+      }
+    },
+    "David": {
+      "formats": {
+        "ET00005972": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 19800.0,
+          "sold": 18,
+          "totalSeats": 412
         }
       }
     },
@@ -230,15 +218,15 @@
         }
       }
     },
-    "28 Years Later: The Bone Temple": {
+    "Mankatha": {
       "formats": {
-        "ET00005966": {
+        "ET00005294": {
           "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 7000.0,
-          "sold": 4,
-          "totalSeats": 448
+          "language": "Tamil",
+          "shows": 11,
+          "gross": 43200.0,
+          "sold": 39,
+          "totalSeats": 1714
         }
       }
     },
@@ -254,18 +242,6 @@
         }
       }
     },
-    "Greenland 2: Migration": {
-      "formats": {
-        "ET00005968": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 176
-        }
-      }
-    },
     "Dhurandhar": {
       "formats": {
         "ET00005937": {
@@ -278,15 +254,15 @@
         }
       }
     },
-    "Neera": {
+    "Greenland 2: Migration": {
       "formats": {
-        "ET00005849": {
+        "ET00005968": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 818
+          "language": "English",
+          "shows": 2,
+          "gross": 2600.0,
+          "sold": 2,
+          "totalSeats": 176
         }
       }
     },
@@ -296,9 +272,21 @@
           "format": "2D",
           "language": "English",
           "shows": 7,
-          "gross": 64100.0,
-          "sold": 42,
+          "gross": 60950.0,
+          "sold": 41,
           "totalSeats": 717
+        }
+      }
+    },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 3,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 818
         }
       }
     },
@@ -314,15 +302,39 @@
         }
       }
     },
-    "Mankatha": {
+    "Mr.Mrs": {
       "formats": {
-        "ET00005294": {
+        "ET00005919": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 120
+        }
+      }
+    },
+    "28 Years Later: The Bone Temple": {
+      "formats": {
+        "ET00005966": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 7000.0,
+          "sold": 4,
+          "totalSeats": 448
+        }
+      }
+    },
+    "Master": {
+      "formats": {
+        "ET00001066": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 9,
-          "gross": 38100.0,
-          "sold": 33,
-          "totalSeats": 1438
+          "shows": 7,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1507
         }
       }
     }
