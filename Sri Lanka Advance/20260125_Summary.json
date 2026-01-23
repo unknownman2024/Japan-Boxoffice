@@ -1,16 +1,24 @@
 {
   "date": "20260125",
-  "lastUpdated": "03:45 AM, 24 January 2026",
+  "lastUpdated": "04:48 AM, 24 January 2026",
   "movies": {
-    " Father": {
+    "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005963": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 21,
+          "gross": 364250.0,
+          "sold": 152,
+          "totalSeats": 3672
+        },
+        "ET00005939": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 110,
-          "gross": 525150.0,
-          "sold": 621,
-          "totalSeats": 19255
+          "language": "English",
+          "shows": 1,
+          "gross": 4500.0,
+          "sold": 3,
+          "totalSeats": 144
         }
       }
     },
@@ -23,6 +31,30 @@
           "gross": 2400.0,
           "sold": 3,
           "totalSeats": 1456
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 110,
+          "gross": 525950.0,
+          "sold": 621,
+          "totalSeats": 19255
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 32,
+          "gross": 25150.0,
+          "sold": 44,
+          "totalSeats": 4598
         }
       }
     },
@@ -58,47 +90,15 @@
         }
       }
     },
-    "Avatar: Fire and Ash": {
+    "Mankatha": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 21,
-          "gross": 364250.0,
-          "sold": 152,
-          "totalSeats": 3672
-        },
-        "ET00005939": {
+        "ET00005294": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 4500.0,
-          "sold": 3,
-          "totalSeats": 144
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 32,
-          "gross": 25150.0,
-          "sold": 44,
-          "totalSeats": 4598
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 89,
-          "gross": 740700.0,
-          "sold": 1060,
-          "totalSeats": 14825
+          "language": "Tamil",
+          "shows": 20,
+          "gross": 14650.0,
+          "sold": 16,
+          "totalSeats": 3228
         }
       }
     },
@@ -128,14 +128,6 @@
     },
     "Mercy": {
       "formats": {
-        "ET00005976": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 803
-        },
         "ET00005979": {
           "format": "3D",
           "language": "English",
@@ -143,6 +135,14 @@
           "gross": 9000.0,
           "sold": 4,
           "totalSeats": 1024
+        },
+        "ET00005976": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 803
         }
       }
     },
@@ -158,18 +158,6 @@
         }
       }
     },
-    "Greenland 2: Migration": {
-      "formats": {
-        "ET00005968": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 176
-        }
-      }
-    },
     "Border 2": {
       "formats": {
         "ET00005957": {
@@ -182,27 +170,27 @@
         }
       }
     },
-    "David": {
+    "Greenland 2: Migration": {
       "formats": {
-        "ET00005972": {
+        "ET00005968": {
           "format": "2D",
           "language": "English",
-          "shows": 3,
-          "gross": 56800.0,
-          "sold": 51,
-          "totalSeats": 313
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 176
         }
       }
     },
-    "Dhurandhar": {
+    "Dharmayuddhaya 2": {
       "formats": {
-        "ET00005937": {
+        "ET00005975": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 2,
-          "gross": 5600.0,
-          "sold": 4,
-          "totalSeats": 202
+          "language": "Sinhala",
+          "shows": 89,
+          "gross": 740700.0,
+          "sold": 1060,
+          "totalSeats": 14825
         }
       }
     },
@@ -218,15 +206,15 @@
         }
       }
     },
-    "Mankatha": {
+    "David": {
       "formats": {
-        "ET00005294": {
+        "ET00005972": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 20,
-          "gross": 14650.0,
-          "sold": 16,
-          "totalSeats": 3228
+          "language": "English",
+          "shows": 3,
+          "gross": 56800.0,
+          "sold": 51,
+          "totalSeats": 313
         }
       }
     },
@@ -254,6 +242,30 @@
         }
       }
     },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 4000.0,
+          "sold": 4,
+          "totalSeats": 706
+        }
+      }
+    },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 2,
+          "gross": 5600.0,
+          "sold": 4,
+          "totalSeats": 202
+        }
+      }
+    },
     "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
         "ET00005953": {
@@ -263,18 +275,6 @@
           "gross": 3600.0,
           "sold": 3,
           "totalSeats": 140
-        }
-      }
-    },
-    "Mr.Mrs": {
-      "formats": {
-        "ET00005919": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 120
         }
       }
     },
@@ -290,15 +290,15 @@
         }
       }
     },
-    "Neera": {
+    "Mr.Mrs": {
       "formats": {
-        "ET00005849": {
+        "ET00005919": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 2,
-          "gross": 4000.0,
-          "sold": 4,
-          "totalSeats": 706
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 120
         }
       }
     }
