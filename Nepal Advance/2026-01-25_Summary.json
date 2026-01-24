@@ -88,8 +88,8 @@
     "total_shows": 39,
     "seats": 7863,
     "sold": 69,
-    "reserved": 61,
-    "available": 7733,
+    "reserved": 62,
+    "available": 7732,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -118,8 +118,8 @@
         "total_shows": 4,
         "seats": 956,
         "sold": 65,
-        "reserved": 0,
-        "available": 891,
+        "reserved": 1,
+        "available": 890,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -361,10 +361,10 @@
     "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
     "movie_name": "Pariwartan",
     "total_shows": 22,
-    "seats": 3402,
+    "seats": 3069,
     "sold": 16,
     "reserved": 47,
-    "available": 3339,
+    "available": 3006,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -380,11 +380,11 @@
       },
       {
         "venue": "ini-cinemas-nb-center",
-        "total_shows": 2,
-        "seats": 354,
+        "total_shows": 3,
+        "seats": 531,
         "sold": 0,
         "reserved": 0,
-        "available": 354,
+        "available": 531,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -419,32 +419,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "ini-qbox-butwal",
+        "venue": "Unknown",
         "total_shows": 3,
-        "seats": 588,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 588,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "ksr-movies",
-        "total_shows": 2,
-        "seats": 236,
-        "sold": 0,
-        "reserved": 0,
-        "available": 236,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 0,
+        "seats": 118,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 118,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -465,6 +455,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 126,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-qbox-butwal",
+        "total_shows": 1,
+        "seats": 196,
+        "sold": 0,
+        "reserved": 0,
+        "available": 196,
         "housefull": 0,
         "fastfilling": 0
       }

@@ -1,6 +1,6 @@
 {
   "date": "2026-01-25",
-  "lastUpdated": "02:49 AM, 24 January 2026",
+  "lastUpdated": "06:47 AM, 24 January 2026",
   "shows": [
     {
       "movie_id": "QLgAsZ4oA29Ks3m3Z7NVAe",
@@ -312,10 +312,10 @@
       "time": "",
       "seats": 285,
       "sold": 33,
-      "reserved": 0,
-      "available": 252,
-      "gross": 4950,
-      "occupancy_percent": 11.58
+      "reserved": 1,
+      "available": 251,
+      "gross": 5100,
+      "occupancy_percent": 11.93
     },
     {
       "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
@@ -1116,16 +1116,18 @@
       "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
       "movie_name": "Pariwartan",
       "show_id": "60925:ini-qbox-butwal",
-      "venue": "ini-qbox-butwal",
-      "theatre": "iNi Cinemas QBox - Audi 1",
-      "date": "2026-01-25T14:00:00+05:45",
-      "time": "",
-      "seats": 196,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-25",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 196,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
@@ -1146,18 +1148,16 @@
       "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
       "movie_name": "Pariwartan",
       "show_id": "60894:ini-cinemas-nb-center",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-25",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-cinemas-nb-center",
+      "theatre": "iNi Cinemas NB Center - Audi -1 (DTS: X)",
+      "date": "2026-01-25T14:00:00+05:45",
+      "time": "",
+      "seats": 177,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 177,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
@@ -1193,16 +1193,18 @@
       "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
       "movie_name": "Pariwartan",
       "show_id": "60926:ini-qbox-butwal",
-      "venue": "ini-qbox-butwal",
-      "theatre": "iNi Cinemas QBox - Audi 1",
-      "date": "2026-01-25T17:00:00+05:45",
-      "time": "",
-      "seats": 196,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-25",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 196,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
@@ -1223,16 +1225,18 @@
       "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
       "movie_name": "Pariwartan",
       "show_id": "60891:ksr-movies",
-      "venue": "ksr-movies",
-      "theatre": "iNi Cinemas - KSR Movies - Audi 1",
-      "date": "2026-01-25T19:30:00+05:45",
-      "time": "",
-      "seats": 118,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-25",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 118,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     }
   ]
 }
