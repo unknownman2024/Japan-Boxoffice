@@ -1,7 +1,27 @@
 {
   "date": "20260126",
-  "lastUpdated": "03:46 AM, 25 January 2026",
+  "lastUpdated": "04:46 AM, 25 January 2026",
   "movies": {
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 16,
+          "gross": 92500.0,
+          "sold": 34,
+          "totalSeats": 2402
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 287
+        }
+      }
+    },
     "Master": {
       "formats": {
         "ET00001066": {
@@ -11,50 +31,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 2660
-        }
-      }
-    },
-    "Parasakthi": {
-      "formats": {
-        "ET00005926": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1952
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 287
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 16,
-          "gross": 92500.0,
-          "sold": 34,
-          "totalSeats": 2402
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 14,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1193
         }
       }
     },
@@ -70,18 +46,6 @@
         }
       }
     },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 230
-        }
-      }
-    },
     "Moda Tharidu": {
       "formats": {
         "ET00005884": {
@@ -94,14 +58,50 @@
         }
       }
     },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 230
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 14,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1193
+        }
+      }
+    },
+    "Mankatha": {
+      "formats": {
+        "ET00005294": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 10,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1321
+        }
+      }
+    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 78,
-          "gross": 132150.0,
-          "sold": 163,
+          "gross": 132650.0,
+          "sold": 165,
           "totalSeats": 15151
         }
       }
@@ -138,15 +138,15 @@
         }
       }
     },
-    "Greenland 2: Migration": {
+    "The Housemaid": {
       "formats": {
-        "ET00005968": {
+        "ET00005954": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 33
+          "shows": 4,
+          "gross": 5500.0,
+          "sold": 5,
+          "totalSeats": 406
         }
       }
     },
@@ -174,27 +174,15 @@
         }
       }
     },
-    "The Housemaid": {
+    "Greenland 2: Migration": {
       "formats": {
-        "ET00005954": {
+        "ET00005968": {
           "format": "2D",
           "language": "English",
-          "shows": 4,
-          "gross": 5500.0,
-          "sold": 5,
-          "totalSeats": 406
-        }
-      }
-    },
-    "Marty Supreme": {
-      "formats": {
-        "ET00005967": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 298
+          "totalSeats": 33
         }
       }
     },
@@ -207,6 +195,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 202
+        }
+      }
+    },
+    "Marty Supreme": {
+      "formats": {
+        "ET00005967": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 298
         }
       }
     },
@@ -234,18 +234,6 @@
         }
       }
     },
-    "Mr.Mrs": {
-      "formats": {
-        "ET00005919": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 120
-        }
-      }
-    },
     "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
         "ET00005953": {
@@ -270,15 +258,27 @@
         }
       }
     },
-    "Mankatha": {
+    "Mr.Mrs": {
       "formats": {
-        "ET00005294": {
+        "ET00005919": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 10,
+          "language": "Sinhala",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1321
+          "totalSeats": 120
+        }
+      }
+    },
+    "Parasakthi": {
+      "formats": {
+        "ET00005926": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 9,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1952
         }
       }
     }
