@@ -1,7 +1,19 @@
 {
   "date": "20260126",
-  "lastUpdated": "06:59 AM, 25 January 2026",
+  "lastUpdated": "09:20 AM, 25 January 2026",
   "movies": {
+    "Parasakthi": {
+      "formats": {
+        "ET00005926": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 9,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1952
+        }
+      }
+    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005939": {
@@ -22,18 +34,6 @@
         }
       }
     },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 73,
-          "gross": 57450.0,
-          "sold": 62,
-          "totalSeats": 11461
-        }
-      }
-    },
     "Master": {
       "formats": {
         "ET00001066": {
@@ -46,15 +46,15 @@
         }
       }
     },
-    "Parasakthi": {
+    " Father": {
       "formats": {
-        "ET00005926": {
+        "ET00005963": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1952
+          "language": "Sinhala",
+          "shows": 73,
+          "gross": 64550.0,
+          "sold": 70,
+          "totalSeats": 11461
         }
       }
     },
@@ -70,18 +70,6 @@
         }
       }
     },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 230
-        }
-      }
-    },
     "Malaki Duwe Numba": {
       "formats": {
         "ET00005955": {
@@ -94,15 +82,15 @@
         }
       }
     },
-    "Dharmayuddhaya 2": {
+    "Zootopia 2": {
       "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 78,
-          "gross": 132150.0,
-          "sold": 163,
-          "totalSeats": 15151
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 230
         }
       }
     },
@@ -115,6 +103,30 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 1321
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 78,
+          "gross": 148500.0,
+          "sold": 180,
+          "totalSeats": 15151
+        }
+      }
+    },
+    "Thalaivar Thambi Thalaimaiyil": {
+      "formats": {
+        "ET00005970": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 10,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1542
         }
       }
     },
@@ -138,15 +150,27 @@
         }
       }
     },
-    "Thalaivar Thambi Thalaimaiyil": {
+    "Greenland 2: Migration": {
       "formats": {
-        "ET00005970": {
+        "ET00005968": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 10,
+          "language": "English",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1542
+          "totalSeats": 33
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 5500.0,
+          "sold": 5,
+          "totalSeats": 406
         }
       }
     },
@@ -162,15 +186,15 @@
         }
       }
     },
-    "Greenland 2: Migration": {
+    "Dhurandhar": {
       "formats": {
-        "ET00005968": {
+        "ET00005937": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
+          "language": "Hindi",
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 33
+          "totalSeats": 202
         }
       }
     },
@@ -195,30 +219,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 850
-        }
-      }
-    },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 202
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 5500.0,
-          "sold": 5,
-          "totalSeats": 406
         }
       }
     },
@@ -258,18 +258,6 @@
         }
       }
     },
-    "Primate": {
-      "formats": {
-        "ET00005969": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 292
-        }
-      }
-    },
     "Mr.Mrs": {
       "formats": {
         "ET00005919": {
@@ -279,6 +267,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 120
+        }
+      }
+    },
+    "Primate": {
+      "formats": {
+        "ET00005969": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 292
         }
       }
     }
