@@ -1,17 +1,9 @@
 {
   "date": "20260126",
-  "lastUpdated": "10:19 AM, 25 January 2026",
+  "lastUpdated": "10:55 AM, 25 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 16,
-          "gross": 92500.0,
-          "sold": 34,
-          "totalSeats": 2402
-        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -19,30 +11,26 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 287
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 16,
+          "gross": 104000.0,
+          "sold": 38,
+          "totalSeats": 2402
         }
       }
     },
-    "Parasakthi": {
+    "Master": {
       "formats": {
-        "ET00005926": {
+        "ET00001066": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 9,
+          "shows": 12,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1952
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 73,
-          "gross": 68100.0,
-          "sold": 75,
-          "totalSeats": 11461
+          "totalSeats": 2660
         }
       }
     },
@@ -58,18 +46,6 @@
         }
       }
     },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 563
-        }
-      }
-    },
     "Zootopia 2": {
       "formats": {
         "ET00005930": {
@@ -79,6 +55,18 @@
           "gross": 2000.0,
           "sold": 2,
           "totalSeats": 230
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 563
         }
       }
     },
@@ -94,15 +82,15 @@
         }
       }
     },
-    "Thalaivar Thambi Thalaimaiyil": {
+    "Dharmayuddhaya 2": {
       "formats": {
-        "ET00005970": {
+        "ET00005975": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 10,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1542
+          "language": "Sinhala",
+          "shows": 78,
+          "gross": 180450.0,
+          "sold": 216,
+          "totalSeats": 15151
         }
       }
     },
@@ -126,15 +114,39 @@
         }
       }
     },
-    "Dharmayuddhaya 2": {
+    "Thalaivar Thambi Thalaimaiyil": {
       "formats": {
-        "ET00005975": {
+        "ET00005970": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 78,
-          "gross": 176400.0,
-          "sold": 212,
-          "totalSeats": 15151
+          "language": "Tamil",
+          "shows": 10,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1542
+        }
+      }
+    },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 202
+        }
+      }
+    },
+    "Greenland 2: Migration": {
+      "formats": {
+        "ET00005968": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 33
         }
       }
     },
@@ -162,38 +174,14 @@
         }
       }
     },
-    "Greenland 2: Migration": {
-      "formats": {
-        "ET00005968": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 33
-        }
-      }
-    },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 202
-        }
-      }
-    },
     "David": {
       "formats": {
         "ET00005972": {
           "format": "2D",
           "language": "English",
           "shows": 3,
-          "gross": 4000.0,
-          "sold": 4,
+          "gross": 7000.0,
+          "sold": 7,
           "totalSeats": 313
         }
       }
@@ -216,8 +204,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 3,
-          "gross": 1800.0,
-          "sold": 2,
+          "gross": 0.0,
+          "sold": 0,
           "totalSeats": 850
         }
       }
@@ -231,6 +219,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 330
+        }
+      }
+    },
+    "The SpongeBob Movie: Search for SquarePants": {
+      "formats": {
+        "ET00005953": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 121
         }
       }
     },
@@ -258,27 +258,27 @@
         }
       }
     },
-    "The SpongeBob Movie: Search for SquarePants": {
+    "Parasakthi": {
       "formats": {
-        "ET00005953": {
+        "ET00005926": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
+          "language": "Tamil",
+          "shows": 9,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 121
+          "totalSeats": 1952
         }
       }
     },
-    "Master": {
+    " Father": {
       "formats": {
-        "ET00001066": {
+        "ET00005963": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 12,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2660
+          "language": "Sinhala",
+          "shows": 73,
+          "gross": 68600.0,
+          "sold": 77,
+          "totalSeats": 11461
         }
       }
     }
