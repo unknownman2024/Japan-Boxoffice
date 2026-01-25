@@ -1,7 +1,27 @@
 {
   "date": "20260126",
-  "lastUpdated": "09:20 AM, 25 January 2026",
+  "lastUpdated": "10:19 AM, 25 January 2026",
   "movies": {
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 16,
+          "gross": 92500.0,
+          "sold": 34,
+          "totalSeats": 2402
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 287
+        }
+      }
+    },
     "Parasakthi": {
       "formats": {
         "ET00005926": {
@@ -14,59 +34,15 @@
         }
       }
     },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 287
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 16,
-          "gross": 92500.0,
-          "sold": 34,
-          "totalSeats": 2402
-        }
-      }
-    },
-    "Master": {
-      "formats": {
-        "ET00001066": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 12,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2660
-        }
-      }
-    },
     " Father": {
       "formats": {
         "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 73,
-          "gross": 64550.0,
-          "sold": 70,
+          "gross": 68100.0,
+          "sold": 75,
           "totalSeats": 11461
-        }
-      }
-    },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 563
         }
       }
     },
@@ -79,6 +55,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 1193
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 563
         }
       }
     },
@@ -103,18 +91,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 1321
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 78,
-          "gross": 148500.0,
-          "sold": 180,
-          "totalSeats": 15151
         }
       }
     },
@@ -150,6 +126,42 @@
         }
       }
     },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 78,
+          "gross": 176400.0,
+          "sold": 212,
+          "totalSeats": 15151
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 10000.0,
+          "sold": 7,
+          "totalSeats": 406
+        }
+      }
+    },
+    "Border 2": {
+      "formats": {
+        "ET00005957": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 6,
+          "gross": 1000.0,
+          "sold": 1,
+          "totalSeats": 566
+        }
+      }
+    },
     "Greenland 2: Migration": {
       "formats": {
         "ET00005968": {
@@ -162,30 +174,6 @@
         }
       }
     },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 5500.0,
-          "sold": 5,
-          "totalSeats": 406
-        }
-      }
-    },
-    "Border 2": {
-      "formats": {
-        "ET00005957": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 6,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 566
-        }
-      }
-    },
     "Dhurandhar": {
       "formats": {
         "ET00005937": {
@@ -195,6 +183,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 202
+        }
+      }
+    },
+    "David": {
+      "formats": {
+        "ET00005972": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 4000.0,
+          "sold": 4,
+          "totalSeats": 313
         }
       }
     },
@@ -216,21 +216,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 1800.0,
+          "sold": 2,
           "totalSeats": 850
-        }
-      }
-    },
-    "David": {
-      "formats": {
-        "ET00005972": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 4000.0,
-          "sold": 4,
-          "totalSeats": 313
         }
       }
     },
@@ -246,15 +234,15 @@
         }
       }
     },
-    "The SpongeBob Movie: Search for SquarePants": {
+    "Primate": {
       "formats": {
-        "ET00005953": {
+        "ET00005969": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 121
+          "totalSeats": 292
         }
       }
     },
@@ -270,15 +258,27 @@
         }
       }
     },
-    "Primate": {
+    "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
-        "ET00005969": {
+        "ET00005953": {
           "format": "2D",
           "language": "English",
-          "shows": 2,
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 292
+          "totalSeats": 121
+        }
+      }
+    },
+    "Master": {
+      "formats": {
+        "ET00001066": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 12,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 2660
         }
       }
     }
