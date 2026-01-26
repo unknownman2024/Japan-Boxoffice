@@ -1,21 +1,17 @@
 {
   "date": "20260127",
-  "lastUpdated": "10:56 PM, 26 January 2026",
+  "lastUpdated": "11:59 PM, 26 January 2026",
   "movies": {
-    "Parasakthi": {
-      "formats": {
-        "ET00005926": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 10,
-          "gross": 900.0,
-          "sold": 1,
-          "totalSeats": 2049
-        }
-      }
-    },
     "Avatar: Fire and Ash": {
       "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 17,
+          "gross": 177450.0,
+          "sold": 87,
+          "totalSeats": 2567
+        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -23,14 +19,6 @@
           "gross": 13200.0,
           "sold": 11,
           "totalSeats": 287
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 17,
-          "gross": 154150.0,
-          "sold": 75,
-          "totalSeats": 2567
         }
       }
     },
@@ -40,21 +28,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 114,
-          "gross": 335250.0,
-          "sold": 377,
+          "gross": 358900.0,
+          "sold": 409,
           "totalSeats": 18754
         }
       }
     },
-    "Master": {
+    "Parasakthi": {
       "formats": {
-        "ET00001066": {
+        "ET00005926": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 11,
-          "gross": 1950.0,
-          "sold": 3,
-          "totalSeats": 1996
+          "shows": 10,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 2049
         }
       }
     },
@@ -70,15 +58,15 @@
         }
       }
     },
-    "Zootopia 2": {
+    "Master": {
       "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 3,
-          "gross": 9000.0,
-          "sold": 9,
-          "totalSeats": 430
+        "ET00001066": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 11,
+          "gross": 1950.0,
+          "sold": 3,
+          "totalSeats": 1996
         }
       }
     },
@@ -94,15 +82,27 @@
         }
       }
     },
-    "Mankatha": {
+    "Malaki Duwe Numba": {
       "formats": {
-        "ET00005294": {
+        "ET00005955": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 16,
-          "gross": 6450.0,
+          "language": "Sinhala",
+          "shows": 28,
+          "gross": 39700.0,
+          "sold": 52,
+          "totalSeats": 3936
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 9000.0,
           "sold": 9,
-          "totalSeats": 2004
+          "totalSeats": 430
         }
       }
     },
@@ -118,39 +118,15 @@
         }
       }
     },
-    "Malaki Duwe Numba": {
+    "The Housemaid": {
       "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 28,
-          "gross": 40300.0,
-          "sold": 54,
-          "totalSeats": 3936
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 120,
-          "gross": 589750.0,
-          "sold": 987,
-          "totalSeats": 22553
-        }
-      }
-    },
-    "David": {
-      "formats": {
-        "ET00005972": {
+        "ET00005954": {
           "format": "2D",
           "language": "English",
-          "shows": 4,
-          "gross": 3000.0,
-          "sold": 3,
-          "totalSeats": 412
+          "shows": 6,
+          "gross": 33400.0,
+          "sold": 29,
+          "totalSeats": 623
         }
       }
     },
@@ -166,27 +142,15 @@
         }
       }
     },
-    "The Housemaid": {
+    "David": {
       "formats": {
-        "ET00005954": {
+        "ET00005972": {
           "format": "2D",
           "language": "English",
-          "shows": 6,
-          "gross": 31200.0,
-          "sold": 27,
-          "totalSeats": 623
-        }
-      }
-    },
-    "Greenland 2: Migration": {
-      "formats": {
-        "ET00005968": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
+          "shows": 4,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 33
+          "totalSeats": 412
         }
       }
     },
@@ -202,15 +166,63 @@
         }
       }
     },
-    "Neera": {
+    "Dharmayuddhaya 2": {
       "formats": {
-        "ET00005849": {
+        "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 3,
+          "shows": 120,
+          "gross": 607600.0,
+          "sold": 1021,
+          "totalSeats": 22553
+        }
+      }
+    },
+    "Mankatha": {
+      "formats": {
+        "ET00005294": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 16,
+          "gross": 6450.0,
+          "sold": 9,
+          "totalSeats": 2004
+        }
+      }
+    },
+    "Border 2": {
+      "formats": {
+        "ET00005957": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 5,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 850
+          "totalSeats": 459
+        }
+      }
+    },
+    "Greenland 2: Migration": {
+      "formats": {
+        "ET00005968": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 33
+        }
+      }
+    },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 202
         }
       }
     },
@@ -234,27 +246,27 @@
         }
       }
     },
-    "Border 2": {
+    "Neera": {
       "formats": {
-        "ET00005957": {
+        "ET00005849": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 5,
+          "language": "Sinhala",
+          "shows": 3,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 459
+          "totalSeats": 850
         }
       }
     },
-    "Dhurandhar": {
+    "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
-        "ET00005937": {
+        "ET00005953": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 202
+          "language": "English",
+          "shows": 1,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 140
         }
       }
     },
@@ -279,18 +291,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 120
-        }
-      }
-    },
-    "The SpongeBob Movie: Search for SquarePants": {
-      "formats": {
-        "ET00005953": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 140
         }
       }
     }
