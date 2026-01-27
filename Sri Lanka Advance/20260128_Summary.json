@@ -1,9 +1,17 @@
 {
   "date": "20260128",
-  "lastUpdated": "10:54 AM, 27 January 2026",
+  "lastUpdated": "11:59 AM, 27 January 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 18,
+          "gross": 75400.0,
+          "sold": 37,
+          "totalSeats": 2713
+        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -11,14 +19,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 287
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 18,
-          "gross": 70100.0,
-          "sold": 35,
-          "totalSeats": 2713
         }
       }
     },
@@ -34,18 +34,6 @@
         }
       }
     },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 117,
-          "gross": 106500.0,
-          "sold": 127,
-          "totalSeats": 19308
-        }
-      }
-    },
     "Parasakthi": {
       "formats": {
         "ET00005926": {
@@ -55,6 +43,18 @@
           "gross": 1600.0,
           "sold": 2,
           "totalSeats": 2049
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 117,
+          "gross": 118500.0,
+          "sold": 141,
+          "totalSeats": 19308
         }
       }
     },
@@ -70,15 +70,39 @@
         }
       }
     },
-    "Moda Tharidu": {
+    "Maariya": {
       "formats": {
-        "ET00005884": {
+        "ET00005918": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 563
+          "shows": 2,
+          "gross": 4800.0,
+          "sold": 4,
+          "totalSeats": 198
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 117,
+          "gross": 202250.0,
+          "sold": 311,
+          "totalSeats": 22197
+        }
+      }
+    },
+    "Thalaivar Thambi Thalaimaiyil": {
+      "formats": {
+        "ET00005970": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 14,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 2232
         }
       }
     },
@@ -106,39 +130,27 @@
         }
       }
     },
-    "Thalaivar Thambi Thalaimaiyil": {
+    "28 Years Later: The Bone Temple": {
       "formats": {
-        "ET00005970": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 14,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2232
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 117,
-          "gross": 180600.0,
-          "sold": 281,
-          "totalSeats": 22197
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
+        "ET00005966": {
           "format": "2D",
           "language": "English",
-          "shows": 6,
-          "gross": 17500.0,
-          "sold": 13,
-          "totalSeats": 623
+          "shows": 3,
+          "gross": 5200.0,
+          "sold": 4,
+          "totalSeats": 426
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 563
         }
       }
     },
@@ -154,18 +166,6 @@
         }
       }
     },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 4800.0,
-          "sold": 4,
-          "totalSeats": 198
-        }
-      }
-    },
     "Marty Supreme": {
       "formats": {
         "ET00005967": {
@@ -178,18 +178,6 @@
         }
       }
     },
-    "28 Years Later: The Bone Temple": {
-      "formats": {
-        "ET00005966": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 2600.0,
-          "sold": 2,
-          "totalSeats": 426
-        }
-      }
-    },
     "Greenland 2: Migration": {
       "formats": {
         "ET00005968": {
@@ -199,6 +187,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 33
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 6,
+          "gross": 17500.0,
+          "sold": 13,
+          "totalSeats": 623
         }
       }
     },
@@ -258,15 +258,15 @@
         }
       }
     },
-    "The SpongeBob Movie: Search for SquarePants": {
+    "Mr.Mrs": {
       "formats": {
-        "ET00005953": {
+        "ET00005919": {
           "format": "2D",
-          "language": "English",
+          "language": "Sinhala",
           "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 140
+          "totalSeats": 120
         }
       }
     },
@@ -282,15 +282,15 @@
         }
       }
     },
-    "Mr.Mrs": {
+    "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
-        "ET00005919": {
+        "ET00005953": {
           "format": "2D",
-          "language": "Sinhala",
+          "language": "English",
           "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 120
+          "totalSeats": 140
         }
       }
     }
