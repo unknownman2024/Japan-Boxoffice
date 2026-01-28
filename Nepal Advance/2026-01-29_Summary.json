@@ -2,11 +2,11 @@
   {
     "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
     "movie_name": "Border 2",
-    "total_shows": 70,
-    "seats": 12621,
-    "sold": 96,
+    "total_shows": 77,
+    "seats": 13997,
+    "sold": 110,
     "reserved": 168,
-    "available": 12357,
+    "available": 13719,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -32,11 +32,21 @@
       },
       {
         "venue": "qfx-labim",
-        "total_shows": 3,
-        "seats": 543,
+        "total_shows": 2,
+        "seats": 363,
         "sold": 0,
         "reserved": 0,
-        "available": 543,
+        "available": 363,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 2,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -122,31 +132,21 @@
       },
       {
         "venue": "one-cinemas-kalimati",
-        "total_shows": 3,
-        "seats": 438,
-        "sold": 42,
+        "total_shows": 4,
+        "seats": 589,
+        "sold": 56,
         "reserved": 0,
-        "available": 396,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "Unknown",
-        "total_shows": 1,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
+        "available": 533,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "qfx-skyline",
-        "total_shows": 4,
-        "seats": 515,
+        "total_shows": 3,
+        "seats": 398,
         "sold": 2,
         "reserved": 11,
-        "available": 502,
+        "available": 385,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -237,6 +237,26 @@
         "sold": 0,
         "reserved": 0,
         "available": 169,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 3,
+        "seats": 642,
+        "sold": 0,
+        "reserved": 0,
+        "available": 642,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "pashupati-digital-cinema",
+        "total_shows": 4,
+        "seats": 880,
+        "sold": 0,
+        "reserved": 0,
+        "available": 880,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -430,11 +450,11 @@
   {
     "movie_id": "JipRPABDzwSJN54KT4F9bJ",
     "movie_name": "Gobar Ganesh",
-    "total_shows": 25,
-    "seats": 4249,
-    "sold": 25,
+    "total_shows": 29,
+    "seats": 4725,
+    "sold": 29,
     "reserved": 64,
-    "available": 4160,
+    "available": 4632,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -452,9 +472,9 @@
         "venue": "fcube",
         "total_shows": 3,
         "seats": 606,
-        "sold": 5,
+        "sold": 9,
         "reserved": 32,
-        "available": 569,
+        "available": 565,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -489,12 +509,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "qfx-civil",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 247,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 247,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -539,12 +559,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
+        "venue": "qs-cinemas",
         "total_shows": 1,
-        "seats": 0,
+        "seats": 129,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 129,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -587,17 +607,37 @@
         "available": 252,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 2,
+        "seats": 308,
+        "sold": 0,
+        "reserved": 0,
+        "available": 308,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 2,
+        "seats": 286,
+        "sold": 0,
+        "reserved": 0,
+        "available": 286,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
     "movie_name": "Pariwartan",
-    "total_shows": 28,
-    "seats": 4763,
+    "total_shows": 29,
+    "seats": 4906,
     "sold": 31,
     "reserved": 61,
-    "available": 4671,
+    "available": 4814,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -790,6 +830,16 @@
         "available": 134,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 1,
+        "seats": 143,
+        "sold": 0,
+        "reserved": 0,
+        "available": 143,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -980,6 +1030,29 @@
         "sold": 0,
         "reserved": 0,
         "available": 165,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "Pytcw2QFRid6aPwJ5NkuS5",
+    "movie_name": "Mirmire",
+    "total_shows": 1,
+    "seats": 143,
+    "sold": 0,
+    "reserved": 1,
+    "available": 142,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 1,
+        "seats": 143,
+        "sold": 0,
+        "reserved": 1,
+        "available": 142,
         "housefull": 0,
         "fastfilling": 0
       }
