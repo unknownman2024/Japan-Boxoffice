@@ -1,39 +1,7 @@
 {
   "date": "20260202",
-  "lastUpdated": "01:51 AM, 01 February 2026",
+  "lastUpdated": "02:47 AM, 01 February 2026",
   "movies": {
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 17,
-          "gross": 7600.0,
-          "sold": 18,
-          "totalSeats": 3466
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 17,
-          "gross": 85250.0,
-          "sold": 42,
-          "totalSeats": 2382
-        },
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 288
-        }
-      }
-    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
@@ -46,39 +14,39 @@
         }
       }
     },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 17,
+          "gross": 7600.0,
+          "sold": 18,
+          "totalSeats": 3466
+        }
+      }
+    },
     " Father": {
       "formats": {
         "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 95,
-          "gross": 108850.0,
-          "sold": 132,
+          "gross": 107850.0,
+          "sold": 131,
           "totalSeats": 18598
         }
       }
     },
-    "Parasakthi": {
+    "Mankatha": {
       "formats": {
-        "ET00005926": {
+        "ET00005294": {
           "format": "2D",
           "language": "Tamil",
           "shows": 5,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1301
-        }
-      }
-    },
-    "Thalaivar Thambi Thalaimaiyil": {
-      "formats": {
-        "ET00005970": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1441
+          "totalSeats": 677
         }
       }
     },
@@ -94,15 +62,47 @@
         }
       }
     },
-    "Mankatha": {
+    "Parasakthi": {
       "formats": {
-        "ET00005294": {
+        "ET00005926": {
           "format": "2D",
           "language": "Tamil",
           "shows": 5,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 677
+          "totalSeats": 1301
+        }
+      }
+    },
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 288
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 17,
+          "gross": 85250.0,
+          "sold": 42,
+          "totalSeats": 2382
+        }
+      }
+    },
+    "Thalaivar Thambi Thalaimaiyil": {
+      "formats": {
+        "ET00005970": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 9,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1441
         }
       }
     },
@@ -126,30 +126,6 @@
         }
       }
     },
-    "Border 2": {
-      "formats": {
-        "ET00005957": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 3,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 333
-        }
-      }
-    },
-    "Primate": {
-      "formats": {
-        "ET00005969": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 378
-        }
-      }
-    },
     "Lockdown": {
       "formats": {
         "ET00005981": {
@@ -162,14 +138,26 @@
         }
       }
     },
+    "28 Years Later: The Bone Temple": {
+      "formats": {
+        "ET00005966": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 96
+        }
+      }
+    },
     "David": {
       "formats": {
         "ET00005972": {
           "format": "2D",
           "language": "English",
           "shows": 3,
-          "gross": 2000.0,
-          "sold": 2,
+          "gross": 0.0,
+          "sold": 0,
           "totalSeats": 307
         }
       }
@@ -183,6 +171,42 @@
           "gross": 14800.0,
           "sold": 13,
           "totalSeats": 798
+        }
+      }
+    },
+    "Border 2": {
+      "formats": {
+        "ET00005957": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 3,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 333
+        }
+      }
+    },
+    "Chatha Pacha: The Ring of Rowdies": {
+      "formats": {
+        "ET00005983": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 631
+        }
+      }
+    },
+    "Primate": {
+      "formats": {
+        "ET00005969": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 378
         }
       }
     },
@@ -210,42 +234,6 @@
         }
       }
     },
-    "Marty Supreme": {
-      "formats": {
-        "ET00005967": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 362
-        }
-      }
-    },
-    "Chatha Pacha: The Ring of Rowdies": {
-      "formats": {
-        "ET00005983": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 631
-        }
-      }
-    },
-    "28 Years Later: The Bone Temple": {
-      "formats": {
-        "ET00005966": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 96
-        }
-      }
-    },
     "Greenland 2: Migration": {
       "formats": {
         "ET00005968": {
@@ -270,6 +258,18 @@
         }
       }
     },
+    "Marty Supreme": {
+      "formats": {
+        "ET00005967": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 362
+        }
+      }
+    },
     "Neera": {
       "formats": {
         "ET00005849": {
@@ -284,14 +284,6 @@
     },
     "Mercy": {
       "formats": {
-        "ET00005979": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 430
-        },
         "ET00005976": {
           "format": "2D",
           "language": "English",
@@ -299,6 +291,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 445
+        },
+        "ET00005979": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 430
         }
       }
     },
