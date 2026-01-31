@@ -1,6 +1,6 @@
 {
   "date": "20260201",
-  "lastUpdated": "07:10 AM, 31 January 2026",
+  "lastUpdated": "09:32 AM, 31 January 2026",
   "shows": [
     {
       "movie": "Dharmayuddhaya 2",
@@ -11,10 +11,10 @@
       "sessionId": "5133",
       "time": "10:30 AM",
       "totalSeats": 178,
-      "available": 178,
-      "sold": 0,
-      "gross": 0.0,
-      "occupancy": 0.0,
+      "available": 174,
+      "sold": 4,
+      "gross": 1400.0,
+      "occupancy": 2.25,
       "date": "20260201",
       "badData": false
     },
@@ -91,10 +91,10 @@
       "sessionId": "10473",
       "time": "01:30 PM",
       "totalSeats": 563,
-      "available": 563,
-      "sold": 0,
-      "gross": 0.0,
-      "occupancy": 0.0,
+      "available": 561,
+      "sold": 2,
+      "gross": 500.0,
+      "occupancy": 0.36,
       "date": "20260201",
       "badData": false
     },
@@ -131,22 +131,6 @@
       "badData": false
     },
     {
-      "movie": "Neera",
-      "format": "2D",
-      "language": "Sinhala",
-      "eventCode": "ET00005849",
-      "venue": "Ricky Cinema: Colombo",
-      "sessionId": "10481",
-      "time": "04:30 PM",
-      "totalSeats": 563,
-      "available": 563,
-      "sold": 0,
-      "gross": 0.0,
-      "occupancy": 0.0,
-      "date": "20260201",
-      "badData": false
-    },
-    {
       "movie": "Lockdown",
       "format": "2D",
       "language": "Tamil",
@@ -172,6 +156,22 @@
       "time": "09:30 PM",
       "totalSeats": 178,
       "available": 178,
+      "sold": 0,
+      "gross": 0.0,
+      "occupancy": 0.0,
+      "date": "20260201",
+      "badData": false
+    },
+    {
+      "movie": "Neera",
+      "format": "2D",
+      "language": "Sinhala",
+      "eventCode": "ET00005849",
+      "venue": "Ricky Cinema: Colombo",
+      "sessionId": "10481",
+      "time": "04:30 PM",
+      "totalSeats": 563,
+      "available": 563,
       "sold": 0,
       "gross": 0.0,
       "occupancy": 0.0,
