@@ -1,39 +1,15 @@
 {
   "date": "20260204",
-  "lastUpdated": "11:17 AM, 03 February 2026",
+  "lastUpdated": "12:14 PM, 03 February 2026",
   "movies": {
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 20,
-          "gross": 27450.0,
-          "sold": 63,
-          "totalSeats": 3466
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 111,
-          "gross": 826500.0,
-          "sold": 1093,
-          "totalSeats": 18649
-        }
-      }
-    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005938": {
           "format": "3D",
           "language": "English",
           "shows": 16,
-          "gross": 407500.0,
-          "sold": 219,
+          "gross": 425200.0,
+          "sold": 234,
           "totalSeats": 2257
         },
         "ET00005939": {
@@ -43,6 +19,30 @@
           "gross": 7200.0,
           "sold": 6,
           "totalSeats": 287
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 105,
+          "gross": 893000.0,
+          "sold": 1193,
+          "totalSeats": 17413
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 20,
+          "gross": 28150.0,
+          "sold": 65,
+          "totalSeats": 3466
         }
       }
     },
@@ -58,15 +58,27 @@
         }
       }
     },
-    "Dharmayuddhaya 2": {
+    "Parasakthi": {
       "formats": {
-        "ET00005975": {
+        "ET00005926": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1301
+        }
+      }
+    },
+    "Moda Tharidu": {
+      "formats": {
+        "ET00005884": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 148,
-          "gross": 2174170.0,
-          "sold": 3786,
-          "totalSeats": 26796
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 563
         }
       }
     },
@@ -84,9 +96,21 @@
           "format": "2D",
           "language": "English",
           "shows": 2,
-          "gross": 29000.0,
-          "sold": 29,
+          "gross": 36000.0,
+          "sold": 36,
           "totalSeats": 251
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 155,
+          "gross": 2275590.0,
+          "sold": 3968,
+          "totalSeats": 28449
         }
       }
     },
@@ -102,26 +126,14 @@
         }
       }
     },
-    "Parasakthi": {
-      "formats": {
-        "ET00005926": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1301
-        }
-      }
-    },
     "Lockdown": {
       "formats": {
         "ET00005981": {
           "format": "2D",
           "language": "Tamil",
           "shows": 14,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 800.0,
+          "sold": 2,
           "totalSeats": 1835
         }
       }
@@ -135,30 +147,6 @@
           "gross": 2000.0,
           "sold": 2,
           "totalSeats": 333
-        }
-      }
-    },
-    "28 Years Later: The Bone Temple": {
-      "formats": {
-        "ET00005966": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 96
-        }
-      }
-    },
-    "David": {
-      "formats": {
-        "ET00005972": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 62000.0,
-          "sold": 62,
-          "totalSeats": 307
         }
       }
     },
@@ -180,21 +168,9 @@
           "format": "2D",
           "language": "English",
           "shows": 7,
-          "gross": 19800.0,
-          "sold": 15,
+          "gross": 24300.0,
+          "sold": 17,
           "totalSeats": 766
-        }
-      }
-    },
-    "Primate": {
-      "formats": {
-        "ET00005969": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 388
         }
       }
     },
@@ -210,6 +186,54 @@
         }
       }
     },
+    "David": {
+      "formats": {
+        "ET00005972": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 62000.0,
+          "sold": 62,
+          "totalSeats": 307
+        }
+      }
+    },
+    "Primate": {
+      "formats": {
+        "ET00005969": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 3300.0,
+          "sold": 3,
+          "totalSeats": 388
+        }
+      }
+    },
+    "28 Years Later: The Bone Temple": {
+      "formats": {
+        "ET00005966": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 96
+        }
+      }
+    },
+    "Marty Supreme": {
+      "formats": {
+        "ET00005967": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 28700.0,
+          "sold": 12,
+          "totalSeats": 487
+        }
+      }
+    },
     "Greenland 2: Migration": {
       "formats": {
         "ET00005968": {
@@ -219,30 +243,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 33
-        }
-      }
-    },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 212
-        }
-      }
-    },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 1800.0,
-          "sold": 2,
-          "totalSeats": 706
         }
       }
     },
@@ -258,28 +258,32 @@
         }
       }
     },
-    "Marty Supreme": {
+    "Neera": {
       "formats": {
-        "ET00005967": {
+        "ET00005849": {
           "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 26500.0,
-          "sold": 10,
-          "totalSeats": 487
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 3600.0,
+          "sold": 4,
+          "totalSeats": 706
+        }
+      }
+    },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 212
         }
       }
     },
     "Mercy": {
       "formats": {
-        "ET00005976": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 6200.0,
-          "sold": 2,
-          "totalSeats": 445
-        },
         "ET00005979": {
           "format": "3D",
           "language": "English",
@@ -287,18 +291,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 430
-        }
-      }
-    },
-    "Mr.Mrs": {
-      "formats": {
-        "ET00005919": {
+        },
+        "ET00005976": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 120
+          "language": "English",
+          "shows": 2,
+          "gross": 6200.0,
+          "sold": 2,
+          "totalSeats": 445
         }
       }
     },
@@ -314,15 +314,15 @@
         }
       }
     },
-    "Moda Tharidu": {
+    "Mr.Mrs": {
       "formats": {
-        "ET00005884": {
+        "ET00005919": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 563
+          "totalSeats": 120
         }
       }
     }
