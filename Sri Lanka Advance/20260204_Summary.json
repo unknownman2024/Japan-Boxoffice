@@ -1,7 +1,31 @@
 {
   "date": "20260204",
-  "lastUpdated": "10:17 PM, 03 February 2026",
+  "lastUpdated": "11:20 PM, 03 February 2026",
   "movies": {
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 158,
+          "gross": 4219460.0,
+          "sold": 7504,
+          "totalSeats": 29224
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 20,
+          "gross": 89440.0,
+          "sold": 190,
+          "totalSeats": 3466
+        }
+      }
+    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005939": {
@@ -16,33 +40,9 @@
           "format": "3D",
           "language": "English",
           "shows": 16,
-          "gross": 793950.0,
-          "sold": 463,
+          "gross": 849550.0,
+          "sold": 501,
           "totalSeats": 2257
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 105,
-          "gross": 1935400.0,
-          "sold": 2571,
-          "totalSeats": 17413
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 158,
-          "gross": 4072620.0,
-          "sold": 7250,
-          "totalSeats": 29224
         }
       }
     },
@@ -58,6 +58,18 @@
         }
       }
     },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 105,
+          "gross": 2074500.0,
+          "sold": 2762,
+          "totalSeats": 17413
+        }
+      }
+    },
     "Parasakthi": {
       "formats": {
         "ET00005926": {
@@ -67,30 +79,6 @@
           "gross": 79200.0,
           "sold": 99,
           "totalSeats": 1301
-        }
-      }
-    },
-    "Thalaivar Thambi Thalaimaiyil": {
-      "formats": {
-        "ET00005970": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 11,
-          "gross": 8200.0,
-          "sold": 10,
-          "totalSeats": 1570
-        }
-      }
-    },
-    "Lockdown": {
-      "formats": {
-        "ET00005981": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 14,
-          "gross": 199300.0,
-          "sold": 203,
-          "totalSeats": 1835
         }
       }
     },
@@ -108,6 +96,14 @@
     },
     "Zootopia 2": {
       "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 4,
+          "gross": 114500.0,
+          "sold": 107,
+          "totalSeats": 463
+        },
         "ET00005925": {
           "format": "2D",
           "language": "English",
@@ -115,14 +111,18 @@
           "gross": 70000.0,
           "sold": 70,
           "totalSeats": 251
-        },
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 4,
-          "gross": 97700.0,
-          "sold": 92,
-          "totalSeats": 463
+        }
+      }
+    },
+    "Thalaivar Thambi Thalaimaiyil": {
+      "formats": {
+        "ET00005970": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 11,
+          "gross": 9300.0,
+          "sold": 11,
+          "totalSeats": 1570
         }
       }
     },
@@ -150,27 +150,15 @@
         }
       }
     },
-    "Primate": {
+    "Lockdown": {
       "formats": {
-        "ET00005969": {
+        "ET00005981": {
           "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 16500.0,
-          "sold": 15,
-          "totalSeats": 388
-        }
-      }
-    },
-    "David": {
-      "formats": {
-        "ET00005972": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 81700.0,
-          "sold": 82,
-          "totalSeats": 307
+          "language": "Tamil",
+          "shows": 14,
+          "gross": 200700.0,
+          "sold": 207,
+          "totalSeats": 1835
         }
       }
     },
@@ -180,21 +168,33 @@
           "format": "2D",
           "language": "English",
           "shows": 7,
-          "gross": 71100.0,
-          "sold": 55,
+          "gross": 79800.0,
+          "sold": 61,
           "totalSeats": 766
         }
       }
     },
-    "Chatha Pacha: The Ring of Rowdies": {
+    "David": {
       "formats": {
-        "ET00005983": {
+        "ET00005972": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 606
+          "language": "English",
+          "shows": 3,
+          "gross": 90400.0,
+          "sold": 91,
+          "totalSeats": 307
+        }
+      }
+    },
+    "Maariya": {
+      "formats": {
+        "ET00005918": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 9900.0,
+          "sold": 9,
+          "totalSeats": 99
         }
       }
     },
@@ -207,6 +207,18 @@
           "gross": 96200.0,
           "sold": 109,
           "totalSeats": 570
+        }
+      }
+    },
+    "Primate": {
+      "formats": {
+        "ET00005969": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 16500.0,
+          "sold": 15,
+          "totalSeats": 388
         }
       }
     },
@@ -234,6 +246,18 @@
         }
       }
     },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 11700.0,
+          "sold": 13,
+          "totalSeats": 706
+        }
+      }
+    },
     "Dhurandhar": {
       "formats": {
         "ET00005937": {
@@ -243,18 +267,6 @@
           "gross": 2000.0,
           "sold": 2,
           "totalSeats": 212
-        }
-      }
-    },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 9900.0,
-          "sold": 11,
-          "totalSeats": 706
         }
       }
     },
@@ -302,27 +314,15 @@
         }
       }
     },
-    "Malaki Duwe Numba": {
+    "Chatha Pacha: The Ring of Rowdies": {
       "formats": {
-        "ET00005955": {
+        "ET00005983": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 20,
-          "gross": 76590.0,
-          "sold": 169,
-          "totalSeats": 3466
-        }
-      }
-    },
-    "Maariya": {
-      "formats": {
-        "ET00005918": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 7700.0,
-          "sold": 7,
-          "totalSeats": 99
+          "language": "Tamil",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 606
         }
       }
     }
