@@ -1,24 +1,24 @@
 {
   "date": "20260204",
-  "lastUpdated": "04:05 PM, 03 February 2026",
+  "lastUpdated": "05:01 PM, 03 February 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 7200.0,
-          "sold": 6,
-          "totalSeats": 287
-        },
         "ET00005938": {
           "format": "3D",
           "language": "English",
           "shows": 16,
-          "gross": 540850.0,
-          "sold": 296,
+          "gross": 563100.0,
+          "sold": 311,
           "totalSeats": 2257
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 12000.0,
+          "sold": 10,
+          "totalSeats": 287
         }
       }
     },
@@ -28,33 +28,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 156,
-          "gross": 2756590.0,
-          "sold": 4869,
+          "gross": 2904240.0,
+          "sold": 5116,
           "totalSeats": 28912
         }
       }
     },
-    " Father": {
+    "Malaki Duwe Numba": {
       "formats": {
-        "ET00005963": {
+        "ET00005955": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 105,
-          "gross": 1102500.0,
-          "sold": 1480,
-          "totalSeats": 17413
-        }
-      }
-    },
-    "Moda Tharidu": {
-      "formats": {
-        "ET00005884": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 563
+          "shows": 20,
+          "gross": 36450.0,
+          "sold": 89,
+          "totalSeats": 3466
         }
       }
     },
@@ -70,26 +58,6 @@
         }
       }
     },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 4,
-          "gross": 59500.0,
-          "sold": 56,
-          "totalSeats": 463
-        },
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 46000.0,
-          "sold": 46,
-          "totalSeats": 251
-        }
-      }
-    },
     "Parasakthi": {
       "formats": {
         "ET00005926": {
@@ -102,27 +70,15 @@
         }
       }
     },
-    "Border 2": {
+    "Moda Tharidu": {
       "formats": {
-        "ET00005957": {
+        "ET00005884": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 3,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 333
-        }
-      }
-    },
-    "Mardaani 3": {
-      "formats": {
-        "ET00005982": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 6,
-          "gross": 3000.0,
-          "sold": 3,
-          "totalSeats": 570
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 563
         }
       }
     },
@@ -138,39 +94,27 @@
         }
       }
     },
+    "Border 2": {
+      "formats": {
+        "ET00005957": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 3,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 333
+        }
+      }
+    },
     "Lockdown": {
       "formats": {
         "ET00005981": {
           "format": "2D",
           "language": "Tamil",
           "shows": 14,
-          "gross": 2300.0,
-          "sold": 6,
+          "gross": 1600.0,
+          "sold": 4,
           "totalSeats": 1835
-        }
-      }
-    },
-    "28 Years Later: The Bone Temple": {
-      "formats": {
-        "ET00005966": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 3300.0,
-          "sold": 3,
-          "totalSeats": 96
-        }
-      }
-    },
-    "Chatha Pacha: The Ring of Rowdies": {
-      "formats": {
-        "ET00005983": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 6,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 910
         }
       }
     },
@@ -186,6 +130,62 @@
         }
       }
     },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 4,
+          "gross": 65500.0,
+          "sold": 62,
+          "totalSeats": 463
+        },
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 52000.0,
+          "sold": 52,
+          "totalSeats": 251
+        }
+      }
+    },
+    "Mardaani 3": {
+      "formats": {
+        "ET00005982": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 6,
+          "gross": 3000.0,
+          "sold": 3,
+          "totalSeats": 570
+        }
+      }
+    },
+    "28 Years Later: The Bone Temple": {
+      "formats": {
+        "ET00005966": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 3300.0,
+          "sold": 3,
+          "totalSeats": 96
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 7,
+          "gross": 53100.0,
+          "sold": 43,
+          "totalSeats": 766
+        }
+      }
+    },
     "Maariya": {
       "formats": {
         "ET00005918": {
@@ -198,27 +198,15 @@
         }
       }
     },
-    "David": {
+    "Marty Supreme": {
       "formats": {
-        "ET00005972": {
+        "ET00005967": {
           "format": "2D",
           "language": "English",
-          "shows": 3,
-          "gross": 71700.0,
-          "sold": 72,
-          "totalSeats": 307
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 7,
-          "gross": 42100.0,
-          "sold": 33,
-          "totalSeats": 766
+          "shows": 5,
+          "gross": 36650.0,
+          "sold": 15,
+          "totalSeats": 487
         }
       }
     },
@@ -240,9 +228,33 @@
           "format": "2D",
           "language": "Hindi",
           "shows": 2,
-          "gross": 3000.0,
-          "sold": 3,
+          "gross": 0.0,
+          "sold": 0,
           "totalSeats": 212
+        }
+      }
+    },
+    "David": {
+      "formats": {
+        "ET00005972": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 71700.0,
+          "sold": 72,
+          "totalSeats": 307
+        }
+      }
+    },
+    "Chatha Pacha: The Ring of Rowdies": {
+      "formats": {
+        "ET00005983": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 6,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 910
         }
       }
     },
@@ -258,38 +270,6 @@
         }
       }
     },
-    "Marty Supreme": {
-      "formats": {
-        "ET00005967": {
-          "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 36650.0,
-          "sold": 15,
-          "totalSeats": 487
-        }
-      }
-    },
-    "Mercy": {
-      "formats": {
-        "ET00005976": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 6200.0,
-          "sold": 2,
-          "totalSeats": 445
-        },
-        "ET00005979": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 430
-        }
-      }
-    },
     "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
         "ET00005953": {
@@ -299,6 +279,26 @@
           "gross": 44000.0,
           "sold": 44,
           "totalSeats": 140
+        }
+      }
+    },
+    "Mercy": {
+      "formats": {
+        "ET00005979": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 430
+        },
+        "ET00005976": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 6200.0,
+          "sold": 2,
+          "totalSeats": 445
         }
       }
     },
@@ -314,15 +314,15 @@
         }
       }
     },
-    "Malaki Duwe Numba": {
+    " Father": {
       "formats": {
-        "ET00005955": {
+        "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 20,
-          "gross": 35750.0,
-          "sold": 87,
-          "totalSeats": 3466
+          "shows": 105,
+          "gross": 1191250.0,
+          "sold": 1594,
+          "totalSeats": 17413
         }
       }
     }
