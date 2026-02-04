@@ -1,15 +1,35 @@
 {
   "date": "20260205",
-  "lastUpdated": "09:38 AM, 04 February 2026",
+  "lastUpdated": "11:14 AM, 04 February 2026",
   "movies": {
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 14,
+          "gross": 79550.0,
+          "sold": 26,
+          "totalSeats": 1946
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 288
+        }
+      }
+    },
     "Malaki Duwe Numba": {
       "formats": {
         "ET00005955": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 19,
-          "gross": 11300.0,
-          "sold": 20,
+          "gross": 10700.0,
+          "sold": 18,
           "totalSeats": 3366
         }
       }
@@ -20,41 +40,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 106,
-          "gross": 113050.0,
-          "sold": 140,
+          "gross": 118000.0,
+          "sold": 147,
           "totalSeats": 18047
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 288
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 14,
-          "gross": 73600.0,
-          "sold": 22,
-          "totalSeats": 1946
-        }
-      }
-    },
-    "Thalaivar Thambi Thalaimaiyil": {
-      "formats": {
-        "ET00005970": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 10,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1441
         }
       }
     },
@@ -70,15 +58,15 @@
         }
       }
     },
-    "Parasakthi": {
+    "Mankatha": {
       "formats": {
-        "ET00005926": {
+        "ET00005294": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 5,
+          "shows": 4,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1394
+          "totalSeats": 487
         }
       }
     },
@@ -102,27 +90,39 @@
         }
       }
     },
-    "Border 2": {
+    "Parasakthi": {
       "formats": {
-        "ET00005957": {
+        "ET00005926": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 2,
-          "gross": 3000.0,
-          "sold": 3,
-          "totalSeats": 222
+          "language": "Tamil",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1394
         }
       }
     },
-    "Primate": {
+    "Lockdown": {
       "formats": {
-        "ET00005969": {
+        "ET00005981": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
+          "language": "Tamil",
+          "shows": 11,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 292
+          "totalSeats": 1362
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 6,
+          "gross": 4500.0,
+          "sold": 2,
+          "totalSeats": 702
         }
       }
     },
@@ -162,27 +162,27 @@
         }
       }
     },
-    "The Housemaid": {
+    "Border 2": {
       "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 6,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 702
-        }
-      }
-    },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
+        "ET00005957": {
           "format": "2D",
           "language": "Hindi",
           "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 212
+          "gross": 3000.0,
+          "sold": 3,
+          "totalSeats": 222
+        }
+      }
+    },
+    "Marty Supreme": {
+      "formats": {
+        "ET00005967": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 11000.0,
+          "sold": 10,
+          "totalSeats": 362
         }
       }
     },
@@ -195,6 +195,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 33
+        }
+      }
+    },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 2,
+          "gross": 3000.0,
+          "sold": 3,
+          "totalSeats": 212
         }
       }
     },
@@ -230,18 +242,6 @@
         }
       }
     },
-    "The SpongeBob Movie: Search for SquarePants": {
-      "formats": {
-        "ET00005953": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 140
-        }
-      }
-    },
     "Mr.Mrs": {
       "formats": {
         "ET00005919": {
@@ -254,27 +254,39 @@
         }
       }
     },
-    "Lockdown": {
+    "Primate": {
       "formats": {
-        "ET00005981": {
+        "ET00005969": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 11,
+          "language": "English",
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1362
+          "totalSeats": 292
         }
       }
     },
-    "Mankatha": {
+    "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
-        "ET00005294": {
+        "ET00005953": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 4,
+          "language": "English",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 487
+          "totalSeats": 140
+        }
+      }
+    },
+    "Thalaivar Thambi Thalaimaiyil": {
+      "formats": {
+        "ET00005970": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 10,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1441
         }
       }
     },
@@ -284,21 +296,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 138,
-          "gross": 287650.0,
-          "sold": 555,
+          "gross": 326250.0,
+          "sold": 629,
           "totalSeats": 25636
-        }
-      }
-    },
-    "Marty Supreme": {
-      "formats": {
-        "ET00005967": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 11000.0,
-          "sold": 10,
-          "totalSeats": 362
         }
       }
     }
