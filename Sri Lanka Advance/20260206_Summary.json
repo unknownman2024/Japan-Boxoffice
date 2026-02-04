@@ -1,17 +1,33 @@
 {
   "date": "20260206",
-  "lastUpdated": "12:12 AM, 05 February 2026",
+  "lastUpdated": "01:06 AM, 05 February 2026",
   "movies": {
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 54,
+          "gross": 53200.0,
+          "sold": 60,
+          "totalSeats": 10637
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 101
+        }
+      }
+    },
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 10,
-          "gross": 29400.0,
-          "sold": 11,
-          "totalSeats": 1549
-        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -19,50 +35,14 @@
           "gross": 3000.0,
           "sold": 2,
           "totalSeats": 287
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 40,
-          "gross": 51650.0,
-          "sold": 45,
-          "totalSeats": 6108
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 51,
-          "gross": 52400.0,
-          "sold": 58,
-          "totalSeats": 10238
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
+        },
+        "ET00005938": {
           "format": "3D",
           "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 180
-        },
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 152
+          "shows": 10,
+          "gross": 40500.0,
+          "sold": 14,
+          "totalSeats": 1549
         }
       }
     },
@@ -78,6 +58,38 @@
         }
       }
     },
+    "Thalaivar Thambi Thalaimaiyil": {
+      "formats": {
+        "ET00005970": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 245
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 152
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 180
+        }
+      }
+    },
     "Chatha Pacha: The Ring of Rowdies": {
       "formats": {
         "ET00005983": {
@@ -90,15 +102,27 @@
         }
       }
     },
-    "Stray Kids: The dominATE Experience": {
+    "Lockdown": {
       "formats": {
-        "ET00005977": {
+        "ET00005981": {
           "format": "2D",
-          "language": "Korean",
-          "shows": 2,
-          "gross": 528200.0,
-          "sold": 172,
-          "totalSeats": 416
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0,
+          "sold": 0,
+          "totalSeats": 0
+        }
+      }
+    },
+    "With Love": {
+      "formats": {
+        "ET00005991": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 5,
+          "gross": 7100.0,
+          "sold": 7,
+          "totalSeats": 724
         }
       }
     },
@@ -114,18 +138,6 @@
         }
       }
     },
-    "Mardaani 3": {
-      "formats": {
-        "ET00005982": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 2,
-          "gross": 22050.0,
-          "sold": 7,
-          "totalSeats": 154
-        }
-      }
-    },
     "Marty Supreme": {
       "formats": {
         "ET00005967": {
@@ -138,27 +150,27 @@
         }
       }
     },
-    "Thalaivar Thambi Thalaimaiyil": {
+    "Mardaani 3": {
       "formats": {
-        "ET00005970": {
+        "ET00005982": {
           "format": "2D",
-          "language": "Tamil",
+          "language": "Hindi",
           "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 245
+          "gross": 22050.0,
+          "sold": 7,
+          "totalSeats": 154
         }
       }
     },
-    "Greenland 2: Migration": {
+    "Stray Kids: The dominATE Experience": {
       "formats": {
-        "ET00005968": {
+        "ET00005977": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 33
+          "language": "Korean",
+          "shows": 2,
+          "gross": 528200.0,
+          "sold": 172,
+          "totalSeats": 416
         }
       }
     },
@@ -174,6 +186,30 @@
         }
       }
     },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 706
+        }
+      }
+    },
+    "Dhurandhar": {
+      "formats": {
+        "ET00005937": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 176
+        }
+      }
+    },
     "The Strangers: Chapter 3": {
       "formats": {
         "ET00005988": {
@@ -183,6 +219,18 @@
           "gross": 7000.0,
           "sold": 5,
           "totalSeats": 712
+        }
+      }
+    },
+    "Greenland 2: Migration": {
+      "formats": {
+        "ET00005968": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 33
         }
       }
     },
@@ -210,18 +258,6 @@
         }
       }
     },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 176
-        }
-      }
-    },
     "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
         "ET00005953": {
@@ -246,51 +282,15 @@
         }
       }
     },
-    "With Love": {
+    " Father": {
       "formats": {
-        "ET00005991": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 5,
-          "gross": 5500.0,
-          "sold": 5,
-          "totalSeats": 724
-        }
-      }
-    },
-    "Lockdown": {
-      "formats": {
-        "ET00005981": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0,
-          "sold": 0,
-          "totalSeats": 0
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
+        "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 101
-        }
-      }
-    },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 706
+          "shows": 42,
+          "gross": 46650.0,
+          "sold": 39,
+          "totalSeats": 6374
         }
       }
     }
