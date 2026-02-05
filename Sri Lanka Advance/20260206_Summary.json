@@ -1,27 +1,15 @@
 {
   "date": "20260206",
-  "lastUpdated": "11:23 AM, 05 February 2026",
+  "lastUpdated": "12:23 PM, 05 February 2026",
   "movies": {
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 77,
-          "gross": 105060.0,
-          "sold": 123,
-          "totalSeats": 14876
-        }
-      }
-    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005938": {
           "format": "3D",
           "language": "English",
           "shows": 10,
-          "gross": 66400.0,
-          "sold": 21,
+          "gross": 81200.0,
+          "sold": 25,
           "totalSeats": 1549
         },
         "ET00005939": {
@@ -31,6 +19,42 @@
           "gross": 3000.0,
           "sold": 2,
           "totalSeats": 287
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 95,
+          "gross": 128150.0,
+          "sold": 163,
+          "totalSeats": 19610
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 14,
+          "gross": 1400.0,
+          "sold": 4,
+          "totalSeats": 3019
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 63,
+          "gross": 107650.0,
+          "sold": 96,
+          "totalSeats": 11098
         }
       }
     },
@@ -66,6 +90,18 @@
         }
       }
     },
+    "Thalaivar Thambi Thalaimaiyil": {
+      "formats": {
+        "ET00005970": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 245
+        }
+      }
+    },
     "Lockdown": {
       "formats": {
         "ET00005981": {
@@ -75,90 +111,6 @@
           "gross": 0,
           "sold": 0,
           "totalSeats": 0
-        }
-      }
-    },
-    " Abhitha": {
-      "formats": {
-        "ET00005989": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 12,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 384
-        }
-      }
-    },
-    "With Love": {
-      "formats": {
-        "ET00005991": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 7,
-          "gross": 5500.0,
-          "sold": 5,
-          "totalSeats": 962
-        }
-      }
-    },
-    "Chatha Pacha: The Ring of Rowdies": {
-      "formats": {
-        "ET00005983": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0,
-          "sold": 0,
-          "totalSeats": 0
-        }
-      }
-    },
-    "Marty Supreme": {
-      "formats": {
-        "ET00005967": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 8900.0,
-          "sold": 4,
-          "totalSeats": 300
-        }
-      }
-    },
-    "Mardaani 3": {
-      "formats": {
-        "ET00005982": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 2,
-          "gross": 22050.0,
-          "sold": 7,
-          "totalSeats": 154
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 8000.0,
-          "sold": 6,
-          "totalSeats": 539
-        }
-      }
-    },
-    "Greenland 2: Migration": {
-      "formats": {
-        "ET00005968": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 33
         }
       }
     },
@@ -174,27 +126,87 @@
         }
       }
     },
-    "The Strangers: Chapter 3": {
+    "The Housemaid": {
       "formats": {
-        "ET00005988": {
-          "format": "2D",
-          "language": "English",
-          "shows": 7,
-          "gross": 7000.0,
-          "sold": 5,
-          "totalSeats": 928
-        }
-      }
-    },
-    "Shelter": {
-      "formats": {
-        "ET00005990": {
+        "ET00005954": {
           "format": "2D",
           "language": "English",
           "shows": 5,
+          "gross": 13600.0,
+          "sold": 10,
+          "totalSeats": 539
+        }
+      }
+    },
+    "Mardaani 3": {
+      "formats": {
+        "ET00005982": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 2,
+          "gross": 28350.0,
+          "sold": 9,
+          "totalSeats": 154
+        }
+      }
+    },
+    "Chatha Pacha: The Ring of Rowdies": {
+      "formats": {
+        "ET00005983": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0,
+          "sold": 0,
+          "totalSeats": 0
+        }
+      }
+    },
+    "With Love": {
+      "formats": {
+        "ET00005991": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 7,
+          "gross": 5500.0,
+          "sold": 5,
+          "totalSeats": 962
+        }
+      }
+    },
+    " Abhitha": {
+      "formats": {
+        "ET00005989": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 12,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 477
+          "totalSeats": 384
+        }
+      }
+    },
+    "Stray Kids: The dominATE Experience": {
+      "formats": {
+        "ET00005977": {
+          "format": "2D",
+          "language": "Korean",
+          "shows": 3,
+          "gross": 713000.0,
+          "sold": 260,
+          "totalSeats": 556
+        }
+      }
+    },
+    "Greenland 2: Migration": {
+      "formats": {
+        "ET00005968": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 33
         }
       }
     },
@@ -210,6 +222,42 @@
         }
       }
     },
+    "The Strangers: Chapter 3": {
+      "formats": {
+        "ET00005988": {
+          "format": "2D",
+          "language": "English",
+          "shows": 7,
+          "gross": 7000.0,
+          "sold": 5,
+          "totalSeats": 928
+        }
+      }
+    },
+    "Marty Supreme": {
+      "formats": {
+        "ET00005967": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 8900.0,
+          "sold": 4,
+          "totalSeats": 300
+        }
+      }
+    },
+    "Shelter": {
+      "formats": {
+        "ET00005990": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 477
+        }
+      }
+    },
     "Neera": {
       "formats": {
         "ET00005849": {
@@ -219,18 +267,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 706
-        }
-      }
-    },
-    "The SpongeBob Movie: Search for SquarePants": {
-      "formats": {
-        "ET00005953": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 140
         }
       }
     },
@@ -246,51 +282,15 @@
         }
       }
     },
-    "Thalaivar Thambi Thalaimaiyil": {
+    "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
-        "ET00005970": {
+        "ET00005953": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
+          "language": "English",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 245
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1441
-        }
-      }
-    },
-    "Stray Kids: The dominATE Experience": {
-      "formats": {
-        "ET00005977": {
-          "format": "2D",
-          "language": "Korean",
-          "shows": 2,
-          "gross": 528200.0,
-          "sold": 172,
-          "totalSeats": 416
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 54,
-          "gross": 91850.0,
-          "sold": 76,
-          "totalSeats": 8748
+          "totalSeats": 140
         }
       }
     }
