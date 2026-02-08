@@ -1,6 +1,6 @@
 {
   "date": "2026-02-09",
-  "lastUpdated": "09:02 PM, 08 February 2026",
+  "lastUpdated": "12:10 AM, 09 February 2026",
   "shows": [
     {
       "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
@@ -1839,8 +1839,8 @@
       "skipped": true
     },
     {
-      "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
-      "movie_name": "Kumari",
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
       "show_id": "4207:birat-cine",
       "venue": null,
       "theatre": null,
@@ -2277,7 +2277,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "401 Client Error: Unauthorized for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -5939,6 +5939,23 @@
       "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
       "movie_name": "Kumari",
       "show_id": "204684:kamal-binayak-cinemas",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-09",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "401 Client Error: Unauthorized for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "4216:birat-cine",
       "venue": null,
       "theatre": null,
       "date": "2026-02-09",
