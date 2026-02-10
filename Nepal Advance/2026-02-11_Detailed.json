@@ -1,6 +1,6 @@
 {
   "date": "2026-02-11",
-  "lastUpdated": "03:10 AM, 10 February 2026",
+  "lastUpdated": "07:34 AM, 10 February 2026",
   "shows": [
     {
       "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
@@ -849,7 +849,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "401 Client Error: Unauthorized for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -1019,7 +1019,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "error": "401 Client Error: Unauthorized for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
       "skipped": true
     },
     {
