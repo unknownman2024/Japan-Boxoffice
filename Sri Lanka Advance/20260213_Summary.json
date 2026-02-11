@@ -1,7 +1,27 @@
 {
   "date": "20260213",
-  "lastUpdated": "03:55 AM, 12 February 2026",
+  "lastUpdated": "04:58 AM, 12 February 2026",
   "movies": {
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 287
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 12,
+          "gross": 2600.0,
+          "sold": 2,
+          "totalSeats": 1443
+        }
+      }
+    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
@@ -23,18 +43,6 @@
           "gross": 10400.0,
           "sold": 20,
           "totalSeats": 2816
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 59,
-          "gross": 97700.0,
-          "sold": 100,
-          "totalSeats": 11467
         }
       }
     },
@@ -94,24 +102,12 @@
         }
       }
     },
-    "The Housemaid": {
+    " Abhitha": {
       "formats": {
-        "ET00005954": {
+        "ET00005989": {
           "format": "2D",
-          "language": "English",
+          "language": "Sinhala",
           "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 269
-        }
-      }
-    },
-    "The Strangers: Chapter 3": {
-      "formats": {
-        "ET00005988": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 217
@@ -130,27 +126,15 @@
         }
       }
     },
-    "Marty Supreme": {
+    "The Strangers: Chapter 3": {
       "formats": {
-        "ET00005967": {
+        "ET00005988": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 33
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 17,
-          "gross": 111550.0,
-          "sold": 43,
-          "totalSeats": 2510
+          "totalSeats": 217
         }
       }
     },
@@ -166,39 +150,15 @@
         }
       }
     },
-    "O' Romeo": {
+    "The Housemaid": {
       "formats": {
-        "ET00005985": {
+        "ET00005954": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 8,
-          "gross": 4200.0,
-          "sold": 3,
-          "totalSeats": 847
-        }
-      }
-    },
-    "Tu Yaa Main": {
-      "formats": {
-        "ET00005998": {
-          "format": "2D",
-          "language": "Hindi",
+          "language": "English",
           "shows": 3,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 321
-        }
-      }
-    },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 9,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1444
+          "totalSeats": 269
         }
       }
     },
@@ -214,6 +174,54 @@
         }
       }
     },
+    "Marty Supreme": {
+      "formats": {
+        "ET00005967": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 33
+        }
+      }
+    },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 9,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1444
+        }
+      }
+    },
+    "Tu Yaa Main": {
+      "formats": {
+        "ET00005998": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 321
+        }
+      }
+    },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 17,
+          "gross": 111550.0,
+          "sold": 43,
+          "totalSeats": 2510
+        }
+      }
+    },
     "Seetha Payanam": {
       "formats": {
         "ET00005993": {
@@ -223,6 +231,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 154
+        }
+      }
+    },
+    "O' Romeo": {
+      "formats": {
+        "ET00005985": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 8,
+          "gross": 4200.0,
+          "sold": 3,
+          "totalSeats": 847
         }
       }
     },
@@ -238,6 +258,18 @@
         }
       }
     },
+    "Mardaani 3": {
+      "formats": {
+        "ET00005982": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 34
+        }
+      }
+    },
     "Shelter": {
       "formats": {
         "ET00005990": {
@@ -247,18 +279,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 134
-        }
-      }
-    },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
         }
       }
     },
@@ -274,47 +294,27 @@
         }
       }
     },
-    " Abhitha": {
+    " Father": {
       "formats": {
-        "ET00005989": {
+        "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 217
+          "shows": 59,
+          "gross": 97700.0,
+          "sold": 100,
+          "totalSeats": 11467
         }
       }
     },
-    "Avatar: Fire and Ash": {
+    "Neera": {
       "formats": {
-        "ET00005939": {
+        "ET00005849": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 287
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 12,
-          "gross": 2600.0,
-          "sold": 2,
-          "totalSeats": 1443
-        }
-      }
-    },
-    "Mardaani 3": {
-      "formats": {
-        "ET00005982": {
-          "format": "2D",
-          "language": "Hindi",
+          "language": "Sinhala",
           "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 34
+          "totalSeats": 143
         }
       }
     }
