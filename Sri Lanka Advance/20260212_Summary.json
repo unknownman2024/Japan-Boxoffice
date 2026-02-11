@@ -1,17 +1,21 @@
 {
   "date": "20260212",
-  "lastUpdated": "04:15 PM, 11 February 2026",
+  "lastUpdated": "06:30 PM, 11 February 2026",
   "movies": {
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 16,
+          "gross": 11900.0,
+          "sold": 28,
+          "totalSeats": 3032
+        }
+      }
+    },
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 15,
-          "gross": 71800.0,
-          "sold": 40,
-          "totalSeats": 2415
-        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -19,6 +23,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 287
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 15,
+          "gross": 71800.0,
+          "sold": 40,
+          "totalSeats": 2415
         }
       }
     },
@@ -28,8 +40,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 147,
-          "gross": 196510.0,
-          "sold": 389,
+          "gross": 218560.0,
+          "sold": 438,
           "totalSeats": 27097
         }
       }
@@ -40,8 +52,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 91,
-          "gross": 232100.0,
-          "sold": 254,
+          "gross": 228050.0,
+          "sold": 252,
           "totalSeats": 15450
         }
       }
@@ -58,6 +70,26 @@
         }
       }
     },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 395
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 4800.0,
+          "sold": 4,
+          "totalSeats": 290
+        }
+      }
+    },
     "Moda Tharidu": {
       "formats": {
         "ET00005884": {
@@ -67,26 +99,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 563
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 290
-        },
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 395
         }
       }
     },
@@ -108,21 +120,9 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 23,
-          "gross": 8600.0,
-          "sold": 11,
+          "gross": 13600.0,
+          "sold": 16,
           "totalSeats": 3541
-        }
-      }
-    },
-    "Border 2": {
-      "formats": {
-        "ET00005957": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 212
         }
       }
     },
@@ -132,45 +132,9 @@
           "format": "2D",
           "language": "English",
           "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 900.0,
+          "sold": 1,
           "totalSeats": 396
-        }
-      }
-    },
-    "The Strangers: Chapter 3": {
-      "formats": {
-        "ET00005988": {
-          "format": "2D",
-          "language": "English",
-          "shows": 13,
-          "gross": 5500.0,
-          "sold": 2,
-          "totalSeats": 1500
-        }
-      }
-    },
-    "Primate": {
-      "formats": {
-        "ET00005969": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 248
-        }
-      }
-    },
-    "David": {
-      "formats": {
-        "ET00005972": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 4000.0,
-          "sold": 4,
-          "totalSeats": 248
         }
       }
     },
@@ -186,14 +150,62 @@
         }
       }
     },
+    "Border 2": {
+      "formats": {
+        "ET00005957": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 212
+        }
+      }
+    },
+    "The Strangers: Chapter 3": {
+      "formats": {
+        "ET00005988": {
+          "format": "2D",
+          "language": "English",
+          "shows": 13,
+          "gross": 5500.0,
+          "sold": 2,
+          "totalSeats": 1500
+        }
+      }
+    },
+    "David": {
+      "formats": {
+        "ET00005972": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 4000.0,
+          "sold": 4,
+          "totalSeats": 248
+        }
+      }
+    },
+    "Primate": {
+      "formats": {
+        "ET00005969": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 248
+        }
+      }
+    },
     "Maariya": {
       "formats": {
         "ET00005918": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 1100.0,
+          "sold": 1,
           "totalSeats": 99
         }
       }
@@ -234,15 +246,15 @@
         }
       }
     },
-    "Greenland 2: Migration": {
+    "Shelter": {
       "formats": {
-        "ET00005968": {
+        "ET00005990": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
+          "shows": 5,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 34
+          "totalSeats": 500
         }
       }
     },
@@ -258,18 +270,6 @@
         }
       }
     },
-    "Shelter": {
-      "formats": {
-        "ET00005990": {
-          "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 500
-        }
-      }
-    },
     "Neera": {
       "formats": {
         "ET00005849": {
@@ -282,6 +282,18 @@
         }
       }
     },
+    "Greenland 2: Migration": {
+      "formats": {
+        "ET00005968": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 34
+        }
+      }
+    },
     "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
         "ET00005953": {
@@ -291,18 +303,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 140
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 16,
-          "gross": 11900.0,
-          "sold": 28,
-          "totalSeats": 3032
         }
       }
     }
