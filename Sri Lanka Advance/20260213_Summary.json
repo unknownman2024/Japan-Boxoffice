@@ -1,6 +1,6 @@
 {
   "date": "20260213",
-  "lastUpdated": "01:25 AM, 12 February 2026",
+  "lastUpdated": "02:05 AM, 12 February 2026",
   "movies": {
     " Father": {
       "formats": {
@@ -11,6 +11,18 @@
           "gross": 97700.0,
           "sold": 100,
           "totalSeats": 11467
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 104,
+          "gross": 209400.0,
+          "sold": 376,
+          "totalSeats": 20290
         }
       }
     },
@@ -46,18 +58,6 @@
         }
       }
     },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 104,
-          "gross": 209400.0,
-          "sold": 376,
-          "totalSeats": 20290
-        }
-      }
-    },
     "Zootopia 2": {
       "formats": {
         "ET00005930": {
@@ -78,27 +78,27 @@
         }
       }
     },
+    "Parasakthi": {
+      "formats": {
+        "ET00005926": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1021
+        }
+      }
+    },
     "The Wife": {
       "formats": {
         "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 21,
-          "gross": 45550.0,
-          "sold": 65,
+          "gross": 43350.0,
+          "sold": 63,
           "totalSeats": 4251
-        }
-      }
-    },
-    " Abhitha": {
-      "formats": {
-        "ET00005989": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 217
         }
       }
     },
@@ -114,12 +114,12 @@
         }
       }
     },
-    "The Strangers: Chapter 3": {
+    " Abhitha": {
       "formats": {
-        "ET00005988": {
+        "ET00005989": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
+          "language": "Sinhala",
+          "shows": 3,
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 217
@@ -138,27 +138,27 @@
         }
       }
     },
-    "David": {
+    "The Housemaid": {
       "formats": {
-        "ET00005972": {
+        "ET00005954": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 152
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 269
         }
       }
     },
-    "Marty Supreme": {
+    "The Strangers: Chapter 3": {
       "formats": {
-        "ET00005967": {
+        "ET00005988": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 33
+          "totalSeats": 217
         }
       }
     },
@@ -174,30 +174,6 @@
         }
       }
     },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 269
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 17,
-          "gross": 113950.0,
-          "sold": 45,
-          "totalSeats": 2510
-        }
-      }
-    },
     "Crime 101": {
       "formats": {
         "ET00005994": {
@@ -210,27 +186,15 @@
         }
       }
     },
-    "Tu Yaa Main": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00005998": {
+        "ET00005997": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 321
-        }
-      }
-    },
-    "O' Romeo": {
-      "formats": {
-        "ET00005985": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 8,
-          "gross": 4200.0,
-          "sold": 3,
-          "totalSeats": 847
+          "language": "English",
+          "shows": 17,
+          "gross": 111550.0,
+          "sold": 43,
+          "totalSeats": 2510
         }
       }
     },
@@ -255,6 +219,18 @@
           "gross": 1600.0,
           "sold": 2,
           "totalSeats": 1323
+        }
+      }
+    },
+    "O' Romeo": {
+      "formats": {
+        "ET00005985": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 8,
+          "gross": 4200.0,
+          "sold": 3,
+          "totalSeats": 847
         }
       }
     },
@@ -306,15 +282,39 @@
         }
       }
     },
-    "Parasakthi": {
+    "Marty Supreme": {
       "formats": {
-        "ET00005926": {
+        "ET00005967": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 5,
+          "language": "English",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1021
+          "totalSeats": 33
+        }
+      }
+    },
+    "David": {
+      "formats": {
+        "ET00005972": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 152
+        }
+      }
+    },
+    "Tu Yaa Main": {
+      "formats": {
+        "ET00005998": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 321
         }
       }
     }
