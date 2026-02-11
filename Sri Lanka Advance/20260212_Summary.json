@@ -1,9 +1,29 @@
 {
   "date": "20260212",
-  "lastUpdated": "05:05 AM, 11 February 2026",
+  "lastUpdated": "07:29 AM, 11 February 2026",
   "movies": {
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 92,
+          "gross": 143900.0,
+          "sold": 153,
+          "totalSeats": 15783
+        }
+      }
+    },
     "Avatar: Fire and Ash": {
       "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 15,
+          "gross": 35400.0,
+          "sold": 27,
+          "totalSeats": 2415
+        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -11,46 +31,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 287
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 15,
-          "gross": 33400.0,
-          "sold": 25,
-          "totalSeats": 2415
-        }
-      }
-    },
-    "Parasakthi": {
-      "formats": {
-        "ET00005926": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1000
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 290
-        },
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 395
         }
       }
     },
@@ -66,15 +46,23 @@
         }
       }
     },
-    " Abhitha": {
+    "Zootopia 2": {
       "formats": {
-        "ET00005989": {
+        "ET00005925": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 19,
+          "language": "English",
+          "shows": 3,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1579
+          "totalSeats": 395
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 2400.0,
+          "sold": 2,
+          "totalSeats": 290
         }
       }
     },
@@ -90,15 +78,27 @@
         }
       }
     },
-    "Primate": {
+    "Border 2": {
       "formats": {
-        "ET00005969": {
+        "ET00005957": {
           "format": "2D",
-          "language": "English",
+          "language": "Hindi",
           "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 248
+          "totalSeats": 212
+        }
+      }
+    },
+    "Parasakthi": {
+      "formats": {
+        "ET00005926": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1000
         }
       }
     },
@@ -114,39 +114,27 @@
         }
       }
     },
-    "The Housemaid": {
+    "Primate": {
       "formats": {
-        "ET00005954": {
+        "ET00005969": {
           "format": "2D",
           "language": "English",
-          "shows": 6,
-          "gross": 10800.0,
-          "sold": 9,
-          "totalSeats": 603
-        }
-      }
-    },
-    "Border 2": {
-      "formats": {
-        "ET00005957": {
-          "format": "2D",
-          "language": "Hindi",
           "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 212
+          "totalSeats": 248
         }
       }
     },
-    "Marty Supreme": {
+    " Abhitha": {
       "formats": {
-        "ET00005967": {
+        "ET00005989": {
           "format": "2D",
-          "language": "English",
-          "shows": 5,
+          "language": "Sinhala",
+          "shows": 19,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 396
+          "totalSeats": 1579
         }
       }
     },
@@ -162,15 +150,27 @@
         }
       }
     },
-    "Chatha Pacha: The Ring of Rowdies": {
+    "Marty Supreme": {
       "formats": {
-        "ET00005983": {
+        "ET00005967": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0,
+          "language": "English",
+          "shows": 5,
+          "gross": 0.0,
           "sold": 0,
-          "totalSeats": 0
+          "totalSeats": 396
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 6,
+          "gross": 10800.0,
+          "sold": 9,
+          "totalSeats": 603
         }
       }
     },
@@ -186,6 +186,18 @@
         }
       }
     },
+    "Chatha Pacha: The Ring of Rowdies": {
+      "formats": {
+        "ET00005983": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0,
+          "sold": 0,
+          "totalSeats": 0
+        }
+      }
+    },
     "Thalaivar Thambi Thalaimaiyil": {
       "formats": {
         "ET00005970": {
@@ -198,6 +210,18 @@
         }
       }
     },
+    "Lockdown": {
+      "formats": {
+        "ET00005981": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 720
+        }
+      }
+    },
     "Greenland 2: Migration": {
       "formats": {
         "ET00005968": {
@@ -207,18 +231,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 34
-        }
-      }
-    },
-    "Mardaani 3": {
-      "formats": {
-        "ET00005982": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 155
         }
       }
     },
@@ -246,15 +258,15 @@
         }
       }
     },
-    "The SpongeBob Movie: Search for SquarePants": {
+    "Mardaani 3": {
       "formats": {
-        "ET00005953": {
+        "ET00005982": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
+          "language": "Hindi",
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 140
+          "totalSeats": 155
         }
       }
     },
@@ -270,15 +282,15 @@
         }
       }
     },
-    " Father": {
+    "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
-        "ET00005963": {
+        "ET00005953": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 92,
-          "gross": 141700.0,
-          "sold": 149,
-          "totalSeats": 15783
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 140
         }
       }
     },
@@ -288,8 +300,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 146,
-          "gross": 121460.0,
-          "sold": 246,
+          "gross": 126260.0,
+          "sold": 255,
           "totalSeats": 26933
         }
       }
@@ -303,18 +315,6 @@
           "gross": 5700.0,
           "sold": 10,
           "totalSeats": 3330
-        }
-      }
-    },
-    "Lockdown": {
-      "formats": {
-        "ET00005981": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 720
         }
       }
     }
