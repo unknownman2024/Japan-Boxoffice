@@ -1,6 +1,6 @@
 {
   "date": "20260213",
-  "lastUpdated": "03:14 PM, 12 February 2026",
+  "lastUpdated": "04:11 PM, 12 February 2026",
   "movies": {
     "Dharmayuddhaya 2": {
       "formats": {
@@ -8,34 +8,26 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 111,
-          "gross": 325900.0,
-          "sold": 579,
+          "gross": 359850.0,
+          "sold": 637,
           "totalSeats": 22284
         }
       }
     },
-    " Father": {
+    "Malaki Duwe Numba": {
       "formats": {
-        "ET00005963": {
+        "ET00005955": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 64,
-          "gross": 180300.0,
-          "sold": 193,
-          "totalSeats": 12677
+          "shows": 14,
+          "gross": 13800.0,
+          "sold": 30,
+          "totalSeats": 2816
         }
       }
     },
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 12,
-          "gross": 44900.0,
-          "sold": 30,
-          "totalSeats": 1443
-        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -43,6 +35,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 287
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 12,
+          "gross": 44900.0,
+          "sold": 30,
+          "totalSeats": 1443
         }
       }
     },
@@ -55,6 +55,18 @@
           "gross": 800.0,
           "sold": 1,
           "totalSeats": 1021
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 64,
+          "gross": 183100.0,
+          "sold": 195,
+          "totalSeats": 12677
         }
       }
     },
@@ -78,27 +90,15 @@
         }
       }
     },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 14,
-          "gross": 12400.0,
-          "sold": 26,
-          "totalSeats": 2816
-        }
-      }
-    },
     "With Love": {
       "formats": {
         "ET00005991": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 17,
-          "gross": 27200.0,
-          "sold": 27,
-          "totalSeats": 3095
+          "shows": 18,
+          "gross": 21400.0,
+          "sold": 21,
+          "totalSeats": 3374
         }
       }
     },
@@ -114,15 +114,27 @@
         }
       }
     },
-    "The Wife": {
+    " Abhitha": {
       "formats": {
-        "ET00005992": {
+        "ET00005989": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 24,
-          "gross": 70700.0,
-          "sold": 106,
-          "totalSeats": 4786
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 609
+        }
+      }
+    },
+    "David": {
+      "formats": {
+        "ET00005972": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 152
         }
       }
     },
@@ -150,18 +162,6 @@
         }
       }
     },
-    "David": {
-      "formats": {
-        "ET00005972": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 152
-        }
-      }
-    },
     "I Was A Stranger": {
       "formats": {
         "ET00005995": {
@@ -174,39 +174,15 @@
         }
       }
     },
-    "Wuthering Heights": {
+    "Tu Yaa Main": {
       "formats": {
-        "ET00005997": {
+        "ET00005998": {
           "format": "2D",
-          "language": "English",
-          "shows": 18,
-          "gross": 186250.0,
-          "sold": 90,
-          "totalSeats": 2611
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 16200.0,
-          "sold": 7,
-          "totalSeats": 370
-        }
-      }
-    },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 10,
-          "gross": 29900.0,
-          "sold": 20,
-          "totalSeats": 1660
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 121
         }
       }
     },
@@ -222,15 +198,39 @@
         }
       }
     },
-    "Tu Yaa Main": {
+    "The Housemaid": {
       "formats": {
-        "ET00005998": {
+        "ET00005954": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 121
+          "language": "English",
+          "shows": 4,
+          "gross": 16200.0,
+          "sold": 7,
+          "totalSeats": 370
+        }
+      }
+    },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 18,
+          "gross": 185850.0,
+          "sold": 93,
+          "totalSeats": 2611
+        }
+      }
+    },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 10,
+          "gross": 34100.0,
+          "sold": 23,
+          "totalSeats": 1660
         }
       }
     },
@@ -294,15 +294,15 @@
         }
       }
     },
-    " Abhitha": {
+    "The Wife": {
       "formats": {
-        "ET00005989": {
+        "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 609
+          "shows": 24,
+          "gross": 77500.0,
+          "sold": 116,
+          "totalSeats": 4786
         }
       }
     }
