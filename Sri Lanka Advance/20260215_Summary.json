@@ -1,51 +1,7 @@
 {
   "date": "20260215",
-  "lastUpdated": "03:01 AM, 14 February 2026",
+  "lastUpdated": "03:58 AM, 14 February 2026",
   "movies": {
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 8400.0,
-          "sold": 6,
-          "totalSeats": 143
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 12,
-          "gross": 183100.0,
-          "sold": 120,
-          "totalSeats": 1507
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 79,
-          "gross": 418750.0,
-          "sold": 483,
-          "totalSeats": 12848
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 15,
-          "gross": 26400.0,
-          "sold": 50,
-          "totalSeats": 3118
-        }
-      }
-    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
@@ -55,6 +11,38 @@
           "gross": 1215550.0,
           "sold": 1979,
           "totalSeats": 25686
+        }
+      }
+    },
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 12,
+          "gross": 183100.0,
+          "sold": 120,
+          "totalSeats": 1507
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 8400.0,
+          "sold": 6,
+          "totalSeats": 143
+        }
+      }
+    },
+    "Parasakthi": {
+      "formats": {
+        "ET00005926": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 398
         }
       }
     },
@@ -96,45 +84,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 36,
-          "gross": 190200.0,
-          "sold": 326,
+          "gross": 187800.0,
+          "sold": 324,
           "totalSeats": 7094
-        }
-      }
-    },
-    "Parasakthi": {
-      "formats": {
-        "ET00005926": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 398
-        }
-      }
-    },
-    "Seetha Payanam": {
-      "formats": {
-        "ET00005993": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 16,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2816
-        }
-      }
-    },
-    " Abhitha": {
-      "formats": {
-        "ET00005989": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 10,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 849
         }
       }
     },
@@ -150,27 +102,15 @@
         }
       }
     },
-    "I Was A Stranger": {
+    "Seetha Payanam": {
       "formats": {
-        "ET00005995": {
+        "ET00005993": {
           "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 406
-        }
-      }
-    },
-    "The Strangers: Chapter 3": {
-      "formats": {
-        "ET00005988": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 2600.0,
-          "sold": 2,
-          "totalSeats": 217
+          "language": "Tamil",
+          "shows": 16,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 2816
         }
       }
     },
@@ -186,27 +126,27 @@
         }
       }
     },
+    "The Strangers: Chapter 3": {
+      "formats": {
+        "ET00005988": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 2600.0,
+          "sold": 2,
+          "totalSeats": 217
+        }
+      }
+    },
     "The Housemaid": {
       "formats": {
         "ET00005954": {
           "format": "2D",
           "language": "English",
           "shows": 3,
-          "gross": 22300.0,
-          "sold": 14,
+          "gross": 23700.0,
+          "sold": 15,
           "totalSeats": 269
-        }
-      }
-    },
-    "Tu Yaa Main": {
-      "formats": {
-        "ET00005998": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 3,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 321
         }
       }
     },
@@ -222,6 +162,30 @@
         }
       }
     },
+    " Abhitha": {
+      "formats": {
+        "ET00005989": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 10,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 849
+        }
+      }
+    },
+    "Tu Yaa Main": {
+      "formats": {
+        "ET00005998": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 3,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 321
+        }
+      }
+    },
     "Lockdown": {
       "formats": {
         "ET00005981": {
@@ -234,15 +198,15 @@
         }
       }
     },
-    "Shelter": {
+    "O' Romeo": {
       "formats": {
-        "ET00005990": {
+        "ET00005985": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 11600.0,
-          "sold": 4,
-          "totalSeats": 134
+          "language": "Hindi",
+          "shows": 6,
+          "gross": 6500.0,
+          "sold": 2,
+          "totalSeats": 483
         }
       }
     },
@@ -255,6 +219,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 33
+        }
+      }
+    },
+    "I Was A Stranger": {
+      "formats": {
+        "ET00005995": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 2400.0,
+          "sold": 2,
+          "totalSeats": 406
         }
       }
     },
@@ -282,6 +258,18 @@
         }
       }
     },
+    "The SpongeBob Movie: Search for SquarePants": {
+      "formats": {
+        "ET00005953": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 140
+        }
+      }
+    },
     "Primate": {
       "formats": {
         "ET00005969": {
@@ -306,27 +294,39 @@
         }
       }
     },
-    "The SpongeBob Movie: Search for SquarePants": {
+    "Shelter": {
       "formats": {
-        "ET00005953": {
+        "ET00005990": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 140
+          "shows": 2,
+          "gross": 11600.0,
+          "sold": 4,
+          "totalSeats": 134
         }
       }
     },
-    "O' Romeo": {
+    "Malaki Duwe Numba": {
       "formats": {
-        "ET00005985": {
+        "ET00005955": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 6,
-          "gross": 6500.0,
-          "sold": 2,
-          "totalSeats": 483
+          "language": "Sinhala",
+          "shows": 15,
+          "gross": 26400.0,
+          "sold": 50,
+          "totalSeats": 3118
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 79,
+          "gross": 418750.0,
+          "sold": 483,
+          "totalSeats": 12848
         }
       }
     }
