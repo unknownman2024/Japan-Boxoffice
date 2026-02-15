@@ -1,6 +1,6 @@
 {
   "date": "20260217",
-  "lastUpdated": "12:00 AM, 16 February 2026",
+  "lastUpdated": "12:52 AM, 16 February 2026",
   "movies": {
     " Father": {
       "formats": {
@@ -8,9 +8,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 62,
-          "gross": 43900.0,
-          "sold": 49,
+          "gross": 50000.0,
+          "sold": 57,
           "totalSeats": 12262
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 15,
+          "gross": 5600.0,
+          "sold": 16,
+          "totalSeats": 3118
         }
       }
     },
@@ -34,18 +46,6 @@
         }
       }
     },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 118,
-          "gross": 142950.0,
-          "sold": 270,
-          "totalSeats": 24074
-        }
-      }
-    },
     "Parasakthi": {
       "formats": {
         "ET00005926": {
@@ -55,18 +55,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 398
-        }
-      }
-    },
-    "With Love": {
-      "formats": {
-        "ET00005991": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 12,
-          "gross": 12000.0,
-          "sold": 12,
-          "totalSeats": 2234
         }
       }
     },
@@ -114,6 +102,18 @@
         }
       }
     },
+    "I Was A Stranger": {
+      "formats": {
+        "ET00005995": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 1000.0,
+          "sold": 1,
+          "totalSeats": 374
+        }
+      }
+    },
     "Wuthering Heights": {
       "formats": {
         "ET00005997": {
@@ -150,18 +150,6 @@
         }
       }
     },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 11,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1642
-        }
-      }
-    },
     "The Housemaid": {
       "formats": {
         "ET00005954": {
@@ -174,15 +162,15 @@
         }
       }
     },
-    "O' Romeo": {
+    "Crime 101": {
       "formats": {
-        "ET00005985": {
+        "ET00005994": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 6,
-          "gross": 5500.0,
-          "sold": 2,
-          "totalSeats": 517
+          "language": "English",
+          "shows": 11,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1642
         }
       }
     },
@@ -198,15 +186,27 @@
         }
       }
     },
-    "Mardaani 3": {
+    "O' Romeo": {
       "formats": {
-        "ET00005982": {
+        "ET00005985": {
           "format": "2D",
           "language": "Hindi",
-          "shows": 1,
+          "shows": 6,
+          "gross": 5500.0,
+          "sold": 2,
+          "totalSeats": 517
+        }
+      }
+    },
+    "Shelter": {
+      "formats": {
+        "ET00005990": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 33
+          "totalSeats": 134
         }
       }
     },
@@ -234,18 +234,6 @@
         }
       }
     },
-    "Shelter": {
-      "formats": {
-        "ET00005990": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 134
-        }
-      }
-    },
     "David": {
       "formats": {
         "ET00005972": {
@@ -270,27 +258,15 @@
         }
       }
     },
-    "I Was A Stranger": {
+    "With Love": {
       "formats": {
-        "ET00005995": {
+        "ET00005991": {
           "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 1000.0,
-          "sold": 1,
-          "totalSeats": 374
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 15,
-          "gross": 4900.0,
-          "sold": 14,
-          "totalSeats": 3118
+          "language": "Tamil",
+          "shows": 12,
+          "gross": 12000.0,
+          "sold": 12,
+          "totalSeats": 2234
         }
       }
     },
@@ -303,6 +279,30 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 849
+        }
+      }
+    },
+    "Mardaani 3": {
+      "formats": {
+        "ET00005982": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 33
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 118,
+          "gross": 154850.0,
+          "sold": 283,
+          "totalSeats": 24074
         }
       }
     }
