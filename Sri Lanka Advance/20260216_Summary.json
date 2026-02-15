@@ -1,17 +1,9 @@
 {
   "date": "20260216",
-  "lastUpdated": "01:58 PM, 15 February 2026",
+  "lastUpdated": "02:57 PM, 15 February 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 9,
-          "gross": 19300.0,
-          "sold": 11,
-          "totalSeats": 1167
-        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -19,6 +11,14 @@
           "gross": 2200.0,
           "sold": 2,
           "totalSeats": 143
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 9,
+          "gross": 21100.0,
+          "sold": 13,
+          "totalSeats": 1167
         }
       }
     },
@@ -40,41 +40,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 60,
-          "gross": 32400.0,
-          "sold": 46,
+          "gross": 34400.0,
+          "sold": 49,
           "totalSeats": 11832
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 6000.0,
-          "sold": 6,
-          "totalSeats": 152
-        },
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 3,
-          "gross": 7000.0,
-          "sold": 7,
-          "totalSeats": 305
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 35,
-          "gross": 41250.0,
-          "sold": 67,
-          "totalSeats": 7236
         }
       }
     },
@@ -84,9 +52,41 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 112,
-          "gross": 293300.0,
-          "sold": 579,
+          "gross": 343750.0,
+          "sold": 666,
           "totalSeats": 23164
+        }
+      }
+    },
+    "Parasakthi": {
+      "formats": {
+        "ET00005926": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 398
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 7000.0,
+          "sold": 7,
+          "totalSeats": 305
+        },
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 6000.0,
+          "sold": 6,
+          "totalSeats": 152
         }
       }
     },
@@ -120,21 +120,21 @@
           "format": "2D",
           "language": "English",
           "shows": 17,
-          "gross": 36350.0,
-          "sold": 23,
+          "gross": 42950.0,
+          "sold": 29,
           "totalSeats": 2474
         }
       }
     },
-    "Crime 101": {
+    " Abhitha": {
       "formats": {
-        "ET00005994": {
+        "ET00005989": {
           "format": "2D",
-          "language": "English",
-          "shows": 10,
-          "gross": 4000.0,
-          "sold": 4,
-          "totalSeats": 1427
+          "language": "Sinhala",
+          "shows": 7,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 956
         }
       }
     },
@@ -150,15 +150,15 @@
         }
       }
     },
-    "I Was A Stranger": {
+    "Crime 101": {
       "formats": {
-        "ET00005995": {
+        "ET00005994": {
           "format": "2D",
           "language": "English",
-          "shows": 3,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 374
+          "shows": 10,
+          "gross": 4000.0,
+          "sold": 4,
+          "totalSeats": 1427
         }
       }
     },
@@ -171,6 +171,30 @@
           "gross": 5500.0,
           "sold": 2,
           "totalSeats": 619
+        }
+      }
+    },
+    "I Was A Stranger": {
+      "formats": {
+        "ET00005995": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 374
+        }
+      }
+    },
+    "Seetha Payanam": {
+      "formats": {
+        "ET00005993": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 11,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1722
         }
       }
     },
@@ -222,9 +246,9 @@
         }
       }
     },
-    "Primate": {
+    "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
-        "ET00005969": {
+        "ET00005953": {
           "format": "2D",
           "language": "English",
           "shows": 1,
@@ -258,9 +282,9 @@
         }
       }
     },
-    "The SpongeBob Movie: Search for SquarePants": {
+    "Primate": {
       "formats": {
-        "ET00005953": {
+        "ET00005969": {
           "format": "2D",
           "language": "English",
           "shows": 1,
@@ -270,39 +294,15 @@
         }
       }
     },
-    "Seetha Payanam": {
+    "The Wife": {
       "formats": {
-        "ET00005993": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 11,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1722
-        }
-      }
-    },
-    "Parasakthi": {
-      "formats": {
-        "ET00005926": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 398
-        }
-      }
-    },
-    " Abhitha": {
-      "formats": {
-        "ET00005989": {
+        "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 7,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 956
+          "shows": 35,
+          "gross": 48950.0,
+          "sold": 79,
+          "totalSeats": 7236
         }
       }
     }
