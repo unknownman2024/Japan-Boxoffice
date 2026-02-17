@@ -22,7 +22,8 @@ IST = ZoneInfo("Asia/Kolkata")
 DATE = datetime.now(IST).strftime("%Y-%m-%d")   # ✅ Auto today
 CUT_OFF_MINUTES = 200                           # ✅ Cutoff (mins from now)
 
-OUT_DIR = "Nepal Boxoffice"
+YEAR = datetime.now(IST).strftime("%Y")
+OUT_DIR = os.path.join("Nepal Boxoffice", YEAR)
 
 MAX_WORKERS = 10
 MAX_RETRIES = 5
