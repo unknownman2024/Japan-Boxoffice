@@ -20,7 +20,8 @@ TOKEN_URL      = "https://boxoffice24.pages.dev/Nepal/khaltitoken.txt"
 
 IST  = ZoneInfo("Asia/Kolkata")
 DATE = (datetime.now(IST) + timedelta(days=1)).strftime("%Y-%m-%d")   # ✅ TOMORROW
-OUT_DIR = "Nepal Advance"                                            # ✅ NEW FOLDER
+YEAR = datetime.now(IST).strftime("%Y")
+OUT_DIR = os.path.join("Nepal Advance", YEAR)
 
 MAX_WORKERS = 10
 MAX_RETRIES = 5
