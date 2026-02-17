@@ -16,8 +16,9 @@ SCRAPE_PASSES = 5
 TIMEOUT_SEC = 1
 CUT_OFF_MINUTES = 200
 
-OUT_DIR = "Sri Lanka Boxoffice"
 IST = ZoneInfo("Asia/Kolkata")
+YEAR = datetime.now(IST).strftime("%Y")
+OUT_DIR = os.path.join("Sri Lanka Boxoffice", YEAR)
 ALL_MOVIES_FILE = f"{OUT_DIR}/allmovies.json"
 
 
