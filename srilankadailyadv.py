@@ -15,9 +15,10 @@ RETRY_PER_REQUEST = 6
 SCRAPE_PASSES = 7
 TIMEOUT_SEC = 1
 
-OUT_DIR = "Sri Lanka Advance"
 IST = ZoneInfo("Asia/Kolkata")
-
+target_date = datetime.now(IST).strftime("%Y%m%d")
+YEAR = target_date[:4]
+OUT_DIR = os.path.join("Sri Lanka Advance", YEAR)
 
 #########################################
 # RANDOM HEADERS (Anti-Bot)
