@@ -30,7 +30,8 @@ else:
 
 DATE = TRACK_DATE.strftime("%Y-%m-%d")
 
-OUT_DIR = "Nepal Advance"                                            # ✅ NEW FOLDER
+YEAR = datetime.now(IST).strftime("%Y")
+OUT_DIR = os.path.join("Nepal Advance", YEAR)
 
 MAX_WORKERS = 10
 MAX_RETRIES = 5
