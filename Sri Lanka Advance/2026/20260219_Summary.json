@@ -1,41 +1,21 @@
 {
   "date": "20260219",
-  "lastUpdated": "12:22 AM, 18 February 2026",
+  "lastUpdated": "01:14 AM, 18 February 2026",
   "movies": {
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 15,
-          "gross": 7800.0,
-          "sold": 17,
-          "totalSeats": 3108
-        }
-      }
-    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 136,
-          "gross": 152350.0,
-          "sold": 260,
+          "gross": 151450.0,
+          "sold": 258,
           "totalSeats": 24254
         }
       }
     },
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 10,
-          "gross": 25500.0,
-          "sold": 17,
-          "totalSeats": 1255
-        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -43,6 +23,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 143
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 10,
+          "gross": 25500.0,
+          "sold": 17,
+          "totalSeats": 1255
         }
       }
     },
@@ -60,14 +48,6 @@
     },
     "Zootopia 2": {
       "formats": {
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 152
-        },
         "ET00005930": {
           "format": "3D",
           "language": "English",
@@ -75,6 +55,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 299
+        },
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 152
         }
       }
     },
@@ -84,57 +72,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 47,
-          "gross": 25800.0,
-          "sold": 34,
+          "gross": 26700.0,
+          "sold": 36,
           "totalSeats": 9340
         }
       }
     },
-    "With Love": {
+    "Malaki Duwe Numba": {
       "formats": {
-        "ET00005991": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 18,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 3068
-        }
-      }
-    },
-    " Abhitha": {
-      "formats": {
-        "ET00005989": {
+        "ET00005955": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 10,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 849
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 19,
-          "gross": 54800.0,
-          "sold": 28,
-          "totalSeats": 2441
-        }
-      }
-    },
-    "The Strangers: Chapter 3": {
-      "formats": {
-        "ET00005988": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 217
+          "shows": 15,
+          "gross": 7800.0,
+          "sold": 17,
+          "totalSeats": 3108
         }
       }
     },
@@ -150,75 +102,39 @@
         }
       }
     },
-    "Seetha Payanam": {
+    "The Strangers: Chapter 3": {
       "formats": {
-        "ET00005993": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1157
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 3300.0,
-          "sold": 3,
-          "totalSeats": 291
-        }
-      }
-    },
-    "Lockdown": {
-      "formats": {
-        "ET00005981": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0,
-          "sold": 0,
-          "totalSeats": 0
-        }
-      }
-    },
-    "Mardaani 3": {
-      "formats": {
-        "ET00005982": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 1,
-          "gross": 2150.0,
-          "sold": 1,
-          "totalSeats": 33
-        }
-      }
-    },
-    "Shelter": {
-      "formats": {
-        "ET00005990": {
+        "ET00005988": {
           "format": "2D",
           "language": "English",
           "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 134
+          "totalSeats": 217
         }
       }
     },
-    "My Lord": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00005996": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 19,
+          "gross": 54800.0,
+          "sold": 28,
+          "totalSeats": 2441
+        }
+      }
+    },
+    "With Love": {
+      "formats": {
+        "ET00005991": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 12,
+          "shows": 18,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1620
+          "totalSeats": 3068
         }
       }
     },
@@ -234,6 +150,90 @@
         }
       }
     },
+    "My Lord": {
+      "formats": {
+        "ET00005996": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 12,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1620
+        }
+      }
+    },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 12,
+          "gross": 3000.0,
+          "sold": 3,
+          "totalSeats": 1664
+        }
+      }
+    },
+    "Lockdown": {
+      "formats": {
+        "ET00005981": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0,
+          "sold": 0,
+          "totalSeats": 0
+        }
+      }
+    },
+    "Seetha Payanam": {
+      "formats": {
+        "ET00005993": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1157
+        }
+      }
+    },
+    "Mardaani 3": {
+      "formats": {
+        "ET00005982": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 2150.0,
+          "sold": 1,
+          "totalSeats": 33
+        }
+      }
+    },
+    " Abhitha": {
+      "formats": {
+        "ET00005989": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 10,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 849
+        }
+      }
+    },
+    "Shelter": {
+      "formats": {
+        "ET00005990": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 134
+        }
+      }
+    },
     "Tu Yaa Main": {
       "formats": {
         "ET00005998": {
@@ -246,15 +246,15 @@
         }
       }
     },
-    "Marty Supreme": {
+    "The Housemaid": {
       "formats": {
-        "ET00005967": {
+        "ET00005954": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
-          "gross": 4300.0,
-          "sold": 2,
-          "totalSeats": 33
+          "shows": 4,
+          "gross": 3300.0,
+          "sold": 3,
+          "totalSeats": 291
         }
       }
     },
@@ -270,14 +270,26 @@
         }
       }
     },
-    "Primate": {
+    "Marty Supreme": {
       "formats": {
-        "ET00005969": {
+        "ET00005967": {
           "format": "2D",
           "language": "English",
           "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 4300.0,
+          "sold": 2,
+          "totalSeats": 33
+        }
+      }
+    },
+    "The SpongeBob Movie: Search for SquarePants": {
+      "formats": {
+        "ET00005953": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 2000.0,
+          "sold": 2,
           "totalSeats": 140
         }
       }
@@ -294,27 +306,15 @@
         }
       }
     },
-    "The SpongeBob Movie: Search for SquarePants": {
+    "Primate": {
       "formats": {
-        "ET00005953": {
+        "ET00005969": {
           "format": "2D",
           "language": "English",
           "shows": 1,
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 140
-        }
-      }
-    },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 12,
-          "gross": 8300.0,
-          "sold": 5,
-          "totalSeats": 1664
         }
       }
     }
