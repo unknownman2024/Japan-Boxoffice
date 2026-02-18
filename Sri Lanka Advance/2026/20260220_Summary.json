@@ -1,7 +1,19 @@
 {
   "date": "20260220",
-  "lastUpdated": "03:01 AM, 19 February 2026",
+  "lastUpdated": "03:58 AM, 19 February 2026",
   "movies": {
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 2600.0,
+          "sold": 2,
+          "totalSeats": 101
+        }
+      }
+    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005939": {
@@ -19,30 +31,6 @@
           "gross": 28400.0,
           "sold": 16,
           "totalSeats": 1707
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 55,
-          "gross": 106900.0,
-          "sold": 148,
-          "totalSeats": 12174
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 2600.0,
-          "sold": 2,
-          "totalSeats": 101
         }
       }
     },
@@ -90,18 +78,6 @@
         }
       }
     },
-    "With Love": {
-      "formats": {
-        "ET00005991": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 379
-        }
-      }
-    },
     "Wuthering Heights": {
       "formats": {
         "ET00005997": {
@@ -126,30 +102,6 @@
         }
       }
     },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 999
-        }
-      }
-    },
-    "O' Romeo": {
-      "formats": {
-        "ET00005985": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 373
-        }
-      }
-    },
     "The Housemaid": {
       "formats": {
         "ET00005954": {
@@ -162,15 +114,39 @@
         }
       }
     },
-    "EPiC: Elvis Presley in Concert": {
+    "O' Romeo": {
       "formats": {
-        "ET00005978": {
+        "ET00005985": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 4,
+          "gross": 1400.0,
+          "sold": 1,
+          "totalSeats": 373
+        }
+      }
+    },
+    "With Love": {
+      "formats": {
+        "ET00005991": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 379
+        }
+      }
+    },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
-          "gross": 142800.0,
-          "sold": 42,
-          "totalSeats": 305
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 999
         }
       }
     },
@@ -198,18 +174,6 @@
         }
       }
     },
-    "Ghilli": {
-      "formats": {
-        "ET00005289": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 111
-        }
-      }
-    },
     "Minnale": {
       "formats": {
         "ET00006001": {
@@ -219,6 +183,30 @@
           "gross": 2600.0,
           "sold": 2,
           "totalSeats": 338
+        }
+      }
+    },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 101
+        }
+      }
+    },
+    "Ghilli": {
+      "formats": {
+        "ET00005289": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 111
         }
       }
     },
@@ -246,15 +234,27 @@
         }
       }
     },
-    "Neera": {
+    "EPiC: Elvis Presley in Concert": {
       "formats": {
-        "ET00005849": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 142800.0,
+          "sold": 42,
+          "totalSeats": 305
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 101
+          "shows": 55,
+          "gross": 109500.0,
+          "sold": 150,
+          "totalSeats": 12174
         }
       }
     }
