@@ -1,7 +1,27 @@
 {
   "date": "20260220",
-  "lastUpdated": "01:14 AM, 19 February 2026",
+  "lastUpdated": "02:04 AM, 19 February 2026",
   "movies": {
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 12,
+          "gross": 28400.0,
+          "sold": 16,
+          "totalSeats": 1707
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
+        }
+      }
+    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
@@ -14,23 +34,15 @@
         }
       }
     },
-    "Avatar: Fire and Ash": {
+    " Father": {
       "formats": {
-        "ET00005939": {
+        "ET00005963": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 12,
-          "gross": 28400.0,
-          "sold": 16,
-          "totalSeats": 1707
+          "language": "Sinhala",
+          "shows": 36,
+          "gross": 43800.0,
+          "sold": 35,
+          "totalSeats": 6339
         }
       }
     },
@@ -46,15 +58,23 @@
         }
       }
     },
-    "The Wife": {
+    "Zootopia 2": {
       "formats": {
-        "ET00005992": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 299
+        },
+        "ET00005925": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 35,
-          "gross": 41150.0,
-          "sold": 36,
-          "totalSeats": 7248
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 152
         }
       }
     },
@@ -67,26 +87,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 379
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 152
-        },
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 299
         }
       }
     },
@@ -114,6 +114,30 @@
         }
       }
     },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 35,
+          "gross": 41150.0,
+          "sold": 36,
+          "totalSeats": 7248
+        }
+      }
+    },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 999
+        }
+      }
+    },
     "The Housemaid": {
       "formats": {
         "ET00005954": {
@@ -138,18 +162,6 @@
         }
       }
     },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 999
-        }
-      }
-    },
     "EPiC: Elvis Presley in Concert": {
       "formats": {
         "ET00005978": {
@@ -159,6 +171,18 @@
           "gross": 142800.0,
           "sold": 42,
           "totalSeats": 305
+        }
+      }
+    },
+    "Shelter": {
+      "formats": {
+        "ET00005990": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 101
         }
       }
     },
@@ -174,11 +198,11 @@
         }
       }
     },
-    "Shelter": {
+    "Neera": {
       "formats": {
-        "ET00005990": {
+        "ET00005849": {
           "format": "2D",
-          "language": "English",
+          "language": "Sinhala",
           "shows": 1,
           "gross": 0.0,
           "sold": 0,
@@ -198,18 +222,6 @@
         }
       }
     },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 101
-        }
-      }
-    },
     "Ghilli": {
       "formats": {
         "ET00005289": {
@@ -219,18 +231,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 111
-        }
-      }
-    },
-    "The SpongeBob Movie: Search for SquarePants": {
-      "formats": {
-        "ET00005953": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 140
         }
       }
     },
@@ -246,15 +246,15 @@
         }
       }
     },
-    " Father": {
+    "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
-        "ET00005963": {
+        "ET00005953": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 36,
-          "gross": 43800.0,
-          "sold": 35,
-          "totalSeats": 6339
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 140
         }
       }
     }
