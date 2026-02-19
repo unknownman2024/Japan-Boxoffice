@@ -2,21 +2,91 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 2,
-    "seats": 348,
-    "sold": 45,
-    "reserved": 13,
-    "available": 290,
+    "total_shows": 11,
+    "seats": 2039,
+    "sold": 421,
+    "reserved": 82,
+    "available": 1536,
     "housefull": 0,
-    "fastfilling": 0,
+    "fastfilling": 1,
     "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 270,
+        "sold": 7,
+        "reserved": 50,
+        "available": 213,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 6,
+        "available": 54,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cineroyale",
+        "total_shows": 3,
+        "seats": 560,
+        "sold": 263,
+        "reserved": 0,
+        "available": 297,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "midtown",
+        "total_shows": 1,
+        "seats": 172,
+        "sold": 19,
+        "reserved": 8,
+        "available": 145,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 203,
+        "sold": 8,
+        "reserved": 0,
+        "available": 195,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bageshwori",
+        "total_shows": 1,
+        "seats": 288,
+        "sold": 68,
+        "reserved": 0,
+        "available": 220,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "qfx-labim",
         "total_shows": 1,
         "seats": 183,
         "sold": 30,
-        "reserved": 0,
-        "available": 153,
+        "reserved": 2,
+        "available": 151,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-one-stop-mall",
+        "total_shows": 1,
+        "seats": 138,
+        "sold": 10,
+        "reserved": 3,
+        "available": 125,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -24,9 +94,9 @@
         "venue": "vfx-cinemas",
         "total_shows": 1,
         "seats": 165,
-        "sold": 15,
+        "sold": 16,
         "reserved": 13,
-        "available": 137,
+        "available": 136,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -35,21 +105,81 @@
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 2,
-    "seats": 388,
-    "sold": 21,
-    "reserved": 0,
-    "available": 367,
+    "total_shows": 9,
+    "seats": 1806,
+    "sold": 37,
+    "reserved": 69,
+    "available": 1700,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 5,
+        "reserved": 50,
+        "available": 294,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "birat-cine",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 0,
+        "reserved": 0,
+        "available": 169,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 0,
+        "reserved": 11,
+        "available": 158,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "city-cinema",
+        "total_shows": 1,
+        "seats": 189,
+        "sold": 0,
+        "reserved": 0,
+        "available": 189,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "midtown",
+        "total_shows": 1,
+        "seats": 178,
+        "sold": 0,
+        "reserved": 8,
+        "available": 170,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "one-cinemas-new-baneshwor",
         "total_shows": 1,
         "seats": 208,
-        "sold": 7,
+        "sold": 9,
         "reserved": 0,
-        "available": 201,
+        "available": 199,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "pokhara-cineplex",
+        "total_shows": 1,
+        "seats": 231,
+        "sold": 0,
+        "reserved": 0,
+        "available": 231,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -57,9 +187,19 @@
         "venue": "qfx-labim",
         "total_shows": 1,
         "seats": 180,
-        "sold": 14,
+        "sold": 16,
         "reserved": 0,
-        "available": 166,
+        "available": 164,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-one-stop-mall",
+        "total_shows": 1,
+        "seats": 133,
+        "sold": 7,
+        "reserved": 0,
+        "available": 126,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -91,14 +231,24 @@
   {
     "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
     "movie_name": "Rammita Koo Pirati",
-    "total_shows": 1,
-    "seats": 182,
-    "sold": 25,
+    "total_shows": 2,
+    "seats": 392,
+    "sold": 30,
     "reserved": 0,
-    "available": 157,
+    "available": 362,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "ini-cinemas-nb-center",
+        "total_shows": 1,
+        "seats": 210,
+        "sold": 5,
+        "reserved": 0,
+        "available": 205,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "qfx-labim",
         "total_shows": 1,
@@ -114,14 +264,24 @@
   {
     "movie_id": "Z6uq2mtBgf9WsiYeW8NdEG",
     "movie_name": "Tu Yaa Main",
-    "total_shows": 1,
-    "seats": 60,
-    "sold": 0,
-    "reserved": 3,
-    "available": 57,
+    "total_shows": 2,
+    "seats": 339,
+    "sold": 6,
+    "reserved": 45,
+    "available": 288,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 6,
+        "reserved": 42,
+        "available": 231,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "cdc-cinemas",
         "total_shows": 1,
@@ -129,6 +289,29 @@
         "sold": 0,
         "reserved": 3,
         "available": 57,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "GKgGPZ2JaeZpuja97fozAW",
+    "movie_name": "Bigul",
+    "total_shows": 1,
+    "seats": 137,
+    "sold": 0,
+    "reserved": 0,
+    "available": 137,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "bamel-cinemas",
+        "total_shows": 1,
+        "seats": 137,
+        "sold": 0,
+        "reserved": 0,
+        "available": 137,
         "housefull": 0,
         "fastfilling": 0
       }
