@@ -1,19 +1,7 @@
 {
   "date": "20260221",
-  "lastUpdated": "01:06 AM, 20 February 2026",
+  "lastUpdated": "01:57 AM, 20 February 2026",
   "movies": {
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 13,
-          "gross": 9000.0,
-          "sold": 10,
-          "totalSeats": 2787
-        }
-      }
-    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005939": {
@@ -31,6 +19,18 @@
           "gross": 247700.0,
           "sold": 89,
           "totalSeats": 1853
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 57,
+          "gross": 155300.0,
+          "sold": 160,
+          "totalSeats": 10732
         }
       }
     },
@@ -60,8 +60,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 64,
-          "gross": 227450.0,
-          "sold": 268,
+          "gross": 226650.0,
+          "sold": 266,
           "totalSeats": 12524
         }
       }
@@ -72,105 +72,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 108,
-          "gross": 547940.0,
-          "sold": 838,
+          "gross": 552040.0,
+          "sold": 845,
           "totalSeats": 23658
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 15,
-          "gross": 160500.0,
-          "sold": 82,
-          "totalSeats": 1524
-        }
-      }
-    },
-    "Ghilli": {
-      "formats": {
-        "ET00005289": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 3900.0,
-          "sold": 3,
-          "totalSeats": 2310
-        }
-      }
-    },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 8,
-          "gross": 24000.0,
-          "sold": 19,
-          "totalSeats": 999
-        }
-      }
-    },
-    "O' Romeo": {
-      "formats": {
-        "ET00005985": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 4,
-          "gross": 2800.0,
-          "sold": 2,
-          "totalSeats": 373
-        }
-      }
-    },
-    "Seetha Payanam": {
-      "formats": {
-        "ET00005993": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 184
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 10800.0,
-          "sold": 8,
-          "totalSeats": 493
-        }
-      }
-    },
-    "My Lord": {
-      "formats": {
-        "ET00005996": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 517
-        }
-      }
-    },
-    "Minnale": {
-      "formats": {
-        "ET00006001": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 8,
-          "gross": 2600.0,
-          "sold": 2,
-          "totalSeats": 1367
         }
       }
     },
@@ -186,27 +90,87 @@
         }
       }
     },
-    "Marty Supreme": {
+    "Crime 101": {
       "formats": {
-        "ET00005967": {
+        "ET00005994": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 33
+          "shows": 8,
+          "gross": 24000.0,
+          "sold": 19,
+          "totalSeats": 999
         }
       }
     },
-    "David": {
+    "The Housemaid": {
       "formats": {
-        "ET00005972": {
+        "ET00005954": {
           "format": "2D",
           "language": "English",
-          "shows": 2,
-          "gross": 9600.0,
+          "shows": 5,
+          "gross": 10800.0,
           "sold": 8,
-          "totalSeats": 174
+          "totalSeats": 493
+        }
+      }
+    },
+    "O' Romeo": {
+      "formats": {
+        "ET00005985": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 4,
+          "gross": 2800.0,
+          "sold": 2,
+          "totalSeats": 373
+        }
+      }
+    },
+    "My Lord": {
+      "formats": {
+        "ET00005996": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 517
+        }
+      }
+    },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 15,
+          "gross": 163100.0,
+          "sold": 84,
+          "totalSeats": 1524
+        }
+      }
+    },
+    "Seetha Payanam": {
+      "formats": {
+        "ET00005993": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 184
+        }
+      }
+    },
+    "Minnale": {
+      "formats": {
+        "ET00006001": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 8,
+          "gross": 2600.0,
+          "sold": 2,
+          "totalSeats": 1367
         }
       }
     },
@@ -219,6 +183,18 @@
           "gross": 265200.0,
           "sold": 78,
           "totalSeats": 305
+        }
+      }
+    },
+    "Marty Supreme": {
+      "formats": {
+        "ET00005967": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 33
         }
       }
     },
@@ -246,6 +222,18 @@
         }
       }
     },
+    "David": {
+      "formats": {
+        "ET00005972": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 9600.0,
+          "sold": 8,
+          "totalSeats": 174
+        }
+      }
+    },
     "The Strangers: Chapter 3": {
       "formats": {
         "ET00005988": {
@@ -270,6 +258,18 @@
         }
       }
     },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 101
+        }
+      }
+    },
     " Abhitha": {
       "formats": {
         "ET00005989": {
@@ -282,27 +282,27 @@
         }
       }
     },
-    " Father": {
+    "Malaki Duwe Numba": {
       "formats": {
-        "ET00005963": {
+        "ET00005955": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 57,
-          "gross": 155300.0,
-          "sold": 160,
-          "totalSeats": 10732
+          "shows": 13,
+          "gross": 9000.0,
+          "sold": 10,
+          "totalSeats": 2787
         }
       }
     },
-    "Neera": {
+    "Ghilli": {
       "formats": {
-        "ET00005849": {
+        "ET00005289": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 101
+          "language": "Tamil",
+          "shows": 9,
+          "gross": 3900.0,
+          "sold": 3,
+          "totalSeats": 2310
         }
       }
     }
