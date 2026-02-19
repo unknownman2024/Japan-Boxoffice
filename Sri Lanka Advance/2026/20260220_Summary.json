@@ -1,49 +1,45 @@
 {
   "date": "20260220",
-  "lastUpdated": "05:05 PM, 19 February 2026",
+  "lastUpdated": "06:26 PM, 19 February 2026",
   "movies": {
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 109,
+          "gross": 388860.0,
+          "sold": 683,
+          "totalSeats": 24068
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 14,
+          "gross": 11300.0,
+          "sold": 26,
+          "totalSeats": 3001
+        }
+      }
+    },
     " Father": {
       "formats": {
         "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 54,
-          "gross": 111050.0,
-          "sold": 104,
-          "totalSeats": 10297
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 12,
-          "gross": 68200.0,
-          "sold": 34,
-          "totalSeats": 1707
+          "shows": 56,
+          "gross": 118950.0,
+          "sold": 114,
+          "totalSeats": 10679
         }
       }
     },
     "Zootopia 2": {
       "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 3,
-          "gross": 4400.0,
-          "sold": 4,
-          "totalSeats": 299
-        },
         "ET00005925": {
           "format": "2D",
           "language": "English",
@@ -51,30 +47,34 @@
           "gross": 2200.0,
           "sold": 2,
           "totalSeats": 152
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 4400.0,
+          "sold": 4,
+          "totalSeats": 299
         }
       }
     },
-    "Dharmayuddhaya 2": {
+    "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005975": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 12,
+          "gross": 72200.0,
+          "sold": 38,
+          "totalSeats": 1707
+        },
+        "ET00005939": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 100,
-          "gross": 329380.0,
-          "sold": 567,
-          "totalSeats": 22660
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 57,
-          "gross": 111600.0,
-          "sold": 113,
-          "totalSeats": 11463
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
         }
       }
     },
@@ -83,10 +83,10 @@
         "ET00005991": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 10,
+          "shows": 11,
           "gross": 9400.0,
           "sold": 10,
-          "totalSeats": 1618
+          "totalSeats": 1725
         }
       }
     },
@@ -96,8 +96,8 @@
           "format": "2D",
           "language": "English",
           "shows": 16,
-          "gross": 94050.0,
-          "sold": 48,
+          "gross": 106150.0,
+          "sold": 54,
           "totalSeats": 1626
         }
       }
@@ -114,6 +114,18 @@
         }
       }
     },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 62,
+          "gross": 110450.0,
+          "sold": 121,
+          "totalSeats": 12101
+        }
+      }
+    },
     "Crime 101": {
       "formats": {
         "ET00005994": {
@@ -123,18 +135,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 999
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 14000.0,
-          "sold": 11,
-          "totalSeats": 493
         }
       }
     },
@@ -162,27 +162,27 @@
         }
       }
     },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 14000.0,
+          "sold": 11,
+          "totalSeats": 493
+        }
+      }
+    },
     "EPiC: Elvis Presley in Concert": {
       "formats": {
         "ET00005978": {
           "format": "2D",
           "language": "English",
           "shows": 1,
-          "gross": 170000.0,
-          "sold": 50,
+          "gross": 173400.0,
+          "sold": 51,
           "totalSeats": 305
-        }
-      }
-    },
-    "Ghilli": {
-      "formats": {
-        "ET00005289": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 7,
-          "gross": 800.0,
-          "sold": 1,
-          "totalSeats": 1825
         }
       }
     },
@@ -195,18 +195,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 33
-        }
-      }
-    },
-    "Shelter": {
-      "formats": {
-        "ET00005990": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 101
         }
       }
     },
@@ -234,6 +222,30 @@
         }
       }
     },
+    "Shelter": {
+      "formats": {
+        "ET00005990": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 101
+        }
+      }
+    },
+    "The Strangers: Chapter 3": {
+      "formats": {
+        "ET00005988": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 140
+        }
+      }
+    },
     "David": {
       "formats": {
         "ET00005972": {
@@ -258,18 +270,6 @@
         }
       }
     },
-    "The Strangers: Chapter 3": {
-      "formats": {
-        "ET00005988": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 140
-        }
-      }
-    },
     " Abhitha": {
       "formats": {
         "ET00005989": {
@@ -282,15 +282,15 @@
         }
       }
     },
-    "Malaki Duwe Numba": {
+    "Ghilli": {
       "formats": {
-        "ET00005955": {
+        "ET00005289": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 12,
-          "gross": 10600.0,
-          "sold": 24,
-          "totalSeats": 2691
+          "language": "Tamil",
+          "shows": 7,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1825
         }
       }
     }
