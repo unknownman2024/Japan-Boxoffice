@@ -1,16 +1,16 @@
 {
   "date": "20260223",
-  "lastUpdated": "12:50 AM, 22 February 2026",
+  "lastUpdated": "01:49 AM, 22 February 2026",
   "movies": {
-    "Dharmayuddhaya 2": {
+    " Father": {
       "formats": {
-        "ET00005975": {
+        "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 91,
-          "gross": 110550.0,
-          "sold": 186,
-          "totalSeats": 19806
+          "shows": 51,
+          "gross": 25850.0,
+          "sold": 27,
+          "totalSeats": 10009
         }
       }
     },
@@ -26,28 +26,8 @@
         }
       }
     },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 7,
-          "gross": 15500.0,
-          "sold": 5,
-          "totalSeats": 1202
-        }
-      }
-    },
     "Zootopia 2": {
       "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 125
-        },
         "ET00005925": {
           "format": "2D",
           "language": "English",
@@ -55,30 +35,14 @@
           "gross": 2000.0,
           "sold": 2,
           "totalSeats": 152
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 51,
-          "gross": 25850.0,
-          "sold": 27,
-          "totalSeats": 10009
-        }
-      }
-    },
-    "With Love": {
-      "formats": {
-        "ET00005991": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 7,
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1080
+          "totalSeats": 125
         }
       }
     },
@@ -94,51 +58,15 @@
         }
       }
     },
-    " Abhitha": {
+    "With Love": {
       "formats": {
-        "ET00005989": {
+        "ET00005991": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
+          "language": "Tamil",
+          "shows": 7,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 337
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 10,
-          "gross": 15800.0,
-          "sold": 13,
-          "totalSeats": 1350
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 54,
-          "gross": 27550.0,
-          "sold": 42,
-          "totalSeats": 10472
-        }
-      }
-    },
-    "O' Romeo": {
-      "formats": {
-        "ET00005985": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 239
+          "totalSeats": 1080
         }
       }
     },
@@ -154,27 +82,15 @@
         }
       }
     },
-    "The Housemaid": {
+    "O' Romeo": {
       "formats": {
-        "ET00005954": {
+        "ET00005985": {
           "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 24500.0,
-          "sold": 19,
-          "totalSeats": 382
-        }
-      }
-    },
-    "EPiC: Elvis Presley in Concert": {
-      "formats": {
-        "ET00005978": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 6800.0,
-          "sold": 2,
-          "totalSeats": 305
+          "language": "Hindi",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 239
         }
       }
     },
@@ -214,6 +130,30 @@
         }
       }
     },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 24500.0,
+          "sold": 19,
+          "totalSeats": 382
+        }
+      }
+    },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 6800.0,
+          "sold": 2,
+          "totalSeats": 305
+        }
+      }
+    },
     "David": {
       "formats": {
         "ET00005972": {
@@ -247,6 +187,54 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 140
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 91,
+          "gross": 110550.0,
+          "sold": 186,
+          "totalSeats": 19806
+        }
+      }
+    },
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 7,
+          "gross": 15500.0,
+          "sold": 5,
+          "totalSeats": 1202
+        }
+      }
+    },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 10,
+          "gross": 15800.0,
+          "sold": 13,
+          "totalSeats": 1350
+        }
+      }
+    },
+    " Abhitha": {
+      "formats": {
+        "ET00005989": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 337
         }
       }
     }
