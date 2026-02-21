@@ -1,7 +1,31 @@
 {
   "date": "20260223",
-  "lastUpdated": "03:49 AM, 22 February 2026",
+  "lastUpdated": "04:50 AM, 22 February 2026",
   "movies": {
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 51,
+          "gross": 25850.0,
+          "sold": 27,
+          "totalSeats": 10009
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 13,
+          "gross": 4000.0,
+          "sold": 12,
+          "totalSeats": 2900
+        }
+      }
+    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
@@ -11,18 +35,6 @@
           "gross": 110550.0,
           "sold": 186,
           "totalSeats": 19806
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 7,
-          "gross": 15500.0,
-          "sold": 5,
-          "totalSeats": 1202
         }
       }
     },
@@ -58,15 +70,15 @@
         }
       }
     },
-    " Abhitha": {
+    "Ghilli": {
       "formats": {
-        "ET00005989": {
+        "ET00005289": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
+          "language": "Tamil",
+          "shows": 5,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 337
+          "totalSeats": 1346
         }
       }
     },
@@ -94,63 +106,15 @@
         }
       }
     },
-    "My Lord": {
+    "The Housemaid": {
       "formats": {
-        "ET00005996": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 517
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 13,
-          "gross": 3400.0,
-          "sold": 10,
-          "totalSeats": 2900
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 51,
-          "gross": 25850.0,
-          "sold": 27,
-          "totalSeats": 10009
-        }
-      }
-    },
-    "David": {
-      "formats": {
-        "ET00005972": {
+        "ET00005954": {
           "format": "2D",
           "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 174
-        }
-      }
-    },
-    "The SpongeBob Movie: Search for SquarePants": {
-      "formats": {
-        "ET00005953": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 140
+          "shows": 4,
+          "gross": 24500.0,
+          "sold": 19,
+          "totalSeats": 382
         }
       }
     },
@@ -166,27 +130,15 @@
         }
       }
     },
-    "EPiC: Elvis Presley in Concert": {
+    "My Lord": {
       "formats": {
-        "ET00005978": {
+        "ET00005996": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 6800.0,
-          "sold": 2,
-          "totalSeats": 305
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 24500.0,
-          "sold": 19,
-          "totalSeats": 382
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 517
         }
       }
     },
@@ -202,6 +154,18 @@
         }
       }
     },
+    " Abhitha": {
+      "formats": {
+        "ET00005989": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 337
+        }
+      }
+    },
     "Seetha Payanam": {
       "formats": {
         "ET00005993": {
@@ -214,6 +178,30 @@
         }
       }
     },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 6800.0,
+          "sold": 2,
+          "totalSeats": 305
+        }
+      }
+    },
+    "David": {
+      "formats": {
+        "ET00005972": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 174
+        }
+      }
+    },
     "The Strangers: Chapter 3": {
       "formats": {
         "ET00005988": {
@@ -222,6 +210,18 @@
           "shows": 1,
           "gross": 2200.0,
           "sold": 2,
+          "totalSeats": 140
+        }
+      }
+    },
+    "The SpongeBob Movie: Search for SquarePants": {
+      "formats": {
+        "ET00005953": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
           "totalSeats": 140
         }
       }
@@ -238,15 +238,15 @@
         }
       }
     },
-    "Ghilli": {
+    "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005289": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1346
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 7,
+          "gross": 15500.0,
+          "sold": 5,
+          "totalSeats": 1202
         }
       }
     }
