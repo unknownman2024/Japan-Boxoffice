@@ -1,17 +1,33 @@
 {
   "date": "20260223",
-  "lastUpdated": "03:51 PM, 22 February 2026",
+  "lastUpdated": "04:47 PM, 22 February 2026",
   "movies": {
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 14,
+          "gross": 7400.0,
+          "sold": 18,
+          "totalSeats": 3020
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 103,
+          "gross": 281100.0,
+          "sold": 545,
+          "totalSeats": 22447
+        }
+      }
+    },
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
-        },
         "ET00005938": {
           "format": "3D",
           "language": "English",
@@ -19,6 +35,26 @@
           "gross": 15500.0,
           "sold": 5,
           "totalSeats": 1607
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 58,
+          "gross": 38300.0,
+          "sold": 44,
+          "totalSeats": 11235
         }
       }
     },
@@ -28,8 +64,8 @@
           "format": "3D",
           "language": "English",
           "shows": 3,
-          "gross": 11300.0,
-          "sold": 11,
+          "gross": 10000.0,
+          "sold": 10,
           "totalSeats": 356
         },
         "ET00005925": {
@@ -42,18 +78,6 @@
         }
       }
     },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 62,
-          "gross": 61000.0,
-          "sold": 88,
-          "totalSeats": 12270
-        }
-      }
-    },
     "With Love": {
       "formats": {
         "ET00005991": {
@@ -63,6 +87,18 @@
           "gross": 3200.0,
           "sold": 4,
           "totalSeats": 1191
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 62,
+          "gross": 63850.0,
+          "sold": 93,
+          "totalSeats": 12270
         }
       }
     },
@@ -90,18 +126,6 @@
         }
       }
     },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 17,
-          "gross": 34000.0,
-          "sold": 23,
-          "totalSeats": 1737
-        }
-      }
-    },
     "O' Romeo": {
       "formats": {
         "ET00005985": {
@@ -111,18 +135,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 373
-        }
-      }
-    },
-    "Minnale": {
-      "formats": {
-        "ET00006001": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 2400.0,
-          "sold": 3,
-          "totalSeats": 906
         }
       }
     },
@@ -138,6 +150,18 @@
         }
       }
     },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 24500.0,
+          "sold": 19,
+          "totalSeats": 493
+        }
+      }
+    },
     "My Lord": {
       "formats": {
         "ET00005996": {
@@ -150,63 +174,15 @@
         }
       }
     },
-    "Marty Supreme": {
-      "formats": {
-        "ET00005967": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 33
-        }
-      }
-    },
-    "Shelter": {
-      "formats": {
-        "ET00005990": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 101
-        }
-      }
-    },
     "Seetha Payanam": {
       "formats": {
         "ET00005993": {
           "format": "2D",
           "language": "Tamil",
           "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 1600.0,
+          "sold": 2,
           "totalSeats": 184
-        }
-      }
-    },
-    "David": {
-      "formats": {
-        "ET00005972": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 3000.0,
-          "sold": 3,
-          "totalSeats": 174
-        }
-      }
-    },
-    "The SpongeBob Movie: Search for SquarePants": {
-      "formats": {
-        "ET00005953": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 140
         }
       }
     },
@@ -222,51 +198,27 @@
         }
       }
     },
-    "Dharmayuddhaya 2": {
+    "Minnale": {
       "formats": {
-        "ET00005975": {
+        "ET00006001": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 103,
-          "gross": 269400.0,
-          "sold": 512,
-          "totalSeats": 22447
+          "language": "Tamil",
+          "shows": 9,
+          "gross": 2400.0,
+          "sold": 3,
+          "totalSeats": 906
         }
       }
     },
-    " Father": {
+    "Marty Supreme": {
       "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 58,
-          "gross": 37850.0,
-          "sold": 43,
-          "totalSeats": 11235
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 24500.0,
-          "sold": 19,
-          "totalSeats": 493
-        }
-      }
-    },
-    "The Strangers: Chapter 3": {
-      "formats": {
-        "ET00005988": {
+        "ET00005967": {
           "format": "2D",
           "language": "English",
           "shows": 1,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 140
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 33
         }
       }
     },
@@ -282,15 +234,63 @@
         }
       }
     },
-    "Malaki Duwe Numba": {
+    "David": {
       "formats": {
-        "ET00005955": {
+        "ET00005972": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 14,
-          "gross": 7400.0,
-          "sold": 18,
-          "totalSeats": 3020
+          "language": "English",
+          "shows": 2,
+          "gross": 3000.0,
+          "sold": 3,
+          "totalSeats": 174
+        }
+      }
+    },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 17,
+          "gross": 34000.0,
+          "sold": 23,
+          "totalSeats": 1737
+        }
+      }
+    },
+    "The SpongeBob Movie: Search for SquarePants": {
+      "formats": {
+        "ET00005953": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 140
+        }
+      }
+    },
+    "Shelter": {
+      "formats": {
+        "ET00005990": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 101
+        }
+      }
+    },
+    "The Strangers: Chapter 3": {
+      "formats": {
+        "ET00005988": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 140
         }
       }
     }
