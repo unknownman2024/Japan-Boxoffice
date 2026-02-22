@@ -1,6 +1,6 @@
 {
   "date": "20260223",
-  "lastUpdated": "12:11 PM, 22 February 2026",
+  "lastUpdated": "01:03 PM, 22 February 2026",
   "movies": {
     "Malaki Duwe Numba": {
       "formats": {
@@ -40,22 +40,14 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 100,
-          "gross": 177050.0,
-          "sold": 308,
+          "gross": 200200.0,
+          "sold": 349,
           "totalSeats": 21658
         }
       }
     },
     "Zootopia 2": {
       "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 356
-        },
         "ET00005925": {
           "format": "2D",
           "language": "English",
@@ -63,18 +55,14 @@
           "gross": 2000.0,
           "sold": 2,
           "totalSeats": 152
-        }
-      }
-    },
-    "With Love": {
-      "formats": {
-        "ET00005991": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1191
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 356
         }
       }
     },
@@ -84,9 +72,33 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 57,
-          "gross": 28850.0,
-          "sold": 31,
+          "gross": 31300.0,
+          "sold": 34,
           "totalSeats": 10972
+        }
+      }
+    },
+    "With Love": {
+      "formats": {
+        "ET00005991": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 8,
+          "gross": 3200.0,
+          "sold": 4,
+          "totalSeats": 1191
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 61,
+          "gross": 43450.0,
+          "sold": 66,
+          "totalSeats": 12007
         }
       }
     },
@@ -102,30 +114,6 @@
         }
       }
     },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 17,
-          "gross": 26800.0,
-          "sold": 17,
-          "totalSeats": 1737
-        }
-      }
-    },
-    "O' Romeo": {
-      "formats": {
-        "ET00005985": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 373
-        }
-      }
-    },
     "Crime 101": {
       "formats": {
         "ET00005994": {
@@ -138,15 +126,51 @@
         }
       }
     },
-    "Seetha Payanam": {
+    "The Housemaid": {
       "formats": {
-        "ET00005993": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 24500.0,
+          "sold": 19,
+          "totalSeats": 493
+        }
+      }
+    },
+    "Ghilli": {
+      "formats": {
+        "ET00005289": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 1,
+          "shows": 6,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 184
+          "totalSeats": 1457
+        }
+      }
+    },
+    "Minnale": {
+      "formats": {
+        "ET00006001": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 9,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 906
+        }
+      }
+    },
+    "O' Romeo": {
+      "formats": {
+        "ET00005985": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 373
         }
       }
     },
@@ -174,18 +198,6 @@
         }
       }
     },
-    "Shelter": {
-      "formats": {
-        "ET00005990": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 101
-        }
-      }
-    },
     "EPiC: Elvis Presley in Concert": {
       "formats": {
         "ET00005978": {
@@ -204,21 +216,45 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 1,
-          "gross": 2000.0,
-          "sold": 2,
+          "gross": 4000.0,
+          "sold": 4,
           "totalSeats": 101
         }
       }
     },
-    "David": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00005972": {
+        "ET00005997": {
           "format": "2D",
           "language": "English",
-          "shows": 2,
+          "shows": 17,
+          "gross": 26800.0,
+          "sold": 17,
+          "totalSeats": 1737
+        }
+      }
+    },
+    "Seetha Payanam": {
+      "formats": {
+        "ET00005993": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 174
+          "totalSeats": 184
+        }
+      }
+    },
+    "Shelter": {
+      "formats": {
+        "ET00005990": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 101
         }
       }
     },
@@ -246,51 +282,15 @@
         }
       }
     },
-    "Minnale": {
+    "David": {
       "formats": {
-        "ET00006001": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 906
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 61,
-          "gross": 39750.0,
-          "sold": 60,
-          "totalSeats": 12007
-        }
-      }
-    },
-    "Ghilli": {
-      "formats": {
-        "ET00005289": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 6,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1457
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
+        "ET00005972": {
           "format": "2D",
           "language": "English",
-          "shows": 5,
-          "gross": 24500.0,
-          "sold": 19,
-          "totalSeats": 493
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 174
         }
       }
     }
