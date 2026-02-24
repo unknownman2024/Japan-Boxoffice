@@ -1,7 +1,39 @@
 {
   "date": "20260225",
-  "lastUpdated": "05:07 PM, 24 February 2026",
+  "lastUpdated": "06:26 PM, 24 February 2026",
   "movies": {
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 133,
+          "gross": 316700.0,
+          "sold": 611,
+          "totalSeats": 23177
+        }
+      }
+    },
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 11,
+          "gross": 38600.0,
+          "sold": 26,
+          "totalSeats": 1607
+        }
+      }
+    },
     "Malaki Duwe Numba": {
       "formats": {
         "ET00005955": {
@@ -11,50 +43,6 @@
           "gross": 6200.0,
           "sold": 18,
           "totalSeats": 3022
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 11,
-          "gross": 32000.0,
-          "sold": 20,
-          "totalSeats": 1607
-        },
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
-        }
-      }
-    },
-    "With Love": {
-      "formats": {
-        "ET00005991": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 15,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2325
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 67,
-          "gross": 80250.0,
-          "sold": 91,
-          "totalSeats": 11546
         }
       }
     },
@@ -78,6 +66,30 @@
         }
       }
     },
+    "With Love": {
+      "formats": {
+        "ET00005991": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 15,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 2325
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 72,
+          "gross": 69400.0,
+          "sold": 108,
+          "totalSeats": 12451
+        }
+      }
+    },
     " Abhitha": {
       "formats": {
         "ET00005989": {
@@ -90,39 +102,27 @@
         }
       }
     },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 72,
-          "gross": 56450.0,
-          "sold": 89,
-          "totalSeats": 12451
-        }
-      }
-    },
-    "O' Romeo": {
-      "formats": {
-        "ET00005985": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 4,
-          "gross": 5500.0,
-          "sold": 2,
-          "totalSeats": 373
-        }
-      }
-    },
     "Wuthering Heights": {
       "formats": {
         "ET00005997": {
           "format": "2D",
           "language": "English",
           "shows": 15,
-          "gross": 19800.0,
-          "sold": 9,
+          "gross": 25000.0,
+          "sold": 13,
           "totalSeats": 1604
+        }
+      }
+    },
+    "Ghilli": {
+      "formats": {
+        "ET00005289": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 10,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1914
         }
       }
     },
@@ -138,42 +138,6 @@
         }
       }
     },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 6,
-          "gross": 1000.0,
-          "sold": 1,
-          "totalSeats": 494
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 394
-        }
-      }
-    },
-    "EPiC: Elvis Presley in Concert": {
-      "formats": {
-        "ET00005978": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 34000.0,
-          "sold": 10,
-          "totalSeats": 305
-        }
-      }
-    },
     "My Lord": {
       "formats": {
         "ET00005996": {
@@ -186,15 +150,27 @@
         }
       }
     },
-    "Ghilli": {
+    "Seetha Payanam": {
       "formats": {
-        "ET00005289": {
+        "ET00005993": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 10,
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1914
+          "totalSeats": 184
+        }
+      }
+    },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 44200.0,
+          "sold": 13,
+          "totalSeats": 305
         }
       }
     },
@@ -222,18 +198,6 @@
         }
       }
     },
-    "David": {
-      "formats": {
-        "ET00005972": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 174
-        }
-      }
-    },
     "Shelter": {
       "formats": {
         "ET00005990": {
@@ -258,6 +222,54 @@
         }
       }
     },
+    "David": {
+      "formats": {
+        "ET00005972": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 174
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 2400.0,
+          "sold": 2,
+          "totalSeats": 394
+        }
+      }
+    },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 6,
+          "gross": 1000.0,
+          "sold": 1,
+          "totalSeats": 494
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 67,
+          "gross": 82750.0,
+          "sold": 95,
+          "totalSeats": 11546
+        }
+      }
+    },
     "The Strangers: Chapter 3": {
       "formats": {
         "ET00005988": {
@@ -270,27 +282,15 @@
         }
       }
     },
-    "Seetha Payanam": {
+    "O' Romeo": {
       "formats": {
-        "ET00005993": {
+        "ET00005985": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 184
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 133,
-          "gross": 281250.0,
-          "sold": 549,
-          "totalSeats": 23177
+          "language": "Hindi",
+          "shows": 4,
+          "gross": 5500.0,
+          "sold": 2,
+          "totalSeats": 373
         }
       }
     }
