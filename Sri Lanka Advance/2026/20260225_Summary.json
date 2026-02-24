@@ -1,7 +1,27 @@
 {
   "date": "20260225",
-  "lastUpdated": "05:01 AM, 24 February 2026",
+  "lastUpdated": "07:18 AM, 24 February 2026",
   "movies": {
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 11,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 1607
+        }
+      }
+    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
@@ -11,38 +31,6 @@
           "gross": 143050.0,
           "sold": 270,
           "totalSeats": 22931
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 67,
-          "gross": 37550.0,
-          "sold": 41,
-          "totalSeats": 11544
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 11,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 1607
-        },
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
         }
       }
     },
@@ -60,14 +48,6 @@
     },
     "Zootopia 2": {
       "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 3,
-          "gross": 2600.0,
-          "sold": 2,
-          "totalSeats": 356
-        },
         "ET00005925": {
           "format": "2D",
           "language": "English",
@@ -75,6 +55,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 152
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 2600.0,
+          "sold": 2,
+          "totalSeats": 356
         }
       }
     },
@@ -90,15 +78,15 @@
         }
       }
     },
-    "The Wife": {
+    " Father": {
       "formats": {
-        "ET00005992": {
+        "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 72,
-          "gross": 28000.0,
-          "sold": 37,
-          "totalSeats": 12449
+          "shows": 67,
+          "gross": 37550.0,
+          "sold": 41,
+          "totalSeats": 11544
         }
       }
     },
@@ -114,18 +102,6 @@
         }
       }
     },
-    " Abhitha": {
-      "formats": {
-        "ET00005989": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 337
-        }
-      }
-    },
     "Crime 101": {
       "formats": {
         "ET00005994": {
@@ -135,6 +111,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 494
+        }
+      }
+    },
+    "O' Romeo": {
+      "formats": {
+        "ET00005985": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 4,
+          "gross": 5500.0,
+          "sold": 2,
+          "totalSeats": 373
         }
       }
     },
@@ -150,15 +138,39 @@
         }
       }
     },
-    "O' Romeo": {
+    "Minnale": {
       "formats": {
-        "ET00005985": {
+        "ET00006001": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 4,
-          "gross": 5500.0,
-          "sold": 2,
-          "totalSeats": 373
+          "language": "Tamil",
+          "shows": 9,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 906
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 72,
+          "gross": 28000.0,
+          "sold": 37,
+          "totalSeats": 12449
+        }
+      }
+    },
+    "Ghilli": {
+      "formats": {
+        "ET00005289": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 10,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1914
         }
       }
     },
@@ -186,6 +198,18 @@
         }
       }
     },
+    " Abhitha": {
+      "formats": {
+        "ET00005989": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 337
+        }
+      }
+    },
     "EPiC: Elvis Presley in Concert": {
       "formats": {
         "ET00005978": {
@@ -195,30 +219,6 @@
           "gross": 13600.0,
           "sold": 4,
           "totalSeats": 305
-        }
-      }
-    },
-    "Minnale": {
-      "formats": {
-        "ET00006001": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 906
-        }
-      }
-    },
-    "Marty Supreme": {
-      "formats": {
-        "ET00005967": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 33
         }
       }
     },
@@ -258,9 +258,9 @@
         }
       }
     },
-    "The Strangers: Chapter 3": {
+    "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
-        "ET00005988": {
+        "ET00005953": {
           "format": "2D",
           "language": "English",
           "shows": 1,
@@ -270,21 +270,21 @@
         }
       }
     },
-    "Ghilli": {
+    "Marty Supreme": {
       "formats": {
-        "ET00005289": {
+        "ET00005967": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 10,
+          "language": "English",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1914
+          "totalSeats": 33
         }
       }
     },
-    "The SpongeBob Movie: Search for SquarePants": {
+    "The Strangers: Chapter 3": {
       "formats": {
-        "ET00005953": {
+        "ET00005988": {
           "format": "2D",
           "language": "English",
           "shows": 1,
