@@ -1,17 +1,21 @@
 {
   "date": "20260227",
-  "lastUpdated": "02:01 AM, 26 February 2026",
+  "lastUpdated": "03:02 AM, 26 February 2026",
   "movies": {
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 12,
+          "gross": 3450.0,
+          "sold": 9,
+          "totalSeats": 2605
+        }
+      }
+    },
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 9,
-          "gross": 14800.0,
-          "sold": 4,
-          "totalSeats": 1475
-        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -19,38 +23,38 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 286
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 49,
-          "gross": 32200.0,
-          "sold": 42,
-          "totalSeats": 9436
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
+        },
+        "ET00005938": {
           "format": "3D",
           "language": "English",
-          "shows": 6,
-          "gross": 10600.0,
-          "sold": 8,
-          "totalSeats": 560
-        },
-        "ET00005925": {
+          "shows": 9,
+          "gross": 14800.0,
+          "sold": 4,
+          "totalSeats": 1475
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 273
+          "language": "Sinhala",
+          "shows": 93,
+          "gross": 232400.0,
+          "sold": 405,
+          "totalSeats": 20229
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 59,
+          "gross": 54450.0,
+          "sold": 58,
+          "totalSeats": 10838
         }
       }
     },
@@ -66,6 +70,26 @@
         }
       }
     },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 273
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 6,
+          "gross": 10600.0,
+          "sold": 8,
+          "totalSeats": 560
+        }
+      }
+    },
     "O' Romeo": {
       "formats": {
         "ET00005985": {
@@ -78,15 +102,27 @@
         }
       }
     },
-    "The Wife": {
+    "The Housemaid": {
       "formats": {
-        "ET00005992": {
+        "ET00005954": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 59,
-          "gross": 54450.0,
-          "sold": 58,
-          "totalSeats": 10838
+          "language": "English",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 222
+        }
+      }
+    },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 8,
+          "gross": 96900.0,
+          "sold": 31,
+          "totalSeats": 629
         }
       }
     },
@@ -111,18 +147,6 @@
           "gross": 19400.0,
           "sold": 13,
           "totalSeats": 3023
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 222
         }
       }
     },
@@ -174,18 +198,6 @@
         }
       }
     },
-    "David": {
-      "formats": {
-        "ET00005972": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 152
-        }
-      }
-    },
     "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
         "ET00005953": {
@@ -198,39 +210,27 @@
         }
       }
     },
-    "EPiC: Elvis Presley in Concert": {
+    "David": {
       "formats": {
-        "ET00005978": {
+        "ET00005972": {
           "format": "2D",
           "language": "English",
-          "shows": 8,
-          "gross": 96900.0,
-          "sold": 31,
-          "totalSeats": 629
+          "shows": 1,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 152
         }
       }
     },
-    "Malaki Duwe Numba": {
+    " Father": {
       "formats": {
-        "ET00005955": {
+        "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 12,
-          "gross": 3450.0,
-          "sold": 9,
-          "totalSeats": 2605
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 93,
-          "gross": 232400.0,
-          "sold": 405,
-          "totalSeats": 20229
+          "shows": 49,
+          "gross": 32200.0,
+          "sold": 42,
+          "totalSeats": 9436
         }
       }
     }
