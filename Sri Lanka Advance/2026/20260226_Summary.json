@@ -1,19 +1,7 @@
 {
   "date": "20260226",
-  "lastUpdated": "04:57 AM, 25 February 2026",
+  "lastUpdated": "07:21 AM, 25 February 2026",
   "movies": {
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 66,
-          "gross": 57150.0,
-          "sold": 64,
-          "totalSeats": 11369
-        }
-      }
-    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005938": {
@@ -46,26 +34,6 @@
         }
       }
     },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 3,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 356
-        },
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 4000.0,
-          "sold": 4,
-          "totalSeats": 152
-        }
-      }
-    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
@@ -90,15 +58,35 @@
         }
       }
     },
-    " Abhitha": {
+    "Zootopia 2": {
       "formats": {
-        "ET00005989": {
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 4000.0,
+          "sold": 4,
+          "totalSeats": 152
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 356
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 337
+          "shows": 72,
+          "gross": 47650.0,
+          "sold": 58,
+          "totalSeats": 12451
         }
       }
     },
@@ -114,18 +102,6 @@
         }
       }
     },
-    "EPiC: Elvis Presley in Concert": {
-      "formats": {
-        "ET00005978": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 68000.0,
-          "sold": 20,
-          "totalSeats": 305
-        }
-      }
-    },
     "Crime 101": {
       "formats": {
         "ET00005994": {
@@ -138,15 +114,39 @@
         }
       }
     },
-    "The Housemaid": {
+    " Father": {
       "formats": {
-        "ET00005954": {
+        "ET00005963": {
           "format": "2D",
-          "language": "English",
+          "language": "Sinhala",
+          "shows": 66,
+          "gross": 57150.0,
+          "sold": 64,
+          "totalSeats": 11369
+        }
+      }
+    },
+    " Abhitha": {
+      "formats": {
+        "ET00005989": {
+          "format": "2D",
+          "language": "Sinhala",
           "shows": 5,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 493
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 337
+        }
+      }
+    },
+    "O' Romeo": {
+      "formats": {
+        "ET00005985": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 373
         }
       }
     },
@@ -162,18 +162,6 @@
         }
       }
     },
-    "My Lord": {
-      "formats": {
-        "ET00005996": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 398
-        }
-      }
-    },
     "Ghilli": {
       "formats": {
         "ET00005289": {
@@ -183,18 +171,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 1914
-        }
-      }
-    },
-    "Neera": {
-      "formats": {
-        "ET00005849": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 101
         }
       }
     },
@@ -210,15 +186,51 @@
         }
       }
     },
-    "Mrs. Warren's Profession": {
+    "My Lord": {
       "formats": {
-        "ET00005999": {
+        "ET00005996": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 398
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 493
+        }
+      }
+    },
+    "Neera": {
+      "formats": {
+        "ET00005849": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 101
+        }
+      }
+    },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
           "format": "2D",
           "language": "English",
           "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 97
+          "gross": 68000.0,
+          "sold": 20,
+          "totalSeats": 305
         }
       }
     },
@@ -234,6 +246,18 @@
         }
       }
     },
+    "Mrs. Warren's Profession": {
+      "formats": {
+        "ET00005999": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 97
+        }
+      }
+    },
     "David": {
       "formats": {
         "ET00005972": {
@@ -246,9 +270,9 @@
         }
       }
     },
-    "The SpongeBob Movie: Search for SquarePants": {
+    "The Strangers: Chapter 3": {
       "formats": {
-        "ET00005953": {
+        "ET00005988": {
           "format": "2D",
           "language": "English",
           "shows": 1,
@@ -270,39 +294,15 @@
         }
       }
     },
-    "The Strangers: Chapter 3": {
+    "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
-        "ET00005988": {
+        "ET00005953": {
           "format": "2D",
           "language": "English",
           "shows": 1,
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 140
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 72,
-          "gross": 45550.0,
-          "sold": 54,
-          "totalSeats": 12451
-        }
-      }
-    },
-    "O' Romeo": {
-      "formats": {
-        "ET00005985": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 373
         }
       }
     }
