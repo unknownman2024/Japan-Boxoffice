@@ -1,7 +1,27 @@
 {
   "date": "20260226",
-  "lastUpdated": "04:16 PM, 25 February 2026",
+  "lastUpdated": "05:07 PM, 25 February 2026",
   "movies": {
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 11,
+          "gross": 50000.0,
+          "sold": 26,
+          "totalSeats": 1607
+        }
+      }
+    },
     "Malaki Duwe Numba": {
       "formats": {
         "ET00005955": {
@@ -14,23 +34,15 @@
         }
       }
     },
-    "Avatar: Fire and Ash": {
+    " Father": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 11,
-          "gross": 45600.0,
-          "sold": 22,
-          "totalSeats": 1607
-        },
-        "ET00005939": {
+        "ET00005963": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
+          "language": "Sinhala",
+          "shows": 66,
+          "gross": 110400.0,
+          "sold": 121,
+          "totalSeats": 11583
         }
       }
     },
@@ -54,26 +66,14 @@
         }
       }
     },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 66,
-          "gross": 87600.0,
-          "sold": 94,
-          "totalSeats": 11583
-        }
-      }
-    },
     "The Wife": {
       "formats": {
         "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 71,
-          "gross": 92350.0,
-          "sold": 116,
+          "gross": 92400.0,
+          "sold": 117,
           "totalSeats": 12451
         }
       }
@@ -84,21 +84,9 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 12,
-          "gross": 9400.0,
-          "sold": 12,
+          "gross": 13100.0,
+          "sold": 17,
           "totalSeats": 1842
-        }
-      }
-    },
-    " Abhitha": {
-      "formats": {
-        "ET00005989": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 337
         }
       }
     },
@@ -108,33 +96,9 @@
           "format": "2D",
           "language": "English",
           "shows": 16,
-          "gross": 124950.0,
-          "sold": 86,
+          "gross": 119450.0,
+          "sold": 84,
           "totalSeats": 1626
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 19500.0,
-          "sold": 17,
-          "totalSeats": 493
-        }
-      }
-    },
-    "O' Romeo": {
-      "formats": {
-        "ET00005985": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 373
         }
       }
     },
@@ -150,15 +114,39 @@
         }
       }
     },
-    "Minnale": {
+    "The Housemaid": {
       "formats": {
-        "ET00006001": {
+        "ET00005954": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 10,
+          "language": "English",
+          "shows": 5,
+          "gross": 9900.0,
+          "sold": 9,
+          "totalSeats": 493
+        }
+      }
+    },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 68000.0,
+          "sold": 20,
+          "totalSeats": 305
+        }
+      }
+    },
+    "O' Romeo": {
+      "formats": {
+        "ET00005985": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 4,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1013
+          "totalSeats": 373
         }
       }
     },
@@ -171,6 +159,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 1914
+        }
+      }
+    },
+    "Minnale": {
+      "formats": {
+        "ET00006001": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 10,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1013
         }
       }
     },
@@ -210,6 +210,18 @@
         }
       }
     },
+    "Shelter": {
+      "formats": {
+        "ET00005990": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 1000.0,
+          "sold": 1,
+          "totalSeats": 143
+        }
+      }
+    },
     "Neera": {
       "formats": {
         "ET00005849": {
@@ -219,18 +231,6 @@
           "gross": 6000.0,
           "sold": 6,
           "totalSeats": 101
-        }
-      }
-    },
-    "Shelter": {
-      "formats": {
-        "ET00005990": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
         }
       }
     },
@@ -246,30 +246,6 @@
         }
       }
     },
-    "The Strangers: Chapter 3": {
-      "formats": {
-        "ET00005988": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 140
-        }
-      }
-    },
-    "The SpongeBob Movie: Search for SquarePants": {
-      "formats": {
-        "ET00005953": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 140
-        }
-      }
-    },
     "David": {
       "formats": {
         "ET00005972": {
@@ -282,27 +258,51 @@
         }
       }
     },
+    "The SpongeBob Movie: Search for SquarePants": {
+      "formats": {
+        "ET00005953": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 7000.0,
+          "sold": 7,
+          "totalSeats": 140
+        }
+      }
+    },
+    "The Strangers: Chapter 3": {
+      "formats": {
+        "ET00005988": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 140
+        }
+      }
+    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 130,
-          "gross": 420240.0,
-          "sold": 836,
+          "gross": 444940.0,
+          "sold": 872,
           "totalSeats": 23177
         }
       }
     },
-    "EPiC: Elvis Presley in Concert": {
+    " Abhitha": {
       "formats": {
-        "ET00005978": {
+        "ET00005989": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 68000.0,
-          "sold": 20,
-          "totalSeats": 305
+          "language": "Sinhala",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 337
         }
       }
     }
