@@ -1,6 +1,6 @@
 {
   "date": "2026-02-27",
-  "lastUpdated": "07:02 AM, 26 February 2026",
+  "lastUpdated": "10:20 AM, 26 February 2026",
   "shows": [
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -162,10 +162,10 @@
       "time": "",
       "seats": 198,
       "sold": 3,
-      "reserved": 13,
-      "available": 182,
-      "gross": 7680,
-      "occupancy_percent": 8.08
+      "reserved": 15,
+      "available": 180,
+      "gross": 8640,
+      "occupancy_percent": 9.09
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -476,11 +476,11 @@
       "date": "2026-02-27T15:45:00+05:45",
       "time": "",
       "seats": 150,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 150,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 146,
+      "gross": 2240,
+      "occupancy_percent": 2.67
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -507,10 +507,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 20,
-      "available": 176,
-      "gross": 6600,
-      "occupancy_percent": 10.2
+      "reserved": 21,
+      "available": 175,
+      "gross": 7450,
+      "occupancy_percent": 10.71
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -561,16 +561,18 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "61732:big-movies",
-      "venue": "big-movies",
-      "theatre": "Big Movies - Audi 2",
-      "date": "2026-02-27T09:00:00+05:45",
-      "time": "",
-      "seats": 270,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-27",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 50,
-      "available": 220,
-      "gross": 9250,
-      "occupancy_percent": 18.52
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -641,11 +643,11 @@
       "date": "2026-02-27T15:30:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 183,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 181,
+      "gross": 960,
+      "occupancy_percent": 1.09
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -746,11 +748,11 @@
       "date": "2026-02-27T12:30:00+05:45",
       "time": "",
       "seats": 519,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 519,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 517,
+      "gross": 880,
+      "occupancy_percent": 0.39
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1421,11 +1423,11 @@
       "date": "2026-02-27T15:00:00+05:45",
       "time": "",
       "seats": 176,
-      "sold": 0,
+      "sold": 2,
       "reserved": 18,
-      "available": 158,
-      "gross": 5940,
-      "occupancy_percent": 10.23
+      "available": 156,
+      "gross": 6600,
+      "occupancy_percent": 11.36
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1467,10 +1469,10 @@
       "time": "",
       "seats": 240,
       "sold": 0,
-      "reserved": 0,
-      "available": 240,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 239,
+      "gross": 310,
+      "occupancy_percent": 0.42
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1781,11 +1783,11 @@
       "date": "2026-02-27T11:30:00+05:45",
       "time": "",
       "seats": 138,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 138,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 135,
+      "gross": 840,
+      "occupancy_percent": 2.17
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -2711,11 +2713,11 @@
       "date": "2026-02-27T11:30:00+05:45",
       "time": "",
       "seats": 67,
-      "sold": 6,
+      "sold": 8,
       "reserved": 0,
-      "available": 61,
-      "gross": 4500,
-      "occupancy_percent": 8.96
+      "available": 59,
+      "gross": 5600,
+      "occupancy_percent": 11.94
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3236,11 +3238,11 @@
       "date": "2026-02-27T12:15:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 4,
+      "sold": 6,
       "reserved": 0,
-      "available": 178,
-      "gross": 1920,
-      "occupancy_percent": 2.2
+      "available": 176,
+      "gross": 2880,
+      "occupancy_percent": 3.3
     },
     {
       "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
@@ -3481,6 +3483,66 @@
       "available": 237,
       "gross": 14700,
       "occupancy_percent": 15.05
+    },
+    {
+      "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
+      "movie_name": "Scream 7",
+      "show_id": "11717:infinity-movies",
+      "venue": "infinity-movies",
+      "theatre": "Infinity Movies - Audi 2",
+      "date": "2026-02-27T18:00:00+05:45",
+      "time": "",
+      "seats": 154,
+      "sold": 0,
+      "reserved": 0,
+      "available": 154,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "WWGJ4tTPCuF86KDzmJnd27",
+      "movie_name": "Prawasi Jiwan",
+      "show_id": "173335:oasis-cinema",
+      "venue": "oasis-cinema",
+      "theatre": "Oasis Cinema - Screen B",
+      "date": "2026-02-27T14:00:00+05:45",
+      "time": "",
+      "seats": 133,
+      "sold": 0,
+      "reserved": 0,
+      "available": 133,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "WWGJ4tTPCuF86KDzmJnd27",
+      "movie_name": "Prawasi Jiwan",
+      "show_id": "173336:oasis-cinema",
+      "venue": "oasis-cinema",
+      "theatre": "Oasis Cinema - Screen B",
+      "date": "2026-02-27T17:00:00+05:45",
+      "time": "",
+      "seats": 133,
+      "sold": 0,
+      "reserved": 0,
+      "available": 133,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "WWGJ4tTPCuF86KDzmJnd27",
+      "movie_name": "Prawasi Jiwan",
+      "show_id": "11711:infinity-movies",
+      "venue": "infinity-movies",
+      "theatre": "Infinity Movies - Audi 1",
+      "date": "2026-02-27T11:00:00+05:45",
+      "time": "",
+      "seats": 181,
+      "sold": 0,
+      "reserved": 0,
+      "available": 181,
+      "gross": 0,
+      "occupancy_percent": 0.0
     }
   ]
 }
