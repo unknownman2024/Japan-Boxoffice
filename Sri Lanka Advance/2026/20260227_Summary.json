@@ -1,28 +1,36 @@
 {
   "date": "20260227",
-  "lastUpdated": "09:43 AM, 26 February 2026",
+  "lastUpdated": "12:25 PM, 26 February 2026",
   "movies": {
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 286
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 9,
+          "gross": 43600.0,
+          "sold": 16,
+          "totalSeats": 1475
+        }
+      }
+    },
     "Malaki Duwe Numba": {
       "formats": {
         "ET00005955": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 12,
-          "gross": 4150.0,
-          "sold": 11,
-          "totalSeats": 2605
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 49,
-          "gross": 38100.0,
-          "sold": 50,
-          "totalSeats": 9436
+          "shows": 13,
+          "gross": 4750.0,
+          "sold": 13,
+          "totalSeats": 2843
         }
       }
     },
@@ -31,30 +39,22 @@
         "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 93,
-          "gross": 253200.0,
-          "sold": 439,
-          "totalSeats": 20229
+          "shows": 98,
+          "gross": 306850.0,
+          "sold": 534,
+          "totalSeats": 21659
         }
       }
     },
-    "Avatar: Fire and Ash": {
+    " Father": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 9,
-          "gross": 43600.0,
-          "sold": 16,
-          "totalSeats": 1475
-        },
-        "ET00005939": {
+        "ET00005963": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 286
+          "language": "Sinhala",
+          "shows": 50,
+          "gross": 62400.0,
+          "sold": 73,
+          "totalSeats": 9674
         }
       }
     },
@@ -78,27 +78,39 @@
         }
       }
     },
+    "With Love": {
+      "formats": {
+        "ET00005991": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 7,
+          "gross": 2800.0,
+          "sold": 2,
+          "totalSeats": 1035
+        }
+      }
+    },
+    "Theri": {
+      "formats": {
+        "ET00005965": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 7,
+          "gross": 3200.0,
+          "sold": 4,
+          "totalSeats": 1357
+        }
+      }
+    },
     "The Wife": {
       "formats": {
         "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 59,
-          "gross": 70850.0,
-          "sold": 81,
-          "totalSeats": 10838
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 13,
-          "gross": 49100.0,
-          "sold": 33,
-          "totalSeats": 1367
+          "shows": 61,
+          "gross": 86350.0,
+          "sold": 94,
+          "totalSeats": 11314
         }
       }
     },
@@ -114,39 +126,15 @@
         }
       }
     },
-    "With Love": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00005991": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 7,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1035
-        }
-      }
-    },
-    "EPiC: Elvis Presley in Concert": {
-      "formats": {
-        "ET00005978": {
+        "ET00005997": {
           "format": "2D",
           "language": "English",
-          "shows": 8,
-          "gross": 96900.0,
-          "sold": 31,
-          "totalSeats": 629
-        }
-      }
-    },
-    "Scream 7": {
-      "formats": {
-        "ET00006002": {
-          "format": "2D",
-          "language": "English",
-          "shows": 19,
-          "gross": 26000.0,
-          "sold": 17,
-          "totalSeats": 3023
+          "shows": 13,
+          "gross": 58400.0,
+          "sold": 37,
+          "totalSeats": 1367
         }
       }
     },
@@ -167,10 +155,34 @@
         "ET00006000": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 23,
-          "gross": 14400.0,
-          "sold": 14,
-          "totalSeats": 4520
+          "shows": 28,
+          "gross": 17600.0,
+          "sold": 18,
+          "totalSeats": 5633
+        }
+      }
+    },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 8,
+          "gross": 96900.0,
+          "sold": 31,
+          "totalSeats": 629
+        }
+      }
+    },
+    "Scream 7": {
+      "formats": {
+        "ET00006002": {
+          "format": "2D",
+          "language": "English",
+          "shows": 21,
+          "gross": 37750.0,
+          "sold": 23,
+          "totalSeats": 3227
         }
       }
     },
@@ -183,18 +195,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 835
-        }
-      }
-    },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 16100.0,
-          "sold": 7,
-          "totalSeats": 187
         }
       }
     },
@@ -222,15 +222,15 @@
         }
       }
     },
-    "Theri": {
+    "Crime 101": {
       "formats": {
-        "ET00005965": {
+        "ET00005994": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 5,
-          "gross": 1600.0,
-          "sold": 2,
-          "totalSeats": 783
+          "language": "English",
+          "shows": 3,
+          "gross": 16100.0,
+          "sold": 7,
+          "totalSeats": 187
         }
       }
     }
