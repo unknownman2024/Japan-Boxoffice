@@ -1,6 +1,6 @@
 {
   "date": "2026-03-01",
-  "lastUpdated": "06:13 PM, 01 March 2026",
+  "lastUpdated": "07:07 PM, 01 March 2026",
   "shows": [
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -4033,11 +4033,11 @@
       "date": "2026-03-01T19:30:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 8,
-      "reserved": 15,
-      "available": 157,
-      "gross": 4600,
-      "occupancy_percent": 12.78
+      "sold": 15,
+      "reserved": 0,
+      "available": 165,
+      "gross": 3000,
+      "occupancy_percent": 8.33
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4118,16 +4118,18 @@
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
       "movie_name": "O Romeo",
       "show_id": "39277:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi - 2",
-      "date": "2026-03-01T19:30:00+05:45",
-      "time": "",
-      "seats": 118,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-01",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 4,
-      "available": 114,
-      "gross": 1600,
-      "occupancy_percent": 3.39
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
