@@ -1,6 +1,6 @@
 {
   "date": "2026-03-02",
-  "lastUpdated": "07:22 AM, 01 March 2026",
+  "lastUpdated": "10:22 AM, 01 March 2026",
   "shows": [
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -401,11 +401,11 @@
       "date": "2026-03-02T12:00:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 0,
+      "sold": 4,
       "reserved": 10,
-      "available": 202,
-      "gross": 2500,
-      "occupancy_percent": 4.72
+      "available": 198,
+      "gross": 3500,
+      "occupancy_percent": 6.6
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -521,11 +521,11 @@
       "date": "2026-03-02T14:00:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 2,
+      "sold": 8,
       "reserved": 0,
-      "available": 163,
-      "gross": 300,
-      "occupancy_percent": 1.21
+      "available": 157,
+      "gross": 1200,
+      "occupancy_percent": 4.85
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1266,18 +1266,16 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "shw_Cko7mBPnTyzX5GYgcYURdp:gsf-cinema",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-03-02",
-      "time": null,
-      "seats": 0,
+      "venue": "gsf-cinema",
+      "theatre": "GSF Cinema - Audi 1",
+      "date": "2026-03-02T19:00:00+05:45",
+      "time": "",
+      "seats": 143,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 143,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -1318,11 +1316,11 @@
       "date": "2026-03-02T15:30:00+05:45",
       "time": "",
       "seats": 51,
-      "sold": 0,
+      "sold": 3,
       "reserved": 1,
-      "available": 50,
-      "gross": 500,
-      "occupancy_percent": 1.96
+      "available": 47,
+      "gross": 2000,
+      "occupancy_percent": 7.84
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -1798,11 +1796,11 @@
       "date": "2026-03-02T15:30:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 182,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 179,
+      "gross": 2700,
+      "occupancy_percent": 1.65
     },
     {
       "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
@@ -1978,11 +1976,11 @@
       "date": "2026-03-02T13:45:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 183,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 180,
+      "gross": 450,
+      "occupancy_percent": 1.64
     },
     {
       "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
@@ -2048,18 +2046,106 @@
       "movie_id": "k5vcPemm3ckt5zSvsxcpm3",
       "movie_name": "Jerry On Top",
       "show_id": "shw_P8KFfcvA0Aa1SdGVc21euv:gsf-cinema",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-03-02",
-      "time": null,
-      "seats": 0,
+      "venue": "gsf-cinema",
+      "theatre": "GSF Cinema - Audi 1",
+      "date": "2026-03-02T14:30:00+05:45",
+      "time": "",
+      "seats": 143,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 143,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "703082:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-1",
+      "date": "2026-03-02T12:30:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 0,
+      "reserved": 0,
+      "available": 214,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "703084:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-1",
+      "date": "2026-03-02T19:00:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 0,
+      "reserved": 0,
+      "available": 214,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "703083:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-1",
+      "date": "2026-03-02T15:30:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 0,
+      "reserved": 0,
+      "available": 214,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "AUydcYx3SExYufvZtmZkUE",
+      "movie_name": "O Romeo",
+      "show_id": "703079:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-2",
+      "date": "2026-03-02T12:00:00+05:45",
+      "time": "",
+      "seats": 143,
+      "sold": 0,
+      "reserved": 1,
+      "available": 142,
+      "gross": 300,
+      "occupancy_percent": 0.7
+    },
+    {
+      "movie_id": "AUydcYx3SExYufvZtmZkUE",
+      "movie_name": "O Romeo",
+      "show_id": "703080:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-2",
+      "date": "2026-03-02T15:15:00+05:45",
+      "time": "",
+      "seats": 143,
+      "sold": 0,
+      "reserved": 0,
+      "available": 143,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "AUydcYx3SExYufvZtmZkUE",
+      "movie_name": "O Romeo",
+      "show_id": "703081:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-2",
+      "date": "2026-03-02T18:30:00+05:45",
+      "time": "",
+      "seats": 143,
+      "sold": 0,
+      "reserved": 0,
+      "available": 143,
+      "gross": 0,
+      "occupancy_percent": 0.0
     }
   ]
 }
