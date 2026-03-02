@@ -1,72 +1,16 @@
 {
   "date": "20260303",
-  "lastUpdated": "12:22 PM, 02 March 2026",
+  "lastUpdated": "01:15 PM, 02 March 2026",
   "movies": {
-    "Dharmayuddhaya 2": {
+    " Father": {
       "formats": {
-        "ET00005975": {
+        "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 100,
-          "gross": 259150.0,
-          "sold": 573,
-          "totalSeats": 22026
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 273
-        },
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 5,
-          "gross": 6000.0,
-          "sold": 6,
-          "totalSeats": 473
-        }
-      }
-    },
-    "Thaai Kizhavi": {
-      "formats": {
-        "ET00006000": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 25,
-          "gross": 26200.0,
-          "sold": 28,
-          "totalSeats": 5041
-        }
-      }
-    },
-    "Scream 7": {
-      "formats": {
-        "ET00006002": {
-          "format": "2D",
-          "language": "English",
-          "shows": 19,
-          "gross": 12100.0,
-          "sold": 7,
-          "totalSeats": 3022
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 64,
-          "gross": 58350.0,
-          "sold": 85,
-          "totalSeats": 11982
+          "shows": 49,
+          "gross": 50600.0,
+          "sold": 65,
+          "totalSeats": 8983
         }
       }
     },
@@ -82,6 +26,50 @@
         }
       }
     },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 100,
+          "gross": 261950.0,
+          "sold": 580,
+          "totalSeats": 22026
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 25,
+          "gross": 24400.0,
+          "sold": 26,
+          "totalSeats": 5041
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 273
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 5,
+          "gross": 13000.0,
+          "sold": 13,
+          "totalSeats": 473
+        }
+      }
+    },
     "EPiC: Elvis Presley in Concert": {
       "formats": {
         "ET00005978": {
@@ -94,51 +82,15 @@
         }
       }
     },
-    "The Housemaid": {
+    "Scream 7": {
       "formats": {
-        "ET00005954": {
+        "ET00006002": {
           "format": "2D",
           "language": "English",
-          "shows": 3,
-          "gross": 7000.0,
-          "sold": 4,
-          "totalSeats": 222
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 12,
-          "gross": 21700.0,
-          "sold": 17,
-          "totalSeats": 1334
-        }
-      }
-    },
-    "Muttal Tharindu": {
-      "formats": {
-        "ET00006003": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 4,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 556
-        }
-      }
-    },
-    "Theri": {
-      "formats": {
-        "ET00005965": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 561
+          "shows": 19,
+          "gross": 12100.0,
+          "sold": 7,
+          "totalSeats": 3022
         }
       }
     },
@@ -154,6 +106,54 @@
         }
       }
     },
+    "Theri": {
+      "formats": {
+        "ET00005965": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 561
+        }
+      }
+    },
+    "Muttal Tharindu": {
+      "formats": {
+        "ET00006003": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 4,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 556
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 64,
+          "gross": 70450.0,
+          "sold": 101,
+          "totalSeats": 11982
+        }
+      }
+    },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 12,
+          "gross": 21700.0,
+          "sold": 17,
+          "totalSeats": 1334
+        }
+      }
+    },
     "Crime 101": {
       "formats": {
         "ET00005994": {
@@ -166,15 +166,15 @@
         }
       }
     },
-    " Abhitha": {
+    "The Housemaid": {
       "formats": {
-        "ET00005989": {
+        "ET00005954": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 120
+          "language": "English",
+          "shows": 3,
+          "gross": 7000.0,
+          "sold": 4,
+          "totalSeats": 222
         }
       }
     },
@@ -190,15 +190,15 @@
         }
       }
     },
-    "O' Romeo": {
+    " Abhitha": {
       "formats": {
-        "ET00005985": {
+        "ET00005989": {
           "format": "2D",
-          "language": "Hindi",
+          "language": "Sinhala",
           "shows": 1,
-          "gross": 2000.0,
-          "sold": 1,
-          "totalSeats": 33
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 120
         }
       }
     },
@@ -220,21 +220,21 @@
           "format": "3D",
           "language": "English",
           "shows": 10,
-          "gross": 26900.0,
-          "sold": 23,
+          "gross": 33900.0,
+          "sold": 28,
           "totalSeats": 1619
         }
       }
     },
-    " Father": {
+    "O' Romeo": {
       "formats": {
-        "ET00005963": {
+        "ET00005985": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 49,
-          "gross": 52150.0,
-          "sold": 64,
-          "totalSeats": 8983
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 2000.0,
+          "sold": 1,
+          "totalSeats": 33
         }
       }
     }
