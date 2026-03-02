@@ -1,6 +1,6 @@
 {
   "date": "20260302",
-  "lastUpdated": "04:59 PM, 02 March 2026",
+  "lastUpdated": "06:22 PM, 02 March 2026",
   "movies": {
     " Father": {
       "totalShows": 1,
@@ -20,6 +20,25 @@
         }
       },
       "globalOccupancy": 0.0
+    },
+    "Thaai Kizhavi": {
+      "totalShows": 1,
+      "totalGross": 3000.0,
+      "totalSold": 10,
+      "totalSeats": 178,
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 3000.0,
+          "sold": 10,
+          "totalSeats": 178,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 5.62
     }
   }
 }
