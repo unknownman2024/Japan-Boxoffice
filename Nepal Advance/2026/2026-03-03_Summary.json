@@ -2,11 +2,11 @@
   {
     "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
     "movie_name": "Scream 7",
-    "total_shows": 13,
-    "seats": 2245,
-    "sold": 8,
-    "reserved": 14,
-    "available": 2223,
+    "total_shows": 17,
+    "seats": 2861,
+    "sold": 14,
+    "reserved": 33,
+    "available": 2814,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -14,9 +14,9 @@
         "venue": "ini-cinemas-nb-center",
         "total_shows": 1,
         "seats": 177,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 177,
+        "available": 175,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -115,8 +115,8 @@
         "total_shows": 1,
         "seats": 198,
         "sold": 0,
-        "reserved": 14,
-        "available": 184,
+        "reserved": 17,
+        "available": 181,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -124,9 +124,29 @@
         "venue": "qs-cinemas",
         "total_shows": 1,
         "seats": 182,
+        "sold": 3,
+        "reserved": 0,
+        "available": 179,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-chhaya",
+        "total_shows": 2,
+        "seats": 260,
         "sold": 0,
         "reserved": 0,
-        "available": 182,
+        "available": 260,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "midtown",
+        "total_shows": 2,
+        "seats": 356,
+        "sold": 1,
+        "reserved": 16,
+        "available": 339,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -135,11 +155,11 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 58,
-    "seats": 11941,
-    "sold": 162,
-    "reserved": 176,
-    "available": 11603,
+    "total_shows": 75,
+    "seats": 16059,
+    "sold": 198,
+    "reserved": 205,
+    "available": 15656,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -178,8 +198,8 @@
         "total_shows": 2,
         "seats": 540,
         "sold": 2,
-        "reserved": 0,
-        "available": 538,
+        "reserved": 1,
+        "available": 537,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -187,9 +207,9 @@
         "venue": "fcube",
         "total_shows": 4,
         "seats": 832,
-        "sold": 0,
+        "sold": 9,
         "reserved": 43,
-        "available": 789,
+        "available": 780,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -205,11 +225,11 @@
       },
       {
         "venue": "qfx-civil",
-        "total_shows": 1,
-        "seats": 519,
+        "total_shows": 2,
+        "seats": 778,
         "sold": 0,
         "reserved": 0,
-        "available": 519,
+        "available": 778,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -327,9 +347,9 @@
         "venue": "vfx-cinemas",
         "total_shows": 5,
         "seats": 825,
-        "sold": 49,
-        "reserved": 70,
-        "available": 706,
+        "sold": 76,
+        "reserved": 74,
+        "available": 675,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -352,17 +372,77 @@
         "available": 578,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 2,
+        "seats": 202,
+        "sold": 0,
+        "reserved": 0,
+        "available": 202,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "midtown",
+        "total_shows": 3,
+        "seats": 516,
+        "sold": 0,
+        "reserved": 24,
+        "available": 492,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-jalma",
+        "total_shows": 3,
+        "seats": 795,
+        "sold": 0,
+        "reserved": 0,
+        "available": 795,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-chhaya",
+        "total_shows": 1,
+        "seats": 112,
+        "sold": 0,
+        "reserved": 0,
+        "available": 112,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bageshwori",
+        "total_shows": 5,
+        "seats": 1446,
+        "sold": 0,
+        "reserved": 0,
+        "available": 1446,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "sts-cinema",
+        "total_shows": 2,
+        "seats": 788,
+        "sold": 0,
+        "reserved": 0,
+        "available": 788,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 37,
-    "seats": 7021,
-    "sold": 89,
-    "reserved": 57,
-    "available": 6875,
+    "total_shows": 44,
+    "seats": 8835,
+    "sold": 95,
+    "reserved": 65,
+    "available": 8675,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -380,9 +460,9 @@
         "venue": "big-movies",
         "total_shows": 3,
         "seats": 1047,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 1047,
+        "available": 1045,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -410,9 +490,9 @@
         "venue": "fcube",
         "total_shows": 2,
         "seats": 422,
-        "sold": 0,
+        "sold": 2,
         "reserved": 24,
-        "available": 398,
+        "available": 396,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -490,9 +570,9 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 2,
         "seats": 495,
-        "sold": 4,
+        "sold": 6,
         "reserved": 0,
-        "available": 491,
+        "available": 489,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -565,17 +645,67 @@
         "available": 75,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-chhaya",
+        "total_shows": 1,
+        "seats": 150,
+        "sold": 0,
+        "reserved": 0,
+        "available": 150,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "midtown",
+        "total_shows": 1,
+        "seats": 178,
+        "sold": 0,
+        "reserved": 8,
+        "available": 170,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-jalma",
+        "total_shows": 3,
+        "seats": 804,
+        "sold": 0,
+        "reserved": 0,
+        "available": 804,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "sts-cinema",
+        "total_shows": 1,
+        "seats": 394,
+        "sold": 0,
+        "reserved": 0,
+        "available": 394,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bageshwori",
+        "total_shows": 1,
+        "seats": 288,
+        "sold": 0,
+        "reserved": 0,
+        "available": 288,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "vk98tTtEdoG2yVbmUsGHTY",
     "movie_name": "Wuthering Heights",
-    "total_shows": 2,
-    "seats": 452,
+    "total_shows": 3,
+    "seats": 564,
     "sold": 0,
     "reserved": 0,
-    "available": 452,
+    "available": 564,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -598,17 +728,27 @@
         "available": 182,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-chhaya",
+        "total_shows": 1,
+        "seats": 112,
+        "sold": 0,
+        "reserved": 0,
+        "available": 112,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
     "movie_name": "Crime 101",
-    "total_shows": 3,
-    "seats": 643,
+    "total_shows": 4,
+    "seats": 753,
     "sold": 0,
     "reserved": 0,
-    "available": 643,
+    "available": 753,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -639,6 +779,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 279,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-chhaya",
+        "total_shows": 1,
+        "seats": 110,
+        "sold": 0,
+        "reserved": 0,
+        "available": 110,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -720,11 +870,11 @@
   {
     "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
     "movie_name": "Rammita Koo Pirati",
-    "total_shows": 6,
-    "seats": 952,
+    "total_shows": 7,
+    "seats": 1053,
     "sold": 14,
     "reserved": 0,
-    "available": 938,
+    "available": 1039,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -787,6 +937,16 @@
         "available": 158,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 101,
+        "sold": 0,
+        "reserved": 0,
+        "available": 101,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -829,8 +989,8 @@
     "total_shows": 3,
     "seats": 653,
     "sold": 0,
-    "reserved": 14,
-    "available": 639,
+    "reserved": 18,
+    "available": 635,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -849,8 +1009,8 @@
         "total_shows": 1,
         "seats": 210,
         "sold": 0,
-        "reserved": 14,
-        "available": 196,
+        "reserved": 18,
+        "available": 192,
         "housefull": 0,
         "fastfilling": 0
       },
