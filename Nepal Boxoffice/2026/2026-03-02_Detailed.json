@@ -1,6 +1,6 @@
 {
   "date": "2026-03-02",
-  "lastUpdated": "06:24 PM, 02 March 2026",
+  "lastUpdated": "07:30 PM, 02 March 2026",
   "shows": [
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -3224,16 +3224,18 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "232036:friends-cinema-butwal-royal-cine-hub",
-      "venue": "friends-cinema-butwal-royal-cine-hub",
-      "theatre": "Friends Cinema - Butwal - Friends Cinemas",
-      "date": "2026-03-02T19:45:00+05:45",
-      "time": "",
-      "seats": 213,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-02",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 213,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -3254,16 +3256,18 @@
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
       "movie_name": "O Romeo",
       "show_id": "62516:ini-qbox-butwal",
-      "venue": "ini-qbox-butwal",
-      "theatre": "iNi Cinemas QBox - Audi 2",
-      "date": "2026-03-02T19:45:00+05:45",
-      "time": "",
-      "seats": 196,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-02",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 1,
-      "available": 195,
-      "gross": 330,
-      "occupancy_percent": 0.51
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3289,11 +3293,11 @@
       "date": "2026-03-02T20:45:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 5,
+      "sold": 7,
       "reserved": 13,
-      "available": 147,
-      "gross": 6300,
-      "occupancy_percent": 10.91
+      "available": 145,
+      "gross": 7000,
+      "occupancy_percent": 12.12
     }
   ]
 }
