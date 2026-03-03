@@ -1,6 +1,6 @@
 {
   "date": "2026-03-04",
-  "lastUpdated": "07:16 AM, 03 March 2026",
+  "lastUpdated": "10:15 AM, 03 March 2026",
   "shows": [
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -86,11 +86,11 @@
       "date": "2026-03-04T15:15:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 177,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 175,
+      "gross": 400,
+      "occupancy_percent": 1.13
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -131,11 +131,11 @@
       "date": "2026-03-04T12:00:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 4,
+      "sold": 6,
       "reserved": 0,
-      "available": 244,
-      "gross": 1000,
-      "occupancy_percent": 1.61
+      "available": 242,
+      "gross": 1500,
+      "occupancy_percent": 2.42
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -353,7 +353,7 @@
       "show_id": "158619:qfx-civil",
       "venue": "qfx-civil",
       "theatre": "QFX Civil - AUDI 03",
-      "date": "2026-03-04T11:45:00+05:45",
+      "date": "2026-03-04T12:15:00+05:45",
       "time": "",
       "seats": 259,
       "sold": 0,
@@ -566,11 +566,11 @@
       "date": "2026-03-04T11:45:00+05:45",
       "time": "",
       "seats": 290,
-      "sold": 3,
+      "sold": 9,
       "reserved": 0,
-      "available": 287,
-      "gross": 450,
-      "occupancy_percent": 1.03
+      "available": 281,
+      "gross": 1350,
+      "occupancy_percent": 3.1
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -636,16 +636,18 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "54770:himaz-cinema",
-      "venue": "himaz-cinema",
-      "theatre": "Himaz Cinema - Audi 1",
-      "date": "2026-03-04T17:30:00+05:45",
-      "time": "",
-      "seats": 75,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-04",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 75,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -717,10 +719,10 @@
       "time": "",
       "seats": 134,
       "sold": 4,
-      "reserved": 0,
-      "available": 130,
-      "gross": 600,
-      "occupancy_percent": 2.99
+      "reserved": 3,
+      "available": 127,
+      "gross": 1050,
+      "occupancy_percent": 5.22
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -836,11 +838,11 @@
       "date": "2026-03-04T12:00:00+05:45",
       "time": "",
       "seats": 150,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 150,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 147,
+      "gross": 450,
+      "occupancy_percent": 2.0
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -852,10 +854,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 10,
-      "available": 202,
-      "gross": 2500,
-      "occupancy_percent": 4.72
+      "reserved": 12,
+      "available": 200,
+      "gross": 3100,
+      "occupancy_percent": 5.66
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -1116,18 +1118,16 @@
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
       "movie_name": "O Romeo",
       "show_id": "62555:ini-lotse-ktm",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-03-04",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-lotse-ktm",
+      "theatre": "iNi Cinemas Lotse - Audi 1",
+      "date": "2026-03-04T11:15:00+05:45",
+      "time": "",
+      "seats": 240,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 240,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -1135,7 +1135,7 @@
       "show_id": "158572:qfx-civil",
       "venue": "qfx-civil",
       "theatre": "QFX Civil - AUDI 03",
-      "date": "2026-03-04T15:15:00+05:45",
+      "date": "2026-03-04T15:45:00+05:45",
       "time": "",
       "seats": 259,
       "sold": 0,
@@ -1153,11 +1153,11 @@
       "date": "2026-03-04T14:45:00+05:45",
       "time": "",
       "seats": 112,
-      "sold": 2,
+      "sold": 3,
       "reserved": 0,
-      "available": 110,
-      "gross": 300,
-      "occupancy_percent": 1.79
+      "available": 109,
+      "gross": 450,
+      "occupancy_percent": 2.68
     },
     {
       "movie_id": "vk98tTtEdoG2yVbmUsGHTY",
@@ -1303,11 +1303,11 @@
       "date": "2026-03-04T13:00:00+05:45",
       "time": "",
       "seats": 53,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 53,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 51,
+      "gross": 2400,
+      "occupancy_percent": 3.77
     },
     {
       "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
