@@ -1,15 +1,27 @@
 {
   "date": "20260304",
-  "lastUpdated": "02:05 PM, 03 March 2026",
+  "lastUpdated": "03:07 PM, 03 March 2026",
   "movies": {
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 13,
+          "gross": 13800.0,
+          "sold": 23,
+          "totalSeats": 2918
+        }
+      }
+    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 126,
-          "gross": 127150.0,
-          "sold": 258,
+          "gross": 128700.0,
+          "sold": 262,
           "totalSeats": 22238
         }
       }
@@ -34,27 +46,39 @@
         }
       }
     },
-    "Malaki Duwe Numba": {
+    "EPiC: Elvis Presley in Concert": {
       "formats": {
-        "ET00005955": {
+        "ET00005978": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 13,
-          "gross": 13800.0,
-          "sold": 23,
-          "totalSeats": 2918
+          "language": "English",
+          "shows": 8,
+          "gross": 37000.0,
+          "sold": 18,
+          "totalSeats": 586
         }
       }
     },
-    "Thaai Kizhavi": {
+    "Avatar: Fire and Ash": {
       "formats": {
-        "ET00006000": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 10,
+          "gross": 19200.0,
+          "sold": 6,
+          "totalSeats": 1619
+        }
+      }
+    },
+    "Scream 7": {
+      "formats": {
+        "ET00006002": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 33,
-          "gross": 7000.0,
-          "sold": 8,
-          "totalSeats": 5700
+          "language": "English",
+          "shows": 17,
+          "gross": 22200.0,
+          "sold": 14,
+          "totalSeats": 2569
         }
       }
     },
@@ -64,8 +88,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 70,
-          "gross": 29750.0,
-          "sold": 43,
+          "gross": 29850.0,
+          "sold": 47,
           "totalSeats": 12785
         }
       }
@@ -79,42 +103,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 222
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 12,
-          "gross": 27950.0,
-          "sold": 16,
-          "totalSeats": 1334
-        }
-      }
-    },
-    "EPiC: Elvis Presley in Concert": {
-      "formats": {
-        "ET00005978": {
-          "format": "2D",
-          "language": "English",
-          "shows": 8,
-          "gross": 37000.0,
-          "sold": 18,
-          "totalSeats": 586
-        }
-      }
-    },
-    "Scream 7": {
-      "formats": {
-        "ET00006002": {
-          "format": "2D",
-          "language": "English",
-          "shows": 17,
-          "gross": 22200.0,
-          "sold": 14,
-          "totalSeats": 2569
         }
       }
     },
@@ -135,58 +123,10 @@
         "ET00006003": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 3,
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 321
-        }
-      }
-    },
-    "O' Romeo": {
-      "formats": {
-        "ET00005985": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 33
-        }
-      }
-    },
-    "David": {
-      "formats": {
-        "ET00005972": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 49000.0,
-          "sold": 49,
-          "totalSeats": 152
-        }
-      }
-    },
-    "With Love": {
-      "formats": {
-        "ET00005991": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1031
-        }
-      }
-    },
-    "The SpongeBob Movie: Search for SquarePants": {
-      "formats": {
-        "ET00005953": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 140
+          "totalSeats": 210
         }
       }
     },
@@ -202,18 +142,6 @@
         }
       }
     },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 10,
-          "gross": 15800.0,
-          "sold": 5,
-          "totalSeats": 1619
-        }
-      }
-    },
     "Crime 101": {
       "formats": {
         "ET00005994": {
@@ -223,6 +151,78 @@
           "gross": 4400.0,
           "sold": 2,
           "totalSeats": 187
+        }
+      }
+    },
+    "With Love": {
+      "formats": {
+        "ET00005991": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1031
+        }
+      }
+    },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 12,
+          "gross": 27950.0,
+          "sold": 16,
+          "totalSeats": 1334
+        }
+      }
+    },
+    "The SpongeBob Movie: Search for SquarePants": {
+      "formats": {
+        "ET00005953": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 140
+        }
+      }
+    },
+    "David": {
+      "formats": {
+        "ET00005972": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 49000.0,
+          "sold": 49,
+          "totalSeats": 152
+        }
+      }
+    },
+    "O' Romeo": {
+      "formats": {
+        "ET00005985": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 33
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 34,
+          "gross": 7000.0,
+          "sold": 8,
+          "totalSeats": 5811
         }
       }
     },
