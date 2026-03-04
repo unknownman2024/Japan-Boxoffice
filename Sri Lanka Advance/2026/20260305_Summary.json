@@ -1,6 +1,6 @@
 {
   "date": "20260305",
-  "lastUpdated": "09:06 PM, 04 March 2026",
+  "lastUpdated": "10:08 PM, 04 March 2026",
   "movies": {
     "Dharmayuddhaya 2": {
       "formats": {
@@ -8,9 +8,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 125,
-          "gross": 213250.0,
-          "sold": 414,
+          "gross": 248050.0,
+          "sold": 481,
           "totalSeats": 22141
+        }
+      }
+    },
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 10,
+          "gross": 60000.0,
+          "sold": 26,
+          "totalSeats": 1619
         }
       }
     },
@@ -26,26 +38,14 @@
         }
       }
     },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 10,
-          "gross": 39600.0,
-          "sold": 20,
-          "totalSeats": 1619
-        }
-      }
-    },
     " Father": {
       "formats": {
         "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 60,
-          "gross": 48350.0,
-          "sold": 67,
+          "gross": 67800.0,
+          "sold": 93,
           "totalSeats": 10769
         }
       }
@@ -70,14 +70,26 @@
         }
       }
     },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 70,
+          "gross": 92050.0,
+          "sold": 131,
+          "totalSeats": 12785
+        }
+      }
+    },
     "Thaai Kizhavi": {
       "formats": {
         "ET00006000": {
           "format": "2D",
           "language": "Tamil",
           "shows": 33,
-          "gross": 31700.0,
-          "sold": 33,
+          "gross": 38300.0,
+          "sold": 39,
           "totalSeats": 5677
         }
       }
@@ -94,39 +106,27 @@
         }
       }
     },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 12,
+          "gross": 54000.0,
+          "sold": 36,
+          "totalSeats": 1334
+        }
+      }
+    },
     "Scream 7": {
       "formats": {
         "ET00006002": {
           "format": "2D",
           "language": "English",
           "shows": 18,
-          "gross": 9850.0,
-          "sold": 8,
+          "gross": 8850.0,
+          "sold": 7,
           "totalSeats": 2671
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 222
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 70,
-          "gross": 69850.0,
-          "sold": 103,
-          "totalSeats": 12785
         }
       }
     },
@@ -142,15 +142,15 @@
         }
       }
     },
-    "Wuthering Heights": {
+    "Muttal Tharindu": {
       "formats": {
-        "ET00005997": {
+        "ET00006003": {
           "format": "2D",
-          "language": "English",
-          "shows": 12,
-          "gross": 49000.0,
-          "sold": 32,
-          "totalSeats": 1334
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 307
         }
       }
     },
@@ -190,18 +190,6 @@
         }
       }
     },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 14200.0,
-          "sold": 7,
-          "totalSeats": 187
-        }
-      }
-    },
     "The SpongeBob Movie: Search for SquarePants": {
       "formats": {
         "ET00005953": {
@@ -214,15 +202,15 @@
         }
       }
     },
-    "Muttal Tharindu": {
+    "Crime 101": {
       "formats": {
-        "ET00006003": {
+        "ET00005994": {
           "format": "2D",
-          "language": "Tamil",
+          "language": "English",
           "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 307
+          "gross": 20800.0,
+          "sold": 10,
+          "totalSeats": 187
         }
       }
     },
@@ -235,6 +223,18 @@
           "gross": 2000.0,
           "sold": 2,
           "totalSeats": 152
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 222
         }
       }
     }
