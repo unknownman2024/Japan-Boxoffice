@@ -1,59 +1,7 @@
 {
   "date": "20260308",
-  "lastUpdated": "12:08 AM, 07 March 2026",
+  "lastUpdated": "01:01 AM, 07 March 2026",
   "movies": {
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 7,
-          "gross": 50800.0,
-          "sold": 21,
-          "totalSeats": 1021
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 3,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 305
-        },
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 273
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 133,
-          "gross": 498050.0,
-          "sold": 870,
-          "totalSeats": 23301
-        }
-      }
-    },
     " Father": {
       "formats": {
         "ET00005963": {
@@ -66,15 +14,15 @@
         }
       }
     },
-    "The Wife": {
+    "Dharmayuddhaya 2": {
       "formats": {
-        "ET00005992": {
+        "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 67,
-          "gross": 141800.0,
-          "sold": 207,
-          "totalSeats": 11979
+          "shows": 133,
+          "gross": 507750.0,
+          "sold": 873,
+          "totalSeats": 23301
         }
       }
     },
@@ -98,18 +46,6 @@
         }
       }
     },
-    "Thaai Kizhavi": {
-      "formats": {
-        "ET00006000": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 33,
-          "gross": 36700.0,
-          "sold": 32,
-          "totalSeats": 5865
-        }
-      }
-    },
     "Vadam": {
       "formats": {
         "ET00006007": {
@@ -119,6 +55,50 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 3362
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 33,
+          "gross": 39100.0,
+          "sold": 35,
+          "totalSeats": 5865
+        }
+      }
+    },
+    "Scream 7": {
+      "formats": {
+        "ET00006002": {
+          "format": "2D",
+          "language": "English",
+          "shows": 12,
+          "gross": 15600.0,
+          "sold": 12,
+          "totalSeats": 1349
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 2400.0,
+          "sold": 2,
+          "totalSeats": 305
+        },
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 273
         }
       }
     },
@@ -134,15 +114,39 @@
         }
       }
     },
-    "Gehenu Lamai": {
+    "The Wife": {
       "formats": {
-        "ET00005932": {
+        "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 1,
-          "gross": 84000.0,
-          "sold": 70,
-          "totalSeats": 152
+          "shows": 67,
+          "gross": 149800.0,
+          "sold": 220,
+          "totalSeats": 11979
+        }
+      }
+    },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 8,
+          "gross": 115400.0,
+          "sold": 71,
+          "totalSeats": 726
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 13000.0,
+          "sold": 8,
+          "totalSeats": 321
         }
       }
     },
@@ -182,18 +186,6 @@
         }
       }
     },
-    "Scream 7": {
-      "formats": {
-        "ET00006002": {
-          "format": "2D",
-          "language": "English",
-          "shows": 12,
-          "gross": 22100.0,
-          "sold": 14,
-          "totalSeats": 1349
-        }
-      }
-    },
     "EPiC: Elvis Presley in Concert": {
       "formats": {
         "ET00005978": {
@@ -203,6 +195,18 @@
           "gross": 16000.0,
           "sold": 6,
           "totalSeats": 55
+        }
+      }
+    },
+    "Gehenu Lamai": {
+      "formats": {
+        "ET00005932": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 80400.0,
+          "sold": 67,
+          "totalSeats": 152
         }
       }
     },
@@ -218,27 +222,23 @@
         }
       }
     },
-    "The Housemaid": {
+    "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005954": {
+        "ET00005939": {
           "format": "2D",
           "language": "English",
-          "shows": 4,
-          "gross": 13000.0,
-          "sold": 8,
-          "totalSeats": 321
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
+        },
+        "ET00005938": {
+          "format": "3D",
           "language": "English",
-          "shows": 8,
-          "gross": 115400.0,
-          "sold": 71,
-          "totalSeats": 726
+          "shows": 7,
+          "gross": 46100.0,
+          "sold": 19,
+          "totalSeats": 1021
         }
       }
     },
@@ -248,8 +248,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 11,
-          "gross": 16300.0,
-          "sold": 33,
+          "gross": 16650.0,
+          "sold": 34,
           "totalSeats": 2410
         }
       }
