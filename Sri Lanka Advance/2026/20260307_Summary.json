@@ -1,6 +1,6 @@
 {
   "date": "20260307",
-  "lastUpdated": "04:00 PM, 06 March 2026",
+  "lastUpdated": "04:55 PM, 06 March 2026",
   "movies": {
     " Father": {
       "formats": {
@@ -8,9 +8,29 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 64,
-          "gross": 182600.0,
-          "sold": 209,
+          "gross": 206950.0,
+          "sold": 238,
           "totalSeats": 11324
+        }
+      }
+    },
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 7,
+          "gross": 80200.0,
+          "sold": 39,
+          "totalSeats": 1021
         }
       }
     },
@@ -20,42 +40,14 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 11,
-          "gross": 19300.0,
-          "sold": 44,
+          "gross": 31100.0,
+          "sold": 56,
           "totalSeats": 2410
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 7,
-          "gross": 80200.0,
-          "sold": 39,
-          "totalSeats": 1021
-        },
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
         }
       }
     },
     "Zootopia 2": {
       "formats": {
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 34800.0,
-          "sold": 29,
-          "totalSeats": 273
-        },
         "ET00005930": {
           "format": "3D",
           "language": "English",
@@ -63,6 +55,14 @@
           "gross": 13600.0,
           "sold": 11,
           "totalSeats": 305
+        },
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 34800.0,
+          "sold": 29,
+          "totalSeats": 273
         }
       }
     },
@@ -72,29 +72,45 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 67,
-          "gross": 210450.0,
-          "sold": 279,
+          "gross": 219050.0,
+          "sold": 294,
           "totalSeats": 11860
         }
       }
     },
-    "Hoppers": {
+    "The Bride": {
       "formats": {
-        "ET00006005": {
+        "ET00006004": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
-          "gross": 25200.0,
-          "sold": 21,
-          "totalSeats": 140
-        },
-        "ET00006008": {
-          "format": "3D",
+          "shows": 10,
+          "gross": 81700.0,
+          "sold": 29,
+          "totalSeats": 1925
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 38,
+          "gross": 130600.0,
+          "sold": 129,
+          "totalSeats": 7165
+        }
+      }
+    },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
           "language": "English",
-          "shows": 18,
-          "gross": 212950.0,
-          "sold": 143,
-          "totalSeats": 2221
+          "shows": 7,
+          "gross": 57800.0,
+          "sold": 36,
+          "totalSeats": 615
         }
       }
     },
@@ -110,15 +126,23 @@
         }
       }
     },
-    "Wuthering Heights": {
+    "Hoppers": {
       "formats": {
-        "ET00005997": {
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 18,
+          "gross": 228550.0,
+          "sold": 155,
+          "totalSeats": 2221
+        },
+        "ET00006005": {
           "format": "2D",
           "language": "English",
-          "shows": 7,
-          "gross": 49400.0,
-          "sold": 30,
-          "totalSeats": 615
+          "shows": 1,
+          "gross": 25200.0,
+          "sold": 21,
+          "totalSeats": 140
         }
       }
     },
@@ -134,30 +158,6 @@
         }
       }
     },
-    "Thaai Kizhavi": {
-      "formats": {
-        "ET00006000": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 38,
-          "gross": 113200.0,
-          "sold": 115,
-          "totalSeats": 7165
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 13400.0,
-          "sold": 6,
-          "totalSeats": 222
-        }
-      }
-    },
     "Gehenu Lamai": {
       "formats": {
         "ET00005932": {
@@ -167,30 +167,6 @@
           "gross": 24000.0,
           "sold": 20,
           "totalSeats": 99
-        }
-      }
-    },
-    "EPiC: Elvis Presley in Concert": {
-      "formats": {
-        "ET00005978": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 18800.0,
-          "sold": 7,
-          "totalSeats": 55
-        }
-      }
-    },
-    "The Bride": {
-      "formats": {
-        "ET00006004": {
-          "format": "2D",
-          "language": "English",
-          "shows": 11,
-          "gross": 81700.0,
-          "sold": 29,
-          "totalSeats": 2077
         }
       }
     },
@@ -206,6 +182,18 @@
         }
       }
     },
+    "With Love": {
+      "formats": {
+        "ET00005991": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 16000.0,
+          "sold": 20,
+          "totalSeats": 552
+        }
+      }
+    },
     "O' Romeo": {
       "formats": {
         "ET00005985": {
@@ -218,15 +206,15 @@
         }
       }
     },
-    "With Love": {
+    "The Housemaid": {
       "formats": {
-        "ET00005991": {
+        "ET00005954": {
           "format": "2D",
-          "language": "Tamil",
+          "language": "English",
           "shows": 3,
-          "gross": 16000.0,
-          "sold": 20,
-          "totalSeats": 552
+          "gross": 13400.0,
+          "sold": 6,
+          "totalSeats": 222
         }
       }
     },
@@ -242,15 +230,15 @@
         }
       }
     },
-    "Crime 101": {
+    "EPiC: Elvis Presley in Concert": {
       "formats": {
-        "ET00005994": {
+        "ET00005978": {
           "format": "2D",
           "language": "English",
           "shows": 2,
-          "gross": 20000.0,
-          "sold": 8,
-          "totalSeats": 44
+          "gross": 18800.0,
+          "sold": 7,
+          "totalSeats": 55
         }
       }
     },
@@ -260,9 +248,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 134,
-          "gross": 507200.0,
-          "sold": 895,
+          "gross": 539450.0,
+          "sold": 953,
           "totalSeats": 23158
+        }
+      }
+    },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 20000.0,
+          "sold": 8,
+          "totalSeats": 44
         }
       }
     }
