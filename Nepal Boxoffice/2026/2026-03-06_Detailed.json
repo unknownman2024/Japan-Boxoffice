@@ -1,6 +1,6 @@
 {
   "date": "2026-03-06",
-  "lastUpdated": "04:57 PM, 06 March 2026",
+  "lastUpdated": "06:22 PM, 06 March 2026",
   "shows": [
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -2829,10 +2829,10 @@
       "time": "",
       "seats": 192,
       "sold": 0,
-      "reserved": 16,
-      "available": 176,
-      "gross": 3200,
-      "occupancy_percent": 8.33
+      "reserved": 0,
+      "available": 192,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -2873,11 +2873,11 @@
       "date": "2026-03-06T19:00:00+05:45",
       "time": "",
       "seats": 143,
-      "sold": 6,
+      "sold": 8,
       "reserved": 0,
-      "available": 137,
-      "gross": 1800,
-      "occupancy_percent": 4.2
+      "available": 135,
+      "gross": 2400,
+      "occupancy_percent": 5.59
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -2898,16 +2898,18 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "1744:pathivara-cine-plaza",
-      "venue": "pathivara-cine-plaza",
-      "theatre": "Pathivara Cineplaza - Birtamode - Hall-B",
-      "date": "2026-03-06T18:45:00+05:45",
-      "time": "",
-      "seats": 190,
-      "sold": 2,
-      "reserved": 8,
-      "available": 180,
-      "gross": 2800,
-      "occupancy_percent": 5.26
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-06",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -3008,11 +3010,11 @@
       "date": "2026-03-06T19:00:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 0,
+      "sold": 9,
       "reserved": 6,
-      "available": 224,
-      "gross": 3300,
-      "occupancy_percent": 2.61
+      "available": 215,
+      "gross": 6270,
+      "occupancy_percent": 6.52
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3053,11 +3055,11 @@
       "date": "2026-03-06T19:00:00+05:45",
       "time": "",
       "seats": 143,
-      "sold": 24,
-      "reserved": 8,
-      "available": 111,
-      "gross": 8000,
-      "occupancy_percent": 22.38
+      "sold": 40,
+      "reserved": 1,
+      "available": 102,
+      "gross": 10250,
+      "occupancy_percent": 28.67
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -3068,11 +3070,11 @@
       "date": "2026-03-06T19:30:00+05:45",
       "time": "",
       "seats": 98,
-      "sold": 7,
+      "sold": 11,
       "reserved": 0,
-      "available": 91,
-      "gross": 2310,
-      "occupancy_percent": 7.14
+      "available": 87,
+      "gross": 3630,
+      "occupancy_percent": 11.22
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -3098,11 +3100,11 @@
       "date": "2026-03-06T20:00:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 0,
+      "sold": 2,
       "reserved": 15,
-      "available": 165,
-      "gross": 3000,
-      "occupancy_percent": 8.33
+      "available": 163,
+      "gross": 3400,
+      "occupancy_percent": 9.44
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3128,11 +3130,11 @@
       "date": "2026-03-06T19:30:00+05:45",
       "time": "",
       "seats": 213,
-      "sold": 0,
+      "sold": 5,
       "reserved": 0,
-      "available": 213,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 208,
+      "gross": 1250,
+      "occupancy_percent": 2.35
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3143,9 +3145,24 @@
       "date": "2026-03-06T20:00:00+05:45",
       "time": "",
       "seats": 394,
+      "sold": 3,
+      "reserved": 0,
+      "available": 391,
+      "gross": 1050,
+      "occupancy_percent": 0.76
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "77921:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI -1",
+      "date": "2026-03-06T21:20:00+05:45",
+      "time": "",
+      "seats": 247,
       "sold": 0,
       "reserved": 0,
-      "available": 394,
+      "available": 247,
       "gross": 0,
       "occupancy_percent": 0.0
     }
