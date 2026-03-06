@@ -189,10 +189,10 @@
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
     "total_shows": 27,
-    "seats": 4662,
+    "seats": 4422,
     "sold": 3,
     "reserved": 90,
-    "available": 4569,
+    "available": 4329,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -228,11 +228,21 @@
       },
       {
         "venue": "ini-lotse-ktm",
-        "total_shows": 3,
-        "seats": 720,
+        "total_shows": 2,
+        "seats": 480,
         "sold": 0,
         "reserved": 0,
-        "available": 720,
+        "available": 480,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
