@@ -2,21 +2,41 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 3,
-    "seats": 462,
-    "sold": 6,
-    "reserved": 15,
-    "available": 441,
+    "total_shows": 5,
+    "seats": 792,
+    "sold": 21,
+    "reserved": 54,
+    "available": 717,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 270,
+        "sold": 13,
+        "reserved": 50,
+        "available": 207,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "bsr-movies",
         "total_shows": 1,
         "seats": 180,
         "sold": 0,
-        "reserved": 15,
-        "available": 165,
+        "reserved": 0,
+        "available": 180,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 4,
+        "available": 56,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -24,9 +44,9 @@
         "venue": "infinity-movies",
         "total_shows": 1,
         "seats": 181,
-        "sold": 4,
+        "sold": 6,
         "reserved": 0,
-        "available": 177,
+        "available": 175,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -45,21 +65,51 @@
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 1,
-    "seats": 192,
-    "sold": 0,
-    "reserved": 16,
-    "available": 176,
+    "total_shows": 4,
+    "seats": 864,
+    "sold": 7,
+    "reserved": 58,
+    "available": 799,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 7,
+        "reserved": 50,
+        "available": 292,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "bsr-movies",
         "total_shows": 1,
         "seats": 192,
         "sold": 0,
-        "reserved": 16,
-        "available": 176,
+        "reserved": 0,
+        "available": 192,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 0,
+        "reserved": 8,
+        "available": 161,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 1,
+        "seats": 154,
+        "sold": 0,
+        "reserved": 0,
+        "available": 154,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -83,6 +133,29 @@
         "sold": 0,
         "reserved": 1,
         "available": 142,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
+    "movie_name": "Scream 7",
+    "total_shows": 1,
+    "seats": 279,
+    "sold": 7,
+    "reserved": 42,
+    "available": 230,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 7,
+        "reserved": 42,
+        "available": 230,
         "housefull": 0,
         "fastfilling": 0
       }
