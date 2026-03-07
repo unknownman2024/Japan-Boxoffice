@@ -1,6 +1,6 @@
 {
   "date": "20260309",
-  "lastUpdated": "12:48 AM, 08 March 2026",
+  "lastUpdated": "01:50 AM, 08 March 2026",
   "movies": {
     "Dharmayuddhaya 2": {
       "formats": {
@@ -16,14 +16,6 @@
     },
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 6,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 931
-        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -31,6 +23,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 143
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 6,
+          "gross": 7000.0,
+          "sold": 5,
+          "totalSeats": 931
         }
       }
     },
@@ -78,18 +78,6 @@
         }
       }
     },
-    "Thaai Kizhavi": {
-      "formats": {
-        "ET00006000": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 19,
-          "gross": 3200.0,
-          "sold": 4,
-          "totalSeats": 3527
-        }
-      }
-    },
     "Zootopia 2": {
       "formats": {
         "ET00005930": {
@@ -107,6 +95,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 273
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 19,
+          "gross": 3200.0,
+          "sold": 4,
+          "totalSeats": 3527
         }
       }
     },
@@ -146,18 +146,6 @@
         }
       }
     },
-    "O' Romeo": {
-      "formats": {
-        "ET00005985": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 33
-        }
-      }
-    },
     "EPiC: Elvis Presley in Concert": {
       "formats": {
         "ET00005978": {
@@ -170,18 +158,6 @@
         }
       }
     },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 44
-        }
-      }
-    },
     "Wuthering Heights": {
       "formats": {
         "ET00005997": {
@@ -191,6 +167,30 @@
           "gross": 11100.0,
           "sold": 9,
           "totalSeats": 615
+        }
+      }
+    },
+    "O' Romeo": {
+      "formats": {
+        "ET00005985": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 33
+        }
+      }
+    },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 44
         }
       }
     },
@@ -212,8 +212,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 56,
-          "gross": 11350.0,
-          "sold": 26,
+          "gross": 13150.0,
+          "sold": 28,
           "totalSeats": 10813
         }
       }
