@@ -1,6 +1,6 @@
 {
   "date": "20260309",
-  "lastUpdated": "01:50 AM, 08 March 2026",
+  "lastUpdated": "02:47 AM, 08 March 2026",
   "movies": {
     "Dharmayuddhaya 2": {
       "formats": {
@@ -11,26 +11,6 @@
           "gross": 33550.0,
           "sold": 79,
           "totalSeats": 20943
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 6,
-          "gross": 7000.0,
-          "sold": 5,
-          "totalSeats": 931
         }
       }
     },
@@ -46,28 +26,8 @@
         }
       }
     },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 11,
-          "gross": 4200.0,
-          "sold": 12,
-          "totalSeats": 2405
-        }
-      }
-    },
     "Hoppers": {
       "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 17,
-          "gross": 6400.0,
-          "sold": 6,
-          "totalSeats": 2190
-        },
         "ET00006005": {
           "format": "2D",
           "language": "English",
@@ -75,26 +35,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 140
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
+        },
+        "ET00006008": {
           "format": "3D",
           "language": "English",
-          "shows": 3,
-          "gross": 1000.0,
-          "sold": 1,
-          "totalSeats": 305
-        },
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 273
+          "shows": 17,
+          "gross": 6400.0,
+          "sold": 6,
+          "totalSeats": 2190
         }
       }
     },
@@ -107,6 +55,26 @@
           "gross": 3200.0,
           "sold": 4,
           "totalSeats": 3527
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 273
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 1000.0,
+          "sold": 1,
+          "totalSeats": 305
         }
       }
     },
@@ -146,18 +114,6 @@
         }
       }
     },
-    "EPiC: Elvis Presley in Concert": {
-      "formats": {
-        "ET00005978": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 12500.0,
-          "sold": 5,
-          "totalSeats": 55
-        }
-      }
-    },
     "Wuthering Heights": {
       "formats": {
         "ET00005997": {
@@ -182,6 +138,18 @@
         }
       }
     },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 12500.0,
+          "sold": 5,
+          "totalSeats": 55
+        }
+      }
+    },
     "Crime 101": {
       "formats": {
         "ET00005994": {
@@ -191,6 +159,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 44
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 331
         }
       }
     },
@@ -218,15 +198,35 @@
         }
       }
     },
-    "The Housemaid": {
+    "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005954": {
+        "ET00005939": {
           "format": "2D",
           "language": "English",
-          "shows": 4,
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 331
+          "totalSeats": 143
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 6,
+          "gross": 7000.0,
+          "sold": 5,
+          "totalSeats": 931
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 11,
+          "gross": 4200.0,
+          "sold": 12,
+          "totalSeats": 2405
         }
       }
     }
