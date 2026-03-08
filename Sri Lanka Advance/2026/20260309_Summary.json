@@ -1,43 +1,7 @@
 {
   "date": "20260309",
-  "lastUpdated": "12:07 PM, 08 March 2026",
+  "lastUpdated": "12:58 PM, 08 March 2026",
   "movies": {
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 56,
-          "gross": 19450.0,
-          "sold": 42,
-          "totalSeats": 10813
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 51,
-          "gross": 10700.0,
-          "sold": 19,
-          "totalSeats": 10631
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 93,
-          "gross": 52450.0,
-          "sold": 119,
-          "totalSeats": 20943
-        }
-      }
-    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005939": {
@@ -58,27 +22,51 @@
         }
       }
     },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 51,
+          "gross": 12700.0,
+          "sold": 21,
+          "totalSeats": 10631
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 56,
+          "gross": 21150.0,
+          "sold": 44,
+          "totalSeats": 10813
+        }
+      }
+    },
     "Thaai Kizhavi": {
       "formats": {
         "ET00006000": {
           "format": "2D",
           "language": "Tamil",
           "shows": 19,
-          "gross": 3200.0,
-          "sold": 4,
+          "gross": 6500.0,
+          "sold": 7,
           "totalSeats": 3527
         }
       }
     },
-    "Malaki Duwe Numba": {
+    "Dharmayuddhaya 2": {
       "formats": {
-        "ET00005955": {
+        "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 11,
-          "gross": 6500.0,
-          "sold": 18,
-          "totalSeats": 2405
+          "shows": 93,
+          "gross": 58250.0,
+          "sold": 133,
+          "totalSeats": 20943
         }
       }
     },
@@ -122,6 +110,30 @@
         }
       }
     },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 11,
+          "gross": 6500.0,
+          "sold": 18,
+          "totalSeats": 2405
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 331
+        }
+      }
+    },
     "The Bride": {
       "formats": {
         "ET00006004": {
@@ -134,26 +146,14 @@
         }
       }
     },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 7,
-          "gross": 22700.0,
-          "sold": 15,
-          "totalSeats": 615
-        }
-      }
-    },
     "Scream 7": {
       "formats": {
         "ET00006002": {
           "format": "2D",
           "language": "English",
           "shows": 10,
-          "gross": 4400.0,
-          "sold": 4,
+          "gross": 8900.0,
+          "sold": 6,
           "totalSeats": 1103
         }
       }
@@ -182,27 +182,15 @@
         }
       }
     },
-    "EPiC: Elvis Presley in Concert": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00005978": {
+        "ET00005997": {
           "format": "2D",
           "language": "English",
-          "shows": 2,
-          "gross": 12500.0,
-          "sold": 5,
-          "totalSeats": 55
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 331
+          "shows": 7,
+          "gross": 22700.0,
+          "sold": 15,
+          "totalSeats": 615
         }
       }
     },
@@ -227,6 +215,18 @@
           "gross": 3000.0,
           "sold": 3,
           "totalSeats": 152
+        }
+      }
+    },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 12500.0,
+          "sold": 5,
+          "totalSeats": 55
         }
       }
     }
