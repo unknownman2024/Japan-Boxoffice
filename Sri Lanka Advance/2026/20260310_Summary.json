@@ -1,7 +1,43 @@
 {
   "date": "20260310",
-  "lastUpdated": "12:50 AM, 09 March 2026",
+  "lastUpdated": "01:50 AM, 09 March 2026",
   "movies": {
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 122,
+          "gross": 42000.0,
+          "sold": 81,
+          "totalSeats": 21972
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 55,
+          "gross": 19300.0,
+          "sold": 25,
+          "totalSeats": 10304
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 22,
+          "gross": 1800.0,
+          "sold": 2,
+          "totalSeats": 3535
+        }
+      }
+    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005939": {
@@ -22,30 +58,6 @@
         }
       }
     },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 122,
-          "gross": 42000.0,
-          "sold": 81,
-          "totalSeats": 21972
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 62,
-          "gross": 3800.0,
-          "sold": 8,
-          "totalSeats": 11579
-        }
-      }
-    },
     "Malaki Duwe Numba": {
       "formats": {
         "ET00005955": {
@@ -58,28 +70,8 @@
         }
       }
     },
-    "Thaai Kizhavi": {
-      "formats": {
-        "ET00006000": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 22,
-          "gross": 1800.0,
-          "sold": 2,
-          "totalSeats": 3535
-        }
-      }
-    },
     "Hoppers": {
       "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 20,
-          "gross": 9400.0,
-          "sold": 7,
-          "totalSeats": 2527
-        },
         "ET00006005": {
           "format": "2D",
           "language": "English",
@@ -87,6 +79,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 140
+        },
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 20,
+          "gross": 9400.0,
+          "sold": 7,
+          "totalSeats": 2527
         }
       }
     },
@@ -96,8 +96,8 @@
           "format": "2D",
           "language": "English",
           "shows": 2,
-          "gross": 2000.0,
-          "sold": 2,
+          "gross": 0.0,
+          "sold": 0,
           "totalSeats": 273
         },
         "ET00005930": {
@@ -107,18 +107,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 305
-        }
-      }
-    },
-    "Scream 7": {
-      "formats": {
-        "ET00006002": {
-          "format": "2D",
-          "language": "English",
-          "shows": 10,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 1103
         }
       }
     },
@@ -146,27 +134,15 @@
         }
       }
     },
-    "O' Romeo": {
+    "Scream 7": {
       "formats": {
-        "ET00005985": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 33
-        }
-      }
-    },
-    "EPiC: Elvis Presley in Concert": {
-      "formats": {
-        "ET00005978": {
+        "ET00006002": {
           "format": "2D",
           "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 55
+          "shows": 10,
+          "gross": 2400.0,
+          "sold": 2,
+          "totalSeats": 1103
         }
       }
     },
@@ -182,15 +158,27 @@
         }
       }
     },
-    " Abhitha": {
+    "The Bride": {
       "formats": {
-        "ET00005989": {
+        "ET00006004": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 0,
+          "language": "English",
+          "shows": 10,
+          "gross": 0.0,
           "sold": 0,
-          "totalSeats": 0
+          "totalSeats": 1925
+        }
+      }
+    },
+    "O' Romeo": {
+      "formats": {
+        "ET00005985": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 33
         }
       }
     },
@@ -206,6 +194,18 @@
         }
       }
     },
+    " Abhitha": {
+      "formats": {
+        "ET00005989": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 0,
+          "sold": 0,
+          "totalSeats": 0
+        }
+      }
+    },
     "Crime 101": {
       "formats": {
         "ET00005994": {
@@ -218,27 +218,27 @@
         }
       }
     },
-    " Father": {
+    "EPiC: Elvis Presley in Concert": {
       "formats": {
-        "ET00005963": {
+        "ET00005978": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 55,
-          "gross": 19300.0,
-          "sold": 25,
-          "totalSeats": 10304
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 55
         }
       }
     },
-    "The Bride": {
+    "The Wife": {
       "formats": {
-        "ET00006004": {
+        "ET00005992": {
           "format": "2D",
-          "language": "English",
-          "shows": 10,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1925
+          "language": "Sinhala",
+          "shows": 62,
+          "gross": 2900.0,
+          "sold": 6,
+          "totalSeats": 11579
         }
       }
     }
