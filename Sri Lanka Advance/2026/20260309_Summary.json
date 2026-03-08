@@ -1,7 +1,43 @@
 {
   "date": "20260309",
-  "lastUpdated": "11:10 AM, 08 March 2026",
+  "lastUpdated": "12:07 PM, 08 March 2026",
   "movies": {
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 56,
+          "gross": 19450.0,
+          "sold": 42,
+          "totalSeats": 10813
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 51,
+          "gross": 10700.0,
+          "sold": 19,
+          "totalSeats": 10631
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 93,
+          "gross": 52450.0,
+          "sold": 119,
+          "totalSeats": 20943
+        }
+      }
+    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005939": {
@@ -22,39 +58,15 @@
         }
       }
     },
-    "Dharmayuddhaya 2": {
+    "Thaai Kizhavi": {
       "formats": {
-        "ET00005975": {
+        "ET00006000": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 93,
-          "gross": 44550.0,
-          "sold": 105,
-          "totalSeats": 20943
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 51,
-          "gross": 10700.0,
-          "sold": 19,
-          "totalSeats": 10631
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 56,
-          "gross": 16850.0,
-          "sold": 34,
-          "totalSeats": 10813
+          "language": "Tamil",
+          "shows": 19,
+          "gross": 3200.0,
+          "sold": 4,
+          "totalSeats": 3527
         }
       }
     },
@@ -67,26 +79,6 @@
           "gross": 6500.0,
           "sold": 18,
           "totalSeats": 2405
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 3,
-          "gross": 6400.0,
-          "sold": 7,
-          "totalSeats": 305
-        },
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 273
         }
       }
     },
@@ -110,15 +102,23 @@
         }
       }
     },
-    "Thaai Kizhavi": {
+    "Zootopia 2": {
       "formats": {
-        "ET00006000": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 6400.0,
+          "sold": 7,
+          "totalSeats": 305
+        },
+        "ET00005925": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 19,
-          "gross": 3200.0,
-          "sold": 4,
-          "totalSeats": 3527
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 273
         }
       }
     },
@@ -128,21 +128,9 @@
           "format": "2D",
           "language": "English",
           "shows": 11,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 3300.0,
+          "sold": 3,
           "totalSeats": 2032
-        }
-      }
-    },
-    "Vadam": {
-      "formats": {
-        "ET00006007": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 13,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2298
         }
       }
     },
@@ -152,21 +140,9 @@
           "format": "2D",
           "language": "English",
           "shows": 7,
-          "gross": 27200.0,
-          "sold": 17,
+          "gross": 22700.0,
+          "sold": 15,
           "totalSeats": 615
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 331
         }
       }
     },
@@ -194,6 +170,18 @@
         }
       }
     },
+    "Vadam": {
+      "formats": {
+        "ET00006007": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 13,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 2298
+        }
+      }
+    },
     "EPiC: Elvis Presley in Concert": {
       "formats": {
         "ET00005978": {
@@ -203,6 +191,18 @@
           "gross": 12500.0,
           "sold": 5,
           "totalSeats": 55
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 331
         }
       }
     },
