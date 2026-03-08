@@ -2,11 +2,11 @@
   {
     "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
     "movie_name": "Scream 7",
-    "total_shows": 11,
-    "seats": 1852,
-    "sold": 1,
-    "reserved": 10,
-    "available": 1841,
+    "total_shows": 14,
+    "seats": 2032,
+    "sold": 3,
+    "reserved": 39,
+    "available": 1990,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -15,8 +15,8 @@
         "total_shows": 1,
         "seats": 198,
         "sold": 0,
-        "reserved": 10,
-        "available": 188,
+        "reserved": 16,
+        "available": 182,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -25,8 +25,8 @@
         "total_shows": 1,
         "seats": 51,
         "sold": 0,
-        "reserved": 0,
-        "available": 51,
+        "reserved": 1,
+        "available": 50,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -94,9 +94,19 @@
         "venue": "big-movies",
         "total_shows": 1,
         "seats": 279,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 279,
+        "available": 277,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 3,
+        "seats": 180,
+        "sold": 0,
+        "reserved": 22,
+        "available": 158,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -105,11 +115,11 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 100,
-    "seats": 20404,
-    "sold": 81,
-    "reserved": 170,
-    "available": 20153,
+    "total_shows": 119,
+    "seats": 22996,
+    "sold": 90,
+    "reserved": 173,
+    "available": 22733,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -168,8 +178,8 @@
         "total_shows": 3,
         "seats": 1297,
         "sold": 0,
-        "reserved": 0,
-        "available": 1297,
+        "reserved": 2,
+        "available": 1295,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -287,9 +297,9 @@
         "venue": "cineroyale",
         "total_shows": 3,
         "seats": 651,
-        "sold": 0,
+        "sold": 3,
         "reserved": 0,
-        "available": 651,
+        "available": 648,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -298,8 +308,8 @@
         "total_shows": 4,
         "seats": 920,
         "sold": 2,
-        "reserved": 40,
-        "available": 878,
+        "reserved": 24,
+        "available": 894,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -357,9 +367,9 @@
         "venue": "big-movies",
         "total_shows": 3,
         "seats": 810,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 810,
+        "available": 808,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -427,9 +437,9 @@
         "venue": "kawaswoti-cinemax",
         "total_shows": 3,
         "seats": 774,
-        "sold": 0,
+        "sold": 4,
         "reserved": 0,
-        "available": 774,
+        "available": 770,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -462,17 +472,77 @@
         "available": 225,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 4,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "pathivara-cine-plaza",
+        "total_shows": 3,
+        "seats": 570,
+        "sold": 0,
+        "reserved": 0,
+        "available": 570,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "suvakamna-cinemas",
+        "total_shows": 3,
+        "seats": 570,
+        "sold": 0,
+        "reserved": 0,
+        "available": 570,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "vfx-cinemas",
+        "total_shows": 4,
+        "seats": 824,
+        "sold": 0,
+        "reserved": 0,
+        "available": 824,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "oasis-cinema",
+        "total_shows": 3,
+        "seats": 399,
+        "sold": 0,
+        "reserved": 0,
+        "available": 399,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 2,
+        "seats": 229,
+        "sold": 0,
+        "reserved": 17,
+        "available": 212,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 73,
-    "seats": 13252,
-    "sold": 54,
-    "reserved": 124,
-    "available": 13074,
+    "total_shows": 78,
+    "seats": 13650,
+    "sold": 64,
+    "reserved": 146,
+    "available": 13440,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -481,8 +551,8 @@
         "total_shows": 3,
         "seats": 157,
         "sold": 2,
-        "reserved": 0,
-        "available": 155,
+        "reserved": 1,
+        "available": 154,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -510,9 +580,9 @@
         "venue": "qfx-civil",
         "total_shows": 3,
         "seats": 777,
-        "sold": 0,
+        "sold": 6,
         "reserved": 0,
-        "available": 777,
+        "available": 771,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -640,9 +710,9 @@
         "venue": "cineroyale",
         "total_shows": 3,
         "seats": 378,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 378,
+        "available": 376,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -651,8 +721,8 @@
         "total_shows": 4,
         "seats": 920,
         "sold": 2,
-        "reserved": 42,
-        "available": 876,
+        "reserved": 33,
+        "available": 885,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -730,9 +800,9 @@
         "venue": "qfx-skyline",
         "total_shows": 3,
         "seats": 383,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 383,
+        "available": 381,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -775,6 +845,26 @@
         "available": 567,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 3,
+        "seats": 398,
+        "sold": 0,
+        "reserved": 30,
+        "available": 368,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 2,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -783,9 +873,9 @@
     "movie_name": "Wuthering Heights",
     "total_shows": 5,
     "seats": 812,
-    "sold": 0,
-    "reserved": 0,
-    "available": 812,
+    "sold": 1,
+    "reserved": 2,
+    "available": 809,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -793,9 +883,9 @@
         "venue": "qfx-chhaya",
         "total_shows": 2,
         "seats": 222,
-        "sold": 0,
+        "sold": 1,
         "reserved": 0,
-        "available": 222,
+        "available": 221,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -814,8 +904,8 @@
         "total_shows": 1,
         "seats": 279,
         "sold": 0,
-        "reserved": 0,
-        "available": 279,
+        "reserved": 2,
+        "available": 277,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -824,11 +914,11 @@
   {
     "movie_id": "WWGJ4tTPCuF86KDzmJnd27",
     "movie_name": "Prawasi Jiwan",
-    "total_shows": 1,
-    "seats": 137,
+    "total_shows": 2,
+    "seats": 306,
     "sold": 0,
-    "reserved": 0,
-    "available": 137,
+    "reserved": 11,
+    "available": 295,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -839,6 +929,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 137,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 0,
+        "reserved": 11,
+        "available": 158,
         "housefull": 0,
         "fastfilling": 0
       }
