@@ -1,19 +1,7 @@
 {
   "date": "20260309",
-  "lastUpdated": "06:09 PM, 08 March 2026",
+  "lastUpdated": "07:06 PM, 08 March 2026",
   "movies": {
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 50,
-          "gross": 26500.0,
-          "sold": 36,
-          "totalSeats": 10520
-        }
-      }
-    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005939": {
@@ -34,27 +22,27 @@
         }
       }
     },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 58,
-          "gross": 45050.0,
-          "sold": 71,
-          "totalSeats": 11339
-        }
-      }
-    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 96,
-          "gross": 106800.0,
-          "sold": 229,
-          "totalSeats": 21732
+          "shows": 97,
+          "gross": 113400.0,
+          "sold": 240,
+          "totalSeats": 21972
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 50,
+          "gross": 26500.0,
+          "sold": 36,
+          "totalSeats": 10520
         }
       }
     },
@@ -64,8 +52,8 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 20,
-          "gross": 8100.0,
-          "sold": 9,
+          "gross": 10800.0,
+          "sold": 12,
           "totalSeats": 3814
         }
       }
@@ -76,22 +64,14 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 11,
-          "gross": 9650.0,
-          "sold": 25,
+          "gross": 8750.0,
+          "sold": 23,
           "totalSeats": 2405
         }
       }
     },
     "Hoppers": {
       "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 18,
-          "gross": 19550.0,
-          "sold": 13,
-          "totalSeats": 2301
-        },
         "ET00006005": {
           "format": "2D",
           "language": "English",
@@ -99,6 +79,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 140
+        },
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 18,
+          "gross": 19550.0,
+          "sold": 13,
+          "totalSeats": 2301
         }
       }
     },
@@ -120,41 +108,9 @@
           "format": "2D",
           "language": "English",
           "shows": 7,
-          "gross": 23900.0,
-          "sold": 16,
+          "gross": 26400.0,
+          "sold": 18,
           "totalSeats": 615
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 3,
-          "gross": 6400.0,
-          "sold": 7,
-          "totalSeats": 305
-        },
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 273
-        }
-      }
-    },
-    "The Bride": {
-      "formats": {
-        "ET00006004": {
-          "format": "2D",
-          "language": "English",
-          "shows": 11,
-          "gross": 3300.0,
-          "sold": 3,
-          "totalSeats": 2032
         }
       }
     },
@@ -182,15 +138,23 @@
         }
       }
     },
-    "O' Romeo": {
+    "Zootopia 2": {
       "formats": {
-        "ET00005985": {
+        "ET00005925": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 1,
+          "language": "English",
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 33
+          "totalSeats": 273
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 6400.0,
+          "sold": 7,
+          "totalSeats": 305
         }
       }
     },
@@ -203,6 +167,30 @@
           "gross": 17500.0,
           "sold": 7,
           "totalSeats": 55
+        }
+      }
+    },
+    "The Bride": {
+      "formats": {
+        "ET00006004": {
+          "format": "2D",
+          "language": "English",
+          "shows": 11,
+          "gross": 3300.0,
+          "sold": 3,
+          "totalSeats": 2032
+        }
+      }
+    },
+    "O' Romeo": {
+      "formats": {
+        "ET00005985": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 33
         }
       }
     },
@@ -227,6 +215,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 44
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 57,
+          "gross": 45050.0,
+          "sold": 71,
+          "totalSeats": 11099
         }
       }
     }
