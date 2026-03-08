@@ -1,24 +1,28 @@
 {
   "date": "20260309",
-  "lastUpdated": "04:48 AM, 08 March 2026",
+  "lastUpdated": "07:18 AM, 08 March 2026",
   "movies": {
-    "Avatar: Fire and Ash": {
+    "Dharmayuddhaya 2": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 6,
-          "gross": 7000.0,
-          "sold": 5,
-          "totalSeats": 931
-        },
-        "ET00005939": {
+        "ET00005975": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
+          "language": "Sinhala",
+          "shows": 93,
+          "gross": 33550.0,
+          "sold": 79,
+          "totalSeats": 20943
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 19,
+          "gross": 3200.0,
+          "sold": 4,
+          "totalSeats": 3527
         }
       }
     },
@@ -31,30 +35,6 @@
           "gross": 9600.0,
           "sold": 17,
           "totalSeats": 10631
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 56,
-          "gross": 13150.0,
-          "sold": 28,
-          "totalSeats": 10813
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 11,
-          "gross": 4200.0,
-          "sold": 12,
-          "totalSeats": 2405
         }
       }
     },
@@ -78,15 +58,23 @@
         }
       }
     },
-    "Thaai Kizhavi": {
+    "Avatar: Fire and Ash": {
       "formats": {
-        "ET00006000": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 6,
+          "gross": 7000.0,
+          "sold": 5,
+          "totalSeats": 931
+        },
+        "ET00005939": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 19,
-          "gross": 3200.0,
-          "sold": 4,
-          "totalSeats": 3527
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
         }
       }
     },
@@ -110,30 +98,6 @@
         }
       }
     },
-    "Vadam": {
-      "formats": {
-        "ET00006007": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 13,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2298
-        }
-      }
-    },
-    "The Bride": {
-      "formats": {
-        "ET00006004": {
-          "format": "2D",
-          "language": "English",
-          "shows": 11,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2032
-        }
-      }
-    },
     "Wuthering Heights": {
       "formats": {
         "ET00005997": {
@@ -143,54 +107,6 @@
           "gross": 11100.0,
           "sold": 9,
           "totalSeats": 615
-        }
-      }
-    },
-    "O' Romeo": {
-      "formats": {
-        "ET00005985": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 33
-        }
-      }
-    },
-    "EPiC: Elvis Presley in Concert": {
-      "formats": {
-        "ET00005978": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 12500.0,
-          "sold": 5,
-          "totalSeats": 55
-        }
-      }
-    },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 44
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 331
         }
       }
     },
@@ -206,6 +122,90 @@
         }
       }
     },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 12500.0,
+          "sold": 5,
+          "totalSeats": 55
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 56,
+          "gross": 13150.0,
+          "sold": 28,
+          "totalSeats": 10813
+        }
+      }
+    },
+    "O' Romeo": {
+      "formats": {
+        "ET00005985": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 33
+        }
+      }
+    },
+    "Vadam": {
+      "formats": {
+        "ET00006007": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 13,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 2298
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 11,
+          "gross": 4200.0,
+          "sold": 12,
+          "totalSeats": 2405
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 331
+        }
+      }
+    },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 44
+        }
+      }
+    },
     "Scream 7": {
       "formats": {
         "ET00006002": {
@@ -218,15 +218,15 @@
         }
       }
     },
-    "Dharmayuddhaya 2": {
+    "The Bride": {
       "formats": {
-        "ET00005975": {
+        "ET00006004": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 93,
-          "gross": 33550.0,
-          "sold": 79,
-          "totalSeats": 20943
+          "language": "English",
+          "shows": 11,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 2032
         }
       }
     }
