@@ -1,15 +1,27 @@
 {
   "date": "20260311",
-  "lastUpdated": "12:15 AM, 10 March 2026",
+  "lastUpdated": "01:07 AM, 10 March 2026",
   "movies": {
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 54,
+          "gross": 24600.0,
+          "sold": 31,
+          "totalSeats": 8845
+        }
+      }
+    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 123,
-          "gross": 69400.0,
-          "sold": 129,
+          "gross": 68900.0,
+          "sold": 127,
           "totalSeats": 22097
         }
       }
@@ -34,30 +46,6 @@
         }
       }
     },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 54,
-          "gross": 24600.0,
-          "sold": 31,
-          "totalSeats": 8845
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 62,
-          "gross": 23400.0,
-          "sold": 32,
-          "totalSeats": 11183
-        }
-      }
-    },
     "Thaai Kizhavi": {
       "formats": {
         "ET00006000": {
@@ -72,14 +60,6 @@
     },
     "Hoppers": {
       "formats": {
-        "ET00006005": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 140
-        },
         "ET00006008": {
           "format": "3D",
           "language": "English",
@@ -87,6 +67,26 @@
           "gross": 6000.0,
           "sold": 5,
           "totalSeats": 2190
+        },
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 140
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 62,
+          "gross": 23400.0,
+          "sold": 32,
+          "totalSeats": 11183
         }
       }
     },
@@ -110,27 +110,15 @@
         }
       }
     },
-    "Vadam": {
+    "Malaki Duwe Numba": {
       "formats": {
-        "ET00006007": {
+        "ET00005955": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 17,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2581
-        }
-      }
-    },
-    "The Bride": {
-      "formats": {
-        "ET00006004": {
-          "format": "2D",
-          "language": "English",
-          "shows": 10,
-          "gross": 18800.0,
-          "sold": 7,
-          "totalSeats": 1999
+          "language": "Sinhala",
+          "shows": 11,
+          "gross": 1400.0,
+          "sold": 4,
+          "totalSeats": 2405
         }
       }
     },
@@ -146,15 +134,27 @@
         }
       }
     },
-    "Malaki Duwe Numba": {
+    "The Housemaid": {
       "formats": {
-        "ET00005955": {
+        "ET00005954": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 11,
-          "gross": 700.0,
+          "language": "English",
+          "shows": 4,
+          "gross": 2200.0,
           "sold": 2,
-          "totalSeats": 2405
+          "totalSeats": 331
+        }
+      }
+    },
+    "Vadam": {
+      "formats": {
+        "ET00006007": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 17,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 2581
         }
       }
     },
@@ -167,30 +167,6 @@
           "gross": 0,
           "sold": 0,
           "totalSeats": 0
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 7,
-          "gross": 8800.0,
-          "sold": 7,
-          "totalSeats": 615
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 331
         }
       }
     },
@@ -215,6 +191,30 @@
           "gross": 5700.0,
           "sold": 3,
           "totalSeats": 55
+        }
+      }
+    },
+    "The Bride": {
+      "formats": {
+        "ET00006004": {
+          "format": "2D",
+          "language": "English",
+          "shows": 10,
+          "gross": 18800.0,
+          "sold": 7,
+          "totalSeats": 1999
+        }
+      }
+    },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 7,
+          "gross": 8800.0,
+          "sold": 7,
+          "totalSeats": 615
         }
       }
     },
