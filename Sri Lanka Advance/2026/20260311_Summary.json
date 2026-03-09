@@ -1,7 +1,19 @@
 {
   "date": "20260311",
-  "lastUpdated": "01:59 AM, 10 March 2026",
+  "lastUpdated": "02:58 AM, 10 March 2026",
   "movies": {
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 123,
+          "gross": 68900.0,
+          "sold": 127,
+          "totalSeats": 22097
+        }
+      }
+    },
     " Father": {
       "formats": {
         "ET00005963": {
@@ -11,6 +23,18 @@
           "gross": 25700.0,
           "sold": 33,
           "totalSeats": 8845
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 27,
+          "gross": 13200.0,
+          "sold": 12,
+          "totalSeats": 4295
         }
       }
     },
@@ -34,15 +58,43 @@
         }
       }
     },
-    "The Wife": {
+    "Hoppers": {
       "formats": {
-        "ET00005992": {
+        "ET00006005": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 62,
-          "gross": 23400.0,
-          "sold": 32,
-          "totalSeats": 11183
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 140
+        },
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 17,
+          "gross": 6000.0,
+          "sold": 5,
+          "totalSeats": 2190
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 6000.0,
+          "sold": 6,
+          "totalSeats": 305
+        },
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 1000.0,
+          "sold": 1,
+          "totalSeats": 273
         }
       }
     },
@@ -58,55 +110,15 @@
         }
       }
     },
-    "Hoppers": {
+    "Scream 7": {
       "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 17,
-          "gross": 6000.0,
-          "sold": 5,
-          "totalSeats": 2190
-        },
-        "ET00006005": {
+        "ET00006002": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 140
-        }
-      }
-    },
-    "Thaai Kizhavi": {
-      "formats": {
-        "ET00006000": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 27,
-          "gross": 13200.0,
-          "sold": 12,
-          "totalSeats": 4295
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 1000.0,
-          "sold": 1,
-          "totalSeats": 273
-        },
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 3,
-          "gross": 6000.0,
+          "shows": 10,
+          "gross": 6800.0,
           "sold": 6,
-          "totalSeats": 305
+          "totalSeats": 1103
         }
       }
     },
@@ -146,18 +158,6 @@
         }
       }
     },
-    "O' Romeo": {
-      "formats": {
-        "ET00005985": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 33
-        }
-      }
-    },
     "The Bride": {
       "formats": {
         "ET00006004": {
@@ -170,51 +170,15 @@
         }
       }
     },
-    "Scream 7": {
+    "O' Romeo": {
       "formats": {
-        "ET00006002": {
+        "ET00005985": {
           "format": "2D",
-          "language": "English",
-          "shows": 10,
-          "gross": 6800.0,
-          "sold": 6,
-          "totalSeats": 1103
-        }
-      }
-    },
-    " Abhitha": {
-      "formats": {
-        "ET00005989": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 0,
-          "sold": 0,
-          "totalSeats": 0
-        }
-      }
-    },
-    "EPiC: Elvis Presley in Concert": {
-      "formats": {
-        "ET00005978": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 5700.0,
-          "sold": 3,
-          "totalSeats": 55
-        }
-      }
-    },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
+          "language": "Hindi",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 44
+          "totalSeats": 33
         }
       }
     },
@@ -230,15 +194,51 @@
         }
       }
     },
-    "Dharmayuddhaya 2": {
+    "Crime 101": {
       "formats": {
-        "ET00005975": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 44
+        }
+      }
+    },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 5700.0,
+          "sold": 3,
+          "totalSeats": 55
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 123,
-          "gross": 68900.0,
-          "sold": 127,
-          "totalSeats": 22097
+          "shows": 62,
+          "gross": 23400.0,
+          "sold": 32,
+          "totalSeats": 11183
+        }
+      }
+    },
+    " Abhitha": {
+      "formats": {
+        "ET00005989": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 0,
+          "sold": 0,
+          "totalSeats": 0
         }
       }
     }
