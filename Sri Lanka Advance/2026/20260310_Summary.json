@@ -1,31 +1,7 @@
 {
   "date": "20260310",
-  "lastUpdated": "04:10 PM, 09 March 2026",
+  "lastUpdated": "05:01 PM, 09 March 2026",
   "movies": {
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 123,
-          "gross": 80650.0,
-          "sold": 148,
-          "totalSeats": 22097
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 63,
-          "gross": 21600.0,
-          "sold": 32,
-          "totalSeats": 11704
-        }
-      }
-    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005939": {
@@ -46,39 +22,27 @@
         }
       }
     },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 55,
-          "gross": 30800.0,
-          "sold": 38,
-          "totalSeats": 10304
-        }
-      }
-    },
     "Thaai Kizhavi": {
       "formats": {
         "ET00006000": {
           "format": "2D",
           "language": "Tamil",
           "shows": 27,
-          "gross": 1800.0,
-          "sold": 2,
+          "gross": 2600.0,
+          "sold": 4,
           "totalSeats": 4295
         }
       }
     },
-    "Malaki Duwe Numba": {
+    "Dharmayuddhaya 2": {
       "formats": {
-        "ET00005955": {
+        "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 11,
-          "gross": 3500.0,
-          "sold": 10,
-          "totalSeats": 2405
+          "shows": 123,
+          "gross": 79550.0,
+          "sold": 148,
+          "totalSeats": 22097
         }
       }
     },
@@ -122,15 +86,15 @@
         }
       }
     },
-    "Vadam": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00006007": {
+        "ET00005997": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 18,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2706
+          "language": "English",
+          "shows": 7,
+          "gross": 12200.0,
+          "sold": 10,
+          "totalSeats": 615
         }
       }
     },
@@ -140,8 +104,8 @@
           "format": "2D",
           "language": "English",
           "shows": 10,
-          "gross": 34900.0,
-          "sold": 11,
+          "gross": 30600.0,
+          "sold": 9,
           "totalSeats": 1925
         }
       }
@@ -158,15 +122,15 @@
         }
       }
     },
-    "The Housemaid": {
+    "EPiC: Elvis Presley in Concert": {
       "formats": {
-        "ET00005954": {
+        "ET00005978": {
           "format": "2D",
           "language": "English",
-          "shows": 4,
-          "gross": 58500.0,
-          "sold": 39,
-          "totalSeats": 331
+          "shows": 2,
+          "gross": 20000.0,
+          "sold": 8,
+          "totalSeats": 55
         }
       }
     },
@@ -182,27 +146,15 @@
         }
       }
     },
-    "EPiC: Elvis Presley in Concert": {
+    "The Housemaid": {
       "formats": {
-        "ET00005978": {
+        "ET00005954": {
           "format": "2D",
           "language": "English",
-          "shows": 2,
-          "gross": 20000.0,
-          "sold": 8,
-          "totalSeats": 55
-        }
-      }
-    },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 44
+          "shows": 4,
+          "gross": 60700.0,
+          "sold": 41,
+          "totalSeats": 331
         }
       }
     },
@@ -230,15 +182,63 @@
         }
       }
     },
-    "Wuthering Heights": {
+    "Crime 101": {
       "formats": {
-        "ET00005997": {
+        "ET00005994": {
           "format": "2D",
           "language": "English",
-          "shows": 7,
-          "gross": 12200.0,
-          "sold": 10,
-          "totalSeats": 615
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 44
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 55,
+          "gross": 34400.0,
+          "sold": 41,
+          "totalSeats": 10304
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 63,
+          "gross": 22100.0,
+          "sold": 32,
+          "totalSeats": 11704
+        }
+      }
+    },
+    "Vadam": {
+      "formats": {
+        "ET00006007": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 18,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 2706
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 11,
+          "gross": 4100.0,
+          "sold": 12,
+          "totalSeats": 2405
         }
       }
     }
