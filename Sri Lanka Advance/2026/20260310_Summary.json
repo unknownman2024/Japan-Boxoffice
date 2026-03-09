@@ -1,6 +1,6 @@
 {
   "date": "20260310",
-  "lastUpdated": "07:19 AM, 09 March 2026",
+  "lastUpdated": "09:43 AM, 09 March 2026",
   "movies": {
     "Dharmayuddhaya 2": {
       "formats": {
@@ -8,21 +8,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 122,
-          "gross": 42000.0,
-          "sold": 81,
+          "gross": 46650.0,
+          "sold": 90,
           "totalSeats": 21972
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 55,
-          "gross": 19300.0,
-          "sold": 25,
-          "totalSeats": 10304
         }
       }
     },
@@ -32,8 +20,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 62,
-          "gross": 2900.0,
-          "sold": 6,
+          "gross": 5500.0,
+          "sold": 10,
           "totalSeats": 11579
         }
       }
@@ -50,16 +38,20 @@
         }
       }
     },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 11,
+          "gross": 2100.0,
+          "sold": 6,
+          "totalSeats": 2405
+        }
+      }
+    },
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 6,
-          "gross": 4400.0,
-          "sold": 4,
-          "totalSeats": 931
-        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -67,18 +59,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 143
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 11,
-          "gross": 1400.0,
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 6,
+          "gross": 4400.0,
           "sold": 4,
-          "totalSeats": 2405
+          "totalSeats": 931
         }
       }
     },
@@ -102,14 +90,34 @@
         }
       }
     },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 305
+        },
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 273
+        }
+      }
+    },
     "Scream 7": {
       "formats": {
         "ET00006002": {
           "format": "2D",
           "language": "English",
           "shows": 10,
-          "gross": 2400.0,
-          "sold": 2,
+          "gross": 6900.0,
+          "sold": 4,
           "totalSeats": 1103
         }
       }
@@ -123,18 +131,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 1925
-        }
-      }
-    },
-    "Vadam": {
-      "formats": {
-        "ET00006007": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 16,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2302
         }
       }
     },
@@ -155,10 +151,34 @@
         "ET00005954": {
           "format": "2D",
           "language": "English",
-          "shows": 3,
+          "shows": 4,
+          "gross": 58500.0,
+          "sold": 39,
+          "totalSeats": 331
+        }
+      }
+    },
+    " Abhitha": {
+      "formats": {
+        "ET00005989": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 0,
+          "sold": 0,
+          "totalSeats": 0
+        }
+      }
+    },
+    "Vadam": {
+      "formats": {
+        "ET00006007": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 16,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 220
+          "totalSeats": 2302
         }
       }
     },
@@ -198,18 +218,6 @@
         }
       }
     },
-    " Abhitha": {
-      "formats": {
-        "ET00005989": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 0,
-          "sold": 0,
-          "totalSeats": 0
-        }
-      }
-    },
     "O' Romeo": {
       "formats": {
         "ET00005985": {
@@ -222,23 +230,15 @@
         }
       }
     },
-    "Zootopia 2": {
+    " Father": {
       "formats": {
-        "ET00005925": {
+        "ET00005963": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 273
-        },
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 305
+          "language": "Sinhala",
+          "shows": 55,
+          "gross": 19300.0,
+          "sold": 25,
+          "totalSeats": 10304
         }
       }
     }
