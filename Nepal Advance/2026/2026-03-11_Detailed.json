@@ -1,6 +1,6 @@
 {
   "date": "2026-03-11",
-  "lastUpdated": "06:57 AM, 10 March 2026",
+  "lastUpdated": "09:59 AM, 10 March 2026",
   "shows": [
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -836,11 +836,11 @@
       "date": "2026-03-11T12:30:00+05:45",
       "time": "",
       "seats": 290,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 290,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 286,
+      "gross": 600,
+      "occupancy_percent": 1.38
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1316,11 +1316,11 @@
       "date": "2026-03-11T12:15:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 180,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 178,
+      "gross": 300,
+      "occupancy_percent": 1.11
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -1731,18 +1731,16 @@
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
       "movie_name": "O Romeo",
       "show_id": "62757:ksr-movies",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-03-11",
-      "time": null,
-      "seats": 0,
+      "venue": "ksr-movies",
+      "theatre": "iNi Cinemas - KSR Movies - Audi 1",
+      "date": "2026-03-11T11:30:00+05:45",
+      "time": "",
+      "seats": 118,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 118,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -1919,10 +1917,10 @@
       "time": "",
       "seats": 139,
       "sold": 0,
-      "reserved": 0,
-      "available": 139,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 137,
+      "gross": 300,
+      "occupancy_percent": 1.44
     },
     {
       "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
