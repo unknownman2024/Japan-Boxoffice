@@ -329,10 +329,10 @@
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
     "total_shows": 40,
-    "seats": 6746,
+    "seats": 6628,
     "sold": 6,
     "reserved": 105,
-    "available": 6635,
+    "available": 6517,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -507,12 +507,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "ksr-movies",
-        "total_shows": 3,
-        "seats": 354,
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 354,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ksr-movies",
+        "total_shows": 2,
+        "seats": 236,
+        "sold": 0,
+        "reserved": 0,
+        "available": 236,
         "housefull": 0,
         "fastfilling": 0
       }
