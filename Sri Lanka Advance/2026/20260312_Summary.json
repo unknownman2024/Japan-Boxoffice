@@ -1,6 +1,6 @@
 {
   "date": "20260312",
-  "lastUpdated": "03:54 AM, 11 March 2026",
+  "lastUpdated": "04:53 AM, 11 March 2026",
   "movies": {
     "The Wife": {
       "formats": {
@@ -11,18 +11,6 @@
           "gross": 13200.0,
           "sold": 20,
           "totalSeats": 10158
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 42,
-          "gross": 19700.0,
-          "sold": 22,
-          "totalSeats": 7808
         }
       }
     },
@@ -44,8 +32,8 @@
           "format": "2D",
           "language": "English",
           "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 5200.0,
+          "sold": 4,
           "totalSeats": 143
         },
         "ET00005938": {
@@ -55,6 +43,50 @@
           "gross": 2000.0,
           "sold": 2,
           "totalSeats": 877
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 42,
+          "gross": 19700.0,
+          "sold": 22,
+          "totalSeats": 7808
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 25,
+          "gross": 5500.0,
+          "sold": 5,
+          "totalSeats": 4741
+        }
+      }
+    },
+    "Hoppers": {
+      "formats": {
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 18,
+          "gross": 2400.0,
+          "sold": 2,
+          "totalSeats": 2192
+        },
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 140
         }
       }
     },
@@ -90,35 +122,15 @@
         }
       }
     },
-    "Thaai Kizhavi": {
+    "Scream 7": {
       "formats": {
-        "ET00006000": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 25,
-          "gross": 5500.0,
-          "sold": 5,
-          "totalSeats": 4741
-        }
-      }
-    },
-    "Hoppers": {
-      "formats": {
-        "ET00006005": {
+        "ET00006002": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 140
-        },
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 18,
+          "shows": 10,
           "gross": 2400.0,
           "sold": 2,
-          "totalSeats": 2192
+          "totalSeats": 1103
         }
       }
     },
@@ -131,18 +143,6 @@
           "gross": 13600.0,
           "sold": 5,
           "totalSeats": 1925
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 7,
-          "gross": 11600.0,
-          "sold": 10,
-          "totalSeats": 615
         }
       }
     },
@@ -194,18 +194,6 @@
         }
       }
     },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 331
-        }
-      }
-    },
     "David": {
       "formats": {
         "ET00005972": {
@@ -218,15 +206,27 @@
         }
       }
     },
-    "Scream 7": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00006002": {
+        "ET00005997": {
           "format": "2D",
           "language": "English",
-          "shows": 10,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 1103
+          "shows": 7,
+          "gross": 11600.0,
+          "sold": 10,
+          "totalSeats": 615
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 331
         }
       }
     }
