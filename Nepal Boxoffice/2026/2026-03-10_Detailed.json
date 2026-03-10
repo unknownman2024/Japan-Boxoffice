@@ -1,6 +1,6 @@
 {
   "date": "2026-03-10",
-  "lastUpdated": "06:26 PM, 10 March 2026",
+  "lastUpdated": "07:30 PM, 10 March 2026",
   "shows": [
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -3632,11 +3632,11 @@
       "date": "2026-03-10T20:00:00+05:45",
       "time": "",
       "seats": 60,
-      "sold": 0,
+      "sold": 4,
       "reserved": 3,
-      "available": 57,
-      "gross": 1500,
-      "occupancy_percent": 5.0
+      "available": 53,
+      "gross": 3500,
+      "occupancy_percent": 11.67
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -3647,11 +3647,11 @@
       "date": "2026-03-10T20:00:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 85,
-      "reserved": 5,
-      "available": 127,
-      "gross": 18000,
-      "occupancy_percent": 41.47
+      "sold": 101,
+      "reserved": 0,
+      "available": 116,
+      "gross": 20500,
+      "occupancy_percent": 46.54
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -3677,11 +3677,11 @@
       "date": "2026-03-10T20:00:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 9,
+      "sold": 11,
       "reserved": 6,
-      "available": 215,
-      "gross": 2691,
-      "occupancy_percent": 6.52
+      "available": 213,
+      "gross": 2889,
+      "occupancy_percent": 7.39
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -3717,16 +3717,18 @@
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
       "movie_name": "O Romeo",
       "show_id": "62713:ini-cinemas-nb-center",
-      "venue": "ini-cinemas-nb-center",
-      "theatre": "iNi Cinemas NB Center - Audi -1 (DTS: X)",
-      "date": "2026-03-10T19:45:00+05:45",
-      "time": "",
-      "seats": 177,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-10",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 177,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3737,11 +3739,11 @@
       "date": "2026-03-10T20:15:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 9,
-      "reserved": 7,
-      "available": 214,
-      "gross": 3192,
-      "occupancy_percent": 6.96
+      "sold": 18,
+      "reserved": 9,
+      "available": 203,
+      "gross": 4281,
+      "occupancy_percent": 11.74
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3783,10 +3785,10 @@
       "time": "",
       "seats": 247,
       "sold": 5,
-      "reserved": 22,
-      "available": 220,
-      "gross": 4725,
-      "occupancy_percent": 10.93
+      "reserved": 33,
+      "available": 209,
+      "gross": 6650,
+      "occupancy_percent": 15.38
     }
   ]
 }
