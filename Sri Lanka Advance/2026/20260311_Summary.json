@@ -1,48 +1,16 @@
 {
   "date": "20260311",
-  "lastUpdated": "08:26 PM, 10 March 2026",
+  "lastUpdated": "09:29 PM, 10 March 2026",
   "movies": {
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 6,
-          "gross": 13300.0,
-          "sold": 7,
-          "totalSeats": 877
-        },
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
-        }
-      }
-    },
     "The Wife": {
       "formats": {
         "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 62,
-          "gross": 43500.0,
-          "sold": 64,
+          "gross": 54800.0,
+          "sold": 82,
           "totalSeats": 11183
-        }
-      }
-    },
-    "Thaai Kizhavi": {
-      "formats": {
-        "ET00006000": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 28,
-          "gross": 13200.0,
-          "sold": 12,
-          "totalSeats": 4598
         }
       }
     },
@@ -52,8 +20,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 123,
-          "gross": 154500.0,
-          "sold": 281,
+          "gross": 179100.0,
+          "sold": 321,
           "totalSeats": 22097
         }
       }
@@ -78,15 +46,15 @@
         }
       }
     },
-    " Father": {
+    "Thaai Kizhavi": {
       "formats": {
-        "ET00005963": {
+        "ET00006000": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 54,
-          "gross": 63450.0,
-          "sold": 78,
-          "totalSeats": 8845
+          "language": "Tamil",
+          "shows": 28,
+          "gross": 23100.0,
+          "sold": 23,
+          "totalSeats": 4598
         }
       }
     },
@@ -107,6 +75,42 @@
           "gross": 6000.0,
           "sold": 6,
           "totalSeats": 273
+        }
+      }
+    },
+    "The Bride": {
+      "formats": {
+        "ET00006004": {
+          "format": "2D",
+          "language": "English",
+          "shows": 10,
+          "gross": 25100.0,
+          "sold": 13,
+          "totalSeats": 1999
+        }
+      }
+    },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 7,
+          "gross": 14800.0,
+          "sold": 12,
+          "totalSeats": 615
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 11,
+          "gross": 9750.0,
+          "sold": 21,
+          "totalSeats": 2405
         }
       }
     },
@@ -134,18 +138,6 @@
         }
       }
     },
-    " Abhitha": {
-      "formats": {
-        "ET00005989": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 0,
-          "sold": 0,
-          "totalSeats": 0
-        }
-      }
-    },
     "Vadam": {
       "formats": {
         "ET00006007": {
@@ -158,15 +150,15 @@
         }
       }
     },
-    "The Bride": {
+    "EPiC: Elvis Presley in Concert": {
       "formats": {
-        "ET00006004": {
+        "ET00005978": {
           "format": "2D",
           "language": "English",
-          "shows": 10,
-          "gross": 23400.0,
-          "sold": 11,
-          "totalSeats": 1999
+          "shows": 2,
+          "gross": 10700.0,
+          "sold": 5,
+          "totalSeats": 55
         }
       }
     },
@@ -206,39 +198,47 @@
         }
       }
     },
-    "EPiC: Elvis Presley in Concert": {
+    " Abhitha": {
       "formats": {
-        "ET00005978": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 10700.0,
-          "sold": 5,
-          "totalSeats": 55
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 7,
-          "gross": 13600.0,
-          "sold": 11,
-          "totalSeats": 615
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
+        "ET00005989": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 11,
-          "gross": 9750.0,
-          "sold": 21,
-          "totalSeats": 2405
+          "shows": 2,
+          "gross": 0,
+          "sold": 0,
+          "totalSeats": 0
+        }
+      }
+    },
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 6,
+          "gross": 13300.0,
+          "sold": 7,
+          "totalSeats": 877
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 54,
+          "gross": 68450.0,
+          "sold": 86,
+          "totalSeats": 8845
         }
       }
     }
