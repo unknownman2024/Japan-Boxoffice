@@ -1,16 +1,16 @@
 {
   "date": "20260312",
-  "lastUpdated": "10:16 PM, 11 March 2026",
+  "lastUpdated": "11:15 PM, 11 March 2026",
   "movies": {
-    "Dharmayuddhaya 2": {
+    "The Wife": {
       "formats": {
-        "ET00005975": {
+        "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 98,
-          "gross": 134800.0,
-          "sold": 222,
-          "totalSeats": 21641
+          "shows": 56,
+          "gross": 58050.0,
+          "sold": 87,
+          "totalSeats": 10695
         }
       }
     },
@@ -34,15 +34,47 @@
         }
       }
     },
-    "The Wife": {
+    " Father": {
       "formats": {
-        "ET00005992": {
+        "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 56,
-          "gross": 49550.0,
-          "sold": 75,
-          "totalSeats": 10695
+          "shows": 45,
+          "gross": 60250.0,
+          "sold": 71,
+          "totalSeats": 9497
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 98,
+          "gross": 149350.0,
+          "sold": 253,
+          "totalSeats": 21641
+        }
+      }
+    },
+    "Hoppers": {
+      "formats": {
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 19,
+          "gross": 19900.0,
+          "sold": 18,
+          "totalSeats": 2408
+        },
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 2000.0,
+          "sold": 2,
+          "totalSeats": 140
         }
       }
     },
@@ -64,41 +96,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 11,
-          "gross": 8250.0,
-          "sold": 23,
+          "gross": 11050.0,
+          "sold": 31,
           "totalSeats": 2405
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 45,
-          "gross": 57350.0,
-          "sold": 68,
-          "totalSeats": 9497
-        }
-      }
-    },
-    "Hoppers": {
-      "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 19,
-          "gross": 19900.0,
-          "sold": 18,
-          "totalSeats": 2408
-        },
-        "ET00006005": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 140
         }
       }
     },
@@ -122,14 +122,26 @@
         }
       }
     },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 12,
+          "gross": 10000.0,
+          "sold": 9,
+          "totalSeats": 2437
+        }
+      }
+    },
     "Scream 7": {
       "formats": {
         "ET00006002": {
           "format": "2D",
           "language": "English",
           "shows": 10,
-          "gross": 2400.0,
-          "sold": 2,
+          "gross": 3500.0,
+          "sold": 3,
           "totalSeats": 1103
         }
       }
@@ -146,30 +158,6 @@
         }
       }
     },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 12,
-          "gross": 5200.0,
-          "sold": 5,
-          "totalSeats": 2437
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 7,
-          "gross": 16400.0,
-          "sold": 14,
-          "totalSeats": 615
-        }
-      }
-    },
     "The Housemaid": {
       "formats": {
         "ET00005954": {
@@ -182,15 +170,15 @@
         }
       }
     },
-    "Vadam": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00006007": {
+        "ET00005997": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 14,
-          "gross": 1600.0,
-          "sold": 2,
-          "totalSeats": 2140
+          "language": "English",
+          "shows": 7,
+          "gross": 16400.0,
+          "sold": 14,
+          "totalSeats": 615
         }
       }
     },
@@ -218,15 +206,15 @@
         }
       }
     },
-    "Crime 101": {
+    "Vadam": {
       "formats": {
-        "ET00005994": {
+        "ET00006007": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 44
+          "language": "Tamil",
+          "shows": 14,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 2140
         }
       }
     },
@@ -239,6 +227,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 152
+        }
+      }
+    },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 44
         }
       }
     }
