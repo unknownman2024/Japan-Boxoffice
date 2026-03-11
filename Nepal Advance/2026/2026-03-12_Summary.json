@@ -4,9 +4,9 @@
     "movie_name": "Scream 7",
     "total_shows": 13,
     "seats": 1972,
-    "sold": 2,
-    "reserved": 12,
-    "available": 1958,
+    "sold": 3,
+    "reserved": 24,
+    "available": 1945,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -15,8 +15,8 @@
         "total_shows": 2,
         "seats": 120,
         "sold": 0,
-        "reserved": 0,
-        "available": 120,
+        "reserved": 12,
+        "available": 108,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -74,9 +74,9 @@
         "venue": "qfx-civil",
         "total_shows": 1,
         "seats": 259,
-        "sold": 0,
+        "sold": 1,
         "reserved": 0,
-        "available": 259,
+        "available": 258,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -115,11 +115,11 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 89,
-    "seats": 18151,
-    "sold": 94,
-    "reserved": 173,
-    "available": 17884,
+    "total_shows": 108,
+    "seats": 21431,
+    "sold": 98,
+    "reserved": 187,
+    "available": 21146,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -217,9 +217,9 @@
         "venue": "pokhara-cineplex",
         "total_shows": 3,
         "seats": 1026,
-        "sold": 0,
+        "sold": 4,
         "reserved": 0,
-        "available": 1026,
+        "available": 1022,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -308,8 +308,8 @@
         "total_shows": 2,
         "seats": 229,
         "sold": 0,
-        "reserved": 0,
-        "available": 229,
+        "reserved": 14,
+        "available": 215,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -442,17 +442,77 @@
         "available": 402,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 3,
+        "seats": 400,
+        "sold": 0,
+        "reserved": 0,
+        "available": 400,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 4,
+        "seats": 697,
+        "sold": 0,
+        "reserved": 0,
+        "available": 697,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "chitwan-cineplex",
+        "total_shows": 3,
+        "seats": 657,
+        "sold": 0,
+        "reserved": 0,
+        "available": 657,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kawaswoti-cinemax",
+        "total_shows": 3,
+        "seats": 774,
+        "sold": 0,
+        "reserved": 0,
+        "available": 774,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-apex-mall",
+        "total_shows": 2,
+        "seats": 360,
+        "sold": 0,
+        "reserved": 0,
+        "available": 360,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "city-cinema",
+        "total_shows": 4,
+        "seats": 392,
+        "sold": 0,
+        "reserved": 0,
+        "available": 392,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 63,
-    "seats": 11474,
-    "sold": 34,
-    "reserved": 128,
-    "available": 11312,
+    "total_shows": 73,
+    "seats": 13106,
+    "sold": 43,
+    "reserved": 148,
+    "available": 12915,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -621,8 +681,8 @@
         "total_shows": 3,
         "seats": 398,
         "sold": 0,
-        "reserved": 0,
-        "available": 398,
+        "reserved": 24,
+        "available": 374,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -640,9 +700,9 @@
         "venue": "big-movies",
         "total_shows": 3,
         "seats": 968,
-        "sold": 0,
-        "reserved": 2,
-        "available": 966,
+        "sold": 2,
+        "reserved": 1,
+        "available": 965,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -650,8 +710,8 @@
         "venue": "one-cinemas-new-baneshwor",
         "total_shows": 2,
         "seats": 134,
-        "sold": 12,
-        "reserved": 3,
+        "sold": 15,
+        "reserved": 0,
         "available": 119,
         "housefull": 0,
         "fastfilling": 0
@@ -735,6 +795,46 @@
         "available": 288,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 2,
+        "seats": 282,
+        "sold": 1,
+        "reserved": 0,
+        "available": 281,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 2,
+        "seats": 308,
+        "sold": 0,
+        "reserved": 0,
+        "available": 308,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "chitwan-cineplex",
+        "total_shows": 2,
+        "seats": 286,
+        "sold": 3,
+        "reserved": 0,
+        "available": 283,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "city-cinema",
+        "total_shows": 4,
+        "seats": 756,
+        "sold": 0,
+        "reserved": 0,
+        "available": 756,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -787,8 +887,8 @@
     "total_shows": 1,
     "seats": 169,
     "sold": 0,
-    "reserved": 0,
-    "available": 169,
+    "reserved": 8,
+    "available": 161,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -797,8 +897,8 @@
         "total_shows": 1,
         "seats": 169,
         "sold": 0,
-        "reserved": 0,
-        "available": 169,
+        "reserved": 8,
+        "available": 161,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -840,11 +940,11 @@
   {
     "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
     "movie_name": "Rammita Koo Pirati",
-    "total_shows": 6,
-    "seats": 908,
+    "total_shows": 8,
+    "seats": 1192,
     "sold": 6,
     "reserved": 0,
-    "available": 902,
+    "available": 1186,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -895,6 +995,26 @@
         "sold": 6,
         "reserved": 0,
         "available": 61,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 1,
+        "seats": 164,
+        "sold": 0,
+        "reserved": 0,
+        "available": 164,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-apex-mall",
+        "total_shows": 1,
+        "seats": 120,
+        "sold": 0,
+        "reserved": 0,
+        "available": 120,
         "housefull": 0,
         "fastfilling": 0
       }
