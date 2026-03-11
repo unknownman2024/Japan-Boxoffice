@@ -1,17 +1,9 @@
 {
   "date": "20260312",
-  "lastUpdated": "04:04 PM, 11 March 2026",
+  "lastUpdated": "04:59 PM, 11 March 2026",
   "movies": {
     "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 6,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 877
-        },
         "ET00005939": {
           "format": "2D",
           "language": "English",
@@ -19,18 +11,26 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 143
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 6,
+          "gross": 5100.0,
+          "sold": 3,
+          "totalSeats": 877
         }
       }
     },
-    "The Wife": {
+    " Father": {
       "formats": {
-        "ET00005992": {
+        "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 55,
-          "gross": 30700.0,
+          "shows": 42,
+          "gross": 37000.0,
           "sold": 45,
-          "totalSeats": 10062
+          "totalSeats": 7808
         }
       }
     },
@@ -40,29 +40,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 11,
-          "gross": 6550.0,
-          "sold": 15,
+          "gross": 4750.0,
+          "sold": 13,
           "totalSeats": 2405
         }
       }
     },
-    "Hoppers": {
+    "The Wife": {
       "formats": {
-        "ET00006005": {
+        "ET00005992": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 140
-        },
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 19,
-          "gross": 10400.0,
-          "sold": 10,
-          "totalSeats": 2408
+          "language": "Sinhala",
+          "shows": 55,
+          "gross": 30550.0,
+          "sold": 46,
+          "totalSeats": 10062
         }
       }
     },
@@ -78,16 +70,28 @@
         }
       }
     },
-    "Zootopia 2": {
+    "Hoppers": {
       "formats": {
-        "ET00005930": {
+        "ET00006008": {
           "format": "3D",
           "language": "English",
-          "shows": 3,
+          "shows": 19,
+          "gross": 10400.0,
+          "sold": 10,
+          "totalSeats": 2408
+        },
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 305
-        },
+          "totalSeats": 140
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
         "ET00005925": {
           "format": "2D",
           "language": "English",
@@ -95,6 +99,26 @@
           "gross": 2000.0,
           "sold": 2,
           "totalSeats": 273
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 305
+        }
+      }
+    },
+    "The Bride": {
+      "formats": {
+        "ET00006004": {
+          "format": "2D",
+          "language": "English",
+          "shows": 10,
+          "gross": 16700.0,
+          "sold": 6,
+          "totalSeats": 1925
         }
       }
     },
@@ -134,18 +158,6 @@
         }
       }
     },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 331
-        }
-      }
-    },
     "Vadam": {
       "formats": {
         "ET00006007": {
@@ -158,39 +170,15 @@
         }
       }
     },
-    "O' Romeo": {
+    "The Housemaid": {
       "formats": {
-        "ET00005985": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 33
-        }
-      }
-    },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
+        "ET00005954": {
           "format": "2D",
           "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 44
-        }
-      }
-    },
-    "David": {
-      "formats": {
-        "ET00005972": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 152
+          "shows": 4,
+          "gross": 4400.0,
+          "sold": 4,
+          "totalSeats": 331
         }
       }
     },
@@ -206,27 +194,27 @@
         }
       }
     },
-    "The Bride": {
+    "David": {
       "formats": {
-        "ET00006004": {
+        "ET00005972": {
           "format": "2D",
           "language": "English",
-          "shows": 10,
-          "gross": 16700.0,
-          "sold": 6,
-          "totalSeats": 1925
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 152
         }
       }
     },
-    " Father": {
+    "Crime 101": {
       "formats": {
-        "ET00005963": {
+        "ET00005994": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 42,
-          "gross": 34800.0,
-          "sold": 41,
-          "totalSeats": 7808
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 44
         }
       }
     },
@@ -236,9 +224,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 95,
-          "gross": 63500.0,
-          "sold": 95,
+          "gross": 78300.0,
+          "sold": 117,
           "totalSeats": 20852
+        }
+      }
+    },
+    "O' Romeo": {
+      "formats": {
+        "ET00005985": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 33
         }
       }
     }
