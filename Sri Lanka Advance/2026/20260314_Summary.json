@@ -1,6 +1,6 @@
 {
   "date": "20260314",
-  "lastUpdated": "01:09 AM, 13 March 2026",
+  "lastUpdated": "01:59 AM, 13 March 2026",
   "movies": {
     " Father": {
       "formats": {
@@ -14,15 +14,35 @@
         }
       }
     },
-    "Thaai Kizhavi": {
+    "Avatar: Fire and Ash": {
       "formats": {
-        "ET00006000": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 8,
+          "gross": 47800.0,
+          "sold": 25,
+          "totalSeats": 1326
+        },
+        "ET00005939": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 23,
-          "gross": 21200.0,
-          "sold": 16,
-          "totalSeats": 4603
+          "language": "English",
+          "shows": 1,
+          "gross": 3000.0,
+          "sold": 2,
+          "totalSeats": 143
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 8,
+          "gross": 10800.0,
+          "sold": 26,
+          "totalSeats": 1506
         }
       }
     },
@@ -35,26 +55,6 @@
           "gross": 208300.0,
           "sold": 337,
           "totalSeats": 22253
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 3000.0,
-          "sold": 2,
-          "totalSeats": 143
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 8,
-          "gross": 47800.0,
-          "sold": 25,
-          "totalSeats": 1326
         }
       }
     },
@@ -78,6 +78,18 @@
         }
       }
     },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 23,
+          "gross": 21200.0,
+          "sold": 16,
+          "totalSeats": 4603
+        }
+      }
+    },
     "Zootopia 2": {
       "formats": {
         "ET00005930": {
@@ -95,18 +107,6 @@
           "gross": 9600.0,
           "sold": 8,
           "totalSeats": 152
-        }
-      }
-    },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 31,
-          "gross": 6500.0,
-          "sold": 11,
-          "totalSeats": 5914
         }
       }
     },
@@ -130,15 +130,15 @@
         }
       }
     },
-    "Wuthering Heights": {
+    "Scream 7": {
       "formats": {
-        "ET00005997": {
+        "ET00006002": {
           "format": "2D",
           "language": "English",
-          "shows": 7,
-          "gross": 2800.0,
-          "sold": 2,
-          "totalSeats": 799
+          "shows": 9,
+          "gross": 24050.0,
+          "sold": 11,
+          "totalSeats": 946
         }
       }
     },
@@ -154,15 +154,15 @@
         }
       }
     },
-    "O' Romeo": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00005985": {
+        "ET00005997": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 33
+          "language": "English",
+          "shows": 7,
+          "gross": 2800.0,
+          "sold": 2,
+          "totalSeats": 799
         }
       }
     },
@@ -175,6 +175,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 631
+        }
+      }
+    },
+    "O' Romeo": {
+      "formats": {
+        "ET00005985": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 33
         }
       }
     },
@@ -226,18 +238,6 @@
         }
       }
     },
-    "Dhurandhar": {
-      "formats": {
-        "ET00005937": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 1,
-          "gross": 36400.0,
-          "sold": 26,
-          "totalSeats": 121
-        }
-      }
-    },
     "David": {
       "formats": {
         "ET00005972": {
@@ -250,27 +250,15 @@
         }
       }
     },
-    "Scream 7": {
+    "Dhurandhar": {
       "formats": {
-        "ET00006002": {
+        "ET00005937": {
           "format": "2D",
-          "language": "English",
-          "shows": 9,
-          "gross": 24050.0,
-          "sold": 11,
-          "totalSeats": 946
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 8,
-          "gross": 10800.0,
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 36400.0,
           "sold": 26,
-          "totalSeats": 1506
+          "totalSeats": 121
         }
       }
     },
@@ -280,9 +268,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 52,
-          "gross": 84050.0,
-          "sold": 123,
+          "gross": 86450.0,
+          "sold": 129,
           "totalSeats": 10151
+        }
+      }
+    },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 31,
+          "gross": 8100.0,
+          "sold": 13,
+          "totalSeats": 5914
         }
       }
     }
