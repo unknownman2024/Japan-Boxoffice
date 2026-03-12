@@ -1,16 +1,28 @@
 {
   "date": "20260313",
-  "lastUpdated": "12:19 PM, 12 March 2026",
+  "lastUpdated": "01:12 PM, 12 March 2026",
   "movies": {
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 50,
+          "gross": 40850.0,
+          "sold": 51,
+          "totalSeats": 9702
+        }
+      }
+    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 76,
-          "gross": 87350.0,
-          "sold": 101,
-          "totalSeats": 16437
+          "shows": 93,
+          "gross": 93650.0,
+          "sold": 108,
+          "totalSeats": 21159
         }
       }
     },
@@ -34,27 +46,15 @@
         }
       }
     },
-    "The Wife": {
+    "Malaki Duwe Numba": {
       "formats": {
-        "ET00005992": {
+        "ET00005955": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 43,
-          "gross": 44250.0,
-          "sold": 52,
-          "totalSeats": 7669
-        }
-      }
-    },
-    "Thaai Kizhavi": {
-      "formats": {
-        "ET00006000": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 21,
-          "gross": 8200.0,
-          "sold": 6,
-          "totalSeats": 4199
+          "shows": 8,
+          "gross": 1400.0,
+          "sold": 4,
+          "totalSeats": 1431
         }
       }
     },
@@ -83,10 +83,34 @@
         "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 37,
-          "gross": 62700.0,
-          "sold": 49,
-          "totalSeats": 7060
+          "shows": 42,
+          "gross": 64900.0,
+          "sold": 55,
+          "totalSeats": 8561
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 21,
+          "gross": 15600.0,
+          "sold": 12,
+          "totalSeats": 4199
+        }
+      }
+    },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 26,
+          "gross": 4400.0,
+          "sold": 4,
+          "totalSeats": 4574
         }
       }
     },
@@ -110,30 +134,6 @@
         }
       }
     },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 6,
-          "gross": 700.0,
-          "sold": 2,
-          "totalSeats": 939
-        }
-      }
-    },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 22,
-          "gross": 4400.0,
-          "sold": 4,
-          "totalSeats": 3675
-        }
-      }
-    },
     "Wuthering Heights": {
       "formats": {
         "ET00005997": {
@@ -143,6 +143,18 @@
           "gross": 14000.0,
           "sold": 10,
           "totalSeats": 920
+        }
+      }
+    },
+    "Scream 7": {
+      "formats": {
+        "ET00006002": {
+          "format": "2D",
+          "language": "English",
+          "shows": 9,
+          "gross": 16750.0,
+          "sold": 8,
+          "totalSeats": 946
         }
       }
     },
@@ -163,22 +175,18 @@
         "ET00006010": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 7,
+          "shows": 10,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1041
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
+          "totalSeats": 1424
+        },
+        "ET00006015": {
           "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 3600.0,
-          "sold": 3,
-          "totalSeats": 222
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 249
         }
       }
     },
@@ -194,18 +202,6 @@
         }
       }
     },
-    "EPiC: Elvis Presley in Concert": {
-      "formats": {
-        "ET00005978": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 9200.0,
-          "sold": 4,
-          "totalSeats": 77
-        }
-      }
-    },
     "O' Romeo": {
       "formats": {
         "ET00005985": {
@@ -218,15 +214,27 @@
         }
       }
     },
-    "Scream 7": {
+    "The Housemaid": {
       "formats": {
-        "ET00006002": {
+        "ET00005954": {
           "format": "2D",
           "language": "English",
-          "shows": 9,
-          "gross": 10250.0,
-          "sold": 6,
-          "totalSeats": 946
+          "shows": 3,
+          "gross": 3600.0,
+          "sold": 3,
+          "totalSeats": 222
+        }
+      }
+    },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 9200.0,
+          "sold": 4,
+          "totalSeats": 77
         }
       }
     },
