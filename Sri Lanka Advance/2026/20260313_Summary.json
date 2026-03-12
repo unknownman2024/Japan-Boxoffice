@@ -1,36 +1,28 @@
 {
   "date": "20260313",
-  "lastUpdated": "04:51 AM, 12 March 2026",
+  "lastUpdated": "07:16 AM, 12 March 2026",
   "movies": {
-    " Father": {
+    "Dharmayuddhaya 2": {
       "formats": {
-        "ET00005963": {
+        "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 25,
-          "gross": 47200.0,
-          "sold": 35,
-          "totalSeats": 5014
+          "shows": 44,
+          "gross": 65500.0,
+          "sold": 67,
+          "totalSeats": 10547
         }
       }
     },
-    "Avatar: Fire and Ash": {
+    "Thaai Kizhavi": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 8,
-          "gross": 12400.0,
-          "sold": 9,
-          "totalSeats": 1326
-        },
-        "ET00005939": {
+        "ET00006000": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
+          "language": "Tamil",
+          "shows": 14,
+          "gross": 5200.0,
+          "sold": 4,
+          "totalSeats": 2650
         }
       }
     },
@@ -43,18 +35,6 @@
           "gross": 20000.0,
           "sold": 16,
           "totalSeats": 5104
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 101
         }
       }
     },
@@ -98,6 +78,18 @@
         }
       }
     },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 101
+        }
+      }
+    },
     "Sura Detuwo": {
       "formats": {
         "ET00006009": {
@@ -110,15 +102,15 @@
         }
       }
     },
-    "The Bride": {
+    "Scream 7": {
       "formats": {
-        "ET00006004": {
+        "ET00006002": {
           "format": "2D",
           "language": "English",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 843
+          "shows": 9,
+          "gross": 8450.0,
+          "sold": 5,
+          "totalSeats": 946
         }
       }
     },
@@ -146,15 +138,27 @@
         }
       }
     },
-    "EPiC: Elvis Presley in Concert": {
+    "The Bride": {
       "formats": {
-        "ET00005978": {
+        "ET00006004": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 843
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
           "format": "2D",
           "language": "English",
           "shows": 3,
-          "gross": 9200.0,
-          "sold": 4,
-          "totalSeats": 77
+          "gross": 3600.0,
+          "sold": 3,
+          "totalSeats": 222
         }
       }
     },
@@ -167,6 +171,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 33
+        }
+      }
+    },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 9200.0,
+          "sold": 4,
+          "totalSeats": 77
         }
       }
     },
@@ -194,51 +210,35 @@
         }
       }
     },
-    "Thaai Kizhavi": {
+    " Father": {
       "formats": {
-        "ET00006000": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 14,
-          "gross": 5200.0,
-          "sold": 4,
-          "totalSeats": 2650
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 3600.0,
-          "sold": 3,
-          "totalSeats": 222
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
+        "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 44,
-          "gross": 65500.0,
-          "sold": 67,
-          "totalSeats": 10547
+          "shows": 25,
+          "gross": 47200.0,
+          "sold": 35,
+          "totalSeats": 5014
         }
       }
     },
-    "Scream 7": {
+    "Avatar: Fire and Ash": {
       "formats": {
-        "ET00006002": {
+        "ET00005939": {
           "format": "2D",
           "language": "English",
-          "shows": 9,
-          "gross": 8450.0,
-          "sold": 5,
-          "totalSeats": 946
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 8,
+          "gross": 12400.0,
+          "sold": 9,
+          "totalSeats": 1326
         }
       }
     }
