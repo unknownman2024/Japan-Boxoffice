@@ -1,1 +1,81 @@
-[]
+[
+  {
+    "movie_id": "H2tbajrvASeefJpeWN3AAY",
+    "movie_name": "Laalimaa",
+    "total_shows": 2,
+    "seats": 422,
+    "sold": 0,
+    "reserved": 42,
+    "available": 380,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 0,
+        "reserved": 42,
+        "available": 237,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 1,
+        "seats": 143,
+        "sold": 0,
+        "reserved": 0,
+        "available": 143,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
+    "movie_name": "Scream 7",
+    "total_shows": 1,
+    "seats": 270,
+    "sold": 4,
+    "reserved": 50,
+    "available": 216,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 270,
+        "sold": 4,
+        "reserved": 50,
+        "available": 216,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "AUydcYx3SExYufvZtmZkUE",
+    "movie_name": "O Romeo",
+    "total_shows": 1,
+    "seats": 349,
+    "sold": 2,
+    "reserved": 50,
+    "available": 297,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 2,
+        "reserved": 50,
+        "available": 297,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  }
+]
