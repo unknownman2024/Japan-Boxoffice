@@ -1,6 +1,6 @@
 {
   "date": "2026-03-14",
-  "lastUpdated": "07:00 AM, 13 March 2026",
+  "lastUpdated": "10:14 AM, 13 March 2026",
   "shows": [
     {
       "movie_id": "H2tbajrvASeefJpeWN3AAY",
@@ -131,11 +131,11 @@
       "date": "2026-03-14T08:00:00+05:45",
       "time": "",
       "seats": 101,
-      "sold": 6,
+      "sold": 8,
       "reserved": 0,
-      "available": 95,
-      "gross": 1050,
-      "occupancy_percent": 5.94
+      "available": 93,
+      "gross": 1400,
+      "occupancy_percent": 7.92
     },
     {
       "movie_id": "H2tbajrvASeefJpeWN3AAY",
@@ -897,10 +897,10 @@
       "time": "",
       "seats": 259,
       "sold": 4,
-      "reserved": 0,
-      "available": 255,
-      "gross": 1760,
-      "occupancy_percent": 1.54
+      "reserved": 1,
+      "available": 254,
+      "gross": 2200,
+      "occupancy_percent": 1.93
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -2911,6 +2911,51 @@
       "available": 188,
       "gross": 2000,
       "occupancy_percent": 5.05
+    },
+    {
+      "movie_id": "H2tbajrvASeefJpeWN3AAY",
+      "movie_name": "Laalimaa",
+      "show_id": "12798:infinity-movies",
+      "venue": "infinity-movies",
+      "theatre": "Infinity Movies - Audi 1",
+      "date": "2026-03-14T19:30:00+05:45",
+      "time": "",
+      "seats": 181,
+      "sold": 0,
+      "reserved": 0,
+      "available": 181,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "H2tbajrvASeefJpeWN3AAY",
+      "movie_name": "Laalimaa",
+      "show_id": "12795:infinity-movies",
+      "venue": "infinity-movies",
+      "theatre": "Infinity Movies - Audi 1",
+      "date": "2026-03-14T11:00:00+05:45",
+      "time": "",
+      "seats": 181,
+      "sold": 0,
+      "reserved": 0,
+      "available": 181,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "H2tbajrvASeefJpeWN3AAY",
+      "movie_name": "Laalimaa",
+      "show_id": "12803:infinity-movies",
+      "venue": "infinity-movies",
+      "theatre": "Infinity Movies - Audi 2",
+      "date": "2026-03-14T14:30:00+05:45",
+      "time": "",
+      "seats": 154,
+      "sold": 0,
+      "reserved": 0,
+      "available": 154,
+      "gross": 0,
+      "occupancy_percent": 0.0
     }
   ]
 }
