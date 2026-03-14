@@ -1,6 +1,6 @@
 {
   "date": "2026-03-14",
-  "lastUpdated": "04:56 AM, 14 March 2026",
+  "lastUpdated": "07:20 AM, 14 March 2026",
   "shows": [
     {
       "movie_id": "H2tbajrvASeefJpeWN3AAY",
@@ -12,10 +12,10 @@
       "time": "",
       "seats": 101,
       "sold": 8,
-      "reserved": 0,
-      "available": 93,
-      "gross": 1400,
-      "occupancy_percent": 7.92
+      "reserved": 1,
+      "available": 92,
+      "gross": 1575,
+      "occupancy_percent": 8.91
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -27,10 +27,10 @@
       "time": "",
       "seats": 180,
       "sold": 0,
-      "reserved": 15,
-      "available": 165,
-      "gross": 3000,
-      "occupancy_percent": 8.33
+      "reserved": 0,
+      "available": 180,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -46,6 +46,126 @@
       "available": 143,
       "gross": 0,
       "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "H2tbajrvASeefJpeWN3AAY",
+      "movie_name": "Laalimaa",
+      "show_id": "46763:bsr-movies",
+      "venue": "bsr-movies",
+      "theatre": "BSR Movies - Atmos 1",
+      "date": "2026-03-14T08:30:00+05:45",
+      "time": "",
+      "seats": 192,
+      "sold": 1,
+      "reserved": 0,
+      "available": 191,
+      "gross": 200,
+      "occupancy_percent": 0.52
+    },
+    {
+      "movie_id": "H2tbajrvASeefJpeWN3AAY",
+      "movie_name": "Laalimaa",
+      "show_id": "4755:suvakamna-cinemas",
+      "venue": "suvakamna-cinemas",
+      "theatre": "Shuvakamana Cinema - Hall-A",
+      "date": "2026-03-14T09:15:00+05:45",
+      "time": "",
+      "seats": 190,
+      "sold": 0,
+      "reserved": 0,
+      "available": 190,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "H2tbajrvASeefJpeWN3AAY",
+      "movie_name": "Laalimaa",
+      "show_id": "703110:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-2",
+      "date": "2026-03-14T09:00:00+05:45",
+      "time": "",
+      "seats": 143,
+      "sold": 0,
+      "reserved": 1,
+      "available": 142,
+      "gross": 180,
+      "occupancy_percent": 0.7
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "129780:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Dine",
+      "date": "2026-03-14T09:45:00+05:45",
+      "time": "",
+      "seats": 60,
+      "sold": 0,
+      "reserved": 6,
+      "available": 54,
+      "gross": 3900,
+      "occupancy_percent": 10.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "61860:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 2",
+      "date": "2026-03-14T10:15:00+05:45",
+      "time": "",
+      "seats": 270,
+      "sold": 22,
+      "reserved": 51,
+      "available": 197,
+      "gross": 13505,
+      "occupancy_percent": 27.04
+    },
+    {
+      "movie_id": "vk98tTtEdoG2yVbmUsGHTY",
+      "movie_name": "Wuthering Heights",
+      "show_id": "61863:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 1",
+      "date": "2026-03-14T10:15:00+05:45",
+      "time": "",
+      "seats": 279,
+      "sold": 3,
+      "reserved": 42,
+      "available": 234,
+      "gross": 8325,
+      "occupancy_percent": 16.13
+    },
+    {
+      "movie_id": "AUydcYx3SExYufvZtmZkUE",
+      "movie_name": "O Romeo",
+      "show_id": "129783:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Theatre",
+      "date": "2026-03-14T10:40:00+05:45",
+      "time": "",
+      "seats": 169,
+      "sold": 0,
+      "reserved": 9,
+      "available": 160,
+      "gross": 1950,
+      "occupancy_percent": 5.33
+    },
+    {
+      "movie_id": "AUydcYx3SExYufvZtmZkUE",
+      "movie_name": "O Romeo",
+      "show_id": "61857:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 3",
+      "date": "2026-03-14T10:30:00+05:45",
+      "time": "",
+      "seats": 349,
+      "sold": 6,
+      "reserved": 50,
+      "available": 293,
+      "gross": 10360,
+      "occupancy_percent": 16.05
     }
   ]
 }
