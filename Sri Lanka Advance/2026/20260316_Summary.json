@@ -1,24 +1,16 @@
 {
   "date": "20260316",
-  "lastUpdated": "03:51 AM, 15 March 2026",
+  "lastUpdated": "04:53 AM, 15 March 2026",
   "movies": {
-    "Avatar: Fire and Ash": {
+    "Dharmayuddhaya 2": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1326
-        },
-        "ET00005939": {
+        "ET00005975": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
+          "language": "Sinhala",
+          "shows": 77,
+          "gross": 44050.0,
+          "sold": 85,
+          "totalSeats": 17178
         }
       }
     },
@@ -34,40 +26,8 @@
         }
       }
     },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 77,
-          "gross": 44050.0,
-          "sold": 85,
-          "totalSeats": 17178
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 46,
-          "gross": 18500.0,
-          "sold": 26,
-          "totalSeats": 9249
-        }
-      }
-    },
     "Hoppers": {
       "formats": {
-        "ET00006005": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 280
-        },
         "ET00006008": {
           "format": "3D",
           "language": "English",
@@ -75,18 +35,34 @@
           "gross": 11500.0,
           "sold": 11,
           "totalSeats": 2105
+        },
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 280
         }
       }
     },
-    "Malaki Duwe Numba": {
+    "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005955": {
+        "ET00005939": {
           "format": "2D",
-          "language": "Sinhala",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
           "shows": 8,
-          "gross": 1400.0,
-          "sold": 4,
-          "totalSeats": 1506
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1326
         }
       }
     },
@@ -102,23 +78,15 @@
         }
       }
     },
-    "Anthony": {
+    "Malaki Duwe Numba": {
       "formats": {
-        "ET00006010": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 10,
-          "gross": 800.0,
-          "sold": 1,
-          "totalSeats": 1598
-        },
-        "ET00006015": {
+        "ET00005955": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 226
+          "shows": 8,
+          "gross": 1400.0,
+          "sold": 4,
+          "totalSeats": 1506
         }
       }
     },
@@ -142,15 +110,23 @@
         }
       }
     },
-    "Wuthering Heights": {
+    "Anthony": {
       "formats": {
-        "ET00005997": {
+        "ET00006015": {
           "format": "2D",
-          "language": "English",
-          "shows": 7,
-          "gross": 11600.0,
-          "sold": 6,
-          "totalSeats": 887
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 226
+        },
+        "ET00006010": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 10,
+          "gross": 800.0,
+          "sold": 1,
+          "totalSeats": 1598
         }
       }
     },
@@ -163,6 +139,66 @@
           "gross": 5500.0,
           "sold": 5,
           "totalSeats": 844
+        }
+      }
+    },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 7,
+          "gross": 11600.0,
+          "sold": 6,
+          "totalSeats": 887
+        }
+      }
+    },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 28,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 5201
+        }
+      }
+    },
+    "O' Romeo": {
+      "formats": {
+        "ET00005985": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 4000.0,
+          "sold": 2,
+          "totalSeats": 33
+        }
+      }
+    },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 4400.0,
+          "sold": 2,
+          "totalSeats": 77
+        }
+      }
+    },
+    "The Bride": {
+      "formats": {
+        "ET00006004": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 843
         }
       }
     },
@@ -190,39 +226,15 @@
         }
       }
     },
-    "O' Romeo": {
+    "David": {
       "formats": {
-        "ET00005985": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 1,
-          "gross": 4000.0,
-          "sold": 2,
-          "totalSeats": 33
-        }
-      }
-    },
-    "The Bride": {
-      "formats": {
-        "ET00006004": {
+        "ET00005972": {
           "format": "2D",
           "language": "English",
-          "shows": 4,
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 843
-        }
-      }
-    },
-    "EPiC: Elvis Presley in Concert": {
-      "formats": {
-        "ET00005978": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 4400.0,
-          "sold": 2,
-          "totalSeats": 77
+          "totalSeats": 152
         }
       }
     },
@@ -238,27 +250,15 @@
         }
       }
     },
-    "David": {
+    "The Wife": {
       "formats": {
-        "ET00005972": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 152
-        }
-      }
-    },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
+        "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 28,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 5201
+          "shows": 46,
+          "gross": 18500.0,
+          "sold": 26,
+          "totalSeats": 9249
         }
       }
     }
