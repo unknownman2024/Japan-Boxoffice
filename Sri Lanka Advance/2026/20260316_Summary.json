@@ -1,7 +1,39 @@
 {
   "date": "20260316",
-  "lastUpdated": "02:53 AM, 15 March 2026",
+  "lastUpdated": "03:51 AM, 15 March 2026",
   "movies": {
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1326
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 39,
+          "gross": 15000.0,
+          "sold": 19,
+          "totalSeats": 8277
+        }
+      }
+    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
@@ -11,26 +43,6 @@
           "gross": 44050.0,
           "sold": 85,
           "totalSeats": 17178
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1326
         }
       }
     },
@@ -48,14 +60,6 @@
     },
     "Hoppers": {
       "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 17,
-          "gross": 11500.0,
-          "sold": 11,
-          "totalSeats": 2105
-        },
         "ET00006005": {
           "format": "2D",
           "language": "English",
@@ -63,6 +67,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 280
+        },
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 17,
+          "gross": 11500.0,
+          "sold": 11,
+          "totalSeats": 2105
         }
       }
     },
@@ -92,14 +104,6 @@
     },
     "Anthony": {
       "formats": {
-        "ET00006015": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 226
-        },
         "ET00006010": {
           "format": "2D",
           "language": "Tamil",
@@ -107,6 +111,14 @@
           "gross": 800.0,
           "sold": 1,
           "totalSeats": 1598
+        },
+        "ET00006015": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 226
         }
       }
     },
@@ -130,15 +142,15 @@
         }
       }
     },
-    "Sura Detuwo": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00006009": {
+        "ET00005997": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 28,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 5201
+          "language": "English",
+          "shows": 7,
+          "gross": 11600.0,
+          "sold": 6,
+          "totalSeats": 887
         }
       }
     },
@@ -151,18 +163,6 @@
           "gross": 5500.0,
           "sold": 5,
           "totalSeats": 844
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 7,
-          "gross": 11600.0,
-          "sold": 6,
-          "totalSeats": 887
         }
       }
     },
@@ -202,18 +202,6 @@
         }
       }
     },
-    "EPiC: Elvis Presley in Concert": {
-      "formats": {
-        "ET00005978": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 4400.0,
-          "sold": 2,
-          "totalSeats": 77
-        }
-      }
-    },
     "The Bride": {
       "formats": {
         "ET00006004": {
@@ -223,6 +211,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 843
+        }
+      }
+    },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 4400.0,
+          "sold": 2,
+          "totalSeats": 77
         }
       }
     },
@@ -250,15 +250,15 @@
         }
       }
     },
-    " Father": {
+    "Sura Detuwo": {
       "formats": {
-        "ET00005963": {
+        "ET00006009": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 39,
-          "gross": 15000.0,
-          "sold": 19,
-          "totalSeats": 8277
+          "shows": 28,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 5201
         }
       }
     }
