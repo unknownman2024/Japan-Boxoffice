@@ -1,53 +1,41 @@
 {
   "date": "20260316",
-  "lastUpdated": "03:00 PM, 15 March 2026",
+  "lastUpdated": "03:55 PM, 15 March 2026",
   "movies": {
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 81,
-          "gross": 88250.0,
-          "sold": 177,
-          "totalSeats": 17876
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1326
-        },
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
-        }
-      }
-    },
     "The Wife": {
       "formats": {
         "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 48,
-          "gross": 20700.0,
-          "sold": 32,
+          "gross": 22300.0,
+          "sold": 36,
           "totalSeats": 9557
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 81,
+          "gross": 87900.0,
+          "sold": 178,
+          "totalSeats": 17876
         }
       }
     },
     "Hoppers": {
       "formats": {
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 18,
+          "gross": 38700.0,
+          "sold": 27,
+          "totalSeats": 2257
+        },
         "ET00006005": {
           "format": "2D",
           "language": "English",
@@ -55,14 +43,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 280
-        },
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 18,
-          "gross": 30100.0,
-          "sold": 23,
-          "totalSeats": 2257
         }
       }
     },
@@ -86,35 +66,15 @@
         }
       }
     },
-    "Malaki Duwe Numba": {
+    "Thaai Kizhavi": {
       "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 8,
-          "gross": 2100.0,
-          "sold": 6,
-          "totalSeats": 1506
-        }
-      }
-    },
-    "Anthony": {
-      "formats": {
-        "ET00006015": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 226
-        },
-        "ET00006010": {
+        "ET00006000": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 10,
-          "gross": 800.0,
-          "sold": 1,
-          "totalSeats": 1598
+          "shows": 20,
+          "gross": 10050.0,
+          "sold": 12,
+          "totalSeats": 4090
         }
       }
     },
@@ -142,6 +102,50 @@
         }
       }
     },
+    "Anthony": {
+      "formats": {
+        "ET00006015": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 226
+        },
+        "ET00006010": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 10,
+          "gross": 1700.0,
+          "sold": 2,
+          "totalSeats": 1598
+        }
+      }
+    },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 28,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 5201
+        }
+      }
+    },
+    "Vadam": {
+      "formats": {
+        "ET00006007": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 552
+        }
+      }
+    },
     "The Housemaid": {
       "formats": {
         "ET00005954": {
@@ -151,18 +155,6 @@
           "gross": 2200.0,
           "sold": 2,
           "totalSeats": 232
-        }
-      }
-    },
-    "EPiC: Elvis Presley in Concert": {
-      "formats": {
-        "ET00005978": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 4400.0,
-          "sold": 2,
-          "totalSeats": 77
         }
       }
     },
@@ -202,18 +194,6 @@
         }
       }
     },
-    "Vadam": {
-      "formats": {
-        "ET00006007": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 552
-        }
-      }
-    },
     "David": {
       "formats": {
         "ET00005972": {
@@ -226,27 +206,35 @@
         }
       }
     },
-    "Thaai Kizhavi": {
+    "EPiC: Elvis Presley in Concert": {
       "formats": {
-        "ET00006000": {
+        "ET00005978": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 20,
-          "gross": 11400.0,
-          "sold": 15,
-          "totalSeats": 4090
+          "language": "English",
+          "shows": 3,
+          "gross": 4400.0,
+          "sold": 2,
+          "totalSeats": 77
         }
       }
     },
-    "Sura Detuwo": {
+    "Avatar: Fire and Ash": {
       "formats": {
-        "ET00006009": {
+        "ET00005939": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 28,
+          "language": "English",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 5201
+          "totalSeats": 143
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1326
         }
       }
     },
@@ -259,6 +247,18 @@
           "gross": 16100.0,
           "sold": 21,
           "totalSeats": 8583
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 8,
+          "gross": 3700.0,
+          "sold": 9,
+          "totalSeats": 1506
         }
       }
     }
