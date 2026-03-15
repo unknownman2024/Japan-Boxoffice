@@ -1,16 +1,36 @@
 {
   "date": "20260316",
-  "lastUpdated": "07:30 AM, 15 March 2026",
+  "lastUpdated": "10:08 AM, 15 March 2026",
   "movies": {
-    "Dharmayuddhaya 2": {
+    "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005975": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1326
+        },
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 77,
-          "gross": 44050.0,
-          "sold": 85,
-          "totalSeats": 17178
+          "shows": 39,
+          "gross": 16100.0,
+          "sold": 21,
+          "totalSeats": 8277
         }
       }
     },
@@ -23,38 +43,6 @@
           "gross": 18500.0,
           "sold": 26,
           "totalSeats": 9249
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1326
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 39,
-          "gross": 15000.0,
-          "sold": 19,
-          "totalSeats": 8277
         }
       }
     },
@@ -72,6 +60,14 @@
     },
     "Hoppers": {
       "formats": {
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 17,
+          "gross": 18100.0,
+          "sold": 14,
+          "totalSeats": 2105
+        },
         "ET00006005": {
           "format": "2D",
           "language": "English",
@@ -79,27 +75,23 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 280
-        },
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 17,
-          "gross": 11500.0,
-          "sold": 11,
-          "totalSeats": 2105
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 18,
+          "gross": 6000.0,
+          "sold": 6,
+          "totalSeats": 3786
         }
       }
     },
     "Zootopia 2": {
       "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 180
-        },
         "ET00005925": {
           "format": "2D",
           "language": "English",
@@ -107,6 +99,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 152
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 180
         }
       }
     },
@@ -130,18 +130,6 @@
         }
       }
     },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 28,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 5201
-        }
-      }
-    },
     "The Housemaid": {
       "formats": {
         "ET00005954": {
@@ -154,18 +142,6 @@
         }
       }
     },
-    "Scream 7": {
-      "formats": {
-        "ET00006002": {
-          "format": "2D",
-          "language": "English",
-          "shows": 8,
-          "gross": 5500.0,
-          "sold": 5,
-          "totalSeats": 844
-        }
-      }
-    },
     "Wuthering Heights": {
       "formats": {
         "ET00005997": {
@@ -175,6 +151,42 @@
           "gross": 11600.0,
           "sold": 6,
           "totalSeats": 887
+        }
+      }
+    },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 28,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 5201
+        }
+      }
+    },
+    "Vadam": {
+      "formats": {
+        "ET00006007": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 552
+        }
+      }
+    },
+    "Scream 7": {
+      "formats": {
+        "ET00006002": {
+          "format": "2D",
+          "language": "English",
+          "shows": 8,
+          "gross": 5500.0,
+          "sold": 5,
+          "totalSeats": 844
         }
       }
     },
@@ -202,30 +214,6 @@
         }
       }
     },
-    "Vadam": {
-      "formats": {
-        "ET00006007": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 552
-        }
-      }
-    },
-    "The Bride": {
-      "formats": {
-        "ET00006004": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 843
-        }
-      }
-    },
     "David": {
       "formats": {
         "ET00005972": {
@@ -250,15 +238,27 @@
         }
       }
     },
-    "Thaai Kizhavi": {
+    "The Bride": {
       "formats": {
-        "ET00006000": {
+        "ET00006004": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 18,
-          "gross": 6000.0,
-          "sold": 6,
-          "totalSeats": 3786
+          "language": "English",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 843
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 77,
+          "gross": 54150.0,
+          "sold": 109,
+          "totalSeats": 17178
         }
       }
     }
