@@ -1,7 +1,39 @@
 {
   "date": "20260318",
-  "lastUpdated": "03:58 AM, 17 March 2026",
+  "lastUpdated": "04:58 AM, 17 March 2026",
   "movies": {
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005939": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1114
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 52,
+          "gross": 6900.0,
+          "sold": 11,
+          "totalSeats": 9958
+        }
+      }
+    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
@@ -14,38 +46,6 @@
         }
       }
     },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1114
-        },
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 52,
-          "gross": 6000.0,
-          "sold": 9,
-          "totalSeats": 9958
-        }
-      }
-    },
     " Father": {
       "formats": {
         "ET00005963": {
@@ -55,6 +55,18 @@
           "gross": 6500.0,
           "sold": 9,
           "totalSeats": 8762
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 8,
+          "gross": 4600.0,
+          "sold": 12,
+          "totalSeats": 1506
         }
       }
     },
@@ -110,6 +122,30 @@
         }
       }
     },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 51,
+          "gross": 4200.0,
+          "sold": 6,
+          "totalSeats": 5856
+        }
+      }
+    },
+    "Scream 7": {
+      "formats": {
+        "ET00006002": {
+          "format": "2D",
+          "language": "English",
+          "shows": 7,
+          "gross": 4500.0,
+          "sold": 2,
+          "totalSeats": 692
+        }
+      }
+    },
     "Anthony": {
       "formats": {
         "ET00006010": {
@@ -130,30 +166,6 @@
         }
       }
     },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 8,
-          "gross": 4600.0,
-          "sold": 12,
-          "totalSeats": 1506
-        }
-      }
-    },
-    "Scream 7": {
-      "formats": {
-        "ET00006002": {
-          "format": "2D",
-          "language": "English",
-          "shows": 7,
-          "gross": 4500.0,
-          "sold": 2,
-          "totalSeats": 692
-        }
-      }
-    },
     "The Housemaid": {
       "formats": {
         "ET00005954": {
@@ -163,18 +175,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 210
-        }
-      }
-    },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 51,
-          "gross": 4200.0,
-          "sold": 6,
-          "totalSeats": 5856
         }
       }
     },
@@ -190,18 +190,6 @@
         }
       }
     },
-    "EPiC: Elvis Presley in Concert": {
-      "formats": {
-        "ET00005978": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 55
-        }
-      }
-    },
     "Vadam": {
       "formats": {
         "ET00006007": {
@@ -211,6 +199,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 552
+        }
+      }
+    },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 55
         }
       }
     },
@@ -226,18 +226,6 @@
         }
       }
     },
-    "David": {
-      "formats": {
-        "ET00005972": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 4000.0,
-          "sold": 4,
-          "totalSeats": 152
-        }
-      }
-    },
     "Crime 101": {
       "formats": {
         "ET00005994": {
@@ -247,6 +235,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 22
+        }
+      }
+    },
+    "David": {
+      "formats": {
+        "ET00005972": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 4000.0,
+          "sold": 4,
+          "totalSeats": 152
         }
       }
     }
