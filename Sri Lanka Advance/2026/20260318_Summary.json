@@ -1,6 +1,6 @@
 {
   "date": "20260318",
-  "lastUpdated": "12:31 AM, 17 March 2026",
+  "lastUpdated": "02:04 AM, 17 March 2026",
   "movies": {
     "Dharmayuddhaya 2": {
       "formats": {
@@ -11,38 +11,6 @@
           "gross": 48500.0,
           "sold": 77,
           "totalSeats": 19481
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
-        },
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1114
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 52,
-          "gross": 6600.0,
-          "sold": 11,
-          "totalSeats": 9958
         }
       }
     },
@@ -130,30 +98,6 @@
         }
       }
     },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 210
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 6,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 854
-        }
-      }
-    },
     "Sura Detuwo": {
       "formats": {
         "ET00006009": {
@@ -163,6 +107,30 @@
           "gross": 4200.0,
           "sold": 6,
           "totalSeats": 5856
+        }
+      }
+    },
+    "Vadam": {
+      "formats": {
+        "ET00006007": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 552
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 210
         }
       }
     },
@@ -190,27 +158,15 @@
         }
       }
     },
-    "Vadam": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00006007": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 552
-        }
-      }
-    },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
+        "ET00005997": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 22
+          "shows": 6,
+          "gross": 2400.0,
+          "sold": 2,
+          "totalSeats": 854
         }
       }
     },
@@ -226,15 +182,35 @@
         }
       }
     },
-    "Scream 7": {
+    "The Wife": {
       "formats": {
-        "ET00006002": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 52,
+          "gross": 6000.0,
+          "sold": 9,
+          "totalSeats": 9958
+        }
+      }
+    },
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1114
+        },
+        "ET00005939": {
           "format": "2D",
           "language": "English",
-          "shows": 7,
-          "gross": 4500.0,
-          "sold": 2,
-          "totalSeats": 692
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143
         }
       }
     },
@@ -247,6 +223,30 @@
           "gross": 6500.0,
           "sold": 9,
           "totalSeats": 8762
+        }
+      }
+    },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 22
+        }
+      }
+    },
+    "Scream 7": {
+      "formats": {
+        "ET00006002": {
+          "format": "2D",
+          "language": "English",
+          "shows": 7,
+          "gross": 4500.0,
+          "sold": 2,
+          "totalSeats": 692
         }
       }
     }
