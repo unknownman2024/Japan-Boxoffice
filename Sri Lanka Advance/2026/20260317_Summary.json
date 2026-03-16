@@ -1,27 +1,7 @@
 {
   "date": "20260317",
-  "lastUpdated": "04:54 AM, 16 March 2026",
+  "lastUpdated": "07:31 AM, 16 March 2026",
   "movies": {
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 9,
-          "gross": 6200.0,
-          "sold": 2,
-          "totalSeats": 1419
-        },
-        "ET00005939": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
-        }
-      }
-    },
     " Father": {
       "formats": {
         "ET00005963": {
@@ -46,18 +26,6 @@
         }
       }
     },
-    "Thaai Kizhavi": {
-      "formats": {
-        "ET00006000": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 19,
-          "gross": 5600.0,
-          "sold": 7,
-          "totalSeats": 3811
-        }
-      }
-    },
     "Malaki Duwe Numba": {
       "formats": {
         "ET00005955": {
@@ -67,26 +35,6 @@
           "gross": 2800.0,
           "sold": 8,
           "totalSeats": 1506
-        }
-      }
-    },
-    "Hoppers": {
-      "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 18,
-          "gross": 15600.0,
-          "sold": 9,
-          "totalSeats": 2257
-        },
-        "ET00006005": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 280
         }
       }
     },
@@ -110,15 +58,23 @@
         }
       }
     },
-    "The Wife": {
+    "Hoppers": {
       "formats": {
-        "ET00005992": {
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 18,
+          "gross": 15600.0,
+          "sold": 9,
+          "totalSeats": 2257
+        },
+        "ET00006005": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 51,
-          "gross": 12550.0,
-          "sold": 18,
-          "totalSeats": 10033
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 280
         }
       }
     },
@@ -139,6 +95,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 226
+        }
+      }
+    },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 32,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 5856
         }
       }
     },
@@ -166,27 +134,27 @@
         }
       }
     },
-    "Sura Detuwo": {
+    "The Housemaid": {
       "formats": {
-        "ET00006009": {
+        "ET00005954": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 32,
+          "language": "English",
+          "shows": 3,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 5856
+          "totalSeats": 232
         }
       }
     },
-    "O' Romeo": {
+    "Vadam": {
       "formats": {
-        "ET00005985": {
+        "ET00006007": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 1,
+          "language": "Tamil",
+          "shows": 3,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 33
+          "totalSeats": 552
         }
       }
     },
@@ -214,18 +182,6 @@
         }
       }
     },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 44
-        }
-      }
-    },
     "David": {
       "formats": {
         "ET00005972": {
@@ -238,27 +194,71 @@
         }
       }
     },
-    "The Housemaid": {
+    "O' Romeo": {
       "formats": {
-        "ET00005954": {
+        "ET00005985": {
           "format": "2D",
-          "language": "English",
-          "shows": 3,
+          "language": "Hindi",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 232
+          "totalSeats": 33
         }
       }
     },
-    "Vadam": {
+    "Avatar: Fire and Ash": {
       "formats": {
-        "ET00006007": {
+        "ET00005939": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
+          "language": "English",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 552
+          "totalSeats": 143
+        },
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 9,
+          "gross": 6200.0,
+          "sold": 2,
+          "totalSeats": 1419
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 19,
+          "gross": 5600.0,
+          "sold": 7,
+          "totalSeats": 3811
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 51,
+          "gross": 12550.0,
+          "sold": 18,
+          "totalSeats": 10033
+        }
+      }
+    },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 44
         }
       }
     }
