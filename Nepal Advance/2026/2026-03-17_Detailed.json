@@ -1,6 +1,6 @@
 {
   "date": "2026-03-17",
-  "lastUpdated": "07:26 AM, 16 March 2026",
+  "lastUpdated": "10:42 AM, 16 March 2026",
   "shows": [
     {
       "movie_id": "H2tbajrvASeefJpeWN3AAY",
@@ -56,11 +56,11 @@
       "date": "2026-03-17T15:00:00+05:45",
       "time": "",
       "seats": 101,
-      "sold": 0,
+      "sold": 7,
       "reserved": 0,
-      "available": 101,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 94,
+      "gross": 1225,
+      "occupancy_percent": 6.93
     },
     {
       "movie_id": "H2tbajrvASeefJpeWN3AAY",
@@ -461,11 +461,11 @@
       "date": "2026-03-17T18:00:00+05:45",
       "time": "",
       "seats": 101,
-      "sold": 0,
+      "sold": 5,
       "reserved": 0,
-      "available": 101,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 96,
+      "gross": 875,
+      "occupancy_percent": 4.95
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -926,11 +926,11 @@
       "date": "2026-03-17T12:00:00+05:45",
       "time": "",
       "seats": 101,
-      "sold": 0,
+      "sold": 5,
       "reserved": 0,
-      "available": 101,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 96,
+      "gross": 875,
+      "occupancy_percent": 4.95
     },
     {
       "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
@@ -1334,6 +1334,96 @@
       "sold": 0,
       "reserved": 0,
       "available": 198,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "H2tbajrvASeefJpeWN3AAY",
+      "movie_name": "Laalimaa",
+      "show_id": "159728:pokhara-cineplex",
+      "venue": "pokhara-cineplex",
+      "theatre": "QFX Cinemas Trade Mall - SCREEN 2",
+      "date": "2026-03-17T16:00:00+05:45",
+      "time": "",
+      "seats": 231,
+      "sold": 0,
+      "reserved": 0,
+      "available": 231,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "159725:pokhara-cineplex",
+      "venue": "pokhara-cineplex",
+      "theatre": "QFX Cinemas Trade Mall - SCREEN 1",
+      "date": "2026-03-17T12:15:00+05:45",
+      "time": "",
+      "seats": 342,
+      "sold": 0,
+      "reserved": 0,
+      "available": 342,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "159727:pokhara-cineplex",
+      "venue": "pokhara-cineplex",
+      "theatre": "QFX Cinemas Trade Mall - SCREEN 1",
+      "date": "2026-03-17T15:30:00+05:45",
+      "time": "",
+      "seats": 342,
+      "sold": 0,
+      "reserved": 0,
+      "available": 342,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "159726:pokhara-cineplex",
+      "venue": "pokhara-cineplex",
+      "theatre": "QFX Cinemas Trade Mall - SCREEN 1",
+      "date": "2026-03-17T18:45:00+05:45",
+      "time": "",
+      "seats": 342,
+      "sold": 0,
+      "reserved": 0,
+      "available": 342,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "AUydcYx3SExYufvZtmZkUE",
+      "movie_name": "O Romeo",
+      "show_id": "159729:pokhara-cineplex",
+      "venue": "pokhara-cineplex",
+      "theatre": "QFX Cinemas Trade Mall - SCREEN 2",
+      "date": "2026-03-17T12:30:00+05:45",
+      "time": "",
+      "seats": 231,
+      "sold": 0,
+      "reserved": 10,
+      "available": 221,
+      "gross": 2000,
+      "occupancy_percent": 4.33
+    },
+    {
+      "movie_id": "AUydcYx3SExYufvZtmZkUE",
+      "movie_name": "O Romeo",
+      "show_id": "159730:pokhara-cineplex",
+      "venue": "pokhara-cineplex",
+      "theatre": "QFX Cinemas Trade Mall - SCREEN 2",
+      "date": "2026-03-17T18:30:00+05:45",
+      "time": "",
+      "seats": 231,
+      "sold": 0,
+      "reserved": 0,
+      "available": 231,
       "gross": 0,
       "occupancy_percent": 0.0
     }
