@@ -1,16 +1,16 @@
 {
   "date": "20260317",
-  "lastUpdated": "12:40 PM, 16 March 2026",
+  "lastUpdated": "02:21 PM, 16 March 2026",
   "movies": {
-    " Father": {
+    "Dharmayuddhaya 2": {
       "formats": {
-        "ET00005963": {
+        "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 45,
-          "gross": 9000.0,
-          "sold": 13,
-          "totalSeats": 8762
+          "shows": 103,
+          "gross": 71600.0,
+          "sold": 118,
+          "totalSeats": 19481
         }
       }
     },
@@ -34,39 +34,59 @@
         }
       }
     },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 103,
-          "gross": 48700.0,
-          "sold": 76,
-          "totalSeats": 19481
-        }
-      }
-    },
     "The Wife": {
       "formats": {
         "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 53,
-          "gross": 18350.0,
-          "sold": 27,
-          "totalSeats": 10158
+          "shows": 52,
+          "gross": 19250.0,
+          "sold": 29,
+          "totalSeats": 9958
         }
       }
     },
-    "Thaai Kizhavi": {
+    " Father": {
       "formats": {
-        "ET00006000": {
+        "ET00005963": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 25,
-          "gross": 7200.0,
-          "sold": 9,
-          "totalSeats": 4061
+          "language": "Sinhala",
+          "shows": 45,
+          "gross": 9000.0,
+          "sold": 13,
+          "totalSeats": 8762
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 8,
+          "gross": 4200.0,
+          "sold": 12,
+          "totalSeats": 1506
+        }
+      }
+    },
+    "Hoppers": {
+      "formats": {
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 18,
+          "gross": 17600.0,
+          "sold": 11,
+          "totalSeats": 2257
+        },
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 280
         }
       }
     },
@@ -110,18 +130,6 @@
         }
       }
     },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 8,
-          "gross": 2800.0,
-          "sold": 8,
-          "totalSeats": 1506
-        }
-      }
-    },
     "Sura Detuwo": {
       "formats": {
         "ET00006009": {
@@ -146,6 +154,18 @@
         }
       }
     },
+    "Scream 7": {
+      "formats": {
+        "ET00006002": {
+          "format": "2D",
+          "language": "English",
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 844
+        }
+      }
+    },
     "The Housemaid": {
       "formats": {
         "ET00005954": {
@@ -155,6 +175,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 232
+        }
+      }
+    },
+    "Vadam": {
+      "formats": {
+        "ET00006007": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 552
         }
       }
     },
@@ -170,71 +202,15 @@
         }
       }
     },
-    "Hoppers": {
+    "Thaai Kizhavi": {
       "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 18,
-          "gross": 17600.0,
-          "sold": 11,
-          "totalSeats": 2257
-        },
-        "ET00006005": {
+        "ET00006000": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 280
-        }
-      }
-    },
-    "Scream 7": {
-      "formats": {
-        "ET00006002": {
-          "format": "2D",
-          "language": "English",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 844
-        }
-      }
-    },
-    "The Bride": {
-      "formats": {
-        "ET00006004": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 15500.0,
-          "sold": 5,
-          "totalSeats": 843
-        }
-      }
-    },
-    "David": {
-      "formats": {
-        "ET00005972": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 152
-        }
-      }
-    },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 44
+          "language": "Tamil",
+          "shows": 25,
+          "gross": 7200.0,
+          "sold": 9,
+          "totalSeats": 4061
         }
       }
     },
@@ -250,15 +226,39 @@
         }
       }
     },
-    "Vadam": {
+    "The Bride": {
       "formats": {
-        "ET00006007": {
+        "ET00006004": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
+          "language": "English",
+          "shows": 4,
+          "gross": 15500.0,
+          "sold": 5,
+          "totalSeats": 843
+        }
+      }
+    },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 552
+          "totalSeats": 44
+        }
+      }
+    },
+    "David": {
+      "formats": {
+        "ET00005972": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 152
         }
       }
     }
