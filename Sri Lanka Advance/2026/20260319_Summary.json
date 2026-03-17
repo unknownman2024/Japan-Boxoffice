@@ -1,19 +1,7 @@
 {
   "date": "20260319",
-  "lastUpdated": "03:03 AM, 18 March 2026",
+  "lastUpdated": "03:58 AM, 18 March 2026",
   "movies": {
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 91,
-          "gross": 35900.0,
-          "sold": 53,
-          "totalSeats": 17378
-        }
-      }
-    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005938": {
@@ -26,27 +14,27 @@
         }
       }
     },
-    "The Wife": {
+    " Father": {
       "formats": {
-        "ET00005992": {
+        "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 46,
-          "gross": 1700.0,
-          "sold": 4,
-          "totalSeats": 9036
+          "shows": 41,
+          "gross": 9900.0,
+          "sold": 13,
+          "totalSeats": 8139
         }
       }
     },
-    "Malaki Duwe Numba": {
+    "Dharmayuddhaya 2": {
       "formats": {
-        "ET00005955": {
+        "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 7,
-          "gross": 1400.0,
-          "sold": 4,
-          "totalSeats": 1405
+          "shows": 91,
+          "gross": 35900.0,
+          "sold": 53,
+          "totalSeats": 17378
         }
       }
     },
@@ -64,14 +52,6 @@
     },
     "Hoppers": {
       "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 17,
-          "gross": 11400.0,
-          "sold": 8,
-          "totalSeats": 2255
-        },
         "ET00006005": {
           "format": "2D",
           "language": "English",
@@ -79,19 +59,31 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 280
+        },
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 17,
+          "gross": 9400.0,
+          "sold": 6,
+          "totalSeats": 2255
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 7,
+          "gross": 1400.0,
+          "sold": 4,
+          "totalSeats": 1405
         }
       }
     },
     "Zootopia 2": {
       "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 180
-        },
         "ET00005925": {
           "format": "2D",
           "language": "English",
@@ -99,18 +91,26 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 152
+        },
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 180
         }
       }
     },
-    "Sura Detuwo": {
+    "Scream 7": {
       "formats": {
-        "ET00006009": {
+        "ET00006002": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 47,
-          "gross": 2600.0,
-          "sold": 10,
-          "totalSeats": 5063
+          "language": "English",
+          "shows": 6,
+          "gross": 21600.0,
+          "sold": 18,
+          "totalSeats": 781
         }
       }
     },
@@ -134,30 +134,6 @@
         }
       }
     },
-    "Scream 7": {
-      "formats": {
-        "ET00006002": {
-          "format": "2D",
-          "language": "English",
-          "shows": 6,
-          "gross": 21600.0,
-          "sold": 18,
-          "totalSeats": 781
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 7200.0,
-          "sold": 6,
-          "totalSeats": 758
-        }
-      }
-    },
     "The Housemaid": {
       "formats": {
         "ET00005954": {
@@ -167,6 +143,18 @@
           "gross": 4600.0,
           "sold": 2,
           "totalSeats": 121
+        }
+      }
+    },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 47,
+          "gross": 2600.0,
+          "sold": 10,
+          "totalSeats": 5063
         }
       }
     },
@@ -182,18 +170,6 @@
         }
       }
     },
-    "Vadam": {
-      "formats": {
-        "ET00006007": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 552
-        }
-      }
-    },
     "Youth": {
       "formats": {
         "ET00006019": {
@@ -206,15 +182,15 @@
         }
       }
     },
-    "The Bride": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00006004": {
+        "ET00005997": {
           "format": "2D",
           "language": "English",
-          "shows": 2,
-          "gross": 3100.0,
-          "sold": 1,
-          "totalSeats": 610
+          "shows": 5,
+          "gross": 7200.0,
+          "sold": 6,
+          "totalSeats": 758
         }
       }
     },
@@ -230,6 +206,30 @@
         }
       }
     },
+    "Vadam": {
+      "formats": {
+        "ET00006007": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 552
+        }
+      }
+    },
+    "The Bride": {
+      "formats": {
+        "ET00006004": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 3100.0,
+          "sold": 1,
+          "totalSeats": 610
+        }
+      }
+    },
     "Crime 101": {
       "formats": {
         "ET00005994": {
@@ -242,15 +242,15 @@
         }
       }
     },
-    " Father": {
+    "The Wife": {
       "formats": {
-        "ET00005963": {
+        "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 41,
-          "gross": 9900.0,
-          "sold": 13,
-          "totalSeats": 8139
+          "shows": 46,
+          "gross": 1700.0,
+          "sold": 4,
+          "totalSeats": 9036
         }
       }
     }
