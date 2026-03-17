@@ -1,6 +1,6 @@
 {
   "date": "2026-03-18",
-  "lastUpdated": "12:33 PM, 17 March 2026",
+  "lastUpdated": "03:23 PM, 17 March 2026",
   "shows": [
     {
       "movie_id": "H2tbajrvASeefJpeWN3AAY",
@@ -311,11 +311,11 @@
       "date": "2026-03-18T12:00:00+05:45",
       "time": "",
       "seats": 169,
-      "sold": 0,
+      "sold": 9,
       "reserved": 0,
-      "available": 169,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 160,
+      "gross": 1350,
+      "occupancy_percent": 5.33
     },
     {
       "movie_id": "H2tbajrvASeefJpeWN3AAY",
@@ -402,10 +402,10 @@
       "time": "",
       "seats": 177,
       "sold": 0,
-      "reserved": 2,
-      "available": 175,
-      "gross": 400,
-      "occupancy_percent": 1.13
+      "reserved": 0,
+      "available": 177,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -582,10 +582,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 13,
-      "available": 199,
-      "gross": 3250,
-      "occupancy_percent": 6.13
+      "reserved": 16,
+      "available": 196,
+      "gross": 4000,
+      "occupancy_percent": 7.55
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -846,16 +846,18 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "3620:kirtipur-cineplex",
-      "venue": "kirtipur-cineplex",
-      "theatre": "Kirtipur Cineplex - Audi-2",
-      "date": "2026-03-18T18:00:00+05:45",
-      "time": "",
-      "seats": 101,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-18",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 101,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1362,10 +1364,10 @@
       "time": "",
       "seats": 112,
       "sold": 0,
-      "reserved": 1,
-      "available": 111,
-      "gross": 390,
-      "occupancy_percent": 0.89
+      "reserved": 0,
+      "available": 112,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "vk98tTtEdoG2yVbmUsGHTY",
@@ -1842,10 +1844,10 @@
       "time": "",
       "seats": 133,
       "sold": 0,
-      "reserved": 0,
-      "available": 133,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 4,
+      "available": 129,
+      "gross": 1120,
+      "occupancy_percent": 3.01
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -1887,10 +1889,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 10,
-      "available": 200,
-      "gross": 2000,
-      "occupancy_percent": 4.76
+      "reserved": 13,
+      "available": 197,
+      "gross": 2600,
+      "occupancy_percent": 6.19
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -1962,10 +1964,10 @@
       "time": "",
       "seats": 198,
       "sold": 0,
-      "reserved": 10,
-      "available": 188,
-      "gross": 2000,
-      "occupancy_percent": 5.05
+      "reserved": 12,
+      "available": 186,
+      "gross": 2400,
+      "occupancy_percent": 6.06
     },
     {
       "movie_id": "H2tbajrvASeefJpeWN3AAY",
@@ -2007,10 +2009,10 @@
       "time": "",
       "seats": 279,
       "sold": 0,
-      "reserved": 44,
-      "available": 235,
-      "gross": 8140,
-      "occupancy_percent": 15.77
+      "reserved": 42,
+      "available": 237,
+      "gross": 7770,
+      "occupancy_percent": 15.05
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -2036,11 +2038,11 @@
       "date": "2026-03-18T14:15:00+05:45",
       "time": "",
       "seats": 270,
-      "sold": 0,
+      "sold": 4,
       "reserved": 50,
-      "available": 220,
-      "gross": 9250,
-      "occupancy_percent": 18.52
+      "available": 216,
+      "gross": 9990,
+      "occupancy_percent": 20.0
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -2067,10 +2069,10 @@
       "time": "",
       "seats": 342,
       "sold": 0,
-      "reserved": 4,
-      "available": 338,
-      "gross": 800,
-      "occupancy_percent": 1.17
+      "reserved": 0,
+      "available": 342,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -2276,11 +2278,11 @@
       "date": "2026-03-18T12:15:00+05:45",
       "time": "",
       "seats": 176,
-      "sold": 0,
+      "sold": 1,
       "reserved": 18,
-      "available": 158,
-      "gross": 3600,
-      "occupancy_percent": 10.23
+      "available": 157,
+      "gross": 3800,
+      "occupancy_percent": 10.8
     },
     {
       "movie_id": "H2tbajrvASeefJpeWN3AAY",
@@ -2727,10 +2729,10 @@
       "time": "",
       "seats": 219,
       "sold": 0,
-      "reserved": 0,
-      "available": 219,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 217,
+      "gross": 400,
+      "occupancy_percent": 0.91
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -2806,6 +2808,21 @@
       "available": 213,
       "gross": 0,
       "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
+      "movie_name": "Scream 7",
+      "show_id": "159646:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 01",
+      "date": "2026-03-18T12:30:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 2,
+      "reserved": 0,
+      "available": 180,
+      "gross": 400,
+      "occupancy_percent": 1.1
     }
   ]
 }
