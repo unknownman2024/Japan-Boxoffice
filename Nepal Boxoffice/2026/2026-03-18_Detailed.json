@@ -1,5 +1,40 @@
 {
   "date": "2026-03-18",
-  "lastUpdated": "04:59 AM, 18 March 2026",
-  "shows": []
+  "lastUpdated": "07:29 AM, 18 March 2026",
+  "shows": [
+    {
+      "movie_id": "H2tbajrvASeefJpeWN3AAY",
+      "movie_name": "Laalimaa",
+      "show_id": "61905:big-movies",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-18",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "401 Client Error: Unauthorized for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "AUydcYx3SExYufvZtmZkUE",
+      "movie_name": "O Romeo",
+      "show_id": "61897:big-movies",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-18",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "401 Client Error: Unauthorized for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
+    }
+  ]
 }
