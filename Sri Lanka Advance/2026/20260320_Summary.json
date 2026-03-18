@@ -1,15 +1,27 @@
 {
   "date": "20260320",
-  "lastUpdated": "02:01 AM, 19 March 2026",
+  "lastUpdated": "03:00 AM, 19 March 2026",
   "movies": {
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 70,
+          "gross": 18750.0,
+          "sold": 23,
+          "totalSeats": 14245
+        }
+      }
+    },
     "The Wife": {
       "formats": {
         "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 42,
-          "gross": 7400.0,
-          "sold": 20,
+          "gross": 8000.0,
+          "sold": 22,
           "totalSeats": 8848
         }
       }
@@ -26,30 +38,6 @@
         }
       }
     },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 70,
-          "gross": 18750.0,
-          "sold": 23,
-          "totalSeats": 14245
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 215
-        }
-      }
-    },
     "Malaki Duwe Numba": {
       "formats": {
         "ET00005955": {
@@ -62,16 +50,20 @@
         }
       }
     },
-    "Hoppers": {
+    "Thaai Kizhavi": {
       "formats": {
-        "ET00006005": {
+        "ET00006000": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
+          "language": "Tamil",
+          "shows": 12,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 292
-        },
+          "totalSeats": 2276
+        }
+      }
+    },
+    "Hoppers": {
+      "formats": {
         "ET00006008": {
           "format": "3D",
           "language": "English",
@@ -79,6 +71,14 @@
           "gross": 5200.0,
           "sold": 4,
           "totalSeats": 1888
+        },
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 292
         }
       }
     },
@@ -106,15 +106,15 @@
         }
       }
     },
-    "Scream 7": {
+    "Avatar: Fire and Ash": {
       "formats": {
-        "ET00006002": {
-          "format": "2D",
+        "ET00005938": {
+          "format": "3D",
           "language": "English",
-          "shows": 3,
-          "gross": 7200.0,
-          "sold": 6,
-          "totalSeats": 394
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 215
         }
       }
     },
@@ -150,6 +150,18 @@
         }
       }
     },
+    "Scream 7": {
+      "formats": {
+        "ET00006002": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 7200.0,
+          "sold": 6,
+          "totalSeats": 394
+        }
+      }
+    },
     "The Housemaid": {
       "formats": {
         "ET00005954": {
@@ -159,18 +171,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 99
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 16,
-          "gross": 204100.0,
-          "sold": 73,
-          "totalSeats": 2869
         }
       }
     },
@@ -198,6 +198,18 @@
         }
       }
     },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 16,
+          "gross": 204100.0,
+          "sold": 73,
+          "totalSeats": 2869
+        }
+      }
+    },
     "Minnale": {
       "formats": {
         "ET00006001": {
@@ -207,18 +219,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 97
-        }
-      }
-    },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 44
         }
       }
     },
@@ -234,15 +234,15 @@
         }
       }
     },
-    "Thaai Kizhavi": {
+    "Crime 101": {
       "formats": {
-        "ET00006000": {
+        "ET00005994": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 12,
+          "language": "English",
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 2276
+          "totalSeats": 44
         }
       }
     }
