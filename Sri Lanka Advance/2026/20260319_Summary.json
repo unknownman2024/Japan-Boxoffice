@@ -1,16 +1,28 @@
 {
   "date": "20260319",
-  "lastUpdated": "12:44 PM, 18 March 2026",
+  "lastUpdated": "02:12 PM, 18 March 2026",
   "movies": {
     " Father": {
       "formats": {
         "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 43,
-          "gross": 15700.0,
-          "sold": 22,
-          "totalSeats": 8534
+          "shows": 42,
+          "gross": 18100.0,
+          "sold": 25,
+          "totalSeats": 8404
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 48,
+          "gross": 3300.0,
+          "sold": 9,
+          "totalSeats": 9468
         }
       }
     },
@@ -22,19 +34,7 @@
           "shows": 20,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 3298
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 93,
-          "gross": 46450.0,
-          "sold": 74,
-          "totalSeats": 17762
+          "totalSeats": 2830
         }
       }
     },
@@ -52,6 +52,14 @@
     },
     "Hoppers": {
       "formats": {
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 280
+        },
         "ET00006008": {
           "format": "3D",
           "language": "English",
@@ -59,26 +67,6 @@
           "gross": 9400.0,
           "sold": 6,
           "totalSeats": 2255
-        },
-        "ET00006005": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 1000.0,
-          "sold": 1,
-          "totalSeats": 280
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 48,
-          "gross": 4000.0,
-          "sold": 11,
-          "totalSeats": 9468
         }
       }
     },
@@ -108,8 +96,8 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 15,
-          "gross": 5850.0,
-          "sold": 7,
+          "gross": 9450.0,
+          "sold": 10,
           "totalSeats": 2654
         }
       }
@@ -120,9 +108,29 @@
           "format": "2D",
           "language": "English",
           "shows": 5,
-          "gross": 7200.0,
-          "sold": 6,
+          "gross": 13500.0,
+          "sold": 11,
           "totalSeats": 758
+        }
+      }
+    },
+    "Dhurandhar The Revenge": {
+      "formats": {
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 15,
+          "gross": 633200.0,
+          "sold": 412,
+          "totalSeats": 2276
+        },
+        "ET00006025": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 119
         }
       }
     },
@@ -138,23 +146,27 @@
         }
       }
     },
-    "Dhurandhar The Revenge": {
+    "Sura Detuwo": {
       "formats": {
-        "ET00006025": {
+        "ET00006009": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 119
-        },
-        "ET00005960": {
+          "language": "Sinhala",
+          "shows": 48,
+          "gross": 2600.0,
+          "sold": 10,
+          "totalSeats": 5274
+        }
+      }
+    },
+    "Scream 7": {
+      "formats": {
+        "ET00006002": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 15,
-          "gross": 593900.0,
-          "sold": 384,
-          "totalSeats": 2276
+          "language": "English",
+          "shows": 6,
+          "gross": 21600.0,
+          "sold": 18,
+          "totalSeats": 781
         }
       }
     },
@@ -190,15 +202,15 @@
         }
       }
     },
-    "Scream 7": {
+    "EPiC: Elvis Presley in Concert": {
       "formats": {
-        "ET00006002": {
+        "ET00005978": {
           "format": "2D",
           "language": "English",
-          "shows": 6,
-          "gross": 21600.0,
-          "sold": 18,
-          "totalSeats": 781
+          "shows": 2,
+          "gross": 9400.0,
+          "sold": 4,
+          "totalSeats": 44
         }
       }
     },
@@ -211,18 +223,6 @@
           "gross": 3100.0,
           "sold": 1,
           "totalSeats": 610
-        }
-      }
-    },
-    "EPiC: Elvis Presley in Concert": {
-      "formats": {
-        "ET00005978": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 9400.0,
-          "sold": 4,
-          "totalSeats": 44
         }
       }
     },
@@ -244,21 +244,21 @@
           "format": "3D",
           "language": "English",
           "shows": 6,
-          "gross": 2200.0,
-          "sold": 2,
+          "gross": 8400.0,
+          "sold": 4,
           "totalSeats": 1038
         }
       }
     },
-    "Sura Detuwo": {
+    "Dharmayuddhaya 2": {
       "formats": {
-        "ET00006009": {
+        "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 49,
-          "gross": 2600.0,
-          "sold": 10,
-          "totalSeats": 5458
+          "shows": 94,
+          "gross": 52750.0,
+          "sold": 84,
+          "totalSeats": 17881
         }
       }
     }
