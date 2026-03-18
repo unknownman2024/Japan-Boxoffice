@@ -419,7 +419,7 @@ def main():
     log(f"\n🆕 Newly fetched this run: {len(new_rows)}")
 
     # ✅ MERGE (NEVER DELETE)
-    data_map = {s["show_id"]: s for s in existing_rows}
+    data_map = {s["show_id"]: s for s in existing_rows if s.get("show_id")}
     for s in new_rows:
         data_map[s["show_id"]] = s
 
