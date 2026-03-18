@@ -1,6 +1,6 @@
 {
   "date": "20260319",
-  "lastUpdated": "02:12 PM, 18 March 2026",
+  "lastUpdated": "03:19 PM, 18 March 2026",
   "movies": {
     " Father": {
       "formats": {
@@ -8,8 +8,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 42,
-          "gross": 18100.0,
-          "sold": 25,
+          "gross": 22400.0,
+          "sold": 33,
           "totalSeats": 8404
         }
       }
@@ -20,9 +20,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 48,
-          "gross": 3300.0,
-          "sold": 9,
+          "gross": 4700.0,
+          "sold": 13,
           "totalSeats": 9468
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 94,
+          "gross": 55300.0,
+          "sold": 91,
+          "totalSeats": 17881
         }
       }
     },
@@ -44,22 +56,14 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 7,
-          "gross": 2800.0,
-          "sold": 8,
+          "gross": 4900.0,
+          "sold": 14,
           "totalSeats": 1405
         }
       }
     },
     "Hoppers": {
       "formats": {
-        "ET00006005": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 280
-        },
         "ET00006008": {
           "format": "3D",
           "language": "English",
@@ -67,19 +71,19 @@
           "gross": 9400.0,
           "sold": 6,
           "totalSeats": 2255
+        },
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 280
         }
       }
     },
     "Zootopia 2": {
       "formats": {
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 152
-        },
         "ET00005930": {
           "format": "3D",
           "language": "English",
@@ -87,6 +91,26 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 180
+        },
+        "ET00005925": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 152
+        }
+      }
+    },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 48,
+          "gross": 2600.0,
+          "sold": 10,
+          "totalSeats": 5274
         }
       }
     },
@@ -96,21 +120,9 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 15,
-          "gross": 9450.0,
-          "sold": 10,
+          "gross": 11850.0,
+          "sold": 12,
           "totalSeats": 2654
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 13500.0,
-          "sold": 11,
-          "totalSeats": 758
         }
       }
     },
@@ -120,8 +132,8 @@
           "format": "2D",
           "language": "Hindi",
           "shows": 15,
-          "gross": 633200.0,
-          "sold": 412,
+          "gross": 642100.0,
+          "sold": 416,
           "totalSeats": 2276
         },
         "ET00006025": {
@@ -143,18 +155,6 @@
           "gross": 4600.0,
           "sold": 2,
           "totalSeats": 121
-        }
-      }
-    },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 48,
-          "gross": 2600.0,
-          "sold": 10,
-          "totalSeats": 5274
         }
       }
     },
@@ -187,6 +187,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 130
+        }
+      }
+    },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 16500.0,
+          "sold": 12,
+          "totalSeats": 758
         }
       }
     },
@@ -247,18 +259,6 @@
           "gross": 8400.0,
           "sold": 4,
           "totalSeats": 1038
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 94,
-          "gross": 52750.0,
-          "sold": 84,
-          "totalSeats": 17881
         }
       }
     }
