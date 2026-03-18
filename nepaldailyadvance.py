@@ -129,8 +129,12 @@ def safe_request(method, url, **kwargs):
                 continue
 
             if not r.ok:
+                if r.status_code == 404:
+                    r.raise_for_status()  # don't retry 404
+
                 if retries <= 0:
                     r.raise_for_status()
+
                 time.sleep(1.5)
                 retries -= 1
                 continue
@@ -266,8 +270,15 @@ def fetch_movie_list():
 def process_single_movie(movie_id, movie_name):
     log(f"\n🎥 Processing: {movie_name}")
 
-    r = safe_request("GET", MOVIE_INFO_URL.format(movie_id=movie_id))
-    movie_json = r.json()
+    try:
+        r = safe_request("GET", MOVIE_INFO_URL.format(movie_id=movie_id))
+        movie_json = r.json()
+    except requests.exceptions.HTTPError as e:
+        if "404" in str(e):
+            log(f"⛔ Skipping {movie_name} → Invalid movie_id")
+            return []
+        else:
+            raise
 
     theatres = movie_json.get("theatres", [])
     show_ids = []
