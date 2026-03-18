@@ -261,7 +261,11 @@ def fetch_movie_list():
     data = r.json()
     movies = data.get("movies", [])
     log(f"🎬 Movies found: {len(movies)}")
-    return [{"id": m.get("idx"), "name": m.get("name")} for m in movies]
+    return [
+        {"id": m.get("idx"), "name": m.get("name")}
+        for m in movies
+        if m.get("idx")
+    ]
 
 #########################################
 # PROCESS ONE MOVIE (NO CUTOFF)
@@ -274,7 +278,7 @@ def process_single_movie(movie_id, movie_name):
         r = safe_request("GET", MOVIE_INFO_URL.format(movie_id=movie_id))
         movie_json = r.json()
     except requests.exceptions.HTTPError as e:
-        if "404" in str(e):
+        if getattr(e.response, "status_code", None) == 404:
             log(f"⛔ Skipping {movie_name} → Invalid movie_id")
             return []
         else:
@@ -287,7 +291,9 @@ def process_single_movie(movie_id, movie_name):
         for s in t.get("shows", []):
             show_date = (s.get("datetime") or "").split(" ")[0]
             if show_date == DATE:
-                show_ids.append(s.get("show_id"))
+                sid = s.get("show_id")
+                if sid:
+                    show_ids.append(sid)
 
     total_shows = len(show_ids)
     log(f"🎯 {movie_name} → {total_shows} advance shows found")
