@@ -1,6 +1,6 @@
 {
   "date": "20260319",
-  "lastUpdated": "09:52 AM, 18 March 2026",
+  "lastUpdated": "11:30 AM, 18 March 2026",
   "movies": {
     "The Wife": {
       "formats": {
@@ -8,8 +8,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 46,
-          "gross": 1700.0,
-          "sold": 4,
+          "gross": 2600.0,
+          "sold": 7,
           "totalSeats": 9036
         }
       }
@@ -20,9 +20,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 42,
-          "gross": 9900.0,
-          "sold": 13,
+          "gross": 16800.0,
+          "sold": 22,
           "totalSeats": 8318
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 22,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 3670
         }
       }
     },
@@ -32,41 +44,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 93,
-          "gross": 42750.0,
-          "sold": 64,
+          "gross": 44950.0,
+          "sold": 69,
           "totalSeats": 17736
-        }
-      }
-    },
-    "Thaai Kizhavi": {
-      "formats": {
-        "ET00006000": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 20,
-          "gross": 2250.0,
-          "sold": 5,
-          "totalSeats": 3064
-        }
-      }
-    },
-    "Hoppers": {
-      "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 17,
-          "gross": 9400.0,
-          "sold": 6,
-          "totalSeats": 2255
-        },
-        "ET00006005": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 280
         }
       }
     },
@@ -82,16 +62,20 @@
         }
       }
     },
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 6,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 1038
+        }
+      }
+    },
     "Zootopia 2": {
       "formats": {
-        "ET00005925": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 152
-        },
         "ET00005930": {
           "format": "3D",
           "language": "English",
@@ -99,26 +83,26 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 180
-        }
-      }
-    },
-    "Anthony": {
-      "formats": {
-        "ET00006010": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 1600.0,
-          "sold": 2,
-          "totalSeats": 1113
         },
-        "ET00006015": {
+        "ET00005925": {
           "format": "2D",
-          "language": "Sinhala",
+          "language": "English",
           "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 130
+          "totalSeats": 152
+        }
+      }
+    },
+    "Youth": {
+      "formats": {
+        "ET00006019": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 9,
+          "gross": 4200.0,
+          "sold": 4,
+          "totalSeats": 1611
         }
       }
     },
@@ -146,15 +130,15 @@
         }
       }
     },
-    "Dhurandhar The Revenge": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00005960": {
+        "ET00005997": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 14,
-          "gross": 534150.0,
-          "sold": 350,
-          "totalSeats": 2060
+          "language": "English",
+          "shows": 5,
+          "gross": 7200.0,
+          "sold": 6,
+          "totalSeats": 758
         }
       }
     },
@@ -170,51 +154,55 @@
         }
       }
     },
-    "Youth": {
+    "Hoppers": {
       "formats": {
-        "ET00006019": {
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 280
+        },
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 17,
+          "gross": 9400.0,
+          "sold": 6,
+          "totalSeats": 2255
+        }
+      }
+    },
+    "Dhurandhar The Revenge": {
+      "formats": {
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 14,
+          "gross": 562350.0,
+          "sold": 367,
+          "totalSeats": 2060
+        }
+      }
+    },
+    "Anthony": {
+      "formats": {
+        "ET00006015": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 130
+        },
+        "ET00006010": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 4,
-          "gross": 4200.0,
-          "sold": 4,
-          "totalSeats": 508
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 7200.0,
-          "sold": 6,
-          "totalSeats": 758
-        }
-      }
-    },
-    "The Bride": {
-      "formats": {
-        "ET00006004": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 3100.0,
-          "sold": 1,
-          "totalSeats": 610
-        }
-      }
-    },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 8800.0,
-          "sold": 4,
-          "totalSeats": 44
+          "shows": 9,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 1113
         }
       }
     },
@@ -230,15 +218,15 @@
         }
       }
     },
-    "Avatar: Fire and Ash": {
+    "The Bride": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
+        "ET00006004": {
+          "format": "2D",
           "language": "English",
-          "shows": 6,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 1038
+          "shows": 2,
+          "gross": 3100.0,
+          "sold": 1,
+          "totalSeats": 610
         }
       }
     },
@@ -249,6 +237,18 @@
           "language": "English",
           "shows": 2,
           "gross": 9400.0,
+          "sold": 4,
+          "totalSeats": 44
+        }
+      }
+    },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 8800.0,
           "sold": 4,
           "totalSeats": 44
         }
