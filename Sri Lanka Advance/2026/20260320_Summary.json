@@ -1,21 +1,17 @@
 {
   "date": "20260320",
-  "lastUpdated": "06:25 PM, 19 March 2026",
+  "lastUpdated": "07:37 PM, 19 March 2026",
   "movies": {
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 25,
-          "gross": 3100.0,
-          "sold": 4,
-          "totalSeats": 4899
-        }
-      }
-    },
     "Dhurandhar The Revenge": {
       "formats": {
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 27,
+          "gross": 335000.0,
+          "sold": 199,
+          "totalSeats": 4061
+        },
         "ET00006025": {
           "format": "2D",
           "language": "Tamil",
@@ -23,14 +19,6 @@
           "gross": 46000.0,
           "sold": 46,
           "totalSeats": 184
-        },
-        "ET00005960": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 27,
-          "gross": 286900.0,
-          "sold": 162,
-          "totalSeats": 4061
         }
       }
     },
@@ -40,9 +28,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 85,
-          "gross": 89150.0,
-          "sold": 141,
-          "totalSeats": 18210
+          "gross": 83850.0,
+          "sold": 135,
+          "totalSeats": 17812
         }
       }
     },
@@ -52,9 +40,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 32,
-          "gross": 8900.0,
-          "sold": 16,
+          "gross": 13800.0,
+          "sold": 22,
           "totalSeats": 6789
+        }
+      }
+    },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 25,
+          "gross": 3100.0,
+          "sold": 4,
+          "totalSeats": 4899
         }
       }
     },
@@ -88,29 +88,9 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 31,
-          "gross": 23200.0,
-          "sold": 24,
-          "totalSeats": 6740
-        }
-      }
-    },
-    "Hoppers": {
-      "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 15,
-          "gross": 11700.0,
-          "sold": 9,
-          "totalSeats": 1888
-        },
-        "ET00006005": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 292
+          "gross": 17700.0,
+          "sold": 19,
+          "totalSeats": 7138
         }
       }
     },
@@ -126,15 +106,35 @@
         }
       }
     },
-    "Wuthering Heights": {
+    "Hoppers": {
       "formats": {
-        "ET00005997": {
+        "ET00006005": {
           "format": "2D",
           "language": "English",
           "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 311
+          "totalSeats": 292
+        },
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 15,
+          "gross": 11700.0,
+          "sold": 9,
+          "totalSeats": 1888
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 2400.0,
+          "sold": 2,
+          "totalSeats": 99
         }
       }
     },
@@ -150,27 +150,27 @@
         }
       }
     },
-    "Minnale": {
+    "Project Hail Mary": {
       "formats": {
-        "ET00006001": {
+        "ET00006026": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 97
+          "language": "English",
+          "shows": 17,
+          "gross": 458350.0,
+          "sold": 241,
+          "totalSeats": 2902
         }
       }
     },
-    "EPiC: Elvis Presley in Concert": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00005978": {
+        "ET00005997": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 22
+          "totalSeats": 311
         }
       }
     },
@@ -186,15 +186,27 @@
         }
       }
     },
-    "Project Hail Mary": {
+    "EPiC: Elvis Presley in Concert": {
       "formats": {
-        "ET00006026": {
+        "ET00005978": {
           "format": "2D",
           "language": "English",
-          "shows": 17,
-          "gross": 440750.0,
-          "sold": 236,
-          "totalSeats": 2902
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 22
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 51,
+          "gross": 28700.0,
+          "sold": 56,
+          "totalSeats": 10509
         }
       }
     },
@@ -210,27 +222,15 @@
         }
       }
     },
-    "The Wife": {
+    "Minnale": {
       "formats": {
-        "ET00005992": {
+        "ET00006001": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 51,
-          "gross": 23400.0,
-          "sold": 48,
-          "totalSeats": 10509
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
+          "language": "Tamil",
           "shows": 1,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 99
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 97
         }
       }
     },
