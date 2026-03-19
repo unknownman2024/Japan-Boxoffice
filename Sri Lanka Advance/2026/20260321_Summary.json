@@ -1,6 +1,6 @@
 {
   "date": "20260321",
-  "lastUpdated": "03:53 AM, 20 March 2026",
+  "lastUpdated": "04:56 AM, 20 March 2026",
   "movies": {
     "Dharmayuddhaya 2": {
       "formats": {
@@ -11,18 +11,6 @@
           "gross": 156550.0,
           "sold": 255,
           "totalSeats": 17901
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 33,
-          "gross": 39450.0,
-          "sold": 55,
-          "totalSeats": 6988
         }
       }
     },
@@ -38,6 +26,18 @@
         }
       }
     },
+    "Dhurandhar The Revenge": {
+      "formats": {
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 24,
+          "gross": 395500.0,
+          "sold": 231,
+          "totalSeats": 3303
+        }
+      }
+    },
     "Anthony": {
       "formats": {
         "ET00006010": {
@@ -50,28 +50,8 @@
         }
       }
     },
-    "Dhurandhar The Revenge": {
-      "formats": {
-        "ET00005960": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 24,
-          "gross": 392900.0,
-          "sold": 229,
-          "totalSeats": 3303
-        }
-      }
-    },
     "Hoppers": {
       "formats": {
-        "ET00006005": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 3600.0,
-          "sold": 3,
-          "totalSeats": 292
-        },
         "ET00006008": {
           "format": "3D",
           "language": "English",
@@ -79,6 +59,14 @@
           "gross": 75150.0,
           "sold": 52,
           "totalSeats": 1710
+        },
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 3600.0,
+          "sold": 3,
+          "totalSeats": 292
         }
       }
     },
@@ -106,27 +94,15 @@
         }
       }
     },
-    "The Housemaid": {
+    "Zootopia 2": {
       "formats": {
-        "ET00005954": {
-          "format": "2D",
+        "ET00005930": {
+          "format": "3D",
           "language": "English",
           "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 99
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 18,
-          "gross": 435500.0,
-          "sold": 147,
-          "totalSeats": 3008
+          "totalSeats": 90
         }
       }
     },
@@ -142,6 +118,18 @@
         }
       }
     },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 99
+        }
+      }
+    },
     "Wuthering Heights": {
       "formats": {
         "ET00005997": {
@@ -151,18 +139,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 311
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 90
         }
       }
     },
@@ -190,27 +166,15 @@
         }
       }
     },
-    "The Wife": {
+    "Project Hail Mary": {
       "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 53,
-          "gross": 55000.0,
-          "sold": 95,
-          "totalSeats": 10757
-        }
-      }
-    },
-    "The Importance of Being Earnest": {
-      "formats": {
-        "ET00006013": {
+        "ET00006026": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
-          "gross": 66000.0,
-          "sold": 60,
-          "totalSeats": 97
+          "shows": 18,
+          "gross": 435500.0,
+          "sold": 147,
+          "totalSeats": 3008
         }
       }
     },
@@ -247,6 +211,42 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 44
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 53,
+          "gross": 55000.0,
+          "sold": 95,
+          "totalSeats": 10757
+        }
+      }
+    },
+    "The Importance of Being Earnest": {
+      "formats": {
+        "ET00006013": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 66000.0,
+          "sold": 60,
+          "totalSeats": 97
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 33,
+          "gross": 39450.0,
+          "sold": 55,
+          "totalSeats": 6988
         }
       }
     }
