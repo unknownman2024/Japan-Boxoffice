@@ -1,16 +1,16 @@
 {
   "date": "20260321",
-  "lastUpdated": "01:13 AM, 20 March 2026",
+  "lastUpdated": "02:02 AM, 20 March 2026",
   "movies": {
-    "Sura Detuwo": {
+    "Anthony": {
       "formats": {
-        "ET00006009": {
+        "ET00006010": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 27,
-          "gross": 3300.0,
-          "sold": 11,
-          "totalSeats": 5553
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 414
         }
       }
     },
@@ -26,15 +26,15 @@
         }
       }
     },
-    "Anthony": {
+    "Dharmayuddhaya 2": {
       "formats": {
-        "ET00006010": {
+        "ET00005975": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 414
+          "language": "Sinhala",
+          "shows": 85,
+          "gross": 151350.0,
+          "sold": 251,
+          "totalSeats": 17901
         }
       }
     },
@@ -76,14 +76,6 @@
     },
     "Hoppers": {
       "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 14,
-          "gross": 75150.0,
-          "sold": 52,
-          "totalSeats": 1710
-        },
         "ET00006005": {
           "format": "2D",
           "language": "English",
@@ -91,6 +83,14 @@
           "gross": 3600.0,
           "sold": 3,
           "totalSeats": 292
+        },
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 14,
+          "gross": 75150.0,
+          "sold": 52,
+          "totalSeats": 1710
         }
       }
     },
@@ -106,54 +106,6 @@
         }
       }
     },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 99
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 18,
-          "gross": 434300.0,
-          "sold": 146,
-          "totalSeats": 3008
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 4,
-          "gross": 3600.0,
-          "sold": 3,
-          "totalSeats": 410
-        }
-      }
-    },
-    "Minnale": {
-      "formats": {
-        "ET00006001": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 1600.0,
-          "sold": 2,
-          "totalSeats": 97
-        }
-      }
-    },
     "Scream 7": {
       "formats": {
         "ET00006002": {
@@ -163,6 +115,30 @@
           "gross": 2600.0,
           "sold": 2,
           "totalSeats": 505
+        }
+      }
+    },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 311
+        }
+      }
+    },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 18,
+          "gross": 435500.0,
+          "sold": 147,
+          "totalSeats": 3008
         }
       }
     },
@@ -178,6 +154,18 @@
         }
       }
     },
+    "Minnale": {
+      "formats": {
+        "ET00006001": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 97
+        }
+      }
+    },
     "Crime 101": {
       "formats": {
         "ET00005994": {
@@ -187,6 +175,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 44
+        }
+      }
+    },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 22
         }
       }
     },
@@ -214,39 +214,39 @@
         }
       }
     },
-    "EPiC: Elvis Presley in Concert": {
+    "The Housemaid": {
       "formats": {
-        "ET00005978": {
+        "ET00005954": {
           "format": "2D",
           "language": "English",
           "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 22
+          "totalSeats": 99
         }
       }
     },
-    "Wuthering Heights": {
+    "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005997": {
-          "format": "2D",
+        "ET00005938": {
+          "format": "3D",
           "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 311
+          "shows": 4,
+          "gross": 3600.0,
+          "sold": 3,
+          "totalSeats": 410
         }
       }
     },
-    "Dharmayuddhaya 2": {
+    "Sura Detuwo": {
       "formats": {
-        "ET00005975": {
+        "ET00006009": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 85,
-          "gross": 151350.0,
-          "sold": 251,
-          "totalSeats": 17901
+          "shows": 27,
+          "gross": 3300.0,
+          "sold": 11,
+          "totalSeats": 5553
         }
       }
     }
