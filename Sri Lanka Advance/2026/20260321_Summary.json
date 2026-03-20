@@ -1,40 +1,28 @@
 {
   "date": "20260321",
-  "lastUpdated": "12:19 PM, 20 March 2026",
+  "lastUpdated": "01:12 PM, 20 March 2026",
   "movies": {
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 28,
+          "gross": 12200.0,
+          "sold": 22,
+          "totalSeats": 5673
+        }
+      }
+    },
     " Father": {
       "formats": {
         "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 33,
-          "gross": 61900.0,
-          "sold": 83,
+          "gross": 65050.0,
+          "sold": 88,
           "totalSeats": 6988
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 85,
-          "gross": 230250.0,
-          "sold": 380,
-          "totalSeats": 17901
-        }
-      }
-    },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 27,
-          "gross": 7400.0,
-          "sold": 18,
-          "totalSeats": 5553
         }
       }
     },
@@ -44,8 +32,8 @@
           "format": "2D",
           "language": "Hindi",
           "shows": 28,
-          "gross": 510900.0,
-          "sold": 311,
+          "gross": 507600.0,
+          "sold": 309,
           "totalSeats": 4168
         }
       }
@@ -62,16 +50,20 @@
         }
       }
     },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 87,
+          "gross": 257350.0,
+          "sold": 419,
+          "totalSeats": 18141
+        }
+      }
+    },
     "Hoppers": {
       "formats": {
-        "ET00006005": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 11000.0,
-          "sold": 9,
-          "totalSeats": 292
-        },
         "ET00006008": {
           "format": "3D",
           "language": "English",
@@ -79,6 +71,14 @@
           "gross": 93250.0,
           "sold": 66,
           "totalSeats": 1710
+        },
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 11000.0,
+          "sold": 9,
+          "totalSeats": 292
         }
       }
     },
@@ -94,18 +94,6 @@
         }
       }
     },
-    "Thaai Kizhavi": {
-      "formats": {
-        "ET00006000": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 12,
-          "gross": 7700.0,
-          "sold": 7,
-          "totalSeats": 2444
-        }
-      }
-    },
     "Scream 7": {
       "formats": {
         "ET00006002": {
@@ -118,39 +106,15 @@
         }
       }
     },
-    "The Housemaid": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00005954": {
+        "ET00005997": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
-          "gross": 2600.0,
-          "sold": 2,
-          "totalSeats": 99
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 18,
-          "gross": 483100.0,
-          "sold": 171,
-          "totalSeats": 3008
-        }
-      }
-    },
-    "The Importance of Being Earnest": {
-      "formats": {
-        "ET00006013": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 70400.0,
-          "sold": 64,
-          "totalSeats": 97
+          "shows": 2,
+          "gross": 9600.0,
+          "sold": 6,
+          "totalSeats": 311
         }
       }
     },
@@ -166,6 +130,30 @@
         }
       }
     },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 18,
+          "gross": 488900.0,
+          "sold": 175,
+          "totalSeats": 3008
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 12,
+          "gross": 7700.0,
+          "sold": 7,
+          "totalSeats": 2444
+        }
+      }
+    },
     "Minnale": {
       "formats": {
         "ET00006001": {
@@ -178,27 +166,15 @@
         }
       }
     },
-    "EPiC: Elvis Presley in Concert": {
+    "The Importance of Being Earnest": {
       "formats": {
-        "ET00005978": {
+        "ET00006013": {
           "format": "2D",
           "language": "English",
           "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 22
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 53,
-          "gross": 80200.0,
-          "sold": 136,
-          "totalSeats": 10757
+          "gross": 70400.0,
+          "sold": 64,
+          "totalSeats": 97
         }
       }
     },
@@ -226,27 +202,51 @@
         }
       }
     },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 54,
+          "gross": 88100.0,
+          "sold": 152,
+          "totalSeats": 10877
+        }
+      }
+    },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 22
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 2600.0,
+          "sold": 2,
+          "totalSeats": 99
+        }
+      }
+    },
     "Youth": {
       "formats": {
         "ET00006019": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 33,
-          "gross": 29900.0,
-          "sold": 30,
-          "totalSeats": 7571
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 6400.0,
-          "sold": 4,
-          "totalSeats": 311
+          "shows": 37,
+          "gross": 40300.0,
+          "sold": 45,
+          "totalSeats": 8283
         }
       }
     }
