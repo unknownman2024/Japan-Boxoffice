@@ -1,19 +1,7 @@
 {
   "date": "20260322",
-  "lastUpdated": "03:51 PM, 21 March 2026",
+  "lastUpdated": "04:49 PM, 21 March 2026",
   "movies": {
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 43,
-          "gross": 28550.0,
-          "sold": 57,
-          "totalSeats": 5673
-        }
-      }
-    },
     "Anthony": {
       "formats": {
         "ET00006010": {
@@ -26,15 +14,27 @@
         }
       }
     },
-    "Dhurandhar The Revenge": {
+    " Father": {
       "formats": {
-        "ET00005960": {
+        "ET00005963": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 31,
-          "gross": 573000.0,
-          "sold": 357,
-          "totalSeats": 4478
+          "language": "Sinhala",
+          "shows": 38,
+          "gross": 103950.0,
+          "sold": 131,
+          "totalSeats": 6855
+        }
+      }
+    },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 43,
+          "gross": 28550.0,
+          "sold": 56,
+          "totalSeats": 5673
         }
       }
     },
@@ -44,21 +44,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 1,
-          "gross": 79200.0,
-          "sold": 66,
+          "gross": 81600.0,
+          "sold": 68,
           "totalSeats": 111
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 102,
-          "gross": 370850.0,
-          "sold": 670,
-          "totalSeats": 17664
         }
       }
     },
@@ -80,8 +68,8 @@
           "format": "3D",
           "language": "English",
           "shows": 14,
-          "gross": 115200.0,
-          "sold": 85,
+          "gross": 122400.0,
+          "sold": 91,
           "totalSeats": 1798
         },
         "ET00006005": {
@@ -91,6 +79,30 @@
           "gross": 7600.0,
           "sold": 6,
           "totalSeats": 292
+        }
+      }
+    },
+    "Youth": {
+      "formats": {
+        "ET00006019": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 44,
+          "gross": 109250.0,
+          "sold": 128,
+          "totalSeats": 9029
+        }
+      }
+    },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 20,
+          "gross": 474750.0,
+          "sold": 172,
+          "totalSeats": 3438
         }
       }
     },
@@ -106,42 +118,6 @@
         }
       }
     },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 38,
-          "gross": 91600.0,
-          "sold": 122,
-          "totalSeats": 6855
-        }
-      }
-    },
-    "Youth": {
-      "formats": {
-        "ET00006019": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 44,
-          "gross": 104450.0,
-          "sold": 122,
-          "totalSeats": 9029
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 20,
-          "gross": 448650.0,
-          "sold": 160,
-          "totalSeats": 3438
-        }
-      }
-    },
     "The Housemaid": {
       "formats": {
         "ET00005954": {
@@ -154,26 +130,14 @@
         }
       }
     },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 4,
-          "gross": 16200.0,
-          "sold": 14,
-          "totalSeats": 410
-        }
-      }
-    },
     "Wuthering Heights": {
       "formats": {
         "ET00005997": {
           "format": "2D",
           "language": "English",
           "shows": 2,
-          "gross": 21200.0,
-          "sold": 14,
+          "gross": 24400.0,
+          "sold": 16,
           "totalSeats": 311
         }
       }
@@ -202,6 +166,18 @@
         }
       }
     },
+    "Minnale": {
+      "formats": {
+        "ET00006001": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 97
+        }
+      }
+    },
     "EPiC: Elvis Presley in Concert": {
       "formats": {
         "ET00005978": {
@@ -211,6 +187,30 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 22
+        }
+      }
+    },
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 4,
+          "gross": 16200.0,
+          "sold": 14,
+          "totalSeats": 410
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 100
         }
       }
     },
@@ -226,39 +226,39 @@
         }
       }
     },
-    "Minnale": {
-      "formats": {
-        "ET00006001": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 97
-        }
-      }
-    },
     "The Wife": {
       "formats": {
         "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 49,
-          "gross": 142750.0,
-          "sold": 233,
+          "gross": 151300.0,
+          "sold": 245,
           "totalSeats": 10047
         }
       }
     },
-    "Malaki Duwe Numba": {
+    "Dharmayuddhaya 2": {
       "formats": {
-        "ET00005955": {
+        "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 100
+          "shows": 102,
+          "gross": 395100.0,
+          "sold": 706,
+          "totalSeats": 17664
+        }
+      }
+    },
+    "Dhurandhar The Revenge": {
+      "formats": {
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 31,
+          "gross": 584800.0,
+          "sold": 370,
+          "totalSeats": 4478
         }
       }
     }
