@@ -1,28 +1,28 @@
 {
   "date": "20260323",
-  "lastUpdated": "02:51 AM, 22 March 2026",
+  "lastUpdated": "03:49 AM, 22 March 2026",
   "movies": {
+    "Anthony": {
+      "formats": {
+        "ET00006010": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 419
+        }
+      }
+    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 74,
-          "gross": 16400.0,
-          "sold": 29,
+          "gross": 15800.0,
+          "sold": 27,
           "totalSeats": 15160
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 29,
-          "gross": 15300.0,
-          "sold": 18,
-          "totalSeats": 5089
         }
       }
     },
@@ -35,6 +35,18 @@
           "gross": 55450.0,
           "sold": 45,
           "totalSeats": 3681
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 29,
+          "gross": 15300.0,
+          "sold": 18,
+          "totalSeats": 5089
         }
       }
     },
@@ -82,18 +94,6 @@
         }
       }
     },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 3300.0,
-          "sold": 3,
-          "totalSeats": 99
-        }
-      }
-    },
     "Scream 7": {
       "formats": {
         "ET00006002": {
@@ -106,87 +106,15 @@
         }
       }
     },
-    "Project Hail Mary": {
+    "The Housemaid": {
       "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 19,
-          "gross": 40100.0,
-          "sold": 16,
-          "totalSeats": 2969
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 301
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 410
-        }
-      }
-    },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 44
-        }
-      }
-    },
-    "EPiC: Elvis Presley in Concert": {
-      "formats": {
-        "ET00005978": {
+        "ET00005954": {
           "format": "2D",
           "language": "English",
           "shows": 1,
-          "gross": 8800.0,
-          "sold": 4,
-          "totalSeats": 22
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 100
-        }
-      }
-    },
-    "Anthony": {
-      "formats": {
-        "ET00006010": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 419
+          "gross": 3300.0,
+          "sold": 3,
+          "totalSeats": 99
         }
       }
     },
@@ -202,6 +130,54 @@
         }
       }
     },
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 410
+        }
+      }
+    },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 301
+        }
+      }
+    },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 8800.0,
+          "sold": 4,
+          "totalSeats": 22
+        }
+      }
+    },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 44
+        }
+      }
+    },
     "The Wife": {
       "formats": {
         "ET00005992": {
@@ -211,6 +187,30 @@
           "gross": 12400.0,
           "sold": 22,
           "totalSeats": 8642
+        }
+      }
+    },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 19,
+          "gross": 50300.0,
+          "sold": 19,
+          "totalSeats": 2969
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 100
         }
       }
     },
