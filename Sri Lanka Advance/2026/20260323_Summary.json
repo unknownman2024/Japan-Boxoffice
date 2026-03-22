@@ -1,31 +1,7 @@
 {
   "date": "20260323",
-  "lastUpdated": "07:23 AM, 22 March 2026",
+  "lastUpdated": "09:46 AM, 22 March 2026",
   "movies": {
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 29,
-          "gross": 15300.0,
-          "sold": 18,
-          "totalSeats": 5089
-        }
-      }
-    },
-    "Dhurandhar The Revenge": {
-      "formats": {
-        "ET00005960": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 26,
-          "gross": 55450.0,
-          "sold": 45,
-          "totalSeats": 3681
-        }
-      }
-    },
     "Anthony": {
       "formats": {
         "ET00006010": {
@@ -35,6 +11,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 419
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 29,
+          "gross": 15300.0,
+          "sold": 18,
+          "totalSeats": 5089
         }
       }
     },
@@ -58,14 +46,26 @@
         }
       }
     },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 74,
+          "gross": 19400.0,
+          "sold": 31,
+          "totalSeats": 15160
+        }
+      }
+    },
     "Sura Detuwo": {
       "formats": {
         "ET00006009": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 25,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 2600.0,
+          "sold": 4,
           "totalSeats": 4715
         }
       }
@@ -82,39 +82,15 @@
         }
       }
     },
-    "Youth": {
+    "Zootopia 2": {
       "formats": {
-        "ET00006019": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 27,
-          "gross": 3000.0,
-          "sold": 4,
-          "totalSeats": 6567
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
+        "ET00005930": {
+          "format": "3D",
           "language": "English",
-          "shows": 19,
-          "gross": 46900.0,
-          "sold": 18,
-          "totalSeats": 2969
-        }
-      }
-    },
-    "Scream 7": {
-      "formats": {
-        "ET00006002": {
-          "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 3200.0,
-          "sold": 3,
-          "totalSeats": 649
+          "shows": 1,
+          "gross": 1800.0,
+          "sold": 2,
+          "totalSeats": 90
         }
       }
     },
@@ -127,18 +103,6 @@
           "gross": 3300.0,
           "sold": 3,
           "totalSeats": 99
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 90
         }
       }
     },
@@ -166,6 +130,42 @@
         }
       }
     },
+    "Youth": {
+      "formats": {
+        "ET00006019": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 27,
+          "gross": 3000.0,
+          "sold": 4,
+          "totalSeats": 6567
+        }
+      }
+    },
+    "Scream 7": {
+      "formats": {
+        "ET00006002": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 3200.0,
+          "sold": 3,
+          "totalSeats": 649
+        }
+      }
+    },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 44
+        }
+      }
+    },
     "EPiC: Elvis Presley in Concert": {
       "formats": {
         "ET00005978": {
@@ -190,18 +190,6 @@
         }
       }
     },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 44
-        }
-      }
-    },
     "Malaki Duwe Numba": {
       "formats": {
         "ET00005955": {
@@ -214,15 +202,27 @@
         }
       }
     },
-    "Dharmayuddhaya 2": {
+    "Project Hail Mary": {
       "formats": {
-        "ET00005975": {
+        "ET00006026": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 74,
-          "gross": 15800.0,
-          "sold": 27,
-          "totalSeats": 15160
+          "language": "English",
+          "shows": 19,
+          "gross": 46900.0,
+          "sold": 18,
+          "totalSeats": 2969
+        }
+      }
+    },
+    "Dhurandhar The Revenge": {
+      "formats": {
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 26,
+          "gross": 59950.0,
+          "sold": 47,
+          "totalSeats": 3681
         }
       }
     }
