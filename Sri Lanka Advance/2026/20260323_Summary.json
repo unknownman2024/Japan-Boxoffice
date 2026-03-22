@@ -1,40 +1,28 @@
 {
   "date": "20260323",
-  "lastUpdated": "09:54 PM, 22 March 2026",
+  "lastUpdated": "10:51 PM, 22 March 2026",
   "movies": {
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 28,
-          "gross": 6400.0,
-          "sold": 12,
-          "totalSeats": 5314
-        }
-      }
-    },
-    "Anthony": {
-      "formats": {
-        "ET00006010": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 419
-        }
-      }
-    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 80,
-          "gross": 41700.0,
-          "sold": 81,
-          "totalSeats": 16405
+          "gross": 40700.0,
+          "sold": 77,
+          "totalSeats": 16401
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 30,
+          "gross": 31150.0,
+          "sold": 41,
+          "totalSeats": 5303
         }
       }
     },
@@ -44,9 +32,21 @@
           "format": "2D",
           "language": "Hindi",
           "shows": 27,
-          "gross": 170150.0,
-          "sold": 119,
+          "gross": 162750.0,
+          "sold": 113,
           "totalSeats": 3897
+        }
+      }
+    },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 28,
+          "gross": 6400.0,
+          "sold": 12,
+          "totalSeats": 5314
         }
       }
     },
@@ -70,15 +70,15 @@
         }
       }
     },
-    "Thaai Kizhavi": {
+    "Anthony": {
       "formats": {
-        "ET00006000": {
+        "ET00006010": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 10,
+          "shows": 3,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1434
+          "totalSeats": 419
         }
       }
     },
@@ -100,8 +100,8 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 29,
-          "gross": 32600.0,
-          "sold": 40,
+          "gross": 34500.0,
+          "sold": 42,
           "totalSeats": 7281
         }
       }
@@ -118,30 +118,6 @@
         }
       }
     },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 6600.0,
-          "sold": 6,
-          "totalSeats": 99
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 20,
-          "gross": 107900.0,
-          "sold": 50,
-          "totalSeats": 3185
-        }
-      }
-    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005938": {
@@ -154,15 +130,27 @@
         }
       }
     },
-    "Wuthering Heights": {
+    "Thaai Kizhavi": {
       "formats": {
-        "ET00005997": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 10,
+          "gross": 2700.0,
+          "sold": 3,
+          "totalSeats": 1434
+        }
+      }
+    },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
           "format": "2D",
           "language": "English",
-          "shows": 2,
-          "gross": 6500.0,
-          "sold": 5,
-          "totalSeats": 301
+          "shows": 20,
+          "gross": 116250.0,
+          "sold": 53,
+          "totalSeats": 3185
         }
       }
     },
@@ -178,15 +166,27 @@
         }
       }
     },
-    "EPiC: Elvis Presley in Concert": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00005978": {
+        "ET00005997": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
-          "gross": 13200.0,
-          "sold": 6,
-          "totalSeats": 22
+          "shows": 2,
+          "gross": 3900.0,
+          "sold": 3,
+          "totalSeats": 301
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 46,
+          "gross": 33700.0,
+          "sold": 73,
+          "totalSeats": 9237
         }
       }
     },
@@ -202,27 +202,27 @@
         }
       }
     },
-    "The Wife": {
+    "The Housemaid": {
       "formats": {
-        "ET00005992": {
+        "ET00005954": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 46,
-          "gross": 31800.0,
-          "sold": 65,
-          "totalSeats": 9241
+          "language": "English",
+          "shows": 1,
+          "gross": 6600.0,
+          "sold": 6,
+          "totalSeats": 99
         }
       }
     },
-    " Father": {
+    "EPiC: Elvis Presley in Concert": {
       "formats": {
-        "ET00005963": {
+        "ET00005978": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 30,
-          "gross": 31150.0,
-          "sold": 41,
-          "totalSeats": 5305
+          "language": "English",
+          "shows": 1,
+          "gross": 13200.0,
+          "sold": 6,
+          "totalSeats": 22
         }
       }
     }
