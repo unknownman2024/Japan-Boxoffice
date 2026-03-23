@@ -1,16 +1,16 @@
 {
   "date": "20260325",
-  "lastUpdated": "12:17 AM, 24 March 2026",
+  "lastUpdated": "01:15 AM, 24 March 2026",
   "movies": {
-    "Dharmayuddhaya 2": {
+    "Anthony": {
       "formats": {
-        "ET00005975": {
+        "ET00006010": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 94,
-          "gross": 46400.0,
-          "sold": 78,
-          "totalSeats": 16457
+          "language": "Tamil",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 698
         }
       }
     },
@@ -20,41 +20,9 @@
           "format": "2D",
           "language": "Hindi",
           "shows": 24,
-          "gross": 65400.0,
-          "sold": 42,
+          "gross": 66600.0,
+          "sold": 43,
           "totalSeats": 3308
-        }
-      }
-    },
-    "Hoppers": {
-      "formats": {
-        "ET00006005": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 1000.0,
-          "sold": 1,
-          "totalSeats": 292
-        },
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 13,
-          "gross": 2000.0,
-          "sold": 2,
-          "totalSeats": 1765
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 36,
-          "gross": 16150.0,
-          "sold": 18,
-          "totalSeats": 6885
         }
       }
     },
@@ -64,9 +32,41 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 43,
-          "gross": 1200.0,
-          "sold": 4,
+          "gross": 3450.0,
+          "sold": 7,
           "totalSeats": 5314
+        }
+      }
+    },
+    "Hoppers": {
+      "formats": {
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 13,
+          "gross": 4200.0,
+          "sold": 4,
+          "totalSeats": 1765
+        },
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 1000.0,
+          "sold": 1,
+          "totalSeats": 292
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 13,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1499
         }
       }
     },
@@ -79,6 +79,18 @@
           "gross": 2700.0,
           "sold": 3,
           "totalSeats": 90
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 99
         }
       }
     },
@@ -100,8 +112,8 @@
           "format": "2D",
           "language": "English",
           "shows": 20,
-          "gross": 133500.0,
-          "sold": 58,
+          "gross": 142200.0,
+          "sold": 62,
           "totalSeats": 3076
         }
       }
@@ -130,39 +142,15 @@
         }
       }
     },
-    "The Housemaid": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00005954": {
+        "ET00005997": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 99
-        }
-      }
-    },
-    "EPiC: Elvis Presley in Concert": {
-      "formats": {
-        "ET00005978": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 22
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 100
+          "shows": 2,
+          "gross": 3000.0,
+          "sold": 3,
+          "totalSeats": 301
         }
       }
     },
@@ -178,39 +166,15 @@
         }
       }
     },
-    "Wuthering Heights": {
+    "Malaki Duwe Numba": {
       "formats": {
-        "ET00005997": {
+        "ET00005955": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 3000.0,
-          "sold": 3,
-          "totalSeats": 301
-        }
-      }
-    },
-    "Anthony": {
-      "formats": {
-        "ET00006010": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 4,
+          "language": "Sinhala",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 698
-        }
-      }
-    },
-    "Thaai Kizhavi": {
-      "formats": {
-        "ET00006000": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 13,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1499
+          "totalSeats": 100
         }
       }
     },
@@ -223,6 +187,42 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 649
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 94,
+          "gross": 46400.0,
+          "sold": 78,
+          "totalSeats": 16457
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 36,
+          "gross": 14150.0,
+          "sold": 16,
+          "totalSeats": 6885
+        }
+      }
+    },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 22
         }
       }
     }
