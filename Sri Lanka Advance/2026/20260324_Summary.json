@@ -1,21 +1,41 @@
 {
   "date": "20260324",
-  "lastUpdated": "10:25 PM, 23 March 2026",
+  "lastUpdated": "11:19 PM, 23 March 2026",
   "movies": {
-    "Dharmayuddhaya 2": {
+    "Sura Detuwo": {
       "formats": {
-        "ET00005975": {
+        "ET00006009": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 96,
-          "gross": 112400.0,
-          "sold": 173,
-          "totalSeats": 16641
+          "shows": 43,
+          "gross": 1800.0,
+          "sold": 4,
+          "totalSeats": 5314
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 35,
+          "gross": 23600.0,
+          "sold": 31,
+          "totalSeats": 6751
         }
       }
     },
     "Hoppers": {
       "formats": {
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 4400.0,
+          "sold": 4,
+          "totalSeats": 292
+        },
         "ET00006008": {
           "format": "3D",
           "language": "English",
@@ -23,14 +43,6 @@
           "gross": 14800.0,
           "sold": 14,
           "totalSeats": 1765
-        },
-        "ET00006005": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 292
         }
       }
     },
@@ -40,45 +52,21 @@
           "format": "2D",
           "language": "Hindi",
           "shows": 23,
-          "gross": 139950.0,
-          "sold": 97,
+          "gross": 151950.0,
+          "sold": 105,
           "totalSeats": 3305
         }
       }
     },
-    "Thaai Kizhavi": {
+    "Anthony": {
       "formats": {
-        "ET00006000": {
+        "ET00006010": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 14,
-          "gross": 1350.0,
-          "sold": 3,
-          "totalSeats": 1440
-        }
-      }
-    },
-    "Youth": {
-      "formats": {
-        "ET00006019": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 40,
-          "gross": 27400.0,
-          "sold": 35,
-          "totalSeats": 8834
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 99
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 419
         }
       }
     },
@@ -94,15 +82,15 @@
         }
       }
     },
-    "Project Hail Mary": {
+    "Youth": {
       "formats": {
-        "ET00006026": {
+        "ET00006019": {
           "format": "2D",
-          "language": "English",
-          "shows": 19,
-          "gross": 148750.0,
-          "sold": 51,
-          "totalSeats": 3152
+          "language": "Tamil",
+          "shows": 40,
+          "gross": 38200.0,
+          "sold": 49,
+          "totalSeats": 8834
         }
       }
     },
@@ -118,15 +106,51 @@
         }
       }
     },
-    "Avatar: Fire and Ash": {
+    "Thaai Kizhavi": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 14,
+          "gross": 1350.0,
+          "sold": 3,
+          "totalSeats": 1440
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
           "language": "English",
-          "shows": 4,
-          "gross": 9800.0,
-          "sold": 10,
-          "totalSeats": 410
+          "shows": 1,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 99
+        }
+      }
+    },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 5000.0,
+          "sold": 2,
+          "totalSeats": 44
+        }
+      }
+    },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 12800.0,
+          "sold": 11,
+          "totalSeats": 301
         }
       }
     },
@@ -142,14 +166,38 @@
         }
       }
     },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 19,
+          "gross": 153150.0,
+          "sold": 55,
+          "totalSeats": 3152
+        }
+      }
+    },
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 4,
+          "gross": 7800.0,
+          "sold": 8,
+          "totalSeats": 410
+        }
+      }
+    },
     "The Wife": {
       "formats": {
         "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 49,
-          "gross": 37350.0,
-          "sold": 68,
+          "gross": 37650.0,
+          "sold": 71,
           "totalSeats": 9689
         }
       }
@@ -166,63 +214,15 @@
         }
       }
     },
-    "Crime 101": {
+    "Dharmayuddhaya 2": {
       "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 5000.0,
-          "sold": 2,
-          "totalSeats": 44
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
+        "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 35,
-          "gross": 20500.0,
-          "sold": 26,
-          "totalSeats": 6751
-        }
-      }
-    },
-    "Anthony": {
-      "formats": {
-        "ET00006010": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 419
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 12800.0,
-          "sold": 11,
-          "totalSeats": 301
-        }
-      }
-    },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 43,
-          "gross": 1800.0,
-          "sold": 4,
-          "totalSeats": 5314
+          "shows": 96,
+          "gross": 112950.0,
+          "sold": 173,
+          "totalSeats": 16641
         }
       }
     }
