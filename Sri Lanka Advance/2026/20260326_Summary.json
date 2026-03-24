@@ -1,7 +1,19 @@
 {
   "date": "20260326",
-  "lastUpdated": "03:56 AM, 25 March 2026",
+  "lastUpdated": "04:58 AM, 25 March 2026",
   "movies": {
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 97,
+          "gross": 15850.0,
+          "sold": 25,
+          "totalSeats": 16693
+        }
+      }
+    },
     "Dhurandhar The Revenge": {
       "formats": {
         "ET00005960": {
@@ -14,6 +26,18 @@
         }
       }
     },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 38,
+          "gross": 19100.0,
+          "sold": 25,
+          "totalSeats": 7113
+        }
+      }
+    },
     "Sura Detuwo": {
       "formats": {
         "ET00006009": {
@@ -23,18 +47,6 @@
           "gross": 3700.0,
           "sold": 9,
           "totalSeats": 5314
-        }
-      }
-    },
-    "Anthony": {
-      "formats": {
-        "ET00006010": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 419
         }
       }
     },
@@ -58,27 +70,15 @@
         }
       }
     },
-    "Dharmayuddhaya 2": {
+    "Thaai Kizhavi": {
       "formats": {
-        "ET00005975": {
+        "ET00006000": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 97,
-          "gross": 15850.0,
-          "sold": 25,
-          "totalSeats": 16693
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 1800.0,
-          "sold": 2,
-          "totalSeats": 90
+          "language": "Tamil",
+          "shows": 16,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1343
         }
       }
     },
@@ -94,6 +94,18 @@
         }
       }
     },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 1800.0,
+          "sold": 2,
+          "totalSeats": 90
+        }
+      }
+    },
     "Scream 7": {
       "formats": {
         "ET00006002": {
@@ -106,15 +118,15 @@
         }
       }
     },
-    "The Housemaid": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00005954": {
+        "ET00005997": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 99
+          "shows": 2,
+          "gross": 3000.0,
+          "sold": 3,
+          "totalSeats": 301
         }
       }
     },
@@ -130,15 +142,15 @@
         }
       }
     },
-    "Thaai Kizhavi": {
+    "The Housemaid": {
       "formats": {
-        "ET00006000": {
+        "ET00005954": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 16,
+          "language": "English",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1343
+          "totalSeats": 99
         }
       }
     },
@@ -151,18 +163,6 @@
           "gross": 7000.0,
           "sold": 7,
           "totalSeats": 410
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 3000.0,
-          "sold": 3,
-          "totalSeats": 301
         }
       }
     },
@@ -190,18 +190,6 @@
         }
       }
     },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 50,
-          "gross": 16000.0,
-          "sold": 30,
-          "totalSeats": 9836
-        }
-      }
-    },
     "Malaki Duwe Numba": {
       "formats": {
         "ET00005955": {
@@ -214,15 +202,27 @@
         }
       }
     },
-    " Father": {
+    "The Wife": {
       "formats": {
-        "ET00005963": {
+        "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 38,
-          "gross": 19100.0,
-          "sold": 25,
-          "totalSeats": 7113
+          "shows": 50,
+          "gross": 16000.0,
+          "sold": 30,
+          "totalSeats": 9836
+        }
+      }
+    },
+    "Anthony": {
+      "formats": {
+        "ET00006010": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 419
         }
       }
     }
