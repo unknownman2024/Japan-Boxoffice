@@ -1,28 +1,28 @@
 {
   "date": "20260325",
-  "lastUpdated": "02:16 PM, 24 March 2026",
+  "lastUpdated": "03:22 PM, 24 March 2026",
   "movies": {
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 95,
-          "gross": 72150.0,
-          "sold": 118,
-          "totalSeats": 16569
-        }
-      }
-    },
     "Anthony": {
       "formats": {
         "ET00006010": {
           "format": "2D",
           "language": "Tamil",
           "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 900.0,
+          "sold": 1,
           "totalSeats": 698
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 37,
+          "gross": 22900.0,
+          "sold": 25,
+          "totalSeats": 7006
         }
       }
     },
@@ -35,26 +35,6 @@
           "gross": 3600.0,
           "sold": 14,
           "totalSeats": 5314
-        }
-      }
-    },
-    "Hoppers": {
-      "formats": {
-        "ET00006005": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 1000.0,
-          "sold": 1,
-          "totalSeats": 292
-        },
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 13,
-          "gross": 12800.0,
-          "sold": 13,
-          "totalSeats": 1765
         }
       }
     },
@@ -82,15 +62,35 @@
         }
       }
     },
-    "Youth": {
+    "Hoppers": {
       "formats": {
-        "ET00006019": {
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 13,
+          "gross": 12800.0,
+          "sold": 13,
+          "totalSeats": 1765
+        },
+        "ET00006005": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 38,
-          "gross": 18500.0,
-          "sold": 22,
-          "totalSeats": 8614
+          "language": "English",
+          "shows": 2,
+          "gross": 1000.0,
+          "sold": 1,
+          "totalSeats": 292
+        }
+      }
+    },
+    "Scream 7": {
+      "formats": {
+        "ET00006002": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 3300.0,
+          "sold": 3,
+          "totalSeats": 649
         }
       }
     },
@@ -106,14 +106,26 @@
         }
       }
     },
+    "Youth": {
+      "formats": {
+        "ET00006019": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 38,
+          "gross": 23600.0,
+          "sold": 31,
+          "totalSeats": 8614
+        }
+      }
+    },
     "Project Hail Mary": {
       "formats": {
         "ET00006026": {
           "format": "2D",
           "language": "English",
           "shows": 20,
-          "gross": 187100.0,
-          "sold": 77,
+          "gross": 196900.0,
+          "sold": 81,
           "totalSeats": 3076
         }
       }
@@ -130,30 +142,6 @@
         }
       }
     },
-    "Scream 7": {
-      "formats": {
-        "ET00006002": {
-          "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 3300.0,
-          "sold": 3,
-          "totalSeats": 649
-        }
-      }
-    },
-    "Dhurandhar The Revenge": {
-      "formats": {
-        "ET00005960": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 24,
-          "gross": 98350.0,
-          "sold": 71,
-          "totalSeats": 3308
-        }
-      }
-    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005938": {
@@ -163,6 +151,18 @@
           "gross": 4000.0,
           "sold": 4,
           "totalSeats": 410
+        }
+      }
+    },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 4400.0,
+          "sold": 2,
+          "totalSeats": 22
         }
       }
     },
@@ -184,21 +184,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 50,
-          "gross": 21050.0,
-          "sold": 41,
-          "totalSeats": 10066
-        }
-      }
-    },
-    "EPiC: Elvis Presley in Concert": {
-      "formats": {
-        "ET00005978": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 4400.0,
-          "sold": 2,
-          "totalSeats": 22
+          "gross": 26500.0,
+          "sold": 51,
+          "totalSeats": 10054
         }
       }
     },
@@ -214,15 +202,27 @@
         }
       }
     },
-    " Father": {
+    "Dhurandhar The Revenge": {
       "formats": {
-        "ET00005963": {
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 24,
+          "gross": 114550.0,
+          "sold": 82,
+          "totalSeats": 3308
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 37,
-          "gross": 28800.0,
-          "sold": 31,
-          "totalSeats": 7018
+          "shows": 95,
+          "gross": 75950.0,
+          "sold": 122,
+          "totalSeats": 16533
         }
       }
     }
