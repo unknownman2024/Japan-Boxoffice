@@ -1,19 +1,7 @@
 {
   "date": "20260326",
-  "lastUpdated": "03:04 AM, 25 March 2026",
+  "lastUpdated": "03:56 AM, 25 March 2026",
   "movies": {
-    "Anthony": {
-      "formats": {
-        "ET00006010": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 419
-        }
-      }
-    },
     "Dhurandhar The Revenge": {
       "formats": {
         "ET00005960": {
@@ -38,15 +26,15 @@
         }
       }
     },
-    "Dharmayuddhaya 2": {
+    "Anthony": {
       "formats": {
-        "ET00005975": {
+        "ET00006010": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 97,
-          "gross": 15850.0,
-          "sold": 25,
-          "totalSeats": 16693
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 419
         }
       }
     },
@@ -64,9 +52,21 @@
           "format": "2D",
           "language": "English",
           "shows": 2,
-          "gross": 2200.0,
-          "sold": 2,
+          "gross": 3200.0,
+          "sold": 3,
           "totalSeats": 292
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 97,
+          "gross": 15850.0,
+          "sold": 25,
+          "totalSeats": 16693
         }
       }
     },
@@ -94,18 +94,6 @@
         }
       }
     },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 3000.0,
-          "sold": 3,
-          "totalSeats": 301
-        }
-      }
-    },
     "Scream 7": {
       "formats": {
         "ET00006002": {
@@ -115,6 +103,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 649
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 99
         }
       }
     },
@@ -142,18 +142,6 @@
         }
       }
     },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 99
-        }
-      }
-    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005938": {
@@ -166,15 +154,15 @@
         }
       }
     },
-    "EPiC: Elvis Presley in Concert": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00005978": {
+        "ET00005997": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 22
+          "shows": 2,
+          "gross": 3000.0,
+          "sold": 3,
+          "totalSeats": 301
         }
       }
     },
@@ -187,6 +175,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 44
+        }
+      }
+    },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 22
         }
       }
     },
