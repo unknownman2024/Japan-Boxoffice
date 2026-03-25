@@ -1,6 +1,6 @@
 {
   "date": "20260326",
-  "lastUpdated": "03:20 PM, 25 March 2026",
+  "lastUpdated": "04:14 PM, 25 March 2026",
   "movies": {
     "Dharmayuddhaya 2": {
       "formats": {
@@ -8,9 +8,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 97,
-          "gross": 27900.0,
-          "sold": 54,
+          "gross": 31700.0,
+          "sold": 60,
           "totalSeats": 16693
+        }
+      }
+    },
+    "Anthony": {
+      "formats": {
+        "ET00006010": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 419
         }
       }
     },
@@ -20,8 +32,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 43,
-          "gross": 5900.0,
-          "sold": 13,
+          "gross": 7100.0,
+          "sold": 15,
           "totalSeats": 5314
         }
       }
@@ -38,15 +50,15 @@
         }
       }
     },
-    "Anthony": {
+    "Dhurandhar The Revenge": {
       "formats": {
-        "ET00006010": {
+        "ET00005960": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 419
+          "language": "Hindi",
+          "shows": 26,
+          "gross": 56750.0,
+          "sold": 35,
+          "totalSeats": 3778
         }
       }
     },
@@ -70,50 +82,14 @@
         }
       }
     },
-    "Dhurandhar The Revenge": {
-      "formats": {
-        "ET00005960": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 26,
-          "gross": 49850.0,
-          "sold": 31,
-          "totalSeats": 3778
-        }
-      }
-    },
-    "Thaai Kizhavi": {
-      "formats": {
-        "ET00006000": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 17,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1527
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 1800.0,
-          "sold": 2,
-          "totalSeats": 90
-        }
-      }
-    },
     "Youth": {
       "formats": {
         "ET00006019": {
           "format": "2D",
           "language": "Tamil",
           "shows": 38,
-          "gross": 23700.0,
-          "sold": 29,
+          "gross": 27200.0,
+          "sold": 35,
           "totalSeats": 8790
         }
       }
@@ -136,8 +112,8 @@
           "format": "2D",
           "language": "English",
           "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 2200.0,
+          "sold": 2,
           "totalSeats": 99
         }
       }
@@ -160,9 +136,21 @@
           "format": "2D",
           "language": "English",
           "shows": 19,
-          "gross": 205500.0,
-          "sold": 84,
+          "gross": 212300.0,
+          "sold": 86,
           "totalSeats": 2969
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 1800.0,
+          "sold": 2,
+          "totalSeats": 90
         }
       }
     },
@@ -223,6 +211,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 100
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 17,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1527
         }
       }
     }
