@@ -1,7 +1,39 @@
 {
   "date": "20260328",
-  "lastUpdated": "12:44 AM, 27 March 2026",
+  "lastUpdated": "02:02 AM, 27 March 2026",
   "movies": {
+    "Anthony": {
+      "formats": {
+        "ET00006010": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 8000.0,
+          "sold": 10,
+          "totalSeats": 138
+        }
+      }
+    },
+    "Dhurandhar The Revenge": {
+      "formats": {
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 20,
+          "gross": 228800.0,
+          "sold": 143,
+          "totalSeats": 2252
+        },
+        "ET00006025": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 12,
+          "gross": 18500.0,
+          "sold": 11,
+          "totalSeats": 2324
+        }
+      }
+    },
     "Sura Detuwo": {
       "formats": {
         "ET00006009": {
@@ -26,38 +58,6 @@
         }
       }
     },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 76,
-          "gross": 81850.0,
-          "sold": 132,
-          "totalSeats": 15662
-        }
-      }
-    },
-    "Dhurandhar The Revenge": {
-      "formats": {
-        "ET00006025": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 12,
-          "gross": 18500.0,
-          "sold": 11,
-          "totalSeats": 2324
-        },
-        "ET00005960": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 20,
-          "gross": 228800.0,
-          "sold": 143,
-          "totalSeats": 2252
-        }
-      }
-    },
     "Hoppers": {
       "formats": {
         "ET00006008": {
@@ -78,27 +78,15 @@
         }
       }
     },
-    "Thaai Kizhavi": {
+    "Dharmayuddhaya 2": {
       "formats": {
-        "ET00006000": {
+        "ET00005975": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 403
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 180
+          "language": "Sinhala",
+          "shows": 76,
+          "gross": 81850.0,
+          "sold": 132,
+          "totalSeats": 15662
         }
       }
     },
@@ -120,57 +108,9 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 36,
-          "gross": 52300.0,
-          "sold": 51,
+          "gross": 54000.0,
+          "sold": 53,
           "totalSeats": 9002
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 14300.0,
-          "sold": 11,
-          "totalSeats": 118
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 10400.0,
-          "sold": 8,
-          "totalSeats": 99
-        }
-      }
-    },
-    "Gothra": {
-      "formats": {
-        "ET00006029": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 7,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1715
-        }
-      }
-    },
-    "Idhuve Aarambam": {
-      "formats": {
-        "ET00006027": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 595
         }
       }
     },
@@ -186,18 +126,6 @@
         }
       }
     },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 3,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 285
-        }
-      }
-    },
     "Scream 7": {
       "formats": {
         "ET00006002": {
@@ -210,27 +138,87 @@
         }
       }
     },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 2400.0,
+          "sold": 2,
+          "totalSeats": 180
+        }
+      }
+    },
+    "Idhuve Aarambam": {
+      "formats": {
+        "ET00006027": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 595
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 403
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 10400.0,
+          "sold": 8,
+          "totalSeats": 99
+        }
+      }
+    },
     "Project Hail Mary": {
       "formats": {
         "ET00006026": {
           "format": "2D",
           "language": "English",
           "shows": 11,
-          "gross": 353300.0,
-          "sold": 144,
+          "gross": 360100.0,
+          "sold": 146,
           "totalSeats": 2299
         }
       }
     },
-    "The Importance of Being Earnest": {
+    "Gothra": {
       "formats": {
-        "ET00006013": {
+        "ET00006029": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 7,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1715
+        }
+      }
+    },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 97
+          "shows": 2,
+          "gross": 14300.0,
+          "sold": 11,
+          "totalSeats": 118
         }
       }
     },
@@ -243,30 +231,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 152
-        }
-      }
-    },
-    "EPiC: Elvis Presley in Concert": {
-      "formats": {
-        "ET00005978": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 22
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 100
         }
       }
     },
@@ -306,15 +270,51 @@
         }
       }
     },
-    "Anthony": {
+    "Malaki Duwe Numba": {
       "formats": {
-        "ET00006010": {
+        "ET00005955": {
           "format": "2D",
-          "language": "Tamil",
+          "language": "Sinhala",
           "shows": 1,
-          "gross": 8000.0,
-          "sold": 10,
-          "totalSeats": 138
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 100
+        }
+      }
+    },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 22
+        }
+      }
+    },
+    "The Importance of Being Earnest": {
+      "formats": {
+        "ET00006013": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 97
+        }
+      }
+    },
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 2400.0,
+          "sold": 2,
+          "totalSeats": 285
         }
       }
     }
