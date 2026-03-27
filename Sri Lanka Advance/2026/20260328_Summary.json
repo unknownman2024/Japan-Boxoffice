@@ -1,7 +1,39 @@
 {
   "date": "20260328",
-  "lastUpdated": "09:18 PM, 27 March 2026",
+  "lastUpdated": "10:20 PM, 27 March 2026",
   "movies": {
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 102,
+          "gross": 413300.0,
+          "sold": 640,
+          "totalSeats": 17134
+        }
+      }
+    },
+    "Dhurandhar The Revenge": {
+      "formats": {
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 18,
+          "gross": 578100.0,
+          "sold": 361,
+          "totalSeats": 1926
+        },
+        "ET00006025": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 18,
+          "gross": 197300.0,
+          "sold": 158,
+          "totalSeats": 2784
+        }
+      }
+    },
     "Anthony": {
       "formats": {
         "ET00006010": {
@@ -20,29 +52,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 32,
-          "gross": 154100.0,
-          "sold": 169,
+          "gross": 189400.0,
+          "sold": 207,
           "totalSeats": 5445
-        }
-      }
-    },
-    "Dhurandhar The Revenge": {
-      "formats": {
-        "ET00005960": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 18,
-          "gross": 551700.0,
-          "sold": 345,
-          "totalSeats": 1926
-        },
-        "ET00006025": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 18,
-          "gross": 139900.0,
-          "sold": 111,
-          "totalSeats": 2784
         }
       }
     },
@@ -52,29 +64,17 @@
           "format": "3D",
           "language": "English",
           "shows": 13,
-          "gross": 147700.0,
-          "sold": 111,
+          "gross": 159000.0,
+          "sold": 117,
           "totalSeats": 1627
         },
         "ET00006005": {
           "format": "2D",
           "language": "English",
           "shows": 4,
-          "gross": 51150.0,
-          "sold": 37,
+          "gross": 59550.0,
+          "sold": 44,
           "totalSeats": 465
-        }
-      }
-    },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 40,
-          "gross": 23300.0,
-          "sold": 52,
-          "totalSeats": 5579
         }
       }
     },
@@ -96,8 +96,8 @@
           "format": "3D",
           "language": "English",
           "shows": 2,
-          "gross": 9600.0,
-          "sold": 8,
+          "gross": 12000.0,
+          "sold": 10,
           "totalSeats": 180
         }
       }
@@ -114,63 +114,15 @@
         }
       }
     },
-    "Youth": {
+    "Sura Detuwo": {
       "formats": {
-        "ET00006019": {
+        "ET00006009": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 37,
-          "gross": 180100.0,
-          "sold": 174,
-          "totalSeats": 9212
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 36400.0,
-          "sold": 22,
-          "totalSeats": 118
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 22100.0,
-          "sold": 17,
-          "totalSeats": 99
-        }
-      }
-    },
-    "Idhuve Aarambam": {
-      "formats": {
-        "ET00006027": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 595
-        }
-      }
-    },
-    "Scream 7": {
-      "formats": {
-        "ET00006002": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 19500.0,
-          "sold": 15,
-          "totalSeats": 207
+          "language": "Sinhala",
+          "shows": 40,
+          "gross": 27400.0,
+          "sold": 63,
+          "totalSeats": 5579
         }
       }
     },
@@ -186,27 +138,51 @@
         }
       }
     },
-    "Gothra": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00006029": {
+        "ET00005997": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 7,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1715
+          "language": "English",
+          "shows": 2,
+          "gross": 49400.0,
+          "sold": 30,
+          "totalSeats": 118
         }
       }
     },
-    "Project Hail Mary": {
+    "Scream 7": {
       "formats": {
-        "ET00006026": {
+        "ET00006002": {
           "format": "2D",
           "language": "English",
-          "shows": 11,
-          "gross": 1126750.0,
-          "sold": 447,
-          "totalSeats": 2299
+          "shows": 2,
+          "gross": 24700.0,
+          "sold": 19,
+          "totalSeats": 207
+        }
+      }
+    },
+    "Youth": {
+      "formats": {
+        "ET00006019": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 37,
+          "gross": 210000.0,
+          "sold": 199,
+          "totalSeats": 9212
+        }
+      }
+    },
+    "Idhuve Aarambam": {
+      "formats": {
+        "ET00006027": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 595
         }
       }
     },
@@ -216,9 +192,33 @@
           "format": "3D",
           "language": "English",
           "shows": 3,
-          "gross": 2400.0,
-          "sold": 2,
+          "gross": 4800.0,
+          "sold": 4,
           "totalSeats": 285
+        }
+      }
+    },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 11,
+          "gross": 1231750.0,
+          "sold": 504,
+          "totalSeats": 2299
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 32500.0,
+          "sold": 25,
+          "totalSeats": 99
         }
       }
     },
@@ -258,30 +258,6 @@
         }
       }
     },
-    "One Battle After Another": {
-      "formats": {
-        "ET00005860": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 7000.0,
-          "sold": 2,
-          "totalSeats": 305
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 102,
-          "gross": 364800.0,
-          "sold": 557,
-          "totalSeats": 17134
-        }
-      }
-    },
     "Malaki Duwe Numba": {
       "formats": {
         "ET00005955": {
@@ -294,14 +270,38 @@
         }
       }
     },
+    "Gothra": {
+      "formats": {
+        "ET00006029": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 7,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1715
+        }
+      }
+    },
+    "One Battle After Another": {
+      "formats": {
+        "ET00005860": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 7000.0,
+          "sold": 2,
+          "totalSeats": 305
+        }
+      }
+    },
     "The Wife": {
       "formats": {
         "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 50,
-          "gross": 168050.0,
-          "sold": 237,
+          "gross": 189650.0,
+          "sold": 264,
           "totalSeats": 9896
         }
       }
