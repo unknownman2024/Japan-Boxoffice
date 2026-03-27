@@ -1,7 +1,19 @@
 {
   "date": "20260329",
-  "lastUpdated": "01:08 AM, 28 March 2026",
+  "lastUpdated": "02:04 AM, 28 March 2026",
   "movies": {
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 38,
+          "gross": 6200.0,
+          "sold": 14,
+          "totalSeats": 5377
+        }
+      }
+    },
     "Dhurandhar The Revenge": {
       "formats": {
         "ET00005960": {
@@ -22,40 +34,20 @@
         }
       }
     },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 32,
-          "gross": 56200.0,
-          "sold": 80,
-          "totalSeats": 5534
-        }
-      }
-    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 102,
-          "gross": 137100.0,
-          "sold": 216,
+          "gross": 138000.0,
+          "sold": 218,
           "totalSeats": 17203
         }
       }
     },
     "Hoppers": {
       "formats": {
-        "ET00006005": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 38750.0,
-          "sold": 26,
-          "totalSeats": 465
-        },
         "ET00006008": {
           "format": "3D",
           "language": "English",
@@ -63,42 +55,14 @@
           "gross": 66800.0,
           "sold": 54,
           "totalSeats": 1627
-        }
-      }
-    },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
+        },
+        "ET00006005": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 38,
-          "gross": 6200.0,
-          "sold": 14,
-          "totalSeats": 5377
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
           "language": "English",
-          "shows": 2,
-          "gross": 8400.0,
-          "sold": 7,
-          "totalSeats": 180
-        }
-      }
-    },
-    "Happy Raj": {
-      "formats": {
-        "ET00006023": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 19,
-          "gross": 4100.0,
-          "sold": 6,
-          "totalSeats": 3570
+          "shows": 4,
+          "gross": 38750.0,
+          "sold": 26,
+          "totalSeats": 465
         }
       }
     },
@@ -114,39 +78,27 @@
         }
       }
     },
-    "Scream 7": {
+    "Happy Raj": {
       "formats": {
-        "ET00006002": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 16900.0,
-          "sold": 13,
-          "totalSeats": 207
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 5200.0,
-          "sold": 4,
-          "totalSeats": 99
-        }
-      }
-    },
-    "Idhuve Aarambam": {
-      "formats": {
-        "ET00006027": {
+        "ET00006023": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 595
+          "shows": 19,
+          "gross": 1700.0,
+          "sold": 4,
+          "totalSeats": 3570
+        }
+      }
+    },
+    "Youth": {
+      "formats": {
+        "ET00006019": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 38,
+          "gross": 29000.0,
+          "sold": 28,
+          "totalSeats": 9529
         }
       }
     },
@@ -162,15 +114,27 @@
         }
       }
     },
-    "Avatar: Fire and Ash": {
+    "Zootopia 2": {
       "formats": {
-        "ET00005938": {
+        "ET00005930": {
           "format": "3D",
           "language": "English",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 378
+          "shows": 2,
+          "gross": 10800.0,
+          "sold": 9,
+          "totalSeats": 180
+        }
+      }
+    },
+    "Scream 7": {
+      "formats": {
+        "ET00006002": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 16900.0,
+          "sold": 13,
+          "totalSeats": 207
         }
       }
     },
@@ -186,15 +150,27 @@
         }
       }
     },
-    "Youth": {
+    "The Housemaid": {
       "formats": {
-        "ET00006019": {
+        "ET00005954": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 38,
-          "gross": 30600.0,
-          "sold": 30,
-          "totalSeats": 9529
+          "language": "English",
+          "shows": 1,
+          "gross": 5200.0,
+          "sold": 4,
+          "totalSeats": 99
+        }
+      }
+    },
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 378
         }
       }
     },
@@ -210,27 +186,27 @@
         }
       }
     },
+    "Idhuve Aarambam": {
+      "formats": {
+        "ET00006027": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 595
+        }
+      }
+    },
     "Project Hail Mary": {
       "formats": {
         "ET00006026": {
           "format": "2D",
           "language": "English",
           "shows": 10,
-          "gross": 478600.0,
-          "sold": 174,
+          "gross": 475200.0,
+          "sold": 173,
           "totalSeats": 2089
-        }
-      }
-    },
-    "A Streetcar Named Desire": {
-      "formats": {
-        "ET00006012": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 97
         }
       }
     },
@@ -246,15 +222,15 @@
         }
       }
     },
-    "EPiC: Elvis Presley in Concert": {
+    "A Streetcar Named Desire": {
       "formats": {
-        "ET00005978": {
+        "ET00006012": {
           "format": "2D",
           "language": "English",
           "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 22
+          "totalSeats": 97
         }
       }
     },
@@ -270,14 +246,26 @@
         }
       }
     },
+    "EPiC: Elvis Presley in Concert": {
+      "formats": {
+        "ET00005978": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 22
+        }
+      }
+    },
     "The Wife": {
       "formats": {
         "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 53,
-          "gross": 63250.0,
-          "sold": 107,
+          "gross": 63950.0,
+          "sold": 109,
           "totalSeats": 10193
         }
       }
@@ -291,6 +279,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 100
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 32,
+          "gross": 55100.0,
+          "sold": 78,
+          "totalSeats": 5534
         }
       }
     }
