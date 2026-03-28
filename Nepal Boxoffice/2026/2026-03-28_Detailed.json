@@ -1,6 +1,6 @@
 {
   "date": "2026-03-28",
-  "lastUpdated": "08:00 PM, 28 March 2026",
+  "lastUpdated": "08:58 PM, 28 March 2026",
   "shows": [
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -5614,11 +5614,11 @@
       "date": "2026-03-28T21:30:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 22,
-      "reserved": 10,
-      "available": 317,
-      "gross": 12800,
-      "occupancy_percent": 9.17
+      "sold": 30,
+      "reserved": 0,
+      "available": 319,
+      "gross": 12000,
+      "occupancy_percent": 8.6
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -5659,11 +5659,11 @@
       "date": "2026-03-28T21:15:00+05:45",
       "time": "",
       "seats": 53,
-      "sold": 34,
+      "sold": 38,
       "reserved": 2,
-      "available": 17,
-      "gross": 50400,
-      "occupancy_percent": 67.92
+      "available": 13,
+      "gross": 56000,
+      "occupancy_percent": 75.47
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -5689,11 +5689,11 @@
       "date": "2026-03-28T21:15:00+05:45",
       "time": "",
       "seats": 519,
-      "sold": 4,
-      "reserved": 0,
-      "available": 515,
-      "gross": 2080,
-      "occupancy_percent": 0.77
+      "sold": 15,
+      "reserved": 3,
+      "available": 501,
+      "gross": 9800,
+      "occupancy_percent": 3.47
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -5704,11 +5704,11 @@
       "date": "2026-03-28T21:30:00+05:45",
       "time": "",
       "seats": 129,
-      "sold": 4,
+      "sold": 5,
       "reserved": 0,
-      "available": 125,
-      "gross": 2200,
-      "occupancy_percent": 3.1
+      "available": 124,
+      "gross": 2750,
+      "occupancy_percent": 3.88
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -5779,8 +5779,8 @@
       "date": "2026-03-28T21:30:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 0,
-      "reserved": 4,
+      "sold": 4,
+      "reserved": 0,
       "available": 173,
       "gross": 1840,
       "occupancy_percent": 2.26
@@ -5839,11 +5839,11 @@
       "date": "2026-03-28T21:15:00+05:45",
       "time": "",
       "seats": 117,
-      "sold": 26,
-      "reserved": 3,
-      "available": 88,
-      "gross": 10200,
-      "occupancy_percent": 24.79
+      "sold": 57,
+      "reserved": 0,
+      "available": 60,
+      "gross": 18600,
+      "occupancy_percent": 48.72
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -5854,8 +5854,8 @@
       "date": "2026-03-28T21:30:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 25,
-      "reserved": 13,
+      "sold": 36,
+      "reserved": 2,
       "available": 176,
       "gross": 13300,
       "occupancy_percent": 17.76
@@ -5961,11 +5961,11 @@
       "date": "2026-03-28T22:30:00+05:45",
       "time": "",
       "seats": 51,
-      "sold": 11,
-      "reserved": 2,
-      "available": 38,
-      "gross": 18200,
-      "occupancy_percent": 25.49
+      "sold": 15,
+      "reserved": 4,
+      "available": 32,
+      "gross": 26600,
+      "occupancy_percent": 37.25
     },
     {
       "movie_id": "zFrpNumaQ5YugBt2dcB6cQ",
@@ -5986,16 +5986,18 @@
       "movie_id": "aQWrEZXzxfbRCKcQhTNidH",
       "movie_name": "Project Hail Mary",
       "show_id": "161577:qs-cinemas",
-      "venue": "qs-cinemas",
-      "theatre": "QFX Rising Mall - Audi 01",
-      "date": "2026-03-28T22:30:00+05:45",
-      "time": "",
-      "seats": 182,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-28",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 182,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     }
   ]
 }
