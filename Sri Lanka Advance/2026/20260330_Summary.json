@@ -1,6 +1,6 @@
 {
   "date": "20260330",
-  "lastUpdated": "02:56 AM, 29 March 2026",
+  "lastUpdated": "03:54 AM, 29 March 2026",
   "movies": {
     "Dharmayuddhaya 2": {
       "formats": {
@@ -11,6 +11,18 @@
           "gross": 15150.0,
           "sold": 32,
           "totalSeats": 16149
+        }
+      }
+    },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 23,
+          "gross": 7200.0,
+          "sold": 9,
+          "totalSeats": 4921
         }
       }
     },
@@ -34,15 +46,15 @@
         }
       }
     },
-    "Sura Detuwo": {
+    " Father": {
       "formats": {
-        "ET00006009": {
+        "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 23,
-          "gross": 7200.0,
-          "sold": 9,
-          "totalSeats": 4921
+          "shows": 26,
+          "gross": 8500.0,
+          "sold": 14,
+          "totalSeats": 4922
         }
       }
     },
@@ -63,30 +75,6 @@
           "gross": 1000.0,
           "sold": 1,
           "totalSeats": 465
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 26,
-          "gross": 8500.0,
-          "sold": 14,
-          "totalSeats": 4922
-        }
-      }
-    },
-    "Happy Raj": {
-      "formats": {
-        "ET00006023": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 15,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2816
         }
       }
     },
@@ -114,27 +102,15 @@
         }
       }
     },
-    "Scream 7": {
+    "Happy Raj": {
       "formats": {
-        "ET00006002": {
+        "ET00006023": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 1800.0,
-          "sold": 2,
-          "totalSeats": 207
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
+          "language": "Tamil",
+          "shows": 15,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 99
+          "totalSeats": 2816
         }
       }
     },
@@ -150,15 +126,27 @@
         }
       }
     },
-    "Project Hail Mary": {
+    "The Housemaid": {
       "formats": {
-        "ET00006026": {
+        "ET00005954": {
           "format": "2D",
           "language": "English",
-          "shows": 12,
-          "gross": 137000.0,
-          "sold": 65,
-          "totalSeats": 2473
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 99
+        }
+      }
+    },
+    "Scream 7": {
+      "formats": {
+        "ET00006002": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 1800.0,
+          "sold": 2,
+          "totalSeats": 207
         }
       }
     },
@@ -171,18 +159,6 @@
           "gross": 1800.0,
           "sold": 2,
           "totalSeats": 7559
-        }
-      }
-    },
-    "Idhuve Aarambam": {
-      "formats": {
-        "ET00006027": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 658
         }
       }
     },
@@ -207,6 +183,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 378
+        }
+      }
+    },
+    "Idhuve Aarambam": {
+      "formats": {
+        "ET00006027": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 658
         }
       }
     },
@@ -246,18 +234,6 @@
         }
       }
     },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 100
-        }
-      }
-    },
     "The Wife": {
       "formats": {
         "ET00005992": {
@@ -267,6 +243,30 @@
           "gross": 8000.0,
           "sold": 12,
           "totalSeats": 9407
+        }
+      }
+    },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 12,
+          "gross": 137000.0,
+          "sold": 65,
+          "totalSeats": 2473
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 100
         }
       }
     }
