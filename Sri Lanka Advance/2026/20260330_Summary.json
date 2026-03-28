@@ -1,6 +1,6 @@
 {
   "date": "20260330",
-  "lastUpdated": "03:54 AM, 29 March 2026",
+  "lastUpdated": "04:57 AM, 29 March 2026",
   "movies": {
     "Dharmayuddhaya 2": {
       "formats": {
@@ -11,18 +11,6 @@
           "gross": 15150.0,
           "sold": 32,
           "totalSeats": 16149
-        }
-      }
-    },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 23,
-          "gross": 7200.0,
-          "sold": 9,
-          "totalSeats": 4921
         }
       }
     },
@@ -46,6 +34,18 @@
         }
       }
     },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 23,
+          "gross": 7200.0,
+          "sold": 9,
+          "totalSeats": 4921
+        }
+      }
+    },
     " Father": {
       "formats": {
         "ET00005963": {
@@ -60,14 +60,6 @@
     },
     "Hoppers": {
       "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 13,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 1627
-        },
         "ET00006005": {
           "format": "2D",
           "language": "English",
@@ -75,30 +67,14 @@
           "gross": 1000.0,
           "sold": 1,
           "totalSeats": 465
-        }
-      }
-    },
-    "Thaai Kizhavi": {
-      "formats": {
-        "ET00006000": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 486
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
+        },
+        "ET00006008": {
           "format": "3D",
           "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 90
+          "shows": 13,
+          "gross": 2400.0,
+          "sold": 2,
+          "totalSeats": 1627
         }
       }
     },
@@ -114,6 +90,30 @@
         }
       }
     },
+    "Youth": {
+      "formats": {
+        "ET00006019": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 31,
+          "gross": 1800.0,
+          "sold": 2,
+          "totalSeats": 7559
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 486
+        }
+      }
+    },
     "Wuthering Heights": {
       "formats": {
         "ET00005997": {
@@ -123,18 +123,6 @@
           "gross": 4600.0,
           "sold": 2,
           "totalSeats": 118
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 99
         }
       }
     },
@@ -150,15 +138,27 @@
         }
       }
     },
-    "Youth": {
+    "Zootopia 2": {
       "formats": {
-        "ET00006019": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 90
+        }
+      }
+    },
+    "Idhuve Aarambam": {
+      "formats": {
+        "ET00006027": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 31,
-          "gross": 1800.0,
-          "sold": 2,
-          "totalSeats": 7559
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 658
         }
       }
     },
@@ -174,6 +174,18 @@
         }
       }
     },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 99
+        }
+      }
+    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005938": {
@@ -183,18 +195,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 378
-        }
-      }
-    },
-    "Idhuve Aarambam": {
-      "formats": {
-        "ET00006027": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 658
         }
       }
     },
@@ -234,18 +234,6 @@
         }
       }
     },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 48,
-          "gross": 8000.0,
-          "sold": 12,
-          "totalSeats": 9407
-        }
-      }
-    },
     "Project Hail Mary": {
       "formats": {
         "ET00006026": {
@@ -255,6 +243,18 @@
           "gross": 137000.0,
           "sold": 65,
           "totalSeats": 2473
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 48,
+          "gross": 8000.0,
+          "sold": 12,
+          "totalSeats": 9407
         }
       }
     },
