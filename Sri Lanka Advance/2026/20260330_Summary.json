@@ -1,24 +1,36 @@
 {
   "date": "20260330",
-  "lastUpdated": "10:00 PM, 29 March 2026",
+  "lastUpdated": "10:56 PM, 29 March 2026",
   "movies": {
     "Dhurandhar The Revenge": {
       "formats": {
-        "ET00005960": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 20,
-          "gross": 76550.0,
-          "sold": 53,
-          "totalSeats": 2218
-        },
         "ET00006025": {
           "format": "2D",
           "language": "Tamil",
           "shows": 15,
-          "gross": 30900.0,
-          "sold": 32,
+          "gross": 36900.0,
+          "sold": 38,
           "totalSeats": 2853
+        },
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 20,
+          "gross": 81550.0,
+          "sold": 57,
+          "totalSeats": 2218
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 26,
+          "gross": 25950.0,
+          "sold": 38,
+          "totalSeats": 4920
         }
       }
     },
@@ -28,8 +40,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 22,
-          "gross": 14300.0,
-          "sold": 23,
+          "gross": 17800.0,
+          "sold": 31,
           "totalSeats": 4799
         }
       }
@@ -40,9 +52,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 77,
-          "gross": 84550.0,
-          "sold": 155,
+          "gross": 89500.0,
+          "sold": 163,
           "totalSeats": 15905
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 389
         }
       }
     },
@@ -60,81 +84,9 @@
           "format": "2D",
           "language": "English",
           "shows": 3,
-          "gross": 10000.0,
-          "sold": 10,
+          "gross": 13600.0,
+          "sold": 12,
           "totalSeats": 325
-        }
-      }
-    },
-    "Happy Raj": {
-      "formats": {
-        "ET00006023": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 15,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2816
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 26,
-          "gross": 25950.0,
-          "sold": 38,
-          "totalSeats": 4920
-        }
-      }
-    },
-    "Youth": {
-      "formats": {
-        "ET00006019": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 31,
-          "gross": 22000.0,
-          "sold": 25,
-          "totalSeats": 7624
-        }
-      }
-    },
-    "Thaai Kizhavi": {
-      "formats": {
-        "ET00006000": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 389
-        }
-      }
-    },
-    "Scream 7": {
-      "formats": {
-        "ET00006002": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 4500.0,
-          "sold": 5,
-          "totalSeats": 207
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 1800.0,
-          "sold": 2,
-          "totalSeats": 99
         }
       }
     },
@@ -150,39 +102,15 @@
         }
       }
     },
-    "Idhuve Aarambam": {
+    "Happy Raj": {
       "formats": {
-        "ET00006027": {
+        "ET00006023": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 3,
+          "shows": 15,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 518
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 12,
-          "gross": 229400.0,
-          "sold": 116,
-          "totalSeats": 2473
-        }
-      }
-    },
-    "Gothra": {
-      "formats": {
-        "ET00006029": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1808
+          "totalSeats": 2816
         }
       }
     },
@@ -198,15 +126,63 @@
         }
       }
     },
-    "Avatar: Fire and Ash": {
+    "Youth": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
+        "ET00006019": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 31,
+          "gross": 27000.0,
+          "sold": 31,
+          "totalSeats": 7624
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
           "language": "English",
-          "shows": 4,
+          "shows": 1,
+          "gross": 1800.0,
+          "sold": 2,
+          "totalSeats": 99
+        }
+      }
+    },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 12,
+          "gross": 226800.0,
+          "sold": 116,
+          "totalSeats": 2473
+        }
+      }
+    },
+    "Idhuve Aarambam": {
+      "formats": {
+        "ET00006027": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 378
+          "totalSeats": 518
+        }
+      }
+    },
+    "Scream 7": {
+      "formats": {
+        "ET00006002": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 4500.0,
+          "sold": 5,
+          "totalSeats": 207
         }
       }
     },
@@ -222,30 +198,6 @@
         }
       }
     },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 48,
-          "gross": 17100.0,
-          "sold": 37,
-          "totalSeats": 9380
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 100
-        }
-      }
-    },
     "EPiC: Elvis Presley in Concert": {
       "formats": {
         "ET00005978": {
@@ -258,6 +210,18 @@
         }
       }
     },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 48,
+          "gross": 20800.0,
+          "sold": 45,
+          "totalSeats": 9380
+        }
+      }
+    },
     "One Battle After Another": {
       "formats": {
         "ET00005860": {
@@ -267,6 +231,42 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 305
+        }
+      }
+    },
+    "Gothra": {
+      "formats": {
+        "ET00006029": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1808
+        }
+      }
+    },
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 378
+        }
+      }
+    },
+    "Malaki Duwe Numba": {
+      "formats": {
+        "ET00005955": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 100
         }
       }
     }
