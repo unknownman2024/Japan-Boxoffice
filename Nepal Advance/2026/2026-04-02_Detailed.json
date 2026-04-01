@@ -1,6 +1,6 @@
 {
   "date": "2026-04-02",
-  "lastUpdated": "03:06 AM, 01 April 2026",
+  "lastUpdated": "07:34 AM, 01 April 2026",
   "shows": [
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -117,10 +117,10 @@
       "time": "",
       "seats": 182,
       "sold": 2,
-      "reserved": 0,
-      "available": 180,
-      "gross": 940,
-      "occupancy_percent": 1.1
+      "reserved": 1,
+      "available": 179,
+      "gross": 1410,
+      "occupancy_percent": 1.65
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -192,10 +192,10 @@
       "time": "",
       "seats": 279,
       "sold": 15,
-      "reserved": 42,
-      "available": 222,
-      "gross": 10545,
-      "occupancy_percent": 20.43
+      "reserved": 43,
+      "available": 221,
+      "gross": 10730,
+      "occupancy_percent": 20.79
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -747,10 +747,10 @@
       "time": "",
       "seats": 210,
       "sold": 14,
-      "reserved": 19,
-      "available": 177,
-      "gross": 5775,
-      "occupancy_percent": 15.71
+      "reserved": 21,
+      "available": 175,
+      "gross": 6125,
+      "occupancy_percent": 16.67
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1521,16 +1521,18 @@
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
       "movie_name": "Dhurandhar - The Revenge",
       "show_id": "161941:pokhara-cineplex",
-      "venue": "pokhara-cineplex",
-      "theatre": "QFX Cinemas Trade Mall - SCREEN 1",
-      "date": "2026-04-02T11:30:00+05:45",
-      "time": "",
-      "seats": 342,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-02",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 342,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1646,11 +1648,11 @@
       "date": "2026-04-02T18:30:00+05:45",
       "time": "",
       "seats": 219,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 219,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 217,
+      "gross": 400,
+      "occupancy_percent": 0.91
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1827,10 +1829,10 @@
       "time": "",
       "seats": 133,
       "sold": 0,
-      "reserved": 0,
-      "available": 133,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 4,
+      "available": 129,
+      "gross": 1320,
+      "occupancy_percent": 3.01
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -2556,16 +2558,18 @@
       "movie_id": "hH3frLygogeL27uw7G8NvK",
       "movie_name": "The Super Mario Galaxy Movie",
       "show_id": "63597:bishwojyoti-cineplex",
-      "venue": "bishwojyoti-cineplex",
-      "theatre": "iNi Bishwojyoti Mall - Audi 2",
-      "date": "2026-04-02T17:30:00+05:45",
-      "time": "",
-      "seats": 89,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-02",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 89,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "hH3frLygogeL27uw7G8NvK",
@@ -2922,10 +2926,10 @@
       "time": "",
       "seats": 177,
       "sold": 0,
-      "reserved": 0,
-      "available": 177,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 175,
+      "gross": 700,
+      "occupancy_percent": 1.13
     },
     {
       "movie_id": "aQWrEZXzxfbRCKcQhTNidH",
@@ -3086,11 +3090,11 @@
       "date": "2026-04-02T08:30:00+05:45",
       "time": "",
       "seats": 207,
-      "sold": 1,
+      "sold": 2,
       "reserved": 0,
-      "available": 206,
-      "gross": 250,
-      "occupancy_percent": 0.48
+      "available": 205,
+      "gross": 500,
+      "occupancy_percent": 0.97
     },
     {
       "movie_id": "zFrpNumaQ5YugBt2dcB6cQ",
