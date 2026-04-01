@@ -1,23 +1,35 @@
 {
   "date": "20260402",
-  "lastUpdated": "03:05 AM, 01 April 2026",
+  "lastUpdated": "07:39 AM, 01 April 2026",
   "movies": {
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 96,
+          "gross": 17100.0,
+          "sold": 30,
+          "totalSeats": 15551
+        }
+      }
+    },
     "Dhurandhar The Revenge": {
       "formats": {
         "ET00006025": {
           "format": "2D",
           "language": "Tamil",
           "shows": 15,
-          "gross": 22750.0,
-          "sold": 17,
+          "gross": 18750.0,
+          "sold": 13,
           "totalSeats": 2267
         },
         "ET00005960": {
           "format": "2D",
           "language": "Hindi",
           "shows": 19,
-          "gross": 48200.0,
-          "sold": 41,
+          "gross": 50400.0,
+          "sold": 43,
           "totalSeats": 2080
         }
       }
@@ -28,22 +40,14 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 27,
-          "gross": 3300.0,
-          "sold": 6,
+          "gross": 4400.0,
+          "sold": 8,
           "totalSeats": 5001
         }
       }
     },
     "Hoppers": {
       "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 8,
-          "gross": 13400.0,
-          "sold": 13,
-          "totalSeats": 1001
-        },
         "ET00006005": {
           "format": "2D",
           "language": "English",
@@ -51,6 +55,26 @@
           "gross": 7200.0,
           "sold": 4,
           "totalSeats": 325
+        },
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 8,
+          "gross": 13400.0,
+          "sold": 13,
+          "totalSeats": 1001
+        }
+      }
+    },
+    "Youth": {
+      "formats": {
+        "ET00006019": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 28,
+          "gross": 12500.0,
+          "sold": 14,
+          "totalSeats": 7019
         }
       }
     },
@@ -78,51 +102,15 @@
         }
       }
     },
-    "Youth": {
+    "Scream 7": {
       "formats": {
-        "ET00006019": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 28,
-          "gross": 12500.0,
-          "sold": 14,
-          "totalSeats": 7019
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 96,
-          "gross": 17100.0,
-          "sold": 30,
-          "totalSeats": 15551
-        }
-      }
-    },
-    "Happy Raj": {
-      "formats": {
-        "ET00006023": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 15,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2672
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
+        "ET00006002": {
           "format": "2D",
           "language": "English",
           "shows": 2,
-          "gross": 9200.0,
-          "sold": 4,
-          "totalSeats": 118
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 207
         }
       }
     },
@@ -144,21 +132,33 @@
           "format": "2D",
           "language": "English",
           "shows": 12,
-          "gross": 262500.0,
-          "sold": 140,
+          "gross": 263200.0,
+          "sold": 142,
           "totalSeats": 2343
         }
       }
     },
-    "Scream 7": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00006002": {
+        "ET00005997": {
           "format": "2D",
           "language": "English",
           "shows": 2,
+          "gross": 9200.0,
+          "sold": 4,
+          "totalSeats": 118
+        }
+      }
+    },
+    "Happy Raj": {
+      "formats": {
+        "ET00006023": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 15,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 207
+          "totalSeats": 2672
         }
       }
     },
