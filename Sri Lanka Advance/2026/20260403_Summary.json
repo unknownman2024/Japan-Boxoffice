@@ -1,39 +1,7 @@
 {
   "date": "20260403",
-  "lastUpdated": "12:26 AM, 02 April 2026",
+  "lastUpdated": "02:12 AM, 02 April 2026",
   "movies": {
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 47,
-          "gross": 17200.0,
-          "sold": 35,
-          "totalSeats": 9450
-        }
-      }
-    },
-    "Dhurandhar The Revenge": {
-      "formats": {
-        "ET00006025": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 6,
-          "gross": 13500.0,
-          "sold": 9,
-          "totalSeats": 685
-        },
-        "ET00005960": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 14,
-          "gross": 60700.0,
-          "sold": 30,
-          "totalSeats": 1476
-        }
-      }
-    },
     " Father": {
       "formats": {
         "ET00005963": {
@@ -46,15 +14,23 @@
         }
       }
     },
-    "Thaai Kizhavi": {
+    "Dhurandhar The Revenge": {
       "formats": {
-        "ET00006000": {
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 14,
+          "gross": 56200.0,
+          "sold": 29,
+          "totalSeats": 1476
+        },
+        "ET00006025": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 154
+          "shows": 6,
+          "gross": 13500.0,
+          "sold": 9,
+          "totalSeats": 685
         }
       }
     },
@@ -78,6 +54,18 @@
         }
       }
     },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 11,
+          "gross": 700.0,
+          "sold": 2,
+          "totalSeats": 2528
+        }
+      }
+    },
     "Zootopia 2": {
       "formats": {
         "ET00005930": {
@@ -87,6 +75,30 @@
           "gross": 3600.0,
           "sold": 3,
           "totalSeats": 90
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 154
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 47,
+          "gross": 17200.0,
+          "sold": 35,
+          "totalSeats": 9450
         }
       }
     },
@@ -122,18 +134,6 @@
         }
       }
     },
-    "Happy Raj": {
-      "formats": {
-        "ET00006023": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 306
-        }
-      }
-    },
     "Scream 7": {
       "formats": {
         "ET00006002": {
@@ -146,39 +146,27 @@
         }
       }
     },
-    "Sura Detuwo": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 11,
-          "gross": 700.0,
-          "sold": 2,
-          "totalSeats": 2528
-        }
-      }
-    },
-    "Leader": {
-      "formats": {
-        "ET00006032": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 12,
-          "gross": 1600.0,
-          "sold": 2,
-          "totalSeats": 2775
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
+        "ET00005997": {
           "format": "2D",
           "language": "English",
-          "shows": 1,
+          "shows": 2,
+          "gross": 4800.0,
+          "sold": 4,
+          "totalSeats": 118
+        }
+      }
+    },
+    "Happy Raj": {
+      "formats": {
+        "ET00006023": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 111
+          "totalSeats": 306
         }
       }
     },
@@ -206,27 +194,15 @@
         }
       }
     },
-    "Gothra": {
+    "The Housemaid": {
       "formats": {
-        "ET00006029": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1126
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
+        "ET00005954": {
           "format": "2D",
           "language": "English",
-          "shows": 2,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 118
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 111
         }
       }
     },
@@ -239,6 +215,30 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 810
+        }
+      }
+    },
+    "Leader": {
+      "formats": {
+        "ET00006032": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 12,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 2775
+        }
+      }
+    },
+    "Gothra": {
+      "formats": {
+        "ET00006029": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1126
         }
       }
     },
