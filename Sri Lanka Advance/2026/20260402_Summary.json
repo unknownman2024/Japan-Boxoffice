@@ -1,6 +1,6 @@
 {
   "date": "20260402",
-  "lastUpdated": "05:20 PM, 01 April 2026",
+  "lastUpdated": "06:43 PM, 01 April 2026",
   "movies": {
     "Dharmayuddhaya 2": {
       "formats": {
@@ -8,8 +8,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 96,
-          "gross": 42900.0,
-          "sold": 77,
+          "gross": 50150.0,
+          "sold": 85,
           "totalSeats": 15551
         }
       }
@@ -20,30 +20,22 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 15,
-          "gross": 33850.0,
-          "sold": 30,
+          "gross": 37850.0,
+          "sold": 34,
           "totalSeats": 2267
         },
         "ET00005960": {
           "format": "2D",
           "language": "Hindi",
           "shows": 19,
-          "gross": 91750.0,
-          "sold": 72,
+          "gross": 101950.0,
+          "sold": 82,
           "totalSeats": 2080
         }
       }
     },
     "Hoppers": {
       "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 8,
-          "gross": 18600.0,
-          "sold": 18,
-          "totalSeats": 1001
-        },
         "ET00006005": {
           "format": "2D",
           "language": "English",
@@ -51,6 +43,14 @@
           "gross": 7200.0,
           "sold": 4,
           "totalSeats": 325
+        },
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 8,
+          "gross": 21000.0,
+          "sold": 20,
+          "totalSeats": 1001
         }
       }
     },
@@ -63,18 +63,6 @@
           "gross": 4500.0,
           "sold": 5,
           "totalSeats": 154
-        }
-      }
-    },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 36,
-          "gross": 15950.0,
-          "sold": 24,
-          "totalSeats": 4776
         }
       }
     },
@@ -98,27 +86,39 @@
         }
       }
     },
-    "Youth": {
-      "formats": {
-        "ET00006019": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 28,
-          "gross": 20100.0,
-          "sold": 23,
-          "totalSeats": 7019
-        }
-      }
-    },
     " Father": {
       "formats": {
         "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 27,
-          "gross": 17400.0,
-          "sold": 24,
+          "gross": 18500.0,
+          "sold": 26,
           "totalSeats": 5001
+        }
+      }
+    },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 36,
+          "gross": 15950.0,
+          "sold": 24,
+          "totalSeats": 4776
+        }
+      }
+    },
+    "Happy Raj": {
+      "formats": {
+        "ET00006023": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 15,
+          "gross": 6600.0,
+          "sold": 8,
+          "totalSeats": 2672
         }
       }
     },
@@ -146,15 +146,27 @@
         }
       }
     },
-    "Happy Raj": {
+    "The Housemaid": {
       "formats": {
-        "ET00006023": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 4500.0,
+          "sold": 5,
+          "totalSeats": 99
+        }
+      }
+    },
+    "Youth": {
+      "formats": {
+        "ET00006019": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 15,
-          "gross": 6600.0,
-          "sold": 8,
-          "totalSeats": 2672
+          "shows": 28,
+          "gross": 17400.0,
+          "sold": 20,
+          "totalSeats": 7019
         }
       }
     },
@@ -164,21 +176,9 @@
           "format": "2D",
           "language": "English",
           "shows": 12,
-          "gross": 391300.0,
-          "sold": 206,
+          "gross": 403100.0,
+          "sold": 219,
           "totalSeats": 2343
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 3600.0,
-          "sold": 4,
-          "totalSeats": 99
         }
       }
     },
@@ -218,6 +218,18 @@
         }
       }
     },
+    "Greenland 2: Migration": {
+      "formats": {
+        "ET00005968": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 45000.0,
+          "sold": 60,
+          "totalSeats": 600
+        }
+      }
+    },
     "Crime 101": {
       "formats": {
         "ET00005994": {
@@ -242,14 +254,26 @@
         }
       }
     },
+    "One Battle After Another": {
+      "formats": {
+        "ET00005860": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 12400.0,
+          "sold": 4,
+          "totalSeats": 305
+        }
+      }
+    },
     "The Wife": {
       "formats": {
         "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 47,
-          "gross": 45150.0,
-          "sold": 75,
+          "gross": 44250.0,
+          "sold": 73,
           "totalSeats": 9128
         }
       }
@@ -263,18 +287,6 @@
           "gross": 900.0,
           "sold": 2,
           "totalSeats": 100
-        }
-      }
-    },
-    "One Battle After Another": {
-      "formats": {
-        "ET00005860": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 12400.0,
-          "sold": 4,
-          "totalSeats": 305
         }
       }
     }
