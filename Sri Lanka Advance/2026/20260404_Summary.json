@@ -1,16 +1,16 @@
 {
   "date": "20260404",
-  "lastUpdated": "12:22 AM, 03 April 2026",
+  "lastUpdated": "01:17 AM, 03 April 2026",
   "movies": {
-    "Dharmayuddhaya 2": {
+    " Father": {
       "formats": {
-        "ET00005975": {
+        "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 83,
-          "gross": 70400.0,
-          "sold": 120,
-          "totalSeats": 13184
+          "shows": 20,
+          "gross": 20250.0,
+          "sold": 19,
+          "totalSeats": 3529
         }
       }
     },
@@ -20,8 +20,8 @@
           "format": "2D",
           "language": "Hindi",
           "shows": 15,
-          "gross": 77200.0,
-          "sold": 44,
+          "gross": 85800.0,
+          "sold": 48,
           "totalSeats": 1606
         },
         "ET00006025": {
@@ -48,14 +48,6 @@
     },
     "Hoppers": {
       "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 7,
-          "gross": 26400.0,
-          "sold": 22,
-          "totalSeats": 908
-        },
         "ET00006005": {
           "format": "2D",
           "language": "English",
@@ -63,30 +55,38 @@
           "gross": 9600.0,
           "sold": 8,
           "totalSeats": 325
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 20,
-          "gross": 20250.0,
-          "sold": 19,
-          "totalSeats": 3529
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
+        },
+        "ET00006008": {
           "format": "3D",
           "language": "English",
+          "shows": 7,
+          "gross": 26400.0,
+          "sold": 22,
+          "totalSeats": 908
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
           "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 90
+          "totalSeats": 154
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 83,
+          "gross": 70400.0,
+          "sold": 120,
+          "totalSeats": 13184
         }
       }
     },
@@ -110,27 +110,15 @@
         }
       }
     },
-    "Thaai Kizhavi": {
+    "Zootopia 2": {
       "formats": {
-        "ET00006000": {
-          "format": "2D",
-          "language": "Tamil",
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
           "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 154
-        }
-      }
-    },
-    "Leader": {
-      "formats": {
-        "ET00006032": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 20,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 4375
+          "totalSeats": 90
         }
       }
     },
@@ -146,6 +134,18 @@
         }
       }
     },
+    "Leader": {
+      "formats": {
+        "ET00006032": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 20,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 4375
+        }
+      }
+    },
     "Happy Raj": {
       "formats": {
         "ET00006023": {
@@ -158,15 +158,15 @@
         }
       }
     },
-    "They Will Kill You": {
+    "The Housemaid": {
       "formats": {
-        "ET00006021": {
+        "ET00005954": {
           "format": "2D",
           "language": "English",
-          "shows": 10,
-          "gross": 2600.0,
-          "sold": 2,
-          "totalSeats": 1124
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 111
         }
       }
     },
@@ -176,21 +176,21 @@
           "format": "2D",
           "language": "English",
           "shows": 12,
-          "gross": 402600.0,
-          "sold": 170,
+          "gross": 412400.0,
+          "sold": 174,
           "totalSeats": 2001
         }
       }
     },
-    "The Housemaid": {
+    "Youth": {
       "formats": {
-        "ET00005954": {
+        "ET00006019": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 2600.0,
-          "sold": 2,
-          "totalSeats": 111
+          "language": "Tamil",
+          "shows": 21,
+          "gross": 17800.0,
+          "sold": 17,
+          "totalSeats": 5741
         }
       }
     },
@@ -206,15 +206,15 @@
         }
       }
     },
-    "Nommara 17": {
+    "They Will Kill You": {
       "formats": {
-        "ET00006028": {
+        "ET00006021": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 2100.0,
-          "sold": 3,
-          "totalSeats": 99
+          "language": "English",
+          "shows": 10,
+          "gross": 2600.0,
+          "sold": 2,
+          "totalSeats": 1124
         }
       }
     },
@@ -242,27 +242,15 @@
         }
       }
     },
-    "Youth": {
+    "Nommara 17": {
       "formats": {
-        "ET00006019": {
+        "ET00006028": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 21,
-          "gross": 17800.0,
-          "sold": 17,
-          "totalSeats": 5741
-        }
-      }
-    },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 44
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 2100.0,
+          "sold": 3,
+          "totalSeats": 99
         }
       }
     },
@@ -278,18 +266,6 @@
         }
       }
     },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 35,
-          "gross": 32100.0,
-          "sold": 63,
-          "totalSeats": 7488
-        }
-      }
-    },
     "Greenland 2: Migration": {
       "formats": {
         "ET00005968": {
@@ -299,6 +275,30 @@
           "gross": 45000.0,
           "sold": 60,
           "totalSeats": 600
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 35,
+          "gross": 33000.0,
+          "sold": 65,
+          "totalSeats": 7488
+        }
+      }
+    },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 44
         }
       }
     },
