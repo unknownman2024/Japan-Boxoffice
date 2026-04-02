@@ -1,24 +1,16 @@
 {
   "date": "20260404",
-  "lastUpdated": "02:01 AM, 03 April 2026",
+  "lastUpdated": "03:57 AM, 03 April 2026",
   "movies": {
-    "Dhurandhar The Revenge": {
+    "Sura Detuwo": {
       "formats": {
-        "ET00005960": {
+        "ET00006009": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 15,
-          "gross": 79800.0,
-          "sold": 46,
-          "totalSeats": 1606
-        },
-        "ET00006025": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 13,
-          "gross": 4500.0,
-          "sold": 3,
-          "totalSeats": 2112
+          "language": "Sinhala",
+          "shows": 38,
+          "gross": 700.0,
+          "sold": 2,
+          "totalSeats": 4987
         }
       }
     },
@@ -31,6 +23,26 @@
           "gross": 20250.0,
           "sold": 19,
           "totalSeats": 3529
+        }
+      }
+    },
+    "Dhurandhar The Revenge": {
+      "formats": {
+        "ET00006025": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 13,
+          "gross": 4500.0,
+          "sold": 3,
+          "totalSeats": 2112
+        },
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 15,
+          "gross": 79800.0,
+          "sold": 46,
+          "totalSeats": 1606
         }
       }
     },
@@ -78,30 +90,6 @@
         }
       }
     },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 90
-        }
-      }
-    },
-    "Leader": {
-      "formats": {
-        "ET00006032": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 20,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 4375
-        }
-      }
-    },
     "The Super Mario Galaxy Movie": {
       "formats": {
         "ET00006030": {
@@ -122,6 +110,18 @@
         }
       }
     },
+    "Leader": {
+      "formats": {
+        "ET00006032": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 20,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 4375
+        }
+      }
+    },
     "Youth": {
       "formats": {
         "ET00006019": {
@@ -134,27 +134,15 @@
         }
       }
     },
-    "Kaalidas 2": {
+    "Zootopia 2": {
       "formats": {
-        "ET00006035": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 800.0,
-          "sold": 2,
-          "totalSeats": 1740
-        }
-      }
-    },
-    "Happy Raj": {
-      "formats": {
-        "ET00006023": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 8,
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 1171
+          "totalSeats": 90
         }
       }
     },
@@ -170,6 +158,30 @@
         }
       }
     },
+    "Happy Raj": {
+      "formats": {
+        "ET00006023": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1171
+        }
+      }
+    },
+    "Kaalidas 2": {
+      "formats": {
+        "ET00006035": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 9,
+          "gross": 800.0,
+          "sold": 2,
+          "totalSeats": 1740
+        }
+      }
+    },
     "They Will Kill You": {
       "formats": {
         "ET00006021": {
@@ -179,18 +191,6 @@
           "gross": 2600.0,
           "sold": 2,
           "totalSeats": 1124
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 111
         }
       }
     },
@@ -218,15 +218,15 @@
         }
       }
     },
-    "Avatar: Fire and Ash": {
+    "The Housemaid": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
+        "ET00005954": {
+          "format": "2D",
           "language": "English",
-          "shows": 4,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 550
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 111
         }
       }
     },
@@ -242,27 +242,15 @@
         }
       }
     },
-    "Greenland 2: Migration": {
+    "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005968": {
-          "format": "2D",
+        "ET00005938": {
+          "format": "3D",
           "language": "English",
-          "shows": 5,
-          "gross": 45000.0,
-          "sold": 60,
-          "totalSeats": 600
-        }
-      }
-    },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 44
+          "shows": 4,
+          "gross": 2400.0,
+          "sold": 2,
+          "totalSeats": 550
         }
       }
     },
@@ -278,6 +266,18 @@
         }
       }
     },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 44
+        }
+      }
+    },
     "The Wife": {
       "formats": {
         "ET00005992": {
@@ -290,6 +290,18 @@
         }
       }
     },
+    "Greenland 2: Migration": {
+      "formats": {
+        "ET00005968": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 45000.0,
+          "sold": 60,
+          "totalSeats": 600
+        }
+      }
+    },
     "Malaki Duwe Numba": {
       "formats": {
         "ET00005955": {
@@ -299,18 +311,6 @@
           "gross": 900.0,
           "sold": 2,
           "totalSeats": 100
-        }
-      }
-    },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 38,
-          "gross": 700.0,
-          "sold": 2,
-          "totalSeats": 4987
         }
       }
     }
