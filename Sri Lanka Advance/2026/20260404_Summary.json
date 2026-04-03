@@ -1,35 +1,23 @@
 {
   "date": "20260404",
-  "lastUpdated": "11:40 AM, 03 April 2026",
+  "lastUpdated": "01:30 PM, 03 April 2026",
   "movies": {
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 40,
-          "gross": 6600.0,
-          "sold": 11,
-          "totalSeats": 5370
-        }
-      }
-    },
     "Dhurandhar The Revenge": {
       "formats": {
         "ET00005960": {
           "format": "2D",
           "language": "Hindi",
           "shows": 15,
-          "gross": 96600.0,
-          "sold": 58,
+          "gross": 113400.0,
+          "sold": 70,
           "totalSeats": 1606
         },
         "ET00006025": {
           "format": "2D",
           "language": "Tamil",
           "shows": 14,
-          "gross": 4500.0,
-          "sold": 3,
+          "gross": 10500.0,
+          "sold": 8,
           "totalSeats": 2112
         }
       }
@@ -40,8 +28,8 @@
           "format": "3D",
           "language": "English",
           "shows": 7,
-          "gross": 33600.0,
-          "sold": 28,
+          "gross": 38400.0,
+          "sold": 32,
           "totalSeats": 908
         },
         "ET00006005": {
@@ -54,6 +42,18 @@
         }
       }
     },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 40,
+          "gross": 7100.0,
+          "sold": 13,
+          "totalSeats": 5370
+        }
+      }
+    },
     "Zootopia 2": {
       "formats": {
         "ET00005930": {
@@ -63,6 +63,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 90
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 20,
+          "gross": 42500.0,
+          "sold": 38,
+          "totalSeats": 3533
         }
       }
     },
@@ -84,26 +96,22 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 87,
-          "gross": 88950.0,
-          "sold": 150,
+          "gross": 118700.0,
+          "sold": 190,
           "totalSeats": 14101
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 20,
-          "gross": 28050.0,
-          "sold": 25,
-          "totalSeats": 3533
         }
       }
     },
     "The Super Mario Galaxy Movie": {
       "formats": {
+        "ET00006030": {
+          "format": "3D",
+          "language": "English",
+          "shows": 38,
+          "gross": 129400.0,
+          "sold": 86,
+          "totalSeats": 6784
+        },
         "ET00006036": {
           "format": "2D",
           "language": "English",
@@ -111,14 +119,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 143
-        },
-        "ET00006030": {
-          "format": "3D",
-          "language": "English",
-          "shows": 38,
-          "gross": 98500.0,
-          "sold": 67,
-          "totalSeats": 6784
         }
       }
     },
@@ -134,38 +134,14 @@
         }
       }
     },
-    "Kaalidas 2": {
-      "formats": {
-        "ET00006035": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 12,
-          "gross": 800.0,
-          "sold": 2,
-          "totalSeats": 2072
-        }
-      }
-    },
-    "Leader": {
-      "formats": {
-        "ET00006032": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 32,
-          "gross": 1600.0,
-          "sold": 2,
-          "totalSeats": 5341
-        }
-      }
-    },
     "Project Hail Mary": {
       "formats": {
         "ET00006026": {
           "format": "2D",
           "language": "English",
           "shows": 12,
-          "gross": 461100.0,
-          "sold": 198,
+          "gross": 506900.0,
+          "sold": 215,
           "totalSeats": 2001
         }
       }
@@ -188,9 +164,21 @@
           "format": "2D",
           "language": "English",
           "shows": 10,
-          "gross": 7800.0,
-          "sold": 6,
+          "gross": 16100.0,
+          "sold": 10,
           "totalSeats": 1124
+        }
+      }
+    },
+    "Kaalidas 2": {
+      "formats": {
+        "ET00006035": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 12,
+          "gross": 800.0,
+          "sold": 2,
+          "totalSeats": 2072
         }
       }
     },
@@ -203,6 +191,18 @@
           "gross": 5200.0,
           "sold": 4,
           "totalSeats": 118
+        }
+      }
+    },
+    "Leader": {
+      "formats": {
+        "ET00006032": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 32,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 5341
         }
       }
     },
@@ -266,6 +266,18 @@
         }
       }
     },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 5400.0,
+          "sold": 2,
+          "totalSeats": 44
+        }
+      }
+    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005938": {
@@ -278,15 +290,15 @@
         }
       }
     },
-    "Crime 101": {
+    "Malaki Duwe Numba": {
       "formats": {
-        "ET00005994": {
+        "ET00005955": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 44
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 2700.0,
+          "sold": 6,
+          "totalSeats": 100
         }
       }
     },
@@ -296,21 +308,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 37,
-          "gross": 42500.0,
-          "sold": 87,
+          "gross": 51700.0,
+          "sold": 107,
           "totalSeats": 7875
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 1800.0,
-          "sold": 4,
-          "totalSeats": 100
         }
       }
     }
