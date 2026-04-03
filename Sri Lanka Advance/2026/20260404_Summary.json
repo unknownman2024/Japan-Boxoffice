@@ -1,14 +1,38 @@
 {
   "date": "20260404",
-  "lastUpdated": "01:30 PM, 03 April 2026",
+  "lastUpdated": "02:36 PM, 03 April 2026",
   "movies": {
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 20,
+          "gross": 36950.0,
+          "sold": 33,
+          "totalSeats": 3533
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 86,
+          "gross": 124200.0,
+          "sold": 205,
+          "totalSeats": 13949
+        }
+      }
+    },
     "Dhurandhar The Revenge": {
       "formats": {
         "ET00005960": {
           "format": "2D",
           "language": "Hindi",
           "shows": 15,
-          "gross": 113400.0,
+          "gross": 113000.0,
           "sold": 70,
           "totalSeats": 1606
         },
@@ -16,9 +40,21 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 14,
-          "gross": 10500.0,
-          "sold": 8,
+          "gross": 12500.0,
+          "sold": 10,
           "totalSeats": 2112
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 90
         }
       }
     },
@@ -28,8 +64,8 @@
           "format": "3D",
           "language": "English",
           "shows": 7,
-          "gross": 38400.0,
-          "sold": 32,
+          "gross": 42900.0,
+          "sold": 35,
           "totalSeats": 908
         },
         "ET00006005": {
@@ -54,27 +90,23 @@
         }
       }
     },
-    "Zootopia 2": {
+    "The Super Mario Galaxy Movie": {
       "formats": {
-        "ET00005930": {
+        "ET00006030": {
           "format": "3D",
+          "language": "English",
+          "shows": 38,
+          "gross": 147650.0,
+          "sold": 97,
+          "totalSeats": 6784
+        },
+        "ET00006036": {
+          "format": "2D",
           "language": "English",
           "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 90
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 20,
-          "gross": 42500.0,
-          "sold": 38,
-          "totalSeats": 3533
+          "totalSeats": 143
         }
       }
     },
@@ -90,83 +122,15 @@
         }
       }
     },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 87,
-          "gross": 118700.0,
-          "sold": 190,
-          "totalSeats": 14101
-        }
-      }
-    },
-    "The Super Mario Galaxy Movie": {
-      "formats": {
-        "ET00006030": {
-          "format": "3D",
-          "language": "English",
-          "shows": 38,
-          "gross": 129400.0,
-          "sold": 86,
-          "totalSeats": 6784
-        },
-        "ET00006036": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
-        }
-      }
-    },
     "Youth": {
       "formats": {
         "ET00006019": {
           "format": "2D",
           "language": "Tamil",
           "shows": 21,
-          "gross": 19400.0,
-          "sold": 19,
+          "gross": 23400.0,
+          "sold": 24,
           "totalSeats": 5741
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 12,
-          "gross": 506900.0,
-          "sold": 215,
-          "totalSeats": 2001
-        }
-      }
-    },
-    "Happy Raj": {
-      "formats": {
-        "ET00006023": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1171
-        }
-      }
-    },
-    "They Will Kill You": {
-      "formats": {
-        "ET00006021": {
-          "format": "2D",
-          "language": "English",
-          "shows": 10,
-          "gross": 16100.0,
-          "sold": 10,
-          "totalSeats": 1124
         }
       }
     },
@@ -182,6 +146,66 @@
         }
       }
     },
+    "Happy Raj": {
+      "formats": {
+        "ET00006023": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 8,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 1171
+        }
+      }
+    },
+    "Leader": {
+      "formats": {
+        "ET00006032": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 33,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 5493
+        }
+      }
+    },
+    "They Will Kill You": {
+      "formats": {
+        "ET00006021": {
+          "format": "2D",
+          "language": "English",
+          "shows": 10,
+          "gross": 18700.0,
+          "sold": 12,
+          "totalSeats": 1124
+        }
+      }
+    },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 12,
+          "gross": 558800.0,
+          "sold": 235,
+          "totalSeats": 2001
+        }
+      }
+    },
+    "Nommara 17": {
+      "formats": {
+        "ET00006028": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 3500.0,
+          "sold": 5,
+          "totalSeats": 99
+        }
+      }
+    },
     "Wuthering Heights": {
       "formats": {
         "ET00005997": {
@@ -194,39 +218,15 @@
         }
       }
     },
-    "Leader": {
-      "formats": {
-        "ET00006032": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 32,
-          "gross": 1600.0,
-          "sold": 2,
-          "totalSeats": 5341
-        }
-      }
-    },
     "The Housemaid": {
       "formats": {
         "ET00005954": {
           "format": "2D",
           "language": "English",
           "shows": 1,
-          "gross": 2600.0,
-          "sold": 2,
+          "gross": 5200.0,
+          "sold": 4,
           "totalSeats": 111
-        }
-      }
-    },
-    "Nommara 17": {
-      "formats": {
-        "ET00006028": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 2100.0,
-          "sold": 3,
-          "totalSeats": 99
         }
       }
     },
@@ -242,15 +242,15 @@
         }
       }
     },
-    "Gothra": {
+    "Avatar: Fire and Ash": {
       "formats": {
-        "ET00006029": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1226
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 4,
+          "gross": 2400.0,
+          "sold": 2,
+          "totalSeats": 550
         }
       }
     },
@@ -278,15 +278,27 @@
         }
       }
     },
-    "Avatar: Fire and Ash": {
+    "Gothra": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 4,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 550
+        "ET00006029": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1226
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 37,
+          "gross": 53300.0,
+          "sold": 111,
+          "totalSeats": 7875
         }
       }
     },
@@ -299,18 +311,6 @@
           "gross": 2700.0,
           "sold": 6,
           "totalSeats": 100
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 37,
-          "gross": 51700.0,
-          "sold": 107,
-          "totalSeats": 7875
         }
       }
     }
