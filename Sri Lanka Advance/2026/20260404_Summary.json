@@ -1,35 +1,23 @@
 {
   "date": "20260404",
-  "lastUpdated": "05:04 PM, 03 April 2026",
+  "lastUpdated": "07:30 PM, 03 April 2026",
   "movies": {
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 86,
-          "gross": 155750.0,
-          "sold": 248,
-          "totalSeats": 13949
-        }
-      }
-    },
     "Dhurandhar The Revenge": {
       "formats": {
         "ET00005960": {
           "format": "2D",
           "language": "Hindi",
           "shows": 15,
-          "gross": 138900.0,
-          "sold": 87,
+          "gross": 160300.0,
+          "sold": 103,
           "totalSeats": 1606
         },
         "ET00006025": {
           "format": "2D",
           "language": "Tamil",
           "shows": 14,
-          "gross": 12500.0,
-          "sold": 10,
+          "gross": 21000.0,
+          "sold": 17,
           "totalSeats": 2112
         }
       }
@@ -40,29 +28,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 21,
-          "gross": 43050.0,
-          "sold": 40,
+          "gross": 48750.0,
+          "sold": 46,
           "totalSeats": 3676
         }
       }
     },
-    "Hoppers": {
+    "Dharmayuddhaya 2": {
       "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 7,
-          "gross": 38400.0,
-          "sold": 32,
-          "totalSeats": 908
-        },
-        "ET00006005": {
+        "ET00005975": {
           "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 12000.0,
-          "sold": 10,
-          "totalSeats": 325
+          "language": "Sinhala",
+          "shows": 86,
+          "gross": 173750.0,
+          "sold": 287,
+          "totalSeats": 13949
         }
       }
     },
@@ -72,9 +52,29 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 40,
-          "gross": 14300.0,
-          "sold": 22,
+          "gross": 19100.0,
+          "sold": 38,
           "totalSeats": 5370
+        }
+      }
+    },
+    "Hoppers": {
+      "formats": {
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 15600.0,
+          "sold": 13,
+          "totalSeats": 325
+        },
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 7,
+          "gross": 58300.0,
+          "sold": 47,
+          "totalSeats": 908
         }
       }
     },
@@ -102,23 +102,15 @@
         }
       }
     },
-    "The Super Mario Galaxy Movie": {
+    "Youth": {
       "formats": {
-        "ET00006030": {
-          "format": "3D",
-          "language": "English",
-          "shows": 40,
-          "gross": 160950.0,
-          "sold": 106,
-          "totalSeats": 7210
-        },
-        "ET00006036": {
+        "ET00006019": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 143
+          "language": "Tamil",
+          "shows": 22,
+          "gross": 32300.0,
+          "sold": 34,
+          "totalSeats": 6060
         }
       }
     },
@@ -134,51 +126,15 @@
         }
       }
     },
-    "Youth": {
+    "The Super Mario Galaxy Movie": {
       "formats": {
-        "ET00006019": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 22,
-          "gross": 25800.0,
-          "sold": 27,
-          "totalSeats": 6060
-        }
-      }
-    },
-    "Kaalidas 2": {
-      "formats": {
-        "ET00006035": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 13,
-          "gross": 800.0,
-          "sold": 2,
-          "totalSeats": 2288
-        }
-      }
-    },
-    "They Will Kill You": {
-      "formats": {
-        "ET00006021": {
-          "format": "2D",
+        "ET00006030": {
+          "format": "3D",
           "language": "English",
-          "shows": 9,
-          "gross": 20000.0,
-          "sold": 13,
-          "totalSeats": 1017
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 15600.0,
-          "sold": 8,
-          "totalSeats": 118
+          "shows": 40,
+          "gross": 193150.0,
+          "sold": 144,
+          "totalSeats": 7210
         }
       }
     },
@@ -206,15 +162,51 @@
         }
       }
     },
+    "They Will Kill You": {
+      "formats": {
+        "ET00006021": {
+          "format": "2D",
+          "language": "English",
+          "shows": 9,
+          "gross": 22800.0,
+          "sold": 15,
+          "totalSeats": 1017
+        }
+      }
+    },
     "Project Hail Mary": {
       "formats": {
         "ET00006026": {
           "format": "2D",
           "language": "English",
           "shows": 12,
-          "gross": 600800.0,
-          "sold": 257,
+          "gross": 689400.0,
+          "sold": 294,
           "totalSeats": 2001
+        }
+      }
+    },
+    "Kaalidas 2": {
+      "formats": {
+        "ET00006035": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 13,
+          "gross": 800.0,
+          "sold": 2,
+          "totalSeats": 2288
+        }
+      }
+    },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 20800.0,
+          "sold": 12,
+          "totalSeats": 118
         }
       }
     },
@@ -230,18 +222,6 @@
         }
       }
     },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 4,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 550
-        }
-      }
-    },
     "Neelira": {
       "formats": {
         "ET00006040": {
@@ -254,15 +234,15 @@
         }
       }
     },
-    "Gothra": {
+    "Avatar: Fire and Ash": {
       "formats": {
-        "ET00006029": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1226
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 4,
+          "gross": 7200.0,
+          "sold": 6,
+          "totalSeats": 550
         }
       }
     },
@@ -275,6 +255,18 @@
           "gross": 45000.0,
           "sold": 60,
           "totalSeats": 600
+        }
+      }
+    },
+    "Gothra": {
+      "formats": {
+        "ET00006029": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1226
         }
       }
     },
@@ -296,8 +288,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 37,
-          "gross": 62600.0,
-          "sold": 128,
+          "gross": 75800.0,
+          "sold": 149,
           "totalSeats": 7875
         }
       }
