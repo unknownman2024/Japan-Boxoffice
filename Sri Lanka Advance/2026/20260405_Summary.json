@@ -1,15 +1,27 @@
 {
   "date": "20260405",
-  "lastUpdated": "02:06 PM, 04 April 2026",
+  "lastUpdated": "03:03 PM, 04 April 2026",
   "movies": {
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 87,
+          "gross": 117600.0,
+          "sold": 184,
+          "totalSeats": 14049
+        }
+      }
+    },
     "Dhurandhar The Revenge": {
       "formats": {
         "ET00005960": {
           "format": "2D",
           "language": "Hindi",
           "shows": 15,
-          "gross": 130600.0,
-          "sold": 90,
+          "gross": 141800.0,
+          "sold": 96,
           "totalSeats": 1605
         },
         "ET00006025": {
@@ -28,21 +40,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 41,
-          "gross": 24450.0,
-          "sold": 42,
+          "gross": 25850.0,
+          "sold": 46,
           "totalSeats": 5472
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 87,
-          "gross": 110800.0,
-          "sold": 180,
-          "totalSeats": 14049
         }
       }
     },
@@ -52,7 +52,7 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 20,
-          "gross": 47150.0,
+          "gross": 45150.0,
           "sold": 52,
           "totalSeats": 3699
         }
@@ -60,14 +60,6 @@
     },
     "Hoppers": {
       "formats": {
-        "ET00006005": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 9600.0,
-          "sold": 8,
-          "totalSeats": 324
-        },
         "ET00006008": {
           "format": "3D",
           "language": "English",
@@ -75,6 +67,14 @@
           "gross": 35300.0,
           "sold": 29,
           "totalSeats": 908
+        },
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 9600.0,
+          "sold": 8,
+          "totalSeats": 324
         }
       }
     },
@@ -108,8 +108,8 @@
           "format": "3D",
           "language": "English",
           "shows": 38,
-          "gross": 154100.0,
-          "sold": 113,
+          "gross": 179300.0,
+          "sold": 123,
           "totalSeats": 6809
         }
       }
@@ -120,21 +120,9 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 21,
-          "gross": 28800.0,
-          "sold": 34,
+          "gross": 31200.0,
+          "sold": 37,
           "totalSeats": 5793
-        }
-      }
-    },
-    "Kaalidas 2": {
-      "formats": {
-        "ET00006035": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 13,
-          "gross": 2400.0,
-          "sold": 6,
-          "totalSeats": 2288
         }
       }
     },
@@ -147,6 +135,30 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 1343
+        }
+      }
+    },
+    "Kaalidas 2": {
+      "formats": {
+        "ET00006035": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 13,
+          "gross": 3200.0,
+          "sold": 8,
+          "totalSeats": 2288
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 13000.0,
+          "sold": 10,
+          "totalSeats": 111
         }
       }
     },
@@ -168,8 +180,8 @@
           "format": "2D",
           "language": "English",
           "shows": 12,
-          "gross": 356100.0,
-          "sold": 144,
+          "gross": 397900.0,
+          "sold": 162,
           "totalSeats": 2000
         }
       }
@@ -186,42 +198,6 @@
         }
       }
     },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 13000.0,
-          "sold": 10,
-          "totalSeats": 111
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 16900.0,
-          "sold": 9,
-          "totalSeats": 118
-        }
-      }
-    },
-    "Neelira": {
-      "formats": {
-        "ET00006040": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1481
-        }
-      }
-    },
     "Scream 7": {
       "formats": {
         "ET00006002": {
@@ -234,15 +210,15 @@
         }
       }
     },
-    "Avatar: Fire and Ash": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00005938": {
-          "format": "3D",
+        "ET00005997": {
+          "format": "2D",
           "language": "English",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 550
+          "shows": 2,
+          "gross": 15600.0,
+          "sold": 8,
+          "totalSeats": 118
         }
       }
     },
@@ -258,15 +234,27 @@
         }
       }
     },
-    "Greenland 2: Migration": {
+    "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005968": {
-          "format": "2D",
+        "ET00005938": {
+          "format": "3D",
           "language": "English",
-          "shows": 5,
-          "gross": 45000.0,
-          "sold": 60,
-          "totalSeats": 600
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 550
+        }
+      }
+    },
+    "Neelira": {
+      "formats": {
+        "ET00006040": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 9,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1481
         }
       }
     },
@@ -300,9 +288,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 42,
-          "gross": 63650.0,
-          "sold": 123,
+          "gross": 64750.0,
+          "sold": 125,
           "totalSeats": 8519
+        }
+      }
+    },
+    "Greenland 2: Migration": {
+      "formats": {
+        "ET00005968": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 45000.0,
+          "sold": 60,
+          "totalSeats": 600
         }
       }
     }
