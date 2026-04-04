@@ -1,16 +1,36 @@
 {
   "date": "20260405",
-  "lastUpdated": "04:56 PM, 04 April 2026",
+  "lastUpdated": "06:15 PM, 04 April 2026",
   "movies": {
-    "Sura Detuwo": {
+    "Dharmayuddhaya 2": {
       "formats": {
-        "ET00006009": {
+        "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 41,
-          "gross": 29500.0,
-          "sold": 57,
-          "totalSeats": 5472
+          "shows": 87,
+          "gross": 159200.0,
+          "sold": 251,
+          "totalSeats": 14049
+        }
+      }
+    },
+    "Dhurandhar The Revenge": {
+      "formats": {
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 14,
+          "gross": 182600.0,
+          "sold": 125,
+          "totalSeats": 1461
+        },
+        "ET00006025": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 14,
+          "gross": 15000.0,
+          "sold": 11,
+          "totalSeats": 2113
         }
       }
     },
@@ -20,46 +40,22 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 20,
-          "gross": 54800.0,
-          "sold": 62,
+          "gross": 60400.0,
+          "sold": 68,
           "totalSeats": 3699
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 87,
-          "gross": 132500.0,
-          "sold": 214,
-          "totalSeats": 14049
-        }
-      }
-    },
-    "Dhurandhar The Revenge": {
-      "formats": {
-        "ET00006025": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 14,
-          "gross": 15000.0,
-          "sold": 11,
-          "totalSeats": 2113
-        },
-        "ET00005960": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 14,
-          "gross": 179300.0,
-          "sold": 123,
-          "totalSeats": 1461
         }
       }
     },
     "Hoppers": {
       "formats": {
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 7,
+          "gross": 44600.0,
+          "sold": 36,
+          "totalSeats": 908
+        },
         "ET00006005": {
           "format": "2D",
           "language": "English",
@@ -67,14 +63,6 @@
           "gross": 15600.0,
           "sold": 13,
           "totalSeats": 324
-        },
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 7,
-          "gross": 41600.0,
-          "sold": 34,
-          "totalSeats": 908
         }
       }
     },
@@ -102,6 +90,18 @@
         }
       }
     },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 41,
+          "gross": 29850.0,
+          "sold": 58,
+          "totalSeats": 5472
+        }
+      }
+    },
     "Leader": {
       "formats": {
         "ET00006032": {
@@ -120,8 +120,8 @@
           "format": "3D",
           "language": "English",
           "shows": 38,
-          "gross": 205100.0,
-          "sold": 151,
+          "gross": 214000.0,
+          "sold": 157,
           "totalSeats": 6809
         }
       }
@@ -135,18 +135,6 @@
           "gross": 38400.0,
           "sold": 46,
           "totalSeats": 5793
-        }
-      }
-    },
-    "Kaalidas 2": {
-      "formats": {
-        "ET00006035": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 13,
-          "gross": 4000.0,
-          "sold": 10,
-          "totalSeats": 2288
         }
       }
     },
@@ -168,21 +156,9 @@
           "format": "2D",
           "language": "English",
           "shows": 9,
-          "gross": 10850.0,
-          "sold": 5,
+          "gross": 21850.0,
+          "sold": 9,
           "totalSeats": 1018
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 13,
-          "gross": 439600.0,
-          "sold": 178,
-          "totalSeats": 2144
         }
       }
     },
@@ -198,15 +174,51 @@
         }
       }
     },
+    "Kaalidas 2": {
+      "formats": {
+        "ET00006035": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 13,
+          "gross": 3200.0,
+          "sold": 8,
+          "totalSeats": 2288
+        }
+      }
+    },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 13,
+          "gross": 470800.0,
+          "sold": 189,
+          "totalSeats": 2144
+        }
+      }
+    },
     "Wuthering Heights": {
       "formats": {
         "ET00005997": {
           "format": "2D",
           "language": "English",
           "shows": 2,
-          "gross": 15600.0,
-          "sold": 8,
+          "gross": 23400.0,
+          "sold": 14,
           "totalSeats": 118
+        }
+      }
+    },
+    "Neelira": {
+      "formats": {
+        "ET00006040": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 9,
+          "gross": 2600.0,
+          "sold": 2,
+          "totalSeats": 1481
         }
       }
     },
@@ -219,18 +231,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 99
-        }
-      }
-    },
-    "Neelira": {
-      "formats": {
-        "ET00006040": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1481
         }
       }
     },
@@ -258,15 +258,15 @@
         }
       }
     },
-    "Greenland 2: Migration": {
+    "The Wife": {
       "formats": {
-        "ET00005968": {
+        "ET00005992": {
           "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 45000.0,
-          "sold": 60,
-          "totalSeats": 600
+          "language": "Sinhala",
+          "shows": 42,
+          "gross": 90650.0,
+          "sold": 166,
+          "totalSeats": 8519
         }
       }
     },
@@ -294,15 +294,15 @@
         }
       }
     },
-    "The Wife": {
+    "Greenland 2: Migration": {
       "formats": {
-        "ET00005992": {
+        "ET00005968": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 42,
-          "gross": 75150.0,
-          "sold": 144,
-          "totalSeats": 8519
+          "language": "English",
+          "shows": 5,
+          "gross": 45000.0,
+          "sold": 60,
+          "totalSeats": 600
         }
       }
     }
