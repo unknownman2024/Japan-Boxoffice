@@ -1,19 +1,7 @@
 {
   "date": "20260406",
-  "lastUpdated": "12:58 AM, 05 April 2026",
+  "lastUpdated": "01:56 AM, 05 April 2026",
   "movies": {
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 19,
-          "gross": 1100.0,
-          "sold": 2,
-          "totalSeats": 3568
-        }
-      }
-    },
     "Sura Detuwo": {
       "formats": {
         "ET00006009": {
@@ -26,16 +14,20 @@
         }
       }
     },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 19,
+          "gross": 1100.0,
+          "sold": 2,
+          "totalSeats": 3568
+        }
+      }
+    },
     "Dhurandhar The Revenge": {
       "formats": {
-        "ET00005960": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 14,
-          "gross": 7000.0,
-          "sold": 6,
-          "totalSeats": 1451
-        },
         "ET00006025": {
           "format": "2D",
           "language": "Tamil",
@@ -43,6 +35,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 1757
+        },
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 14,
+          "gross": 7000.0,
+          "sold": 6,
+          "totalSeats": 1451
         }
       }
     },
@@ -110,18 +110,6 @@
         }
       }
     },
-    "Leader": {
-      "formats": {
-        "ET00006032": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 21,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 3557
-        }
-      }
-    },
     "Youth": {
       "formats": {
         "ET00006019": {
@@ -143,6 +131,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 1235
+        }
+      }
+    },
+    "Leader": {
+      "formats": {
+        "ET00006032": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 21,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 3557
         }
       }
     },
@@ -176,45 +176,9 @@
           "format": "2D",
           "language": "English",
           "shows": 14,
-          "gross": 110000.0,
-          "sold": 67,
+          "gross": 116200.0,
+          "sold": 69,
           "totalSeats": 2304
-        }
-      }
-    },
-    "Scream 7": {
-      "formats": {
-        "ET00006002": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 1800.0,
-          "sold": 2,
-          "totalSeats": 99
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 1800.0,
-          "sold": 2,
-          "totalSeats": 118
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 550
         }
       }
     },
@@ -230,6 +194,18 @@
         }
       }
     },
+    "Scream 7": {
+      "formats": {
+        "ET00006002": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 1800.0,
+          "sold": 2,
+          "totalSeats": 99
+        }
+      }
+    },
     "Neelira": {
       "formats": {
         "ET00006040": {
@@ -242,15 +218,15 @@
         }
       }
     },
-    "Greenland 2: Migration": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00005968": {
+        "ET00005997": {
           "format": "2D",
           "language": "English",
-          "shows": 5,
-          "gross": 45000.0,
-          "sold": 60,
-          "totalSeats": 600
+          "shows": 2,
+          "gross": 1800.0,
+          "sold": 2,
+          "totalSeats": 118
         }
       }
     },
@@ -266,15 +242,27 @@
         }
       }
     },
-    "Crime 101": {
+    "Greenland 2: Migration": {
       "formats": {
-        "ET00005994": {
+        "ET00005968": {
           "format": "2D",
           "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 44
+          "shows": 5,
+          "gross": 45000.0,
+          "sold": 60,
+          "totalSeats": 600
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 37,
+          "gross": 10800.0,
+          "sold": 23,
+          "totalSeats": 7627
         }
       }
     },
@@ -290,15 +278,27 @@
         }
       }
     },
-    "The Wife": {
+    "Avatar: Fire and Ash": {
       "formats": {
-        "ET00005992": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 550
+        }
+      }
+    },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 37,
-          "gross": 10800.0,
-          "sold": 23,
-          "totalSeats": 7627
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 44
         }
       }
     }
