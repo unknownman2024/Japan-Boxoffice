@@ -1,27 +1,15 @@
 {
   "date": "20260405",
-  "lastUpdated": "01:16 PM, 04 April 2026",
+  "lastUpdated": "02:06 PM, 04 April 2026",
   "movies": {
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 87,
-          "gross": 100250.0,
-          "sold": 172,
-          "totalSeats": 14049
-        }
-      }
-    },
     "Dhurandhar The Revenge": {
       "formats": {
         "ET00005960": {
           "format": "2D",
           "language": "Hindi",
           "shows": 15,
-          "gross": 115900.0,
-          "sold": 79,
+          "gross": 130600.0,
+          "sold": 90,
           "totalSeats": 1605
         },
         "ET00006025": {
@@ -40,29 +28,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 41,
-          "gross": 14550.0,
-          "sold": 27,
+          "gross": 24450.0,
+          "sold": 42,
           "totalSeats": 5472
         }
       }
     },
-    "Hoppers": {
+    "Dharmayuddhaya 2": {
       "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 7,
-          "gross": 32900.0,
-          "sold": 27,
-          "totalSeats": 908
-        },
-        "ET00006005": {
+        "ET00005975": {
           "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 9600.0,
-          "sold": 8,
-          "totalSeats": 324
+          "language": "Sinhala",
+          "shows": 87,
+          "gross": 110800.0,
+          "sold": 180,
+          "totalSeats": 14049
         }
       }
     },
@@ -72,9 +52,29 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 20,
-          "gross": 46250.0,
-          "sold": 51,
+          "gross": 47150.0,
+          "sold": 52,
           "totalSeats": 3699
+        }
+      }
+    },
+    "Hoppers": {
+      "formats": {
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 9600.0,
+          "sold": 8,
+          "totalSeats": 324
+        },
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 7,
+          "gross": 35300.0,
+          "sold": 29,
+          "totalSeats": 908
         }
       }
     },
@@ -102,15 +102,15 @@
         }
       }
     },
-    "Leader": {
+    "The Super Mario Galaxy Movie": {
       "formats": {
-        "ET00006032": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 33,
-          "gross": 4450.0,
-          "sold": 6,
-          "totalSeats": 5507
+        "ET00006030": {
+          "format": "3D",
+          "language": "English",
+          "shows": 38,
+          "gross": 154100.0,
+          "sold": 113,
+          "totalSeats": 6809
         }
       }
     },
@@ -120,8 +120,8 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 21,
-          "gross": 25000.0,
-          "sold": 28,
+          "gross": 28800.0,
+          "sold": 34,
           "totalSeats": 5793
         }
       }
@@ -138,42 +138,6 @@
         }
       }
     },
-    "The Super Mario Galaxy Movie": {
-      "formats": {
-        "ET00006030": {
-          "format": "3D",
-          "language": "English",
-          "shows": 38,
-          "gross": 143600.0,
-          "sold": 106,
-          "totalSeats": 6809
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 12,
-          "gross": 346700.0,
-          "sold": 140,
-          "totalSeats": 2000
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 13000.0,
-          "sold": 10,
-          "totalSeats": 111
-        }
-      }
-    },
     "Happy Raj": {
       "formats": {
         "ET00006023": {
@@ -183,6 +147,30 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 1343
+        }
+      }
+    },
+    "Leader": {
+      "formats": {
+        "ET00006032": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 33,
+          "gross": 4450.0,
+          "sold": 6,
+          "totalSeats": 5507
+        }
+      }
+    },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 12,
+          "gross": 356100.0,
+          "sold": 144,
+          "totalSeats": 2000
         }
       }
     },
@@ -198,14 +186,26 @@
         }
       }
     },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 13000.0,
+          "sold": 10,
+          "totalSeats": 111
+        }
+      }
+    },
     "Wuthering Heights": {
       "formats": {
         "ET00005997": {
           "format": "2D",
           "language": "English",
           "shows": 2,
-          "gross": 15600.0,
-          "sold": 8,
+          "gross": 16900.0,
+          "sold": 9,
           "totalSeats": 118
         }
       }
@@ -282,18 +282,6 @@
         }
       }
     },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 42,
-          "gross": 65150.0,
-          "sold": 123,
-          "totalSeats": 8519
-        }
-      }
-    },
     "Malaki Duwe Numba": {
       "formats": {
         "ET00005955": {
@@ -303,6 +291,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 100
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 42,
+          "gross": 63650.0,
+          "sold": 123,
+          "totalSeats": 8519
         }
       }
     }
