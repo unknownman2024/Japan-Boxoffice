@@ -1,6 +1,6 @@
 {
   "date": "20260407",
-  "lastUpdated": "12:07 AM, 06 April 2026",
+  "lastUpdated": "01:01 AM, 06 April 2026",
   "movies": {
     "Dharmayuddhaya 2": {
       "formats": {
@@ -11,6 +11,18 @@
           "gross": 1700.0,
           "sold": 4,
           "totalSeats": 13245
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 15,
+          "gross": 4000.0,
+          "sold": 5,
+          "totalSeats": 2507
         }
       }
     },
@@ -26,26 +38,6 @@
         }
       }
     },
-    "Dhurandhar The Revenge": {
-      "formats": {
-        "ET00005960": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 14,
-          "gross": 9600.0,
-          "sold": 9,
-          "totalSeats": 1451
-        },
-        "ET00006025": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 11,
-          "gross": 4400.0,
-          "sold": 4,
-          "totalSeats": 1757
-        }
-      }
-    },
     "Sura Detuwo": {
       "formats": {
         "ET00006009": {
@@ -58,16 +50,28 @@
         }
       }
     },
+    "Dhurandhar The Revenge": {
+      "formats": {
+        "ET00006025": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 11,
+          "gross": 2400.0,
+          "sold": 2,
+          "totalSeats": 1757
+        },
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 14,
+          "gross": 9600.0,
+          "sold": 9,
+          "totalSeats": 1451
+        }
+      }
+    },
     "Hoppers": {
       "formats": {
-        "ET00006005": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 292
-        },
         "ET00006008": {
           "format": "3D",
           "language": "English",
@@ -75,6 +79,14 @@
           "gross": 7000.0,
           "sold": 8,
           "totalSeats": 768
+        },
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 292
         }
       }
     },
@@ -87,18 +99,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 90
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 15,
-          "gross": 4000.0,
-          "sold": 5,
-          "totalSeats": 2507
         }
       }
     },
@@ -122,15 +122,15 @@
         }
       }
     },
-    "Happy Raj": {
+    "Leader": {
       "formats": {
-        "ET00006023": {
+        "ET00006032": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 5,
+          "shows": 21,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 864
+          "totalSeats": 3449
         }
       }
     },
@@ -146,6 +146,18 @@
         }
       }
     },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 14,
+          "gross": 62600.0,
+          "sold": 27,
+          "totalSeats": 2304
+        }
+      }
+    },
     "They Will Kill You": {
       "formats": {
         "ET00006021": {
@@ -155,30 +167,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 1095
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 14,
-          "gross": 58300.0,
-          "sold": 25,
-          "totalSeats": 2304
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 2700.0,
-          "sold": 3,
-          "totalSeats": 111
         }
       }
     },
@@ -206,15 +194,15 @@
         }
       }
     },
-    "Leader": {
+    "The Housemaid": {
       "formats": {
-        "ET00006032": {
+        "ET00005954": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 21,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 3449
+          "language": "English",
+          "shows": 1,
+          "gross": 2700.0,
+          "sold": 3,
+          "totalSeats": 111
         }
       }
     },
@@ -254,18 +242,6 @@
         }
       }
     },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 4400.0,
-          "sold": 2,
-          "totalSeats": 44
-        }
-      }
-    },
     "Avatar: Fire and Ash": {
       "formats": {
         "ET00005938": {
@@ -290,6 +266,18 @@
         }
       }
     },
+    "Happy Raj": {
+      "formats": {
+        "ET00006023": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 864
+        }
+      }
+    },
     "Malaki Duwe Numba": {
       "formats": {
         "ET00005955": {
@@ -299,6 +287,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 100
+        }
+      }
+    },
+    "Crime 101": {
+      "formats": {
+        "ET00005994": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 4400.0,
+          "sold": 2,
+          "totalSeats": 44
         }
       }
     }
