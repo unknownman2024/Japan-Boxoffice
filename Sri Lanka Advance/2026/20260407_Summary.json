@@ -1,39 +1,7 @@
 {
   "date": "20260407",
-  "lastUpdated": "01:58 AM, 06 April 2026",
+  "lastUpdated": "02:57 AM, 06 April 2026",
   "movies": {
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 15,
-          "gross": 4000.0,
-          "sold": 5,
-          "totalSeats": 2507
-        }
-      }
-    },
-    "Dhurandhar The Revenge": {
-      "formats": {
-        "ET00005960": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 14,
-          "gross": 9600.0,
-          "sold": 9,
-          "totalSeats": 1451
-        },
-        "ET00006025": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 11,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 1757
-        }
-      }
-    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
@@ -43,6 +11,50 @@
           "gross": 2100.0,
           "sold": 5,
           "totalSeats": 13245
+        }
+      }
+    },
+    "Anthony": {
+      "formats": {
+        "ET00006010": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 8000.0,
+          "sold": 10,
+          "totalSeats": 184
+        }
+      }
+    },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 25,
+          "gross": 700.0,
+          "sold": 2,
+          "totalSeats": 5209
+        }
+      }
+    },
+    "Dhurandhar The Revenge": {
+      "formats": {
+        "ET00006025": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 11,
+          "gross": 2400.0,
+          "sold": 2,
+          "totalSeats": 1757
+        },
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 14,
+          "gross": 9600.0,
+          "sold": 9,
+          "totalSeats": 1451
         }
       }
     },
@@ -66,30 +78,6 @@
         }
       }
     },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 25,
-          "gross": 700.0,
-          "sold": 2,
-          "totalSeats": 5209
-        }
-      }
-    },
-    "Anthony": {
-      "formats": {
-        "ET00006010": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 8000.0,
-          "sold": 10,
-          "totalSeats": 184
-        }
-      }
-    },
     "Zootopia 2": {
       "formats": {
         "ET00005930": {
@@ -102,35 +90,15 @@
         }
       }
     },
-    "The Super Mario Galaxy Movie": {
+    " Father": {
       "formats": {
-        "ET00006036": {
+        "ET00005963": {
           "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 32
-        },
-        "ET00006030": {
-          "format": "3D",
-          "language": "English",
-          "shows": 38,
-          "gross": 21700.0,
-          "sold": 22,
-          "totalSeats": 6953
-        }
-      }
-    },
-    "Leader": {
-      "formats": {
-        "ET00006032": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 21,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 3449
+          "language": "Sinhala",
+          "shows": 15,
+          "gross": 4000.0,
+          "sold": 5,
+          "totalSeats": 2507
         }
       }
     },
@@ -146,6 +114,26 @@
         }
       }
     },
+    "The Super Mario Galaxy Movie": {
+      "formats": {
+        "ET00006030": {
+          "format": "3D",
+          "language": "English",
+          "shows": 38,
+          "gross": 21700.0,
+          "sold": 22,
+          "totalSeats": 6953
+        },
+        "ET00006036": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 32
+        }
+      }
+    },
     "Happy Raj": {
       "formats": {
         "ET00006023": {
@@ -155,30 +143,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 864
-        }
-      }
-    },
-    "They Will Kill You": {
-      "formats": {
-        "ET00006021": {
-          "format": "2D",
-          "language": "English",
-          "shows": 9,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1095
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 6900.0,
-          "sold": 3,
-          "totalSeats": 118
         }
       }
     },
@@ -206,15 +170,39 @@
         }
       }
     },
-    "Youth": {
+    "They Will Kill You": {
       "formats": {
-        "ET00006019": {
+        "ET00006021": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 17,
+          "language": "English",
+          "shows": 9,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 4891
+          "totalSeats": 1095
+        }
+      }
+    },
+    "Leader": {
+      "formats": {
+        "ET00006032": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 21,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 3449
+        }
+      }
+    },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 6900.0,
+          "sold": 3,
+          "totalSeats": 118
         }
       }
     },
@@ -230,15 +218,27 @@
         }
       }
     },
-    "Greenland 2: Migration": {
+    "Youth": {
       "formats": {
-        "ET00005968": {
+        "ET00006019": {
           "format": "2D",
+          "language": "Tamil",
+          "shows": 17,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 4891
+        }
+      }
+    },
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
           "language": "English",
-          "shows": 5,
-          "gross": 45000.0,
-          "sold": 60,
-          "totalSeats": 600
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 550
         }
       }
     },
@@ -251,6 +251,18 @@
           "gross": 1800.0,
           "sold": 2,
           "totalSeats": 992
+        }
+      }
+    },
+    "Greenland 2: Migration": {
+      "formats": {
+        "ET00005968": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 45000.0,
+          "sold": 60,
+          "totalSeats": 600
         }
       }
     },
@@ -275,18 +287,6 @@
           "gross": 11300.0,
           "sold": 24,
           "totalSeats": 7183
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 550
         }
       }
     },
