@@ -2,11 +2,11 @@
   {
     "movie_id": "zDquhoHrfUHpyVzquamLCN",
     "movie_name": "Dhurandhar - The Revenge",
-    "total_shows": 95,
-    "seats": 17734,
-    "sold": 270,
-    "reserved": 199,
-    "available": 17265,
+    "total_shows": 97,
+    "seats": 18076,
+    "sold": 273,
+    "reserved": 200,
+    "available": 17603,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -55,8 +55,8 @@
         "total_shows": 9,
         "seats": 1434,
         "sold": 122,
-        "reserved": 0,
-        "available": 1312,
+        "reserved": 1,
+        "available": 1311,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -174,9 +174,9 @@
         "venue": "dmax-cinemas",
         "total_shows": 3,
         "seats": 464,
-        "sold": 0,
+        "sold": 3,
         "reserved": 0,
-        "available": 464,
+        "available": 461,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -249,6 +249,16 @@
         "available": 338,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "oasis-cinema",
+        "total_shows": 2,
+        "seats": 342,
+        "sold": 0,
+        "reserved": 0,
+        "available": 342,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -257,9 +267,9 @@
     "movie_name": "The Super Mario Galaxy Movie",
     "total_shows": 22,
     "seats": 4096,
-    "sold": 54,
+    "sold": 57,
     "reserved": 45,
-    "available": 3997,
+    "available": 3994,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -267,9 +277,9 @@
         "venue": "one-cinemas-new-baneshwor",
         "total_shows": 2,
         "seats": 275,
-        "sold": 23,
+        "sold": 26,
         "reserved": 0,
-        "available": 252,
+        "available": 249,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -599,6 +609,29 @@
         "sold": 0,
         "reserved": 0,
         "available": 101,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+    "movie_name": "Aa Bata Aama",
+    "total_shows": 1,
+    "seats": 133,
+    "sold": 0,
+    "reserved": 0,
+    "available": 133,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "oasis-cinema",
+        "total_shows": 1,
+        "seats": 133,
+        "sold": 0,
+        "reserved": 0,
+        "available": 133,
         "housefull": 0,
         "fastfilling": 0
       }
