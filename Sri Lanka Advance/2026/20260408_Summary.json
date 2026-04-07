@@ -1,28 +1,48 @@
 {
   "date": "20260408",
-  "lastUpdated": "10:23 PM, 07 April 2026",
+  "lastUpdated": "11:26 PM, 07 April 2026",
   "movies": {
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 18,
-          "gross": 12100.0,
-          "sold": 17,
-          "totalSeats": 2873
-        }
-      }
-    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 85,
-          "gross": 38300.0,
-          "sold": 68,
+          "gross": 39000.0,
+          "sold": 70,
           "totalSeats": 13918
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 18,
+          "gross": 11200.0,
+          "sold": 17,
+          "totalSeats": 2873
+        }
+      }
+    },
+    "Dhurandhar The Revenge": {
+      "formats": {
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 14,
+          "gross": 41300.0,
+          "sold": 32,
+          "totalSeats": 1450
+        },
+        "ET00006025": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 11,
+          "gross": 4800.0,
+          "sold": 4,
+          "totalSeats": 1725
         }
       }
     },
@@ -32,9 +52,33 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 40,
-          "gross": 7600.0,
-          "sold": 17,
+          "gross": 10600.0,
+          "sold": 21,
           "totalSeats": 5293
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 90
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0,
+          "sold": 0,
+          "totalSeats": 0
         }
       }
     },
@@ -58,38 +102,6 @@
         }
       }
     },
-    "Thaai Kizhavi": {
-      "formats": {
-        "ET00006000": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0,
-          "sold": 0,
-          "totalSeats": 0
-        }
-      }
-    },
-    "Dhurandhar The Revenge": {
-      "formats": {
-        "ET00005960": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 14,
-          "gross": 37100.0,
-          "sold": 28,
-          "totalSeats": 1450
-        },
-        "ET00006025": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 11,
-          "gross": 4800.0,
-          "sold": 4,
-          "totalSeats": 1725
-        }
-      }
-    },
     "The Super Mario Galaxy Movie": {
       "formats": {
         "ET00006036": {
@@ -104,21 +116,9 @@
           "format": "3D",
           "language": "English",
           "shows": 38,
-          "gross": 111400.0,
-          "sold": 91,
+          "gross": 121300.0,
+          "sold": 104,
           "totalSeats": 6735
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 90
         }
       }
     },
@@ -134,6 +134,30 @@
         }
       }
     },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 14,
+          "gross": 284050.0,
+          "sold": 151,
+          "totalSeats": 2304
+        }
+      }
+    },
+    "They Will Kill You": {
+      "formats": {
+        "ET00006021": {
+          "format": "2D",
+          "language": "English",
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 988
+        }
+      }
+    },
     "The Housemaid": {
       "formats": {
         "ET00005954": {
@@ -143,30 +167,6 @@
           "gross": 5400.0,
           "sold": 6,
           "totalSeats": 111
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 13800.0,
-          "sold": 6,
-          "totalSeats": 118
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 14,
-          "gross": 260550.0,
-          "sold": 138,
-          "totalSeats": 2304
         }
       }
     },
@@ -194,15 +194,15 @@
         }
       }
     },
-    "They Will Kill You": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00006021": {
+        "ET00005997": {
           "format": "2D",
           "language": "English",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 988
+          "shows": 2,
+          "gross": 13800.0,
+          "sold": 6,
+          "totalSeats": 118
         }
       }
     },
@@ -218,15 +218,15 @@
         }
       }
     },
-    "Kaalidas 2": {
+    "Youth": {
       "formats": {
-        "ET00006035": {
+        "ET00006019": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 9,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1558
+          "shows": 22,
+          "gross": 8900.0,
+          "sold": 14,
+          "totalSeats": 5779
         }
       }
     },
@@ -242,15 +242,15 @@
         }
       }
     },
-    "Youth": {
+    "Kaalidas 2": {
       "formats": {
-        "ET00006019": {
+        "ET00006035": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 22,
-          "gross": 12500.0,
-          "sold": 16,
-          "totalSeats": 5779
+          "shows": 9,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1558
         }
       }
     },
@@ -296,8 +296,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 35,
-          "gross": 38700.0,
-          "sold": 86,
+          "gross": 39900.0,
+          "sold": 88,
           "totalSeats": 6919
         }
       }
