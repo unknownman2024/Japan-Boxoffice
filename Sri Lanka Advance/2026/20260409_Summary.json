@@ -1,16 +1,28 @@
 {
   "date": "20260409",
-  "lastUpdated": "12:29 AM, 08 April 2026",
+  "lastUpdated": "01:28 AM, 08 April 2026",
   "movies": {
-    "Sura Detuwo": {
+    "Dharmayuddhaya 2": {
       "formats": {
-        "ET00006009": {
+        "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 40,
+          "shows": 85,
+          "gross": 15600.0,
+          "sold": 28,
+          "totalSeats": 14201
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 17,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 5209
+          "totalSeats": 2708
         }
       }
     },
@@ -34,30 +46,6 @@
         }
       }
     },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 17,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2708
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 85,
-          "gross": 15600.0,
-          "sold": 28,
-          "totalSeats": 14201
-        }
-      }
-    },
     "Hoppers": {
       "formats": {
         "ET00006008": {
@@ -78,18 +66,6 @@
         }
       }
     },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 90
-        }
-      }
-    },
     "Thaai Kizhavi": {
       "formats": {
         "ET00006000": {
@@ -102,16 +78,32 @@
         }
       }
     },
-    "The Super Mario Galaxy Movie": {
+    "Sura Detuwo": {
       "formats": {
-        "ET00006036": {
+        "ET00006009": {
           "format": "2D",
+          "language": "Sinhala",
+          "shows": 40,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 5209
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
           "language": "English",
           "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 32
-        },
+          "totalSeats": 90
+        }
+      }
+    },
+    "The Super Mario Galaxy Movie": {
+      "formats": {
         "ET00006030": {
           "format": "3D",
           "language": "English",
@@ -119,18 +111,14 @@
           "gross": 11600.0,
           "sold": 12,
           "totalSeats": 6762
-        }
-      }
-    },
-    "Happy Raj": {
-      "formats": {
-        "ET00006023": {
+        },
+        "ET00006036": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 6,
-          "gross": 1600.0,
-          "sold": 2,
-          "totalSeats": 973
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 32
         }
       }
     },
@@ -146,27 +134,15 @@
         }
       }
     },
-    "Project Hail Mary": {
+    "Happy Raj": {
       "formats": {
-        "ET00006026": {
+        "ET00006023": {
           "format": "2D",
-          "language": "English",
-          "shows": 14,
-          "gross": 73200.0,
-          "sold": 30,
-          "totalSeats": 2177
-        }
-      }
-    },
-    "They Will Kill You": {
-      "formats": {
-        "ET00006021": {
-          "format": "2D",
-          "language": "English",
-          "shows": 7,
-          "gross": 8500.0,
-          "sold": 9,
-          "totalSeats": 889
+          "language": "Tamil",
+          "shows": 6,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 973
         }
       }
     },
@@ -182,6 +158,18 @@
         }
       }
     },
+    "They Will Kill You": {
+      "formats": {
+        "ET00006021": {
+          "format": "2D",
+          "language": "English",
+          "shows": 7,
+          "gross": 8500.0,
+          "sold": 9,
+          "totalSeats": 889
+        }
+      }
+    },
     "Scream 7": {
       "formats": {
         "ET00006002": {
@@ -191,6 +179,18 @@
           "gross": 1800.0,
           "sold": 2,
           "totalSeats": 99
+        }
+      }
+    },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 14,
+          "gross": 73200.0,
+          "sold": 30,
+          "totalSeats": 2177
         }
       }
     },
@@ -218,6 +218,18 @@
         }
       }
     },
+    "Youth": {
+      "formats": {
+        "ET00006019": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 19,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 5077
+        }
+      }
+    },
     "Kaalidas 2": {
       "formats": {
         "ET00006035": {
@@ -242,18 +254,6 @@
         }
       }
     },
-    "Youth": {
-      "formats": {
-        "ET00006019": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 19,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 5077
-        }
-      }
-    },
     "Greenland 2: Migration": {
       "formats": {
         "ET00005968": {
@@ -266,18 +266,6 @@
         }
       }
     },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 36,
-          "gross": 5550.0,
-          "sold": 15,
-          "totalSeats": 7085
-        }
-      }
-    },
     "Crime 101": {
       "formats": {
         "ET00005994": {
@@ -287,6 +275,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 44
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 36,
+          "gross": 5550.0,
+          "sold": 15,
+          "totalSeats": 7085
         }
       }
     },
