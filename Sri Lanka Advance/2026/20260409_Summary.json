@@ -1,16 +1,16 @@
 {
   "date": "20260409",
-  "lastUpdated": "02:23 AM, 08 April 2026",
+  "lastUpdated": "03:09 AM, 08 April 2026",
   "movies": {
-    "Dharmayuddhaya 2": {
+    "Sura Detuwo": {
       "formats": {
-        "ET00005975": {
+        "ET00006009": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 85,
-          "gross": 15600.0,
-          "sold": 28,
-          "totalSeats": 14201
+          "shows": 40,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 5209
         }
       }
     },
@@ -26,16 +26,20 @@
         }
       }
     },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 85,
+          "gross": 15600.0,
+          "sold": 28,
+          "totalSeats": 14201
+        }
+      }
+    },
     "Dhurandhar The Revenge": {
       "formats": {
-        "ET00006025": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 11,
-          "gross": 4500.0,
-          "sold": 2,
-          "totalSeats": 1456
-        },
         "ET00005960": {
           "format": "2D",
           "language": "Hindi",
@@ -43,50 +47,14 @@
           "gross": 11300.0,
           "sold": 8,
           "totalSeats": 1352
-        }
-      }
-    },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 40,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 5209
-        }
-      }
-    },
-    "Hoppers": {
-      "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 7,
-          "gross": 4200.0,
-          "sold": 4,
-          "totalSeats": 908
         },
-        "ET00006005": {
+        "ET00006025": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 292
-        }
-      }
-    },
-    "Zootopia 2": {
-      "formats": {
-        "ET00005930": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 90
+          "language": "Tamil",
+          "shows": 11,
+          "gross": 4500.0,
+          "sold": 2,
+          "totalSeats": 1456
         }
       }
     },
@@ -99,6 +67,38 @@
           "gross": 0,
           "sold": 0,
           "totalSeats": 0
+        }
+      }
+    },
+    "Hoppers": {
+      "formats": {
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 292
+        },
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 7,
+          "gross": 4200.0,
+          "sold": 4,
+          "totalSeats": 908
+        }
+      }
+    },
+    "Zootopia 2": {
+      "formats": {
+        "ET00005930": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 90
         }
       }
     },
@@ -134,18 +134,6 @@
         }
       }
     },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 14,
-          "gross": 73200.0,
-          "sold": 30,
-          "totalSeats": 2177
-        }
-      }
-    },
     "They Will Kill You": {
       "formats": {
         "ET00006021": {
@@ -155,18 +143,6 @@
           "gross": 8500.0,
           "sold": 9,
           "totalSeats": 889
-        }
-      }
-    },
-    "Happy Raj": {
-      "formats": {
-        "ET00006023": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 6,
-          "gross": 1600.0,
-          "sold": 2,
-          "totalSeats": 973
         }
       }
     },
@@ -182,6 +158,30 @@
         }
       }
     },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 6300.0,
+          "sold": 7,
+          "totalSeats": 118
+        }
+      }
+    },
+    "Happy Raj": {
+      "formats": {
+        "ET00006023": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 6,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 973
+        }
+      }
+    },
     "Leader": {
       "formats": {
         "ET00006032": {
@@ -194,15 +194,15 @@
         }
       }
     },
-    "Neelira": {
+    "Project Hail Mary": {
       "formats": {
-        "ET00006040": {
+        "ET00006026": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 8,
-          "gross": 5400.0,
-          "sold": 6,
-          "totalSeats": 851
+          "language": "English",
+          "shows": 14,
+          "gross": 76200.0,
+          "sold": 32,
+          "totalSeats": 2177
         }
       }
     },
@@ -218,6 +218,18 @@
         }
       }
     },
+    "Neelira": {
+      "formats": {
+        "ET00006040": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 8,
+          "gross": 5400.0,
+          "sold": 6,
+          "totalSeats": 851
+        }
+      }
+    },
     "Youth": {
       "formats": {
         "ET00006019": {
@@ -227,18 +239,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 5077
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 6300.0,
-          "sold": 7,
-          "totalSeats": 118
         }
       }
     },
