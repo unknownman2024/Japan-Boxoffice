@@ -1,6 +1,6 @@
 {
   "date": "20260409",
-  "lastUpdated": "01:28 AM, 08 April 2026",
+  "lastUpdated": "02:23 AM, 08 April 2026",
   "movies": {
     "Dharmayuddhaya 2": {
       "formats": {
@@ -28,14 +28,6 @@
     },
     "Dhurandhar The Revenge": {
       "formats": {
-        "ET00005960": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 13,
-          "gross": 11300.0,
-          "sold": 8,
-          "totalSeats": 1352
-        },
         "ET00006025": {
           "format": "2D",
           "language": "Tamil",
@@ -43,6 +35,26 @@
           "gross": 4500.0,
           "sold": 2,
           "totalSeats": 1456
+        },
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 13,
+          "gross": 11300.0,
+          "sold": 8,
+          "totalSeats": 1352
+        }
+      }
+    },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 40,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 5209
         }
       }
     },
@@ -66,30 +78,6 @@
         }
       }
     },
-    "Thaai Kizhavi": {
-      "formats": {
-        "ET00006000": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0,
-          "sold": 0,
-          "totalSeats": 0
-        }
-      }
-    },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 40,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 5209
-        }
-      }
-    },
     "Zootopia 2": {
       "formats": {
         "ET00005930": {
@@ -102,16 +90,20 @@
         }
       }
     },
+    "Thaai Kizhavi": {
+      "formats": {
+        "ET00006000": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0,
+          "sold": 0,
+          "totalSeats": 0
+        }
+      }
+    },
     "The Super Mario Galaxy Movie": {
       "formats": {
-        "ET00006030": {
-          "format": "3D",
-          "language": "English",
-          "shows": 37,
-          "gross": 11600.0,
-          "sold": 12,
-          "totalSeats": 6762
-        },
         "ET00006036": {
           "format": "2D",
           "language": "English",
@@ -119,6 +111,14 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 32
+        },
+        "ET00006030": {
+          "format": "3D",
+          "language": "English",
+          "shows": 37,
+          "gross": 11600.0,
+          "sold": 12,
+          "totalSeats": 6762
         }
       }
     },
@@ -134,27 +134,15 @@
         }
       }
     },
-    "Happy Raj": {
+    "Project Hail Mary": {
       "formats": {
-        "ET00006023": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 6,
-          "gross": 1600.0,
-          "sold": 2,
-          "totalSeats": 973
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
+        "ET00006026": {
           "format": "2D",
           "language": "English",
-          "shows": 2,
-          "gross": 6300.0,
-          "sold": 7,
-          "totalSeats": 118
+          "shows": 14,
+          "gross": 73200.0,
+          "sold": 30,
+          "totalSeats": 2177
         }
       }
     },
@@ -170,6 +158,18 @@
         }
       }
     },
+    "Happy Raj": {
+      "formats": {
+        "ET00006023": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 6,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 973
+        }
+      }
+    },
     "Scream 7": {
       "formats": {
         "ET00006002": {
@@ -179,18 +179,6 @@
           "gross": 1800.0,
           "sold": 2,
           "totalSeats": 99
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 14,
-          "gross": 73200.0,
-          "sold": 30,
-          "totalSeats": 2177
         }
       }
     },
@@ -218,6 +206,18 @@
         }
       }
     },
+    "Kaalidas 2": {
+      "formats": {
+        "ET00006035": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 9,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1558
+        }
+      }
+    },
     "Youth": {
       "formats": {
         "ET00006019": {
@@ -230,15 +230,15 @@
         }
       }
     },
-    "Kaalidas 2": {
+    "Wuthering Heights": {
       "formats": {
-        "ET00006035": {
+        "ET00005997": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1558
+          "language": "English",
+          "shows": 2,
+          "gross": 6300.0,
+          "sold": 7,
+          "totalSeats": 118
         }
       }
     },
