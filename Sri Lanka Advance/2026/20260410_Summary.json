@@ -1,39 +1,7 @@
 {
   "date": "20260410",
-  "lastUpdated": "02:11 AM, 09 April 2026",
+  "lastUpdated": "03:08 AM, 09 April 2026",
   "movies": {
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2152
-        }
-      }
-    },
-    "Hoppers": {
-      "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 6,
-          "gross": 28700.0,
-          "sold": 27,
-          "totalSeats": 794
-        },
-        "ET00006005": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 482
-        }
-      }
-    },
     "Sura Detuwo": {
       "formats": {
         "ET00006009": {
@@ -60,14 +28,6 @@
     },
     "Dhurandhar The Revenge": {
       "formats": {
-        "ET00006025": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 4,
-          "gross": 16000.0,
-          "sold": 16,
-          "totalSeats": 549
-        },
         "ET00005960": {
           "format": "2D",
           "language": "Hindi",
@@ -75,6 +35,58 @@
           "gross": 48100.0,
           "sold": 37,
           "totalSeats": 1319
+        },
+        "ET00006025": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 4,
+          "gross": 16000.0,
+          "sold": 16,
+          "totalSeats": 549
+        }
+      }
+    },
+    "Hoppers": {
+      "formats": {
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 6,
+          "gross": 28700.0,
+          "sold": 27,
+          "totalSeats": 794
+        },
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 482
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 2152
+        }
+      }
+    },
+    "LIK: Love Insurance Kompany": {
+      "formats": {
+        "ET00005927": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 37,
+          "gross": 202650.0,
+          "sold": 182,
+          "totalSeats": 7946
         }
       }
     },
@@ -87,18 +99,6 @@
           "gross": 3600.0,
           "sold": 4,
           "totalSeats": 2878
-        }
-      }
-    },
-    "LIK: Love Insurance Kompany": {
-      "formats": {
-        "ET00005927": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 37,
-          "gross": 199650.0,
-          "sold": 180,
-          "totalSeats": 7946
         }
       }
     },
@@ -186,18 +186,6 @@
         }
       }
     },
-    "TN 2026": {
-      "formats": {
-        "ET00006046": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 3,
-          "gross": 1700.0,
-          "sold": 2,
-          "totalSeats": 624
-        }
-      }
-    },
     "Youth": {
       "formats": {
         "ET00006019": {
@@ -207,6 +195,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 371
+        }
+      }
+    },
+    "TN 2026": {
+      "formats": {
+        "ET00006046": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 1700.0,
+          "sold": 2,
+          "totalSeats": 624
         }
       }
     },
@@ -234,15 +234,15 @@
         }
       }
     },
-    "The Wife": {
+    "Crime 101": {
       "formats": {
-        "ET00005992": {
+        "ET00005994": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 20,
-          "gross": 8600.0,
-          "sold": 18,
-          "totalSeats": 4186
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 44
         }
       }
     },
@@ -258,15 +258,15 @@
         }
       }
     },
-    "Crime 101": {
+    "The Wife": {
       "formats": {
-        "ET00005994": {
+        "ET00005992": {
           "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 44
+          "language": "Sinhala",
+          "shows": 20,
+          "gross": 8600.0,
+          "sold": 18,
+          "totalSeats": 4186
         }
       }
     }
