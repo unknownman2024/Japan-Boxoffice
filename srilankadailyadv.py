@@ -79,7 +79,7 @@ def get_movies():
 
 
 def get_showtimes(event_code, date):
-    url = f"https://lk.bookmyshow.com/pwa/api/de/showtimes/byevent?regionCode=SNLK&eventCode={event_code}&dateCode={date}"
+    url = f"https://sl.text2026mail.workers.dev/?eventCode={event_code}&dateCode={date}"
     return safe_request(url)
 
 
