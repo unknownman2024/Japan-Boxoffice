@@ -2,14 +2,24 @@
   {
     "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
     "movie_name": "Ram Naam Satya",
-    "total_shows": 1,
-    "seats": 192,
-    "sold": 2,
-    "reserved": 16,
-    "available": 174,
+    "total_shows": 4,
+    "seats": 963,
+    "sold": 25,
+    "reserved": 69,
+    "available": 869,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 16,
+        "reserved": 50,
+        "available": 283,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "bsr-movies",
         "total_shows": 1,
@@ -17,6 +27,145 @@
         "sold": 2,
         "reserved": 16,
         "available": 174,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 0,
+        "reserved": 3,
+        "available": 211,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 208,
+        "sold": 7,
+        "reserved": 0,
+        "available": 201,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "eGqxMXE2hQJSvpvu9NGfUM",
+    "movie_name": "Pahaad",
+    "total_shows": 4,
+    "seats": 716,
+    "sold": 4,
+    "reserved": 36,
+    "available": 676,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 0,
+        "reserved": 21,
+        "available": 258,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bsr-movies",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 0,
+        "reserved": 15,
+        "available": 165,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 67,
+        "sold": 4,
+        "reserved": 0,
+        "available": 63,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "suvakamna-cinemas",
+        "total_shows": 1,
+        "seats": 190,
+        "sold": 0,
+        "reserved": 0,
+        "available": 190,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "3xDwpypxFZnaezEukBtpVG",
+    "movie_name": "Dacoit: A Love Story",
+    "total_shows": 2,
+    "seats": 391,
+    "sold": 0,
+    "reserved": 0,
+    "available": 391,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "friends-cinemas-illam",
+        "total_shows": 1,
+        "seats": 188,
+        "sold": 0,
+        "reserved": 0,
+        "available": 188,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 203,
+        "sold": 0,
+        "reserved": 0,
+        "available": 203,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "zDquhoHrfUHpyVzquamLCN",
+    "movie_name": "Dhurandhar - The Revenge",
+    "total_shows": 2,
+    "seats": 439,
+    "sold": 4,
+    "reserved": 50,
+    "available": 385,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 270,
+        "sold": 4,
+        "reserved": 50,
+        "available": 216,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 0,
+        "reserved": 0,
+        "available": 169,
         "housefull": 0,
         "fastfilling": 0
       }
