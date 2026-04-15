@@ -1,6 +1,6 @@
 {
   "date": "2026-04-16",
-  "lastUpdated": "03:16 AM, 15 April 2026",
+  "lastUpdated": "07:29 AM, 15 April 2026",
   "shows": [
     {
       "movie_id": "eGqxMXE2hQJSvpvu9NGfUM",
@@ -837,10 +837,10 @@
       "time": "",
       "seats": 183,
       "sold": 0,
-      "reserved": 0,
-      "available": 183,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 181,
+      "gross": 780,
+      "occupancy_percent": 1.09
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -2226,18 +2226,16 @@
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
       "movie_name": "Dhurandhar - The Revenge",
       "show_id": "64126:ini-cinemas-nb-center",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-04-16",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-cinemas-nb-center",
+      "theatre": "iNi NB Center - Audi -1 (DTS: X)",
+      "date": "2026-04-16T11:15:00+05:45",
+      "time": "",
+      "seats": 177,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 177,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -2543,18 +2541,16 @@
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
       "movie_name": "Dhurandhar - The Revenge",
       "show_id": "64149:ini-simara",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-04-16",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-simara",
+      "theatre": "iNi Simara - Audi 1",
+      "date": "2026-04-16T14:45:00+05:45",
+      "time": "",
+      "seats": 118,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 118,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
