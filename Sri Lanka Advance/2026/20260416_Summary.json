@@ -1,40 +1,40 @@
 {
   "date": "20260416",
-  "lastUpdated": "07:42 PM, 15 April 2026",
+  "lastUpdated": "11:31 PM, 15 April 2026",
   "movies": {
-    "Youth": {
-      "formats": {
-        "ET00006019": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 10,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1431
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 17,
-          "gross": 29350.0,
-          "sold": 32,
-          "totalSeats": 2465
-        }
-      }
-    },
     "Sura Detuwo": {
       "formats": {
         "ET00006009": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 39,
-          "gross": 8050.0,
-          "sold": 16,
+          "gross": 16750.0,
+          "sold": 27,
           "totalSeats": 5322
+        }
+      }
+    },
+    "Youth": {
+      "formats": {
+        "ET00006019": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 10,
+          "gross": 4000.0,
+          "sold": 4,
+          "totalSeats": 1431
+        }
+      }
+    },
+    "LIK: Love Insurance Kompany": {
+      "formats": {
+        "ET00005927": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 84,
+          "gross": 121800.0,
+          "sold": 125,
+          "totalSeats": 14338
         }
       }
     },
@@ -44,8 +44,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 78,
-          "gross": 85000.0,
-          "sold": 117,
+          "gross": 157000.0,
+          "sold": 242,
           "totalSeats": 13128
         }
       }
@@ -56,89 +56,17 @@
           "format": "3D",
           "language": "English",
           "shows": 6,
-          "gross": 15800.0,
-          "sold": 15,
+          "gross": 34400.0,
+          "sold": 33,
           "totalSeats": 794
         },
         "ET00006005": {
           "format": "2D",
           "language": "English",
           "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 10000.0,
+          "sold": 10,
           "totalSeats": 482
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 36,
-          "gross": 28200.0,
-          "sold": 44,
-          "totalSeats": 7028
-        }
-      }
-    },
-    "LIK: Love Insurance Kompany": {
-      "formats": {
-        "ET00005927": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 84,
-          "gross": 104500.0,
-          "sold": 104,
-          "totalSeats": 14338
-        }
-      }
-    },
-    "Wuthering Heights": {
-      "formats": {
-        "ET00005997": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 12500.0,
-          "sold": 7,
-          "totalSeats": 118
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 16,
-          "gross": 193100.0,
-          "sold": 74,
-          "totalSeats": 2785
-        }
-      }
-    },
-    "Scream 7": {
-      "formats": {
-        "ET00006002": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 5500.0,
-          "sold": 5,
-          "totalSeats": 99
-        }
-      }
-    },
-    "The Drama": {
-      "formats": {
-        "ET00006037": {
-          "format": "2D",
-          "language": "English",
-          "shows": 14,
-          "gross": 29400.0,
-          "sold": 25,
-          "totalSeats": 1648
         }
       }
     },
@@ -148,41 +76,77 @@
           "format": "2D",
           "language": "English",
           "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 2200.0,
+          "sold": 2,
           "totalSeats": 111
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 17,
+          "gross": 38400.0,
+          "sold": 46,
+          "totalSeats": 2465
+        }
+      }
+    },
+    "Wuthering Heights": {
+      "formats": {
+        "ET00005997": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 13600.0,
+          "sold": 8,
+          "totalSeats": 118
+        }
+      }
+    },
+    "The Drama": {
+      "formats": {
+        "ET00006037": {
+          "format": "2D",
+          "language": "English",
+          "shows": 14,
+          "gross": 43900.0,
+          "sold": 35,
+          "totalSeats": 1648
+        }
+      }
+    },
+    "Scream 7": {
+      "formats": {
+        "ET00006002": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 12100.0,
+          "sold": 11,
+          "totalSeats": 99
         }
       }
     },
     "Dhurandhar The Revenge": {
       "formats": {
-        "ET00005960": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 9,
-          "gross": 18500.0,
-          "sold": 15,
-          "totalSeats": 1055
-        },
         "ET00006025": {
           "format": "2D",
           "language": "Tamil",
           "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 1400.0,
+          "sold": 2,
           "totalSeats": 605
-        }
-      }
-    },
-    "The Super Mario Galaxy Movie": {
-      "formats": {
-        "ET00006030": {
-          "format": "3D",
-          "language": "English",
-          "shows": 25,
-          "gross": 44000.0,
-          "sold": 43,
-          "totalSeats": 4171
+        },
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 9,
+          "gross": 35100.0,
+          "sold": 29,
+          "totalSeats": 1055
         }
       }
     },
@@ -216,21 +180,33 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 82450.0,
+          "sold": 97,
           "totalSeats": 97
         }
       }
     },
-    "Neelira": {
+    "The Super Mario Galaxy Movie": {
       "formats": {
-        "ET00006040": {
+        "ET00006030": {
+          "format": "3D",
+          "language": "English",
+          "shows": 25,
+          "gross": 68800.0,
+          "sold": 64,
+          "totalSeats": 4171
+        }
+      }
+    },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 138
+          "language": "English",
+          "shows": 16,
+          "gross": 275800.0,
+          "sold": 108,
+          "totalSeats": 2785
         }
       }
     },
@@ -243,54 +219,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 107
-        }
-      }
-    },
-    "Crime 101": {
-      "formats": {
-        "ET00005994": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 44
-        }
-      }
-    },
-    "They Will Kill You": {
-      "formats": {
-        "ET00006021": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 151
-        }
-      }
-    },
-    "Leader": {
-      "formats": {
-        "ET00006032": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 97
-        }
-      }
-    },
-    "Malaki Duwe Numba": {
-      "formats": {
-        "ET00005955": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 2000.0,
-          "sold": 4,
-          "totalSeats": 100
         }
       }
     }
