@@ -15,7 +15,7 @@ from zoneinfo import ZoneInfo
 
 MOVIE_LIST_URL = "https://khaltimovies.text2024mail.workers.dev/"
 MOVIE_INFO_URL = "https://khalti.com/api/v5/movie-info/{movie_id}"
-SHOWINFO_URL   = "https://khalti.com/api/v2/service/use/movie/showinfo-v2/"
+SHOWINFO_URL   = "https://khalti.com/api/v5/service/use/movie/showinfo-v2/"
 TOKEN_URL      = "https://boxoffice24.pages.dev/Nepal/khaltitoken.txt"
 
 IST  = ZoneInfo("Asia/Kolkata")
