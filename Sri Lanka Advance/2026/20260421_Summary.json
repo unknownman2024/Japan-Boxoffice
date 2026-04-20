@@ -1,7 +1,19 @@
 {
   "date": "20260421",
-  "lastUpdated": "10:06 AM, 20 April 2026",
+  "lastUpdated": "02:36 PM, 20 April 2026",
   "movies": {
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 26,
+          "gross": 15700.0,
+          "sold": 35,
+          "totalSeats": 5582
+        }
+      }
+    },
     "Youth": {
       "formats": {
         "ET00006019": {
@@ -14,39 +26,15 @@
         }
       }
     },
-    "The Wife": {
+    "Sura Detuwo": {
       "formats": {
-        "ET00005992": {
+        "ET00006009": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 25,
-          "gross": 12200.0,
-          "sold": 27,
-          "totalSeats": 5284
-        }
-      }
-    },
-    "LIK: Love Insurance Kompany": {
-      "formats": {
-        "ET00005927": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 43,
-          "gross": 4800.0,
-          "sold": 5,
-          "totalSeats": 9059
-        }
-      }
-    },
-    "Mr. X": {
-      "formats": {
-        "ET00006049": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 33,
-          "gross": 1700.0,
+          "shows": 40,
+          "gross": 600.0,
           "sold": 2,
-          "totalSeats": 5873
+          "totalSeats": 5340
         }
       }
     },
@@ -55,90 +43,34 @@
         "ET00005963": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 13,
-          "gross": 1200.0,
-          "sold": 2,
+          "shows": 15,
+          "gross": 3200.0,
+          "sold": 4,
           "totalSeats": 2983
         }
       }
     },
-    "Dharmayuddhaya 2": {
+    "LIK: Love Insurance Kompany": {
       "formats": {
-        "ET00005975": {
+        "ET00005927": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 54,
-          "gross": 10900.0,
-          "sold": 17,
-          "totalSeats": 11152
+          "language": "Tamil",
+          "shows": 51,
+          "gross": 5600.0,
+          "sold": 6,
+          "totalSeats": 9053
         }
       }
     },
-    "Hoppers": {
+    "Mr. X": {
       "formats": {
-        "ET00006005": {
+        "ET00006049": {
           "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 458
-        },
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 4,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 416
-        }
-      }
-    },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 24,
-          "gross": 600.0,
-          "sold": 2,
-          "totalSeats": 5042
-        }
-      }
-    },
-    "The Drama": {
-      "formats": {
-        "ET00006037": {
-          "format": "2D",
-          "language": "English",
-          "shows": 8,
-          "gross": 3200.0,
+          "language": "Tamil",
+          "shows": 38,
+          "gross": 2900.0,
           "sold": 3,
-          "totalSeats": 827
-        }
-      }
-    },
-    "Sergeant Punchisoma": {
-      "formats": {
-        "ET00006047": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 52,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 9575
-        }
-      }
-    },
-    "The Super Mario Galaxy Movie": {
-      "formats": {
-        "ET00006030": {
-          "format": "3D",
-          "language": "English",
-          "shows": 16,
-          "gross": 12900.0,
-          "sold": 14,
-          "totalSeats": 2106
+          "totalSeats": 6450
         }
       }
     },
@@ -151,6 +83,74 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 111
+        }
+      }
+    },
+    "The Drama": {
+      "formats": {
+        "ET00006037": {
+          "format": "2D",
+          "language": "English",
+          "shows": 9,
+          "gross": 7800.0,
+          "sold": 5,
+          "totalSeats": 860
+        }
+      }
+    },
+    "Hoppers": {
+      "formats": {
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 3600.0,
+          "sold": 3,
+          "totalSeats": 458
+        },
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 416
+        }
+      }
+    },
+    "Sergeant Punchisoma": {
+      "formats": {
+        "ET00006047": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 53,
+          "gross": 2400.0,
+          "sold": 6,
+          "totalSeats": 9873
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 70,
+          "gross": 11900.0,
+          "sold": 19,
+          "totalSeats": 11768
+        }
+      }
+    },
+    "Lee Cronins The Mummy": {
+      "formats": {
+        "ET00006039": {
+          "format": "2D",
+          "language": "English",
+          "shows": 26,
+          "gross": 14500.0,
+          "sold": 8,
+          "totalSeats": 4138
         }
       }
     },
@@ -168,21 +168,33 @@
           "format": "2D",
           "language": "Hindi",
           "shows": 6,
-          "gross": 9100.0,
-          "sold": 7,
+          "gross": 14600.0,
+          "sold": 9,
           "totalSeats": 671
         }
       }
     },
-    "Lee Cronins The Mummy": {
+    "Project Hail Mary": {
       "formats": {
-        "ET00006039": {
+        "ET00006026": {
           "format": "2D",
           "language": "English",
-          "shows": 26,
-          "gross": 12400.0,
-          "sold": 6,
-          "totalSeats": 4138
+          "shows": 13,
+          "gross": 28100.0,
+          "sold": 13,
+          "totalSeats": 2026
+        }
+      }
+    },
+    "The Super Mario Galaxy Movie": {
+      "formats": {
+        "ET00006030": {
+          "format": "3D",
+          "language": "English",
+          "shows": 16,
+          "gross": 23600.0,
+          "sold": 25,
+          "totalSeats": 2106
         }
       }
     },
@@ -195,18 +207,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 138
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 13,
-          "gross": 15800.0,
-          "sold": 6,
-          "totalSeats": 2026
         }
       }
     },
