@@ -1,6 +1,6 @@
 {
   "date": "2026-04-22",
-  "lastUpdated": "03:14 AM, 21 April 2026",
+  "lastUpdated": "07:35 AM, 21 April 2026",
   "shows": [
     {
       "movie_id": "eGqxMXE2hQJSvpvu9NGfUM",
@@ -396,16 +396,18 @@
       "movie_id": "eGqxMXE2hQJSvpvu9NGfUM",
       "movie_name": "Pahaad",
       "show_id": "133091:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Dine",
-      "date": "2026-04-22T13:30:00+05:45",
-      "time": "",
-      "seats": 60,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-22",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 60,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "eGqxMXE2hQJSvpvu9NGfUM",
@@ -1001,11 +1003,11 @@
       "date": "2026-04-22T14:00:00+05:45",
       "time": "",
       "seats": 251,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 251,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 248,
+      "gross": 525,
+      "occupancy_percent": 1.2
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -1496,11 +1498,11 @@
       "date": "2026-04-22T11:45:00+05:45",
       "time": "",
       "seats": 117,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 117,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 115,
+      "gross": 360,
+      "occupancy_percent": 1.71
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -1781,11 +1783,11 @@
       "date": "2026-04-22T12:15:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 217,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 215,
+      "gross": 400,
+      "occupancy_percent": 0.92
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -1872,10 +1874,10 @@
       "time": "",
       "seats": 230,
       "sold": 0,
-      "reserved": 1,
-      "available": 229,
-      "gross": 200,
-      "occupancy_percent": 0.43
+      "reserved": 4,
+      "available": 226,
+      "gross": 800,
+      "occupancy_percent": 1.74
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -2016,61 +2018,69 @@
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
       "movie_name": "Bhooth Bangla",
       "show_id": "133096:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Theatre",
-      "date": "2026-04-22T14:30:00+05:45",
-      "time": "",
-      "seats": 169,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-22",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 169,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
       "movie_name": "Bhooth Bangla",
       "show_id": "133095:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Theatre",
-      "date": "2026-04-22T11:30:00+05:45",
-      "time": "",
-      "seats": 169,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-22",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 169,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
       "movie_name": "Bhooth Bangla",
       "show_id": "133094:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Theatre",
-      "date": "2026-04-22T08:30:00+05:45",
-      "time": "",
-      "seats": 169,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-22",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 169,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
       "movie_name": "Bhooth Bangla",
       "show_id": "133097:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Theatre",
-      "date": "2026-04-22T19:30:00+05:45",
-      "time": "",
-      "seats": 169,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-22",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 169,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -3014,10 +3024,10 @@
       "time": "",
       "seats": 270,
       "sold": 0,
-      "reserved": 50,
-      "available": 220,
-      "gross": 9250,
-      "occupancy_percent": 18.52
+      "reserved": 51,
+      "available": 219,
+      "gross": 9435,
+      "occupancy_percent": 18.89
     },
     {
       "movie_id": "Hhu6sycBNYKXFtPeSEjvTR",
@@ -3233,16 +3243,18 @@
       "movie_id": "Hhu6sycBNYKXFtPeSEjvTR",
       "movie_name": "Lee Cronin's The Mummy",
       "show_id": "133090:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Dine",
-      "date": "2026-04-22T11:15:00+05:45",
-      "time": "",
-      "seats": 60,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-22",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 60,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "Hhu6sycBNYKXFtPeSEjvTR",
@@ -3554,10 +3566,10 @@
       "time": "",
       "seats": 129,
       "sold": 0,
-      "reserved": 0,
-      "available": 129,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 127,
+      "gross": 500,
+      "occupancy_percent": 1.55
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -3569,10 +3581,10 @@
       "time": "",
       "seats": 182,
       "sold": 0,
-      "reserved": 0,
-      "available": 182,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 181,
+      "gross": 470,
+      "occupancy_percent": 0.55
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
