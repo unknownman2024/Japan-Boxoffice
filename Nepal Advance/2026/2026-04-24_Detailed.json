@@ -1,6 +1,6 @@
 {
   "date": "2026-04-24",
-  "lastUpdated": "12:39 AM, 23 April 2026",
+  "lastUpdated": "03:20 AM, 23 April 2026",
   "shows": [
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -741,16 +741,18 @@
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
       "movie_name": "Paralko Aago",
       "show_id": "64455:bishwojyoti-cineplex",
-      "venue": "bishwojyoti-cineplex",
-      "theatre": "iNi Bishwojyoti Mall - Audi 1",
-      "date": "2026-04-24T13:30:00+05:45",
-      "time": "",
-      "seats": 201,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-24",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 201,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -1967,11 +1969,11 @@
       "date": "2026-04-24T08:00:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 12,
+      "sold": 13,
       "reserved": 50,
-      "available": 287,
-      "gross": 11470,
-      "occupancy_percent": 17.77
+      "available": 286,
+      "gross": 11655,
+      "occupancy_percent": 18.05
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -2802,16 +2804,18 @@
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
       "movie_name": "Michael",
       "show_id": "75000:city-cinema",
-      "venue": "city-cinema",
-      "theatre": "City Cinema - HALL A",
-      "date": "2026-04-24T09:45:00+05:45",
-      "time": "",
-      "seats": 189,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-24",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 189,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -5272,6 +5276,51 @@
       "available": 127,
       "gross": 880,
       "occupancy_percent": 1.55
+    },
+    {
+      "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
+      "movie_name": "Paralko Aago",
+      "show_id": "173546:oasis-cinema",
+      "venue": "oasis-cinema",
+      "theatre": "Oasis Cinema - Screen B",
+      "date": "2026-04-24T18:00:00+05:45",
+      "time": "",
+      "seats": 133,
+      "sold": 0,
+      "reserved": 0,
+      "available": 133,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "UiB82iFPd63iHcjiGjhcXg",
+      "movie_name": "Bhooth Bangla",
+      "show_id": "173548:oasis-cinema",
+      "venue": "oasis-cinema",
+      "theatre": "Oasis Cinema - Screen A",
+      "date": "2026-04-24T16:00:00+05:45",
+      "time": "",
+      "seats": 171,
+      "sold": 0,
+      "reserved": 0,
+      "available": 171,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
+      "movie_name": "Ram Naam Satya",
+      "show_id": "173547:oasis-cinema",
+      "venue": "oasis-cinema",
+      "theatre": "Oasis Cinema - Screen A",
+      "date": "2026-04-24T13:00:00+05:45",
+      "time": "",
+      "seats": 171,
+      "sold": 0,
+      "reserved": 0,
+      "available": 171,
+      "gross": 0,
+      "occupancy_percent": 0.0
     }
   ]
 }
