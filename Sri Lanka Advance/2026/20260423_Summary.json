@@ -1,16 +1,52 @@
 {
   "date": "20260423",
-  "lastUpdated": "07:47 PM, 22 April 2026",
+  "lastUpdated": "11:25 PM, 22 April 2026",
   "movies": {
+    "LIK: Love Insurance Kompany": {
+      "formats": {
+        "ET00005927": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 38,
+          "gross": 9700.0,
+          "sold": 12,
+          "totalSeats": 6713
+        }
+      }
+    },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 36,
+          "gross": 700.0,
+          "sold": 2,
+          "totalSeats": 4530
+        }
+      }
+    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 49,
-          "gross": 20600.0,
-          "sold": 26,
-          "totalSeats": 8534
+          "shows": 48,
+          "gross": 30500.0,
+          "sold": 43,
+          "totalSeats": 8401
+        }
+      }
+    },
+    "Sergeant Punchisoma": {
+      "formats": {
+        "ET00006047": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 37,
+          "gross": 18600.0,
+          "sold": 32,
+          "totalSeats": 6979
         }
       }
     },
@@ -31,98 +67,30 @@
         "ET00005992": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 16,
-          "gross": 11500.0,
-          "sold": 19,
-          "totalSeats": 2929
-        }
-      }
-    },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 36,
-          "gross": 700.0,
-          "sold": 2,
-          "totalSeats": 4530
-        }
-      }
-    },
-    "OIC Gadafi": {
-      "formats": {
-        "ET00006051": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 38,
-          "gross": 65150.0,
-          "sold": 71,
-          "totalSeats": 7327
-        }
-      }
-    },
-    "LIK: Love Insurance Kompany": {
-      "formats": {
-        "ET00005927": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 38,
-          "gross": 3700.0,
-          "sold": 4,
-          "totalSeats": 6713
-        }
-      }
-    },
-    "Sergeant Punchisoma": {
-      "formats": {
-        "ET00006047": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 37,
-          "gross": 8900.0,
-          "sold": 14,
-          "totalSeats": 6979
-        }
-      }
-    },
-    "Hoppers": {
-      "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 4,
-          "gross": 6900.0,
-          "sold": 7,
-          "totalSeats": 416
-        },
-        "ET00006005": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 4000.0,
-          "sold": 4,
-          "totalSeats": 280
+          "shows": 14,
+          "gross": 12500.0,
+          "sold": 21,
+          "totalSeats": 2663
         }
       }
     },
     "Michael": {
       "formats": {
-        "ET00006052": {
-          "format": "IMAX 2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 1176700.0,
-          "sold": 287,
-          "totalSeats": 305
-        },
         "ET00006006": {
           "format": "2D",
           "language": "English",
           "shows": 12,
-          "gross": 1620700.0,
-          "sold": 792,
+          "gross": 1690900.0,
+          "sold": 829,
           "totalSeats": 1836
+        },
+        "ET00006052": {
+          "format": "IMAX 2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 1189000.0,
+          "sold": 290,
+          "totalSeats": 305
         }
       }
     },
@@ -138,51 +106,35 @@
         }
       }
     },
-    "The Super Mario Galaxy Movie": {
+    "OIC Gadafi": {
       "formats": {
-        "ET00006030": {
-          "format": "3D",
-          "language": "English",
-          "shows": 11,
-          "gross": 32300.0,
-          "sold": 37,
-          "totalSeats": 1298
-        }
-      }
-    },
-    "The Housemaid": {
-      "formats": {
-        "ET00005954": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 3600.0,
-          "sold": 3,
-          "totalSeats": 111
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 9,
-          "gross": 32500.0,
-          "sold": 17,
-          "totalSeats": 1318
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
+        "ET00006051": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 10,
-          "gross": 4400.0,
+          "shows": 39,
+          "gross": 79550.0,
+          "sold": 92,
+          "totalSeats": 7453
+        }
+      }
+    },
+    "Hoppers": {
+      "formats": {
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 4000.0,
           "sold": 4,
-          "totalSeats": 1261
+          "totalSeats": 280
+        },
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 4,
+          "gross": 6900.0,
+          "sold": 7,
+          "totalSeats": 416
         }
       }
     },
@@ -192,9 +144,69 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 29,
-          "gross": 51350.0,
-          "sold": 75,
+          "gross": 68800.0,
+          "sold": 100,
           "totalSeats": 5761
+        }
+      }
+    },
+    "The Super Mario Galaxy Movie": {
+      "formats": {
+        "ET00006030": {
+          "format": "3D",
+          "language": "English",
+          "shows": 11,
+          "gross": 34300.0,
+          "sold": 39,
+          "totalSeats": 1298
+        }
+      }
+    },
+    "Lee Cronins The Mummy": {
+      "formats": {
+        "ET00006039": {
+          "format": "2D",
+          "language": "English",
+          "shows": 22,
+          "gross": 30850.0,
+          "sold": 27,
+          "totalSeats": 3007
+        }
+      }
+    },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 9,
+          "gross": 44300.0,
+          "sold": 25,
+          "totalSeats": 1318
+        }
+      }
+    },
+    "The Drama": {
+      "formats": {
+        "ET00006037": {
+          "format": "2D",
+          "language": "English",
+          "shows": 7,
+          "gross": 13200.0,
+          "sold": 9,
+          "totalSeats": 696
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 9,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1128
         }
       }
     },
@@ -212,33 +224,9 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 1200.0,
+          "sold": 1,
           "totalSeats": 111
-        }
-      }
-    },
-    "The Drama": {
-      "formats": {
-        "ET00006037": {
-          "format": "2D",
-          "language": "English",
-          "shows": 7,
-          "gross": 7400.0,
-          "sold": 4,
-          "totalSeats": 696
-        }
-      }
-    },
-    "Lee Cronins The Mummy": {
-      "formats": {
-        "ET00006039": {
-          "format": "2D",
-          "language": "English",
-          "shows": 22,
-          "gross": 23650.0,
-          "sold": 21,
-          "totalSeats": 3007
         }
       }
     },
@@ -266,6 +254,30 @@
         }
       }
     },
+    "Avatar: Fire and Ash": {
+      "formats": {
+        "ET00005938": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 269
+        }
+      }
+    },
+    "The Housemaid": {
+      "formats": {
+        "ET00005954": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 111
+        }
+      }
+    },
     "Malaki Duwe Numba": {
       "formats": {
         "ET00005955": {
@@ -287,18 +299,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 22
-        }
-      }
-    },
-    "Avatar: Fire and Ash": {
-      "formats": {
-        "ET00005938": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 269
         }
       }
     }
