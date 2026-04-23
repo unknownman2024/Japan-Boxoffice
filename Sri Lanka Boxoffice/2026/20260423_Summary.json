@@ -1,5 +1,25 @@
 {
   "date": "20260423",
-  "lastUpdated": "05:12 AM, 23 April 2026",
-  "movies": {}
+  "lastUpdated": "07:53 AM, 23 April 2026",
+  "movies": {
+    "Mr. X": {
+      "totalShows": 3,
+      "totalGross": 1700.0,
+      "totalSold": 2,
+      "totalSeats": 424,
+      "formats": {
+        "ET00006049": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 1700.0,
+          "sold": 2,
+          "totalSeats": 424,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.47
+    }
+  }
 }
