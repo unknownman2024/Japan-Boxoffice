@@ -1,6 +1,6 @@
 {
   "date": "2026-04-30",
-  "lastUpdated": "03:24 AM, 29 April 2026",
+  "lastUpdated": "07:58 AM, 29 April 2026",
   "shows": [
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -312,10 +312,10 @@
       "time": "",
       "seats": 198,
       "sold": 20,
-      "reserved": 23,
-      "available": 155,
-      "gross": 7525,
-      "occupancy_percent": 21.72
+      "reserved": 25,
+      "available": 153,
+      "gross": 7875,
+      "occupancy_percent": 22.73
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -1137,10 +1137,10 @@
       "time": "",
       "seats": 292,
       "sold": 0,
-      "reserved": 0,
-      "available": 292,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 290,
+      "gross": 700,
+      "occupancy_percent": 0.68
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -1332,10 +1332,10 @@
       "time": "",
       "seats": 279,
       "sold": 0,
-      "reserved": 0,
-      "available": 279,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 278,
+      "gross": 185,
+      "occupancy_percent": 0.36
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -1617,10 +1617,10 @@
       "time": "",
       "seats": 118,
       "sold": 0,
-      "reserved": 2,
-      "available": 116,
-      "gross": 350,
-      "occupancy_percent": 1.69
+      "reserved": 4,
+      "available": 114,
+      "gross": 700,
+      "occupancy_percent": 3.39
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -1932,10 +1932,10 @@
       "time": "",
       "seats": 349,
       "sold": 0,
-      "reserved": 0,
-      "available": 349,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 3,
+      "available": 346,
+      "gross": 555,
+      "occupancy_percent": 0.86
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -2667,10 +2667,10 @@
       "time": "",
       "seats": 169,
       "sold": 0,
-      "reserved": 17,
-      "available": 152,
-      "gross": 4050,
-      "occupancy_percent": 10.06
+      "reserved": 15,
+      "available": 154,
+      "gross": 3550,
+      "occupancy_percent": 8.88
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -2796,16 +2796,18 @@
       "movie_id": "hH3frLygogeL27uw7G8NvK",
       "movie_name": "The Super Mario Galaxy Movie",
       "show_id": "165791:qfx-chhaya",
-      "venue": "qfx-chhaya",
-      "theatre": "QFX Chhaya - AUDI 1",
-      "date": "2026-04-30T12:45:00+05:45",
-      "time": "",
-      "seats": 112,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-30",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 112,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -2817,10 +2819,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 10,
-      "available": 200,
-      "gross": 1750,
-      "occupancy_percent": 4.76
+      "reserved": 12,
+      "available": 198,
+      "gross": 2100,
+      "occupancy_percent": 5.71
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -3071,11 +3073,11 @@
       "date": "2026-04-30T11:15:00+05:45",
       "time": "",
       "seats": 279,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 279,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 275,
+      "gross": 740,
+      "occupancy_percent": 1.43
     },
     {
       "movie_id": "Hhu6sycBNYKXFtPeSEjvTR",
@@ -3216,31 +3218,35 @@
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
       "movie_name": "Dhurandhar - The Revenge",
       "show_id": "165790:qfx-civil",
-      "venue": "qfx-civil",
-      "theatre": "QFX Civil - AUDI 03",
-      "date": "2026-04-30T17:30:00+05:45",
-      "time": "",
-      "seats": 259,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-30",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 259,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "aQWrEZXzxfbRCKcQhTNidH",
       "movie_name": "Project Hail Mary",
       "show_id": "165776:qs-cinemas",
-      "venue": "qs-cinemas",
-      "theatre": "QFX Rising Mall - Audi 2",
-      "date": "2026-04-30T12:00:00+05:45",
-      "time": "",
-      "seats": 129,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-30",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 129,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     }
   ]
 }
