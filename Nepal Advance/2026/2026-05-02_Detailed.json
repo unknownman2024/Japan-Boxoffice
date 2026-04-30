@@ -1,6 +1,6 @@
 {
   "date": "2026-05-02",
-  "lastUpdated": "12:44 AM, 01 May 2026",
+  "lastUpdated": "03:25 AM, 01 May 2026",
   "shows": [
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -1256,11 +1256,11 @@
       "date": "2026-05-02T11:45:00+05:45",
       "time": "",
       "seats": 288,
-      "sold": 0,
+      "sold": 5,
       "reserved": 0,
-      "available": 288,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 283,
+      "gross": 1000,
+      "occupancy_percent": 1.74
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -1647,10 +1647,10 @@
       "time": "",
       "seats": 51,
       "sold": 4,
-      "reserved": 2,
-      "available": 45,
-      "gross": 8400,
-      "occupancy_percent": 11.76
+      "reserved": 4,
+      "available": 43,
+      "gross": 11200,
+      "occupancy_percent": 15.69
     },
     {
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
@@ -2466,16 +2466,18 @@
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
       "movie_name": "Raja Shivaji",
       "show_id": "64752:ini-cinemas-devchuli",
-      "venue": "ini-cinemas-devchuli",
-      "theatre": "iNi Devchuli - Audi 1 (DTS: X)",
-      "date": "2026-05-02T14:45:00+05:45",
-      "time": "",
-      "seats": 292,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-02",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 292,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
@@ -3516,16 +3518,18 @@
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
       "movie_name": "Bhooth Bangla",
       "show_id": "64769:ini-cinemas-nb-center",
-      "venue": "ini-cinemas-nb-center",
-      "theatre": "iNi NB Center - Audi -2 (DTS: X)",
-      "date": "2026-05-02T11:30:00+05:45",
-      "time": "",
-      "seats": 210,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-02",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 210,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -3711,16 +3715,18 @@
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
       "movie_name": "Bhooth Bangla",
       "show_id": "64765:ini-cinemas-nb-center",
-      "venue": "ini-cinemas-nb-center",
-      "theatre": "iNi NB Center - Audi -1 (DTS: X)",
-      "date": "2026-05-02T16:30:00+05:45",
-      "time": "",
-      "seats": 177,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-02",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 177,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
