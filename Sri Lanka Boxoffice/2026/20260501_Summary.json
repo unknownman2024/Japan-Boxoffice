@@ -1,6 +1,6 @@
 {
   "date": "20260501",
-  "lastUpdated": "11:45 AM, 01 May 2026",
+  "lastUpdated": "02:29 PM, 01 May 2026",
   "movies": {
     "Riverstone": {
       "totalShows": 2,
@@ -20,6 +20,44 @@
         }
       },
       "globalOccupancy": 0.0
+    },
+    "The Wife": {
+      "totalShows": 1,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 563,
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 563,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "Dhurandhar The Revenge": {
+      "totalShows": 1,
+      "totalGross": 2500.0,
+      "totalSold": 2,
+      "totalSeats": 111,
+      "formats": {
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 2500.0,
+          "sold": 2,
+          "totalSeats": 111,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 1.8
     }
   }
 }
