@@ -1,6 +1,6 @@
 {
   "date": "2026-05-02",
-  "lastUpdated": "03:25 AM, 01 May 2026",
+  "lastUpdated": "08:06 AM, 01 May 2026",
   "shows": [
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -1241,11 +1241,11 @@
       "date": "2026-05-02T14:45:00+05:45",
       "time": "",
       "seats": 288,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 288,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 286,
+      "gross": 600,
+      "occupancy_percent": 0.69
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -1647,10 +1647,10 @@
       "time": "",
       "seats": 51,
       "sold": 4,
-      "reserved": 4,
-      "available": 43,
-      "gross": 11200,
-      "occupancy_percent": 15.69
+      "reserved": 2,
+      "available": 45,
+      "gross": 8400,
+      "occupancy_percent": 11.76
     },
     {
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
@@ -1827,10 +1827,10 @@
       "time": "",
       "seats": 101,
       "sold": 4,
-      "reserved": 0,
-      "available": 97,
-      "gross": 700,
-      "occupancy_percent": 3.96
+      "reserved": 1,
+      "available": 96,
+      "gross": 875,
+      "occupancy_percent": 4.95
     },
     {
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
@@ -2186,11 +2186,11 @@
       "date": "2026-05-02T08:00:00+05:45",
       "time": "",
       "seats": 176,
-      "sold": 0,
+      "sold": 2,
       "reserved": 18,
-      "available": 158,
-      "gross": 2970,
-      "occupancy_percent": 10.23
+      "available": 156,
+      "gross": 3300,
+      "occupancy_percent": 11.36
     },
     {
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
@@ -2466,18 +2466,16 @@
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
       "movie_name": "Raja Shivaji",
       "show_id": "64752:ini-cinemas-devchuli",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-05-02",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-cinemas-devchuli",
+      "theatre": "iNi Devchuli - Audi 1 (DTS: X)",
+      "date": "2026-05-02T14:45:00+05:45",
+      "time": "",
+      "seats": 292,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 292,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
@@ -2683,11 +2681,11 @@
       "date": "2026-05-02T15:00:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 2,
+      "sold": 4,
       "reserved": 0,
-      "available": 178,
-      "gross": 1120,
-      "occupancy_percent": 1.11
+      "available": 176,
+      "gross": 2240,
+      "occupancy_percent": 2.22
     },
     {
       "movie_id": "xToQFjHfKS5uyo4F9uJmoL",
@@ -3163,11 +3161,11 @@
       "date": "2026-05-02T08:15:00+05:45",
       "time": "",
       "seats": 110,
-      "sold": 8,
+      "sold": 12,
       "reserved": 0,
-      "available": 102,
-      "gross": 1920,
-      "occupancy_percent": 7.27
+      "available": 98,
+      "gross": 2880,
+      "occupancy_percent": 10.91
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -3238,11 +3236,11 @@
       "date": "2026-05-02T08:30:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 38,
+      "sold": 40,
       "reserved": 0,
-      "available": 145,
-      "gross": 9120,
-      "occupancy_percent": 20.77
+      "available": 143,
+      "gross": 9600,
+      "occupancy_percent": 21.86
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -3359,10 +3357,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 0,
-      "available": 210,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 209,
+      "gross": 225,
+      "occupancy_percent": 0.48
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -3518,18 +3516,16 @@
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
       "movie_name": "Bhooth Bangla",
       "show_id": "64769:ini-cinemas-nb-center",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-05-02",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-cinemas-nb-center",
+      "theatre": "iNi NB Center - Audi -2 (DTS: X)",
+      "date": "2026-05-02T11:30:00+05:45",
+      "time": "",
+      "seats": 210,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 210,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -3600,11 +3596,11 @@
       "date": "2026-05-02T11:15:00+05:45",
       "time": "",
       "seats": 110,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 110,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 108,
+      "gross": 960,
+      "occupancy_percent": 1.82
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -3715,18 +3711,16 @@
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
       "movie_name": "Bhooth Bangla",
       "show_id": "64765:ini-cinemas-nb-center",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-05-02",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-cinemas-nb-center",
+      "theatre": "iNi NB Center - Audi -1 (DTS: X)",
+      "date": "2026-05-02T16:30:00+05:45",
+      "time": "",
+      "seats": 177,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 177,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -3797,11 +3791,11 @@
       "date": "2026-05-02T11:15:00+05:45",
       "time": "",
       "seats": 342,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 342,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 340,
+      "gross": 780,
+      "occupancy_percent": 0.58
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -4237,6 +4231,141 @@
       "available": 127,
       "gross": 880,
       "occupancy_percent": 1.55
+    },
+    {
+      "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
+      "movie_name": "Paralko Aago",
+      "show_id": "26577:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-05-02T17:30:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 7650,
+      "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
+      "movie_name": "Paralko Aago",
+      "show_id": "26581:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Premium",
+      "date": "2026-05-02T14:15:00+05:45",
+      "time": "",
+      "seats": 67,
+      "sold": 6,
+      "reserved": 0,
+      "available": 61,
+      "gross": 4500,
+      "occupancy_percent": 8.96
+    },
+    {
+      "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
+      "movie_name": "Paralko Aago",
+      "show_id": "26583:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Premium",
+      "date": "2026-05-02T20:00:00+05:45",
+      "time": "",
+      "seats": 67,
+      "sold": 6,
+      "reserved": 0,
+      "available": 61,
+      "gross": 4500,
+      "occupancy_percent": 8.96
+    },
+    {
+      "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
+      "movie_name": "Paralko Aago",
+      "show_id": "26580:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Premium",
+      "date": "2026-05-02T11:15:00+05:45",
+      "time": "",
+      "seats": 67,
+      "sold": 6,
+      "reserved": 1,
+      "available": 60,
+      "gross": 5050,
+      "occupancy_percent": 10.45
+    },
+    {
+      "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
+      "movie_name": "Paralko Aago",
+      "show_id": "26579:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Premium",
+      "date": "2026-05-02T08:15:00+05:45",
+      "time": "",
+      "seats": 67,
+      "sold": 6,
+      "reserved": 0,
+      "available": 61,
+      "gross": 2400,
+      "occupancy_percent": 8.96
+    },
+    {
+      "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
+      "movie_name": "Raja Shivaji",
+      "show_id": "26576:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-05-02T14:00:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 7650,
+      "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
+      "movie_name": "Raja Shivaji",
+      "show_id": "26578:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-05-02T20:30:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 7650,
+      "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
+      "movie_name": "Raja Shivaji",
+      "show_id": "26574:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-05-02T08:00:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 4250,
+      "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "xToQFjHfKS5uyo4F9uJmoL",
+      "movie_name": "The Devil Wears Prada 2",
+      "show_id": "26575:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-05-02T11:30:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 7650,
+      "occupancy_percent": 8.17
     }
   ]
 }
