@@ -1,6 +1,6 @@
 {
   "date": "2026-05-03",
-  "lastUpdated": "12:35 AM, 02 May 2026",
+  "lastUpdated": "03:19 AM, 02 May 2026",
   "shows": [
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -222,10 +222,10 @@
       "time": "",
       "seats": 519,
       "sold": 0,
-      "reserved": 2,
-      "available": 517,
-      "gross": 880,
-      "occupancy_percent": 0.39
+      "reserved": 0,
+      "available": 519,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -1227,10 +1227,10 @@
       "time": "",
       "seats": 112,
       "sold": 0,
-      "reserved": 2,
-      "available": 110,
-      "gross": 960,
-      "occupancy_percent": 1.79
+      "reserved": 0,
+      "available": 112,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
@@ -1416,16 +1416,18 @@
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
       "movie_name": "Raja Shivaji",
       "show_id": "64800:bishwojyoti-cineplex",
-      "venue": "bishwojyoti-cineplex",
-      "theatre": "iNi Bishwojyoti Mall - Audi 1",
-      "date": "2026-05-03T19:45:00+05:45",
-      "time": "",
-      "seats": 201,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-03",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 201,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
@@ -1617,10 +1619,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 1,
-      "available": 195,
-      "gross": 135,
-      "occupancy_percent": 0.51
+      "reserved": 0,
+      "available": 196,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
@@ -2397,10 +2399,10 @@
       "time": "",
       "seats": 182,
       "sold": 3,
-      "reserved": 0,
-      "available": 179,
-      "gross": 1680,
-      "occupancy_percent": 1.65
+      "reserved": 2,
+      "available": 177,
+      "gross": 2800,
+      "occupancy_percent": 2.75
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -2427,10 +2429,10 @@
       "time": "",
       "seats": 180,
       "sold": 7,
-      "reserved": 0,
-      "available": 173,
-      "gross": 1960,
-      "occupancy_percent": 3.89
+      "reserved": 4,
+      "available": 169,
+      "gross": 3080,
+      "occupancy_percent": 6.11
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
