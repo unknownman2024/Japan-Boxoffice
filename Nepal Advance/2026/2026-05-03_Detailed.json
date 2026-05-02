@@ -1,6 +1,6 @@
 {
   "date": "2026-05-03",
-  "lastUpdated": "03:19 AM, 02 May 2026",
+  "lastUpdated": "07:41 AM, 02 May 2026",
   "shows": [
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -27,10 +27,10 @@
       "time": "",
       "seats": 183,
       "sold": 3,
-      "reserved": 0,
-      "available": 180,
-      "gross": 1440,
-      "occupancy_percent": 1.64
+      "reserved": 3,
+      "available": 177,
+      "gross": 2880,
+      "occupancy_percent": 3.28
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -777,10 +777,10 @@
       "time": "",
       "seats": 248,
       "sold": 3,
-      "reserved": 0,
-      "available": 245,
-      "gross": 1320,
-      "occupancy_percent": 1.21
+      "reserved": 3,
+      "available": 242,
+      "gross": 2640,
+      "occupancy_percent": 2.42
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -1416,18 +1416,16 @@
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
       "movie_name": "Raja Shivaji",
       "show_id": "64800:bishwojyoti-cineplex",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-05-03",
-      "time": null,
-      "seats": 0,
+      "venue": "bishwojyoti-cineplex",
+      "theatre": "iNi Bishwojyoti Mall - Audi 1",
+      "date": "2026-05-03T19:45:00+05:45",
+      "time": "",
+      "seats": 201,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 201,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
@@ -2084,10 +2082,10 @@
       "time": "",
       "seats": 182,
       "sold": 6,
-      "reserved": 0,
-      "available": 176,
-      "gross": 3360,
-      "occupancy_percent": 3.3
+      "reserved": 1,
+      "available": 175,
+      "gross": 3920,
+      "occupancy_percent": 3.85
     },
     {
       "movie_id": "xToQFjHfKS5uyo4F9uJmoL",
@@ -2383,11 +2381,11 @@
       "date": "2026-05-03T14:30:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 4,
+      "sold": 6,
       "reserved": 0,
-      "available": 176,
-      "gross": 2240,
-      "occupancy_percent": 2.22
+      "available": 174,
+      "gross": 3360,
+      "occupancy_percent": 3.33
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -2398,8 +2396,8 @@
       "date": "2026-05-03T19:00:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 3,
-      "reserved": 2,
+      "sold": 5,
+      "reserved": 0,
       "available": 177,
       "gross": 2800,
       "occupancy_percent": 2.75
@@ -2428,11 +2426,11 @@
       "date": "2026-05-03T08:00:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 7,
-      "reserved": 4,
-      "available": 169,
-      "gross": 3080,
-      "occupancy_percent": 6.11
+      "sold": 9,
+      "reserved": 0,
+      "available": 171,
+      "gross": 2520,
+      "occupancy_percent": 5.0
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -2863,11 +2861,11 @@
       "date": "2026-05-03T08:15:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 17,
+      "sold": 19,
       "reserved": 0,
-      "available": 191,
-      "gross": 4250,
-      "occupancy_percent": 8.17
+      "available": 189,
+      "gross": 4750,
+      "occupancy_percent": 9.13
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -2909,10 +2907,10 @@
       "time": "",
       "seats": 180,
       "sold": 0,
-      "reserved": 15,
-      "available": 165,
-      "gross": 6000,
-      "occupancy_percent": 8.33
+      "reserved": 19,
+      "available": 161,
+      "gross": 7600,
+      "occupancy_percent": 10.56
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -3363,6 +3361,36 @@
       "available": 125,
       "gross": 2200,
       "occupancy_percent": 3.1
+    },
+    {
+      "movie_id": "xToQFjHfKS5uyo4F9uJmoL",
+      "movie_name": "The Devil Wears Prada 2",
+      "show_id": "166408:chitwan-cineplex",
+      "venue": "chitwan-cineplex",
+      "theatre": "QFX Cinemas CG Mall - SCREEN 1",
+      "date": "2026-05-03T17:30:00+05:45",
+      "time": "",
+      "seats": 219,
+      "sold": 0,
+      "reserved": 0,
+      "available": 219,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "UiB82iFPd63iHcjiGjhcXg",
+      "movie_name": "Bhooth Bangla",
+      "show_id": "166409:chitwan-cineplex",
+      "venue": "chitwan-cineplex",
+      "theatre": "QFX Cinemas CG Mall - SCREEN 2",
+      "date": "2026-05-03T15:30:00+05:45",
+      "time": "",
+      "seats": 143,
+      "sold": 0,
+      "reserved": 0,
+      "available": 143,
+      "gross": 0,
+      "occupancy_percent": 0.0
     }
   ]
 }
