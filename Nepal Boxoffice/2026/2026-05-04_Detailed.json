@@ -1,6 +1,6 @@
 {
   "date": "2026-05-04",
-  "lastUpdated": "05:16 PM, 04 May 2026",
+  "lastUpdated": "07:23 PM, 04 May 2026",
   "shows": [
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -3371,16 +3371,18 @@
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
       "movie_name": "Paralko Aago",
       "show_id": "39961:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi - 1",
-      "date": "2026-05-04T20:30:00+05:45",
-      "time": "",
-      "seats": 251,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-04",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 251,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -3421,11 +3423,11 @@
       "date": "2026-05-04T19:45:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 7,
+      "sold": 15,
       "reserved": 0,
-      "available": 342,
-      "gross": 2450,
-      "occupancy_percent": 2.01
+      "available": 334,
+      "gross": 5250,
+      "occupancy_percent": 4.3
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -3436,11 +3438,11 @@
       "date": "2026-05-04T19:45:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 0,
+      "sold": 5,
       "reserved": 0,
-      "available": 177,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 172,
+      "gross": 1750,
+      "occupancy_percent": 2.82
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -3571,11 +3573,11 @@
       "date": "2026-05-04T19:45:00+05:45",
       "time": "",
       "seats": 342,
-      "sold": 9,
+      "sold": 21,
       "reserved": 0,
-      "available": 333,
-      "gross": 3150,
-      "occupancy_percent": 2.63
+      "available": 321,
+      "gross": 7350,
+      "occupancy_percent": 6.14
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -3586,11 +3588,11 @@
       "date": "2026-05-04T20:00:00+05:45",
       "time": "",
       "seats": 151,
-      "sold": 24,
-      "reserved": 0,
-      "available": 127,
-      "gross": 4900,
-      "occupancy_percent": 15.89
+      "sold": 30,
+      "reserved": 1,
+      "available": 120,
+      "gross": 6300,
+      "occupancy_percent": 20.53
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -3631,11 +3633,11 @@
       "date": "2026-05-04T20:00:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 9,
-      "reserved": 2,
-      "available": 185,
-      "gross": 3630,
-      "occupancy_percent": 5.61
+      "sold": 19,
+      "reserved": 0,
+      "available": 177,
+      "gross": 6270,
+      "occupancy_percent": 9.69
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -3661,11 +3663,11 @@
       "date": "2026-05-04T20:30:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 8,
+      "sold": 14,
       "reserved": 2,
-      "available": 204,
-      "gross": 3000,
-      "occupancy_percent": 4.67
+      "available": 198,
+      "gross": 4800,
+      "occupancy_percent": 7.48
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -3736,11 +3738,11 @@
       "date": "2026-05-04T20:15:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 8,
+      "sold": 21,
       "reserved": 1,
-      "available": 205,
-      "gross": 2700,
-      "occupancy_percent": 4.21
+      "available": 192,
+      "gross": 6600,
+      "occupancy_percent": 10.28
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -3766,11 +3768,11 @@
       "date": "2026-05-04T20:30:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 6,
-      "reserved": 0,
-      "available": 159,
-      "gross": 2100,
-      "occupancy_percent": 3.64
+      "sold": 7,
+      "reserved": 1,
+      "available": 157,
+      "gross": 2800,
+      "occupancy_percent": 4.85
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -3886,11 +3888,11 @@
       "date": "2026-05-04T19:45:00+05:45",
       "time": "",
       "seats": 203,
-      "sold": 8,
+      "sold": 16,
       "reserved": 0,
-      "available": 195,
-      "gross": 2800,
-      "occupancy_percent": 3.94
+      "available": 187,
+      "gross": 5600,
+      "occupancy_percent": 7.88
     },
     {
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
@@ -3946,11 +3948,11 @@
       "date": "2026-05-04T20:00:00+05:45",
       "time": "",
       "seats": 279,
-      "sold": 8,
+      "sold": 15,
       "reserved": 0,
-      "available": 271,
-      "gross": 2400,
-      "occupancy_percent": 2.87
+      "available": 264,
+      "gross": 4500,
+      "occupancy_percent": 5.38
     },
     {
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
@@ -3976,11 +3978,11 @@
       "date": "2026-05-04T20:15:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 0,
+      "sold": 6,
       "reserved": 0,
-      "available": 196,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 190,
+      "gross": 1980,
+      "occupancy_percent": 3.06
     },
     {
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
@@ -4036,11 +4038,11 @@
       "date": "2026-05-04T20:15:00+05:45",
       "time": "",
       "seats": 189,
-      "sold": 0,
+      "sold": 5,
       "reserved": 0,
-      "available": 189,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 184,
+      "gross": 1500,
+      "occupancy_percent": 2.65
     },
     {
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
@@ -4061,16 +4063,18 @@
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
       "movie_name": "Raja Shivaji",
       "show_id": "104454:sts-cinema",
-      "venue": "sts-cinema",
-      "theatre": "STS Cinema - screen 1",
-      "date": "2026-05-04T20:00:00+05:45",
-      "time": "",
-      "seats": 394,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-04",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 394,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
@@ -4186,11 +4190,11 @@
       "date": "2026-05-04T19:45:00+05:45",
       "time": "",
       "seats": 98,
-      "sold": 6,
-      "reserved": 0,
-      "available": 92,
-      "gross": 2370,
-      "occupancy_percent": 6.12
+      "sold": 8,
+      "reserved": 2,
+      "available": 88,
+      "gross": 3950,
+      "occupancy_percent": 10.2
     },
     {
       "movie_id": "xToQFjHfKS5uyo4F9uJmoL",
@@ -4216,11 +4220,11 @@
       "date": "2026-05-04T20:15:00+05:45",
       "time": "",
       "seats": 51,
-      "sold": 22,
-      "reserved": 2,
-      "available": 27,
-      "gross": 28800,
-      "occupancy_percent": 47.06
+      "sold": 32,
+      "reserved": 6,
+      "available": 13,
+      "gross": 45600,
+      "occupancy_percent": 74.51
     },
     {
       "movie_id": "xToQFjHfKS5uyo4F9uJmoL",
@@ -4261,11 +4265,11 @@
       "date": "2026-05-04T19:45:00+05:45",
       "time": "",
       "seats": 129,
-      "sold": 2,
+      "sold": 4,
       "reserved": 0,
-      "available": 127,
-      "gross": 900,
-      "occupancy_percent": 1.55
+      "available": 125,
+      "gross": 1600,
+      "occupancy_percent": 3.1
     },
     {
       "movie_id": "xToQFjHfKS5uyo4F9uJmoL",
@@ -4366,11 +4370,11 @@
       "date": "2026-05-04T20:00:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 3,
+      "sold": 10,
       "reserved": 0,
-      "available": 174,
-      "gross": 1050,
-      "occupancy_percent": 1.69
+      "available": 167,
+      "gross": 3500,
+      "occupancy_percent": 5.65
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -4396,11 +4400,11 @@
       "date": "2026-05-04T19:45:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 2,
-      "reserved": 20,
-      "available": 174,
-      "gross": 7260,
-      "occupancy_percent": 11.22
+      "sold": 5,
+      "reserved": 0,
+      "available": 191,
+      "gross": 1650,
+      "occupancy_percent": 2.55
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -4427,25 +4431,27 @@
       "time": "",
       "seats": 180,
       "sold": 0,
-      "reserved": 15,
-      "available": 165,
-      "gross": 5250,
-      "occupancy_percent": 8.33
+      "reserved": 0,
+      "available": 180,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
       "movie_name": "Bhooth Bangla",
       "show_id": "39965:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi - 2",
-      "date": "2026-05-04T20:15:00+05:45",
-      "time": "",
-      "seats": 118,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-04",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 118,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -4471,11 +4477,11 @@
       "date": "2026-05-04T20:15:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 4,
+      "sold": 9,
       "reserved": 0,
-      "available": 204,
-      "gross": 1400,
-      "occupancy_percent": 1.92
+      "available": 199,
+      "gross": 3150,
+      "occupancy_percent": 4.33
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -4531,11 +4537,11 @@
       "date": "2026-05-04T20:30:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 217,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 213,
+      "gross": 1200,
+      "occupancy_percent": 1.84
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -4581,6 +4587,21 @@
       "available": 101,
       "gross": 4290,
       "occupancy_percent": 9.82
+    },
+    {
+      "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
+      "movie_name": "Michael",
+      "show_id": "39969:ranjana-cineplex",
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi - 3",
+      "date": "2026-05-04T20:45:00+05:45",
+      "time": "",
+      "seats": 164,
+      "sold": 0,
+      "reserved": 5,
+      "available": 159,
+      "gross": 1500,
+      "occupancy_percent": 3.05
     }
   ]
 }
