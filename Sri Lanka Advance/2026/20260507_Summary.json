@@ -1,7 +1,19 @@
 {
   "date": "20260507",
-  "lastUpdated": "08:43 PM, 06 May 2026",
+  "lastUpdated": "11:42 PM, 06 May 2026",
   "movies": {
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 17,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 2518
+        }
+      }
+    },
     "LIK: Love Insurance Kompany": {
       "formats": {
         "ET00005927": {
@@ -20,21 +32,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 40,
-          "gross": 65950.0,
-          "sold": 82,
+          "gross": 83700.0,
+          "sold": 107,
           "totalSeats": 6424
-        }
-      }
-    },
-    "Riverstone": {
-      "formats": {
-        "ET00006048": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 62,
-          "gross": 40200.0,
-          "sold": 61,
-          "totalSeats": 12197
         }
       }
     },
@@ -56,8 +56,8 @@
           "format": "2D",
           "language": "English",
           "shows": 57,
-          "gross": 1006500.0,
-          "sold": 544,
+          "gross": 1108750.0,
+          "sold": 602,
           "totalSeats": 10385
         }
       }
@@ -68,33 +68,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 69,
-          "gross": 37550.0,
-          "sold": 45,
+          "gross": 47250.0,
+          "sold": 61,
           "totalSeats": 11229
         }
       }
     },
-    "Sergeant Punchisoma": {
+    "Riverstone": {
       "formats": {
-        "ET00006047": {
+        "ET00006048": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 10,
-          "gross": 3350.0,
-          "sold": 7,
-          "totalSeats": 2000
-        }
-      }
-    },
-    "The Devil Wears Prada 2": {
-      "formats": {
-        "ET00006057": {
-          "format": "2D",
-          "language": "English",
-          "shows": 22,
-          "gross": 355450.0,
-          "sold": 200,
-          "totalSeats": 2794
+          "shows": 62,
+          "gross": 55000.0,
+          "sold": 82,
+          "totalSeats": 12197
         }
       }
     },
@@ -116,9 +104,33 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 50,
-          "gross": 26500.0,
-          "sold": 22,
+          "gross": 31300.0,
+          "sold": 34,
           "totalSeats": 9389
+        }
+      }
+    },
+    "Hoppers": {
+      "formats": {
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 3600.0,
+          "sold": 4,
+          "totalSeats": 295
+        }
+      }
+    },
+    "The Devil Wears Prada 2": {
+      "formats": {
+        "ET00006057": {
+          "format": "2D",
+          "language": "English",
+          "shows": 22,
+          "gross": 372750.0,
+          "sold": 213,
+          "totalSeats": 2794
         }
       }
     },
@@ -128,21 +140,9 @@
           "format": "2D",
           "language": "English",
           "shows": 4,
-          "gross": 13600.0,
-          "sold": 12,
+          "gross": 15600.0,
+          "sold": 14,
           "totalSeats": 532
-        }
-      }
-    },
-    "Lee Cronins The Mummy": {
-      "formats": {
-        "ET00006039": {
-          "format": "2D",
-          "language": "English",
-          "shows": 10,
-          "gross": 21800.0,
-          "sold": 20,
-          "totalSeats": 1126
         }
       }
     },
@@ -158,38 +158,14 @@
         }
       }
     },
-    "Hoppers": {
-      "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 3,
-          "gross": 1800.0,
-          "sold": 2,
-          "totalSeats": 295
-        }
-      }
-    },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 17,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2518
-        }
-      }
-    },
     "Dhurandhar The Revenge": {
       "formats": {
         "ET00005960": {
           "format": "2D",
           "language": "Hindi",
           "shows": 2,
-          "gross": 3700.0,
-          "sold": 4,
+          "gross": 4900.0,
+          "sold": 5,
           "totalSeats": 210
         }
       }
@@ -212,9 +188,21 @@
           "format": "2D",
           "language": "Hindi",
           "shows": 7,
-          "gross": 18900.0,
-          "sold": 10,
+          "gross": 21100.0,
+          "sold": 14,
           "totalSeats": 1223
+        }
+      }
+    },
+    "Lee Cronins The Mummy": {
+      "formats": {
+        "ET00006039": {
+          "format": "2D",
+          "language": "English",
+          "shows": 10,
+          "gross": 25500.0,
+          "sold": 23,
+          "totalSeats": 1126
         }
       }
     },
@@ -263,6 +251,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 179
+        }
+      }
+    },
+    "Sergeant Punchisoma": {
+      "formats": {
+        "ET00006047": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 10,
+          "gross": 4050.0,
+          "sold": 9,
+          "totalSeats": 2000
         }
       }
     }
