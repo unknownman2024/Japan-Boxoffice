@@ -1,28 +1,16 @@
 {
   "date": "20260507",
-  "lastUpdated": "10:19 AM, 06 May 2026",
+  "lastUpdated": "02:52 PM, 06 May 2026",
   "movies": {
-    "LIK: Love Insurance Kompany": {
-      "formats": {
-        "ET00005927": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1185
-        }
-      }
-    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 39,
-          "gross": 48200.0,
-          "sold": 58,
-          "totalSeats": 6161
+          "shows": 40,
+          "gross": 52500.0,
+          "sold": 63,
+          "totalSeats": 6424
         }
       }
     },
@@ -38,6 +26,18 @@
         }
       }
     },
+    "LIK: Love Insurance Kompany": {
+      "formats": {
+        "ET00005927": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1185
+        }
+      }
+    },
     "Sura Detuwo": {
       "formats": {
         "ET00006009": {
@@ -50,27 +50,27 @@
         }
       }
     },
+    "Michael": {
+      "formats": {
+        "ET00006006": {
+          "format": "2D",
+          "language": "English",
+          "shows": 57,
+          "gross": 782850.0,
+          "sold": 417,
+          "totalSeats": 10385
+        }
+      }
+    },
     "OIC Gadafi": {
       "formats": {
         "ET00006051": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 67,
-          "gross": 3950.0,
-          "sold": 7,
-          "totalSeats": 10703
-        }
-      }
-    },
-    "Riverstone": {
-      "formats": {
-        "ET00006048": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 60,
-          "gross": 10000.0,
-          "sold": 21,
-          "totalSeats": 11671
+          "shows": 69,
+          "gross": 24300.0,
+          "sold": 29,
+          "totalSeats": 11229
         }
       }
     },
@@ -80,21 +80,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 10,
-          "gross": 700.0,
-          "sold": 2,
+          "gross": 1400.0,
+          "sold": 4,
           "totalSeats": 2000
         }
       }
     },
-    "Project Hail Mary": {
+    "Kara": {
       "formats": {
-        "ET00006026": {
+        "ET00006042": {
           "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 8000.0,
-          "sold": 7,
-          "totalSeats": 532
+          "language": "Tamil",
+          "shows": 50,
+          "gross": 24600.0,
+          "sold": 20,
+          "totalSeats": 9389
         }
       }
     },
@@ -104,33 +104,33 @@
           "format": "2D",
           "language": "English",
           "shows": 22,
-          "gross": 208100.0,
-          "sold": 109,
+          "gross": 255100.0,
+          "sold": 138,
           "totalSeats": 2794
         }
       }
     },
-    "Kara": {
+    "Riverstone": {
       "formats": {
-        "ET00006042": {
+        "ET00006048": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 51,
-          "gross": 23300.0,
-          "sold": 18,
-          "totalSeats": 9514
+          "language": "Sinhala",
+          "shows": 62,
+          "gross": 15200.0,
+          "sold": 29,
+          "totalSeats": 12197
         }
       }
     },
-    "Michael": {
+    "Lee Cronins The Mummy": {
       "formats": {
-        "ET00006006": {
+        "ET00006039": {
           "format": "2D",
           "language": "English",
-          "shows": 57,
-          "gross": 671000.0,
-          "sold": 364,
-          "totalSeats": 10385
+          "shows": 10,
+          "gross": 15700.0,
+          "sold": 14,
+          "totalSeats": 1126
         }
       }
     },
@@ -146,27 +146,15 @@
         }
       }
     },
-    "The Super Mario Galaxy Movie": {
+    "Project Hail Mary": {
       "formats": {
-        "ET00006030": {
-          "format": "3D",
-          "language": "English",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 586
-        }
-      }
-    },
-    "Dhurandhar The Revenge": {
-      "formats": {
-        "ET00005960": {
+        "ET00006026": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 210
+          "language": "English",
+          "shows": 4,
+          "gross": 12400.0,
+          "sold": 11,
+          "totalSeats": 532
         }
       }
     },
@@ -182,15 +170,39 @@
         }
       }
     },
-    "Lee Cronins The Mummy": {
+    "Dhurandhar The Revenge": {
       "formats": {
-        "ET00006039": {
+        "ET00005960": {
           "format": "2D",
+          "language": "Hindi",
+          "shows": 2,
+          "gross": 3700.0,
+          "sold": 4,
+          "totalSeats": 210
+        }
+      }
+    },
+    "The Super Mario Galaxy Movie": {
+      "formats": {
+        "ET00006030": {
+          "format": "3D",
           "language": "English",
-          "shows": 10,
-          "gross": 14400.0,
-          "sold": 12,
-          "totalSeats": 1126
+          "shows": 5,
+          "gross": 3000.0,
+          "sold": 3,
+          "totalSeats": 586
+        }
+      }
+    },
+    "Patriot": {
+      "formats": {
+        "ET00006074": {
+          "format": "2D",
+          "language": "Malayalam",
+          "shows": 9,
+          "gross": 8500.0,
+          "sold": 10,
+          "totalSeats": 933
         }
       }
     },
@@ -203,18 +215,6 @@
           "gross": 18900.0,
           "sold": 10,
           "totalSeats": 1223
-        }
-      }
-    },
-    "Patriot": {
-      "formats": {
-        "ET00006074": {
-          "format": "2D",
-          "language": "Malayalam",
-          "shows": 7,
-          "gross": 3250.0,
-          "sold": 5,
-          "totalSeats": 933
         }
       }
     },
