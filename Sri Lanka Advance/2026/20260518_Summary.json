@@ -1,31 +1,7 @@
 {
   "date": "20260518",
-  "lastUpdated": "10:34 AM, 17 May 2026",
+  "lastUpdated": "07:36 PM, 17 May 2026",
   "movies": {
-    "OIC Gadafi": {
-      "formats": {
-        "ET00006051": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 41,
-          "gross": 6600.0,
-          "sold": 10,
-          "totalSeats": 7913
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 19,
-          "gross": 2600.0,
-          "sold": 6,
-          "totalSeats": 4185
-        }
-      }
-    },
     "Sura Detuwo": {
       "formats": {
         "ET00006009": {
@@ -50,15 +26,51 @@
         }
       }
     },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 20,
+          "gross": 4100.0,
+          "sold": 10,
+          "totalSeats": 4448
+        }
+      }
+    },
+    "OIC Gadafi": {
+      "formats": {
+        "ET00006051": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 44,
+          "gross": 12500.0,
+          "sold": 20,
+          "totalSeats": 8895
+        }
+      }
+    },
     "Riverstone": {
       "formats": {
         "ET00006048": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 38,
-          "gross": 6300.0,
-          "sold": 14,
-          "totalSeats": 7600
+          "shows": 39,
+          "gross": 19100.0,
+          "sold": 34,
+          "totalSeats": 7981
+        }
+      }
+    },
+    "Karuppu": {
+      "formats": {
+        "ET00006082": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 68,
+          "gross": 497400.0,
+          "sold": 472,
+          "totalSeats": 14081
         }
       }
     },
@@ -68,9 +80,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 11,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 1300.0,
+          "sold": 2,
           "totalSeats": 1577
+        }
+      }
+    },
+    "Chandarege Wife": {
+      "formats": {
+        "ET00006094": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 43,
+          "gross": 27800.0,
+          "sold": 37,
+          "totalSeats": 9383
         }
       }
     },
@@ -80,45 +104,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 4,
-          "gross": 1300.0,
-          "sold": 2,
+          "gross": 1800.0,
+          "sold": 4,
           "totalSeats": 1012
         }
       }
     },
-    "Top Gun": {
+    "Mortal Kombat II": {
       "formats": {
-        "ET00006086": {
+        "ET00006056": {
           "format": "2D",
           "language": "English",
-          "shows": 4,
-          "gross": 20200.0,
-          "sold": 11,
-          "totalSeats": 595
-        }
-      }
-    },
-    "Michael": {
-      "formats": {
-        "ET00006006": {
-          "format": "2D",
-          "language": "English",
-          "shows": 48,
-          "gross": 261200.0,
-          "sold": 132,
-          "totalSeats": 7674
-        }
-      }
-    },
-    "Chandarege Wife": {
-      "formats": {
-        "ET00006094": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 44,
-          "gross": 13400.0,
-          "sold": 19,
-          "totalSeats": 9528
+          "shows": 17,
+          "gross": 7150.0,
+          "sold": 7,
+          "totalSeats": 1895
         }
       }
     },
@@ -128,8 +128,8 @@
           "format": "2D",
           "language": "English",
           "shows": 2,
-          "gross": 2200.0,
-          "sold": 2,
+          "gross": 4100.0,
+          "sold": 4,
           "totalSeats": 255
         }
       }
@@ -146,15 +146,15 @@
         }
       }
     },
-    "Mortal Kombat II": {
+    "Lee Cronins The Mummy": {
       "formats": {
-        "ET00006056": {
+        "ET00006039": {
           "format": "2D",
           "language": "English",
-          "shows": 17,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1895
+          "shows": 4,
+          "gross": 19500.0,
+          "sold": 10,
+          "totalSeats": 403
         }
       }
     },
@@ -164,22 +164,14 @@
           "format": "2D",
           "language": "English",
           "shows": 19,
-          "gross": 69000.0,
-          "sold": 34,
+          "gross": 105700.0,
+          "sold": 55,
           "totalSeats": 2428
         }
       }
     },
     "Hoppers": {
       "formats": {
-        "ET00006005": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 99
-        },
         "ET00006008": {
           "format": "3D",
           "language": "English",
@@ -187,6 +179,26 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 92
+        },
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 99
+        }
+      }
+    },
+    "Michael": {
+      "formats": {
+        "ET00006006": {
+          "format": "2D",
+          "language": "English",
+          "shows": 48,
+          "gross": 347650.0,
+          "sold": 196,
+          "totalSeats": 7674
         }
       }
     },
@@ -196,9 +208,21 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 8,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 2550.0,
+          "sold": 3,
           "totalSeats": 1236
+        }
+      }
+    },
+    "Top Gun": {
+      "formats": {
+        "ET00006086": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 20200.0,
+          "sold": 11,
+          "totalSeats": 595
         }
       }
     },
@@ -211,42 +235,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 277
-        }
-      }
-    },
-    "Lee Cronins The Mummy": {
-      "formats": {
-        "ET00006039": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 17600.0,
-          "sold": 8,
-          "totalSeats": 403
-        }
-      }
-    },
-    "The Super Mario Galaxy Movie": {
-      "formats": {
-        "ET00006030": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 232
-        }
-      }
-    },
-    "Karuppu": {
-      "formats": {
-        "ET00006082": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 67,
-          "gross": 125500.0,
-          "sold": 112,
-          "totalSeats": 13625
         }
       }
     },
@@ -271,6 +259,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 105
+        }
+      }
+    },
+    "The Super Mario Galaxy Movie": {
+      "formats": {
+        "ET00006030": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 232
         }
       }
     }
