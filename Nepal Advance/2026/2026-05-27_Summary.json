@@ -305,11 +305,11 @@
   {
     "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
     "movie_name": "Lalibazar",
-    "total_shows": 91,
-    "seats": 20224,
+    "total_shows": 94,
+    "seats": 19933,
     "sold": 233,
     "reserved": 520,
-    "available": 19471,
+    "available": 19180,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -574,12 +574,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "central-multiplex",
+        "venue": "Unknown",
         "total_shows": 3,
-        "seats": 690,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 690,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -612,17 +612,27 @@
         "available": 244,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "oasis-cinema",
+        "total_shows": 3,
+        "seats": 399,
+        "sold": 0,
+        "reserved": 0,
+        "available": 399,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "JiKNN5HP6MNhM83DH8fNef",
     "movie_name": "Mitajyu",
-    "total_shows": 60,
-    "seats": 11483,
+    "total_shows": 63,
+    "seats": 11958,
     "sold": 113,
     "reserved": 347,
-    "available": 11023,
+    "available": 11498,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -903,6 +913,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "oasis-cinema",
+        "total_shows": 3,
+        "seats": 475,
+        "sold": 0,
+        "reserved": 0,
+        "available": 475,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -1301,10 +1321,10 @@
     "movie_id": "p6ERyMjcHrydTy2n2XN5CM",
     "movie_name": "Pati Patni Aur Woh Do",
     "total_shows": 17,
-    "seats": 2366,
+    "seats": 2136,
     "sold": 14,
     "reserved": 64,
-    "available": 2288,
+    "available": 2058,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1399,12 +1419,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "central-multiplex",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 230,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 230,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1532,8 +1552,8 @@
     "total_shows": 1,
     "seats": 182,
     "sold": 0,
-    "reserved": 2,
-    "available": 180,
+    "reserved": 0,
+    "available": 182,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1542,8 +1562,8 @@
         "total_shows": 1,
         "seats": 182,
         "sold": 0,
-        "reserved": 2,
-        "available": 180,
+        "reserved": 0,
+        "available": 182,
         "housefull": 0,
         "fastfilling": 0
       }
