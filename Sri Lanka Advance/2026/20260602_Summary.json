@@ -1,40 +1,28 @@
 {
   "date": "20260602",
-  "lastUpdated": "06:04 PM, 01 June 2026",
+  "lastUpdated": "11:55 PM, 01 June 2026",
   "movies": {
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 600.0,
+          "sold": 2,
+          "totalSeats": 372
+        }
+      }
+    },
     "Karuppu": {
       "formats": {
         "ET00006082": {
           "format": "2D",
           "language": "Tamil",
           "shows": 58,
-          "gross": 67900.0,
-          "sold": 45,
+          "gross": 99800.0,
+          "sold": 83,
           "totalSeats": 10957
-        }
-      }
-    },
-    "OIC Gadafi": {
-      "formats": {
-        "ET00006051": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 58,
-          "gross": 14700.0,
-          "sold": 20,
-          "totalSeats": 10327
-        }
-      }
-    },
-    "Chandarege Wife": {
-      "formats": {
-        "ET00006094": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 54,
-          "gross": 7150.0,
-          "sold": 12,
-          "totalSeats": 9600
         }
       }
     },
@@ -44,33 +32,33 @@
           "format": "2D",
           "language": "English",
           "shows": 46,
-          "gross": 238700.0,
-          "sold": 145,
+          "gross": 268650.0,
+          "sold": 168,
           "totalSeats": 6464
         }
       }
     },
-    "Riverstone": {
+    "Chandarege Wife": {
       "formats": {
-        "ET00006048": {
+        "ET00006094": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 44,
-          "gross": 9200.0,
-          "sold": 14,
-          "totalSeats": 8246
+          "shows": 54,
+          "gross": 16900.0,
+          "sold": 29,
+          "totalSeats": 9600
         }
       }
     },
-    "The Wife": {
+    "OIC Gadafi": {
       "formats": {
-        "ET00005992": {
+        "ET00006051": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 372
+          "shows": 58,
+          "gross": 18200.0,
+          "sold": 26,
+          "totalSeats": 10327
         }
       }
     },
@@ -80,9 +68,21 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 36,
-          "gross": 22600.0,
-          "sold": 14,
+          "gross": 37750.0,
+          "sold": 31,
           "totalSeats": 5741
+        }
+      }
+    },
+    "Giniyam Yamaya": {
+      "formats": {
+        "ET00006096": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 217
         }
       }
     },
@@ -92,9 +92,21 @@
           "format": "2D",
           "language": "English",
           "shows": 14,
-          "gross": 21050.0,
-          "sold": 12,
+          "gross": 23050.0,
+          "sold": 14,
           "totalSeats": 1797
+        }
+      }
+    },
+    "The Devil Wears Prada 2": {
+      "formats": {
+        "ET00006057": {
+          "format": "2D",
+          "language": "English",
+          "shows": 11,
+          "gross": 59150.0,
+          "sold": 31,
+          "totalSeats": 1254
         }
       }
     },
@@ -104,8 +116,8 @@
           "format": "2D",
           "language": "English",
           "shows": 5,
-          "gross": 1200.0,
-          "sold": 1,
+          "gross": 5600.0,
+          "sold": 5,
           "totalSeats": 613
         }
       }
@@ -134,39 +146,39 @@
         }
       }
     },
-    "Giniyam Yamaya": {
+    "The Sheep Detectives": {
       "formats": {
-        "ET00006096": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 217
-        }
-      }
-    },
-    "Chand Mera Dil": {
-      "formats": {
-        "ET00006093": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 5,
-          "gross": 5850.0,
-          "sold": 9,
-          "totalSeats": 654
-        }
-      }
-    },
-    "The Devil Wears Prada 2": {
-      "formats": {
-        "ET00006057": {
+        "ET00006062": {
           "format": "2D",
           "language": "English",
-          "shows": 11,
-          "gross": 38450.0,
-          "sold": 20,
-          "totalSeats": 1254
+          "shows": 7,
+          "gross": 3500.0,
+          "sold": 3,
+          "totalSeats": 766
+        }
+      }
+    },
+    "Star Wars: The Mandalorian and Grogu": {
+      "formats": {
+        "ET00006097": {
+          "format": "3D",
+          "language": "English",
+          "shows": 21,
+          "gross": 16750.0,
+          "sold": 18,
+          "totalSeats": 3767
+        }
+      }
+    },
+    "Riverstone": {
+      "formats": {
+        "ET00006048": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 44,
+          "gross": 18700.0,
+          "sold": 31,
+          "totalSeats": 8246
         }
       }
     },
@@ -182,63 +194,15 @@
         }
       }
     },
-    "Kara": {
+    "Chand Mera Dil": {
       "formats": {
-        "ET00006042": {
+        "ET00006093": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 105
-        }
-      }
-    },
-    "The Super Mario Galaxy Movie": {
-      "formats": {
-        "ET00006030": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 1500.0,
-          "sold": 2,
-          "totalSeats": 232
-        }
-      }
-    },
-    "Star Wars: The Mandalorian and Grogu": {
-      "formats": {
-        "ET00006097": {
-          "format": "3D",
-          "language": "English",
-          "shows": 21,
-          "gross": 9650.0,
-          "sold": 11,
-          "totalSeats": 3767
-        }
-      }
-    },
-    "The Sheep Detectives": {
-      "formats": {
-        "ET00006062": {
-          "format": "2D",
-          "language": "English",
-          "shows": 7,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 766
-        }
-      }
-    },
-    "Sergeant Punchisoma": {
-      "formats": {
-        "ET00006047": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 120
+          "language": "Hindi",
+          "shows": 5,
+          "gross": 5850.0,
+          "sold": 9,
+          "totalSeats": 654
         }
       }
     },
@@ -254,6 +218,30 @@
         }
       }
     },
+    "The Super Mario Galaxy Movie": {
+      "formats": {
+        "ET00006030": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 1500.0,
+          "sold": 2,
+          "totalSeats": 232
+        }
+      }
+    },
+    "Sergeant Punchisoma": {
+      "formats": {
+        "ET00006047": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 120
+        }
+      }
+    },
     " Father": {
       "formats": {
         "ET00005963": {
@@ -263,6 +251,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 264
+        }
+      }
+    },
+    "Kara": {
+      "formats": {
+        "ET00006042": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 105
         }
       }
     }
