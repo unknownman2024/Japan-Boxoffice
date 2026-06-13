@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "lastUpdated": "07:20 PM, 13 June 2026",
+  "lastUpdated": "09:45 PM, 13 June 2026",
   "shows": [
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -11,11 +11,11 @@
       "date": "2026-06-14T08:00:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 7,
+      "sold": 15,
       "reserved": 0,
-      "available": 342,
-      "gross": 1400,
-      "occupancy_percent": 2.01
+      "available": 334,
+      "gross": 3000,
+      "occupancy_percent": 4.3
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -26,11 +26,11 @@
       "date": "2026-06-14T13:30:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 0,
+      "sold": 2,
       "reserved": 1,
-      "available": 348,
-      "gross": 450,
-      "occupancy_percent": 0.29
+      "available": 346,
+      "gross": 1350,
+      "occupancy_percent": 0.86
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -66,16 +66,18 @@
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
       "movie_name": "Peddi",
       "show_id": "172619:qfx-chhaya",
-      "venue": "qfx-chhaya",
-      "theatre": "QFX Chhaya - AUDI 03",
-      "date": "2026-06-14T11:45:00+05:45",
-      "time": "",
-      "seats": 110,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-14",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 110,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -278,7 +280,7 @@
       "show_id": "47689:bsr-movies",
       "venue": "bsr-movies",
       "theatre": "BSR Movies - Atmos 2",
-      "date": "2026-06-14T13:30:00+05:45",
+      "date": "2026-06-14T14:30:00+05:45",
       "time": "",
       "seats": 180,
       "sold": 0,
@@ -371,11 +373,11 @@
       "date": "2026-06-14T13:30:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 2,
+      "sold": 5,
       "reserved": 0,
-      "available": 163,
-      "gross": 820,
-      "occupancy_percent": 1.21
+      "available": 160,
+      "gross": 2050,
+      "occupancy_percent": 3.03
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -417,10 +419,10 @@
       "time": "",
       "seats": 248,
       "sold": 0,
-      "reserved": 0,
-      "available": 248,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 247,
+      "gross": 440,
+      "occupancy_percent": 0.4
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -576,31 +578,35 @@
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
       "movie_name": "Peddi",
       "show_id": "172642:qfx-jalma",
-      "venue": "qfx-jalma",
-      "theatre": "QFX Jalma, Narayangarh - AUDI 1",
-      "date": "2026-06-14T18:30:00+05:45",
-      "time": "",
-      "seats": 268,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-14",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 268,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
       "movie_name": "Peddi",
       "show_id": "172623:qfx-jalma",
-      "venue": "qfx-jalma",
-      "theatre": "QFX Jalma, Narayangarh - AUDI 1",
-      "date": "2026-06-14T12:00:00+05:45",
-      "time": "",
-      "seats": 268,
-      "sold": 2,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-14",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 266,
-      "gross": 640,
-      "occupancy_percent": 0.75
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -641,11 +647,11 @@
       "date": "2026-06-14T18:00:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 217,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 214,
+      "gross": 1200,
+      "occupancy_percent": 1.38
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -853,11 +859,11 @@
       "date": "2026-06-14T15:15:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 0,
-      "reserved": 8,
-      "available": 190,
-      "gross": 3200,
-      "occupancy_percent": 4.04
+      "sold": 4,
+      "reserved": 0,
+      "available": 194,
+      "gross": 1600,
+      "occupancy_percent": 2.02
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -886,10 +892,10 @@
       "time": "",
       "seats": 349,
       "sold": 0,
-      "reserved": 0,
-      "available": 349,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 10,
+      "available": 339,
+      "gross": 4500,
+      "occupancy_percent": 2.87
     },
     {
       "movie_id": "zxdpxapwUUfnFuatekzuXU",
@@ -915,11 +921,11 @@
       "date": "2026-06-14T12:00:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 9,
+      "sold": 14,
       "reserved": 0,
-      "available": 250,
-      "gross": 3960,
-      "occupancy_percent": 3.47
+      "available": 245,
+      "gross": 6160,
+      "occupancy_percent": 5.41
     },
     {
       "movie_id": "zxdpxapwUUfnFuatekzuXU",
@@ -970,16 +976,18 @@
       "movie_id": "zxdpxapwUUfnFuatekzuXU",
       "movie_name": "Backrooms",
       "show_id": "172611:qfx-chhaya",
-      "venue": "qfx-chhaya",
-      "theatre": "QFX Chhaya - AUDI 2",
-      "date": "2026-06-14T16:30:00+05:45",
-      "time": "",
-      "seats": 150,
-      "sold": 5,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-14",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 145,
-      "gross": 2400,
-      "occupancy_percent": 3.33
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "zxdpxapwUUfnFuatekzuXU",
@@ -1005,11 +1013,11 @@
       "date": "2026-06-14T14:30:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 10,
+      "sold": 14,
       "reserved": 0,
-      "available": 249,
-      "gross": 4400,
-      "occupancy_percent": 3.86
+      "available": 245,
+      "gross": 6160,
+      "occupancy_percent": 5.41
     },
     {
       "movie_id": "zxdpxapwUUfnFuatekzuXU",
@@ -1095,26 +1103,28 @@
       "date": "2026-06-14T11:30:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 196,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 194,
+      "gross": 700,
+      "occupancy_percent": 1.02
     },
     {
       "movie_id": "zxdpxapwUUfnFuatekzuXU",
       "movie_name": "Backrooms",
       "show_id": "172612:qfx-chhaya",
-      "venue": "qfx-chhaya",
-      "theatre": "QFX Chhaya - AUDI 2",
-      "date": "2026-06-14T19:00:00+05:45",
-      "time": "",
-      "seats": 150,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-14",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 150,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "zxdpxapwUUfnFuatekzuXU",
@@ -1135,16 +1145,18 @@
       "movie_id": "zxdpxapwUUfnFuatekzuXU",
       "movie_name": "Backrooms",
       "show_id": "172609:qfx-chhaya",
-      "venue": "qfx-chhaya",
-      "theatre": "QFX Chhaya - AUDI 2",
-      "date": "2026-06-14T11:00:00+05:45",
-      "time": "",
-      "seats": 150,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-14",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 150,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "zxdpxapwUUfnFuatekzuXU",
@@ -1167,7 +1179,7 @@
       "show_id": "47688:bsr-movies",
       "venue": "bsr-movies",
       "theatre": "BSR Movies - Atmos 2",
-      "date": "2026-06-14T11:30:00+05:45",
+      "date": "2026-06-14T18:00:00+05:45",
       "time": "",
       "seats": 180,
       "sold": 0,
@@ -1185,11 +1197,11 @@
       "date": "2026-06-14T10:30:00+05:45",
       "time": "",
       "seats": 279,
-      "sold": 2,
+      "sold": 7,
       "reserved": 0,
-      "available": 277,
-      "gross": 400,
-      "occupancy_percent": 0.72
+      "available": 272,
+      "gross": 1400,
+      "occupancy_percent": 2.51
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -1200,26 +1212,28 @@
       "date": "2026-06-14T11:00:00+05:45",
       "time": "",
       "seats": 240,
-      "sold": 2,
+      "sold": 4,
       "reserved": 0,
-      "available": 238,
-      "gross": 800,
-      "occupancy_percent": 0.83
+      "available": 236,
+      "gross": 1600,
+      "occupancy_percent": 1.67
     },
     {
       "movie_id": "cejw8NwCyZ2TQ6UDNjS9CP",
       "movie_name": "Scary Movie",
       "show_id": "172621:qfx-chhaya",
-      "venue": "qfx-chhaya",
-      "theatre": "QFX Chhaya - AUDI 03",
-      "date": "2026-06-14T18:30:00+05:45",
-      "time": "",
-      "seats": 110,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-14",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 110,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -1380,11 +1394,11 @@
       "date": "2026-06-14T16:00:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 259,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 257,
+      "gross": 880,
+      "occupancy_percent": 0.77
     },
     {
       "movie_id": "cejw8NwCyZ2TQ6UDNjS9CP",
@@ -1420,16 +1434,18 @@
       "movie_id": "cejw8NwCyZ2TQ6UDNjS9CP",
       "movie_name": "Scary Movie",
       "show_id": "172641:qfx-jalma",
-      "venue": "qfx-jalma",
-      "theatre": "QFX Jalma, Narayangarh - AUDI 1",
-      "date": "2026-06-14T15:45:00+05:45",
-      "time": "",
-      "seats": 268,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-14",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 268,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "cejw8NwCyZ2TQ6UDNjS9CP",
@@ -1485,11 +1501,11 @@
       "date": "2026-06-14T11:45:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 198,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 196,
+      "gross": 800,
+      "occupancy_percent": 1.01
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -1516,10 +1532,10 @@
       "time": "",
       "seats": 270,
       "sold": 0,
-      "reserved": 0,
-      "available": 270,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 269,
+      "gross": 450,
+      "occupancy_percent": 0.37
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -1540,16 +1556,18 @@
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
       "movie_name": "Disclosure Day",
       "show_id": "172610:qfx-chhaya",
-      "venue": "qfx-chhaya",
-      "theatre": "QFX Chhaya - AUDI 2",
-      "date": "2026-06-14T13:30:00+05:45",
-      "time": "",
-      "seats": 150,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-14",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 150,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -1585,16 +1603,18 @@
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
       "movie_name": "Disclosure Day",
       "show_id": "172604:qfx-chhaya",
-      "venue": "qfx-chhaya",
-      "theatre": "QFX Chhaya - AUDI 1",
-      "date": "2026-06-14T12:00:00+05:45",
-      "time": "",
-      "seats": 112,
-      "sold": 2,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-14",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 110,
-      "gross": 960,
-      "occupancy_percent": 1.79
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "500 Server Error: Internal Server Error for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -1605,11 +1625,11 @@
       "date": "2026-06-14T14:30:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 4,
+      "sold": 11,
       "reserved": 0,
-      "available": 178,
-      "gross": 2240,
-      "occupancy_percent": 2.2
+      "available": 171,
+      "gross": 6160,
+      "occupancy_percent": 6.04
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -1620,11 +1640,11 @@
       "date": "2026-06-14T11:15:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 9,
+      "sold": 12,
       "reserved": 0,
-      "available": 173,
-      "gross": 5040,
-      "occupancy_percent": 4.95
+      "available": 170,
+      "gross": 6720,
+      "occupancy_percent": 6.59
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -1647,7 +1667,7 @@
       "show_id": "47692:bsr-movies",
       "venue": "bsr-movies",
       "theatre": "BSR Movies - Atmos 2",
-      "date": "2026-06-14T17:15:00+05:45",
+      "date": "2026-06-14T11:30:00+05:45",
       "time": "",
       "seats": 180,
       "sold": 0,
@@ -1765,16 +1785,18 @@
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
       "movie_name": "Disclosure Day",
       "show_id": "172644:qfx-jalma",
-      "venue": "qfx-jalma",
-      "theatre": "QFX Jalma, Narayangarh - AUDI 2",
-      "date": "2026-06-14T18:45:00+05:45",
-      "time": "",
-      "seats": 265,
-      "sold": 3,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-14",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 262,
-      "gross": 960,
-      "occupancy_percent": 1.13
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -1875,11 +1897,11 @@
       "date": "2026-06-14T15:30:00+05:45",
       "time": "",
       "seats": 134,
-      "sold": 1,
+      "sold": 2,
       "reserved": 0,
-      "available": 133,
-      "gross": 350,
-      "occupancy_percent": 0.75
+      "available": 132,
+      "gross": 700,
+      "occupancy_percent": 1.49
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -2057,11 +2079,11 @@
       "date": "2026-06-14T13:30:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 23,
+      "sold": 31,
       "reserved": 0,
-      "available": 160,
-      "gross": 11040,
-      "occupancy_percent": 12.57
+      "available": 152,
+      "gross": 14880,
+      "occupancy_percent": 16.94
     },
     {
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
@@ -2072,26 +2094,28 @@
       "date": "2026-06-14T12:30:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 0,
-      "reserved": 2,
-      "available": 257,
-      "gross": 880,
-      "occupancy_percent": 0.77
+      "sold": 6,
+      "reserved": 1,
+      "available": 252,
+      "gross": 3080,
+      "occupancy_percent": 2.7
     },
     {
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
       "movie_name": "Roll No 1",
       "show_id": "172627:qfx-jalma",
-      "venue": "qfx-jalma",
-      "theatre": "QFX Jalma, Narayangarh - AUDI 2",
-      "date": "2026-06-14T15:15:00+05:45",
-      "time": "",
-      "seats": 265,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-14",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 265,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
@@ -2117,11 +2141,11 @@
       "date": "2026-06-14T12:30:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 3,
+      "sold": 6,
       "reserved": 0,
-      "available": 244,
-      "gross": 3000,
-      "occupancy_percent": 1.21
+      "available": 241,
+      "gross": 4320,
+      "occupancy_percent": 2.43
     },
     {
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
@@ -2132,11 +2156,11 @@
       "date": "2026-06-14T17:00:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 3,
+      "sold": 7,
       "reserved": 0,
-      "available": 193,
-      "gross": 1050,
-      "occupancy_percent": 1.53
+      "available": 189,
+      "gross": 2450,
+      "occupancy_percent": 3.57
     },
     {
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
@@ -2147,11 +2171,11 @@
       "date": "2026-06-14T11:15:00+05:45",
       "time": "",
       "seats": 176,
-      "sold": 11,
+      "sold": 15,
       "reserved": 0,
-      "available": 165,
-      "gross": 3850,
-      "occupancy_percent": 6.25
+      "available": 161,
+      "gross": 5250,
+      "occupancy_percent": 8.52
     },
     {
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
@@ -2267,11 +2291,11 @@
       "date": "2026-06-14T09:30:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 7,
-      "reserved": 94,
-      "available": 146,
-      "gross": 22220,
-      "occupancy_percent": 40.89
+      "sold": 20,
+      "reserved": 98,
+      "available": 129,
+      "gross": 25960,
+      "occupancy_percent": 47.77
     },
     {
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
@@ -2327,11 +2351,11 @@
       "date": "2026-06-14T09:15:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 3,
+      "sold": 16,
       "reserved": 0,
-      "available": 214,
-      "gross": 600,
-      "occupancy_percent": 1.38
+      "available": 201,
+      "gross": 4000,
+      "occupancy_percent": 7.37
     },
     {
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
@@ -2372,11 +2396,11 @@
       "date": "2026-06-14T12:15:00+05:45",
       "time": "",
       "seats": 288,
-      "sold": 2,
+      "sold": 7,
       "reserved": 0,
-      "available": 286,
-      "gross": 400,
-      "occupancy_percent": 0.69
+      "available": 281,
+      "gross": 1400,
+      "occupancy_percent": 2.43
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -2432,11 +2456,11 @@
       "date": "2026-06-14T09:00:00+05:45",
       "time": "",
       "seats": 270,
-      "sold": 5,
+      "sold": 8,
       "reserved": 0,
-      "available": 265,
-      "gross": 1000,
-      "occupancy_percent": 1.85
+      "available": 262,
+      "gross": 1600,
+      "occupancy_percent": 2.96
     },
     {
       "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
@@ -2462,11 +2486,11 @@
       "date": "2026-06-14T14:30:00+05:45",
       "time": "",
       "seats": 270,
-      "sold": 2,
+      "sold": 6,
       "reserved": 0,
-      "available": 268,
-      "gross": 900,
-      "occupancy_percent": 0.74
+      "available": 264,
+      "gross": 2700,
+      "occupancy_percent": 2.22
     },
     {
       "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
@@ -2517,16 +2541,18 @@
       "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
       "movie_name": "Hai Jawani Toh Ishq Hona Hai",
       "show_id": "172607:qfx-chhaya",
-      "venue": "qfx-chhaya",
-      "theatre": "QFX Chhaya - AUDI 1",
-      "date": "2026-06-14T18:15:00+05:45",
-      "time": "",
-      "seats": 112,
-      "sold": 4,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-14",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 108,
-      "gross": 1920,
-      "occupancy_percent": 3.57
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
@@ -2612,11 +2638,11 @@
       "date": "2026-06-14T14:45:00+05:45",
       "time": "",
       "seats": 117,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 117,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 113,
+      "gross": 1200,
+      "occupancy_percent": 3.42
     },
     {
       "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
@@ -2628,10 +2654,10 @@
       "time": "",
       "seats": 290,
       "sold": 0,
-      "reserved": 0,
-      "available": 290,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 289,
+      "gross": 200,
+      "occupancy_percent": 0.34
     },
     {
       "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
@@ -2642,11 +2668,11 @@
       "date": "2026-06-14T09:00:00+05:45",
       "time": "",
       "seats": 126,
-      "sold": 0,
+      "sold": 6,
       "reserved": 0,
-      "available": 126,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 120,
+      "gross": 1200,
+      "occupancy_percent": 4.76
     },
     {
       "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
@@ -2703,10 +2729,10 @@
       "time": "",
       "seats": 60,
       "sold": 0,
-      "reserved": 12,
-      "available": 48,
-      "gross": 7800,
-      "occupancy_percent": 20.0
+      "reserved": 14,
+      "available": 46,
+      "gross": 9100,
+      "occupancy_percent": 23.33
     },
     {
       "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
@@ -2847,16 +2873,18 @@
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
       "movie_name": "Lalibazar",
       "show_id": "172620:qfx-chhaya",
-      "venue": "qfx-chhaya",
-      "theatre": "QFX Chhaya - AUDI 03",
-      "date": "2026-06-14T15:30:00+05:45",
-      "time": "",
-      "seats": 110,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-14",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 110,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -2882,11 +2910,11 @@
       "date": "2026-06-14T12:30:00+05:45",
       "time": "",
       "seats": 279,
-      "sold": 0,
+      "sold": 5,
       "reserved": 0,
-      "available": 279,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 274,
+      "gross": 2250,
+      "occupancy_percent": 1.79
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -2894,7 +2922,7 @@
       "show_id": "47690:bsr-movies",
       "venue": "bsr-movies",
       "theatre": "BSR Movies - Atmos 1",
-      "date": "2026-06-14T14:00:00+05:45",
+      "date": "2026-06-14T13:45:00+05:45",
       "time": "",
       "seats": 192,
       "sold": 0,
@@ -2909,7 +2937,7 @@
       "show_id": "47693:bsr-movies",
       "venue": "bsr-movies",
       "theatre": "BSR Movies - Atmos 1",
-      "date": "2026-06-14T19:15:00+05:45",
+      "date": "2026-06-14T19:00:00+05:45",
       "time": "",
       "seats": 192,
       "sold": 0,
@@ -2957,11 +2985,11 @@
       "date": "2026-06-14T16:30:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 5,
+      "sold": 6,
       "reserved": 0,
-      "available": 178,
-      "gross": 2400,
-      "occupancy_percent": 2.73
+      "available": 177,
+      "gross": 2880,
+      "occupancy_percent": 3.28
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -2972,11 +3000,11 @@
       "date": "2026-06-14T14:00:00+05:45",
       "time": "",
       "seats": 89,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 89,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 85,
+      "gross": 1400,
+      "occupancy_percent": 4.49
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -3002,11 +3030,11 @@
       "date": "2026-06-14T13:00:00+05:45",
       "time": "",
       "seats": 519,
-      "sold": 6,
+      "sold": 8,
       "reserved": 0,
-      "available": 513,
-      "gross": 2640,
-      "occupancy_percent": 1.16
+      "available": 511,
+      "gross": 3520,
+      "occupancy_percent": 1.54
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -3047,11 +3075,11 @@
       "date": "2026-06-14T12:00:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 2,
+      "sold": 4,
       "reserved": 0,
-      "available": 175,
-      "gross": 820,
-      "occupancy_percent": 1.13
+      "available": 173,
+      "gross": 1640,
+      "occupancy_percent": 2.26
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -3102,16 +3130,18 @@
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
       "movie_name": "Lalibazar",
       "show_id": "172643:qfx-jalma",
-      "venue": "qfx-jalma",
-      "theatre": "QFX Jalma, Narayangarh - AUDI 2",
-      "date": "2026-06-14T12:15:00+05:45",
-      "time": "",
-      "seats": 265,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-14",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 265,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -3122,11 +3152,11 @@
       "date": "2026-06-14T14:30:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 8,
+      "sold": 10,
       "reserved": 0,
-      "available": 240,
-      "gross": 3520,
-      "occupancy_percent": 3.23
+      "available": 238,
+      "gross": 4400,
+      "occupancy_percent": 4.03
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -3152,11 +3182,11 @@
       "date": "2026-06-14T14:00:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 5,
+      "sold": 13,
       "reserved": 0,
-      "available": 191,
-      "gross": 1750,
-      "occupancy_percent": 2.55
+      "available": 183,
+      "gross": 4550,
+      "occupancy_percent": 6.63
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -3273,10 +3303,10 @@
       "time": "",
       "seats": 196,
       "sold": 3,
-      "reserved": 0,
-      "available": 193,
-      "gross": 810,
-      "occupancy_percent": 1.53
+      "reserved": 3,
+      "available": 190,
+      "gross": 1620,
+      "occupancy_percent": 3.06
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -3347,11 +3377,11 @@
       "date": "2026-06-14T12:00:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 7,
-      "reserved": 0,
-      "available": 173,
-      "gross": 3360,
-      "occupancy_percent": 3.89
+      "sold": 17,
+      "reserved": 4,
+      "available": 159,
+      "gross": 10080,
+      "occupancy_percent": 11.67
     },
     {
       "movie_id": "cwNQGULj5g3xx9R3AvfbrX",
@@ -3362,11 +3392,11 @@
       "date": "2026-06-14T08:00:00+05:45",
       "time": "",
       "seats": 279,
-      "sold": 2,
-      "reserved": 0,
-      "available": 277,
-      "gross": 400,
-      "occupancy_percent": 0.72
+      "sold": 5,
+      "reserved": 1,
+      "available": 273,
+      "gross": 1200,
+      "occupancy_percent": 2.15
     },
     {
       "movie_id": "KAiCisCSky5xvKVfJZRqbP",
@@ -3389,7 +3419,7 @@
       "show_id": "47691:bsr-movies",
       "venue": "bsr-movies",
       "theatre": "BSR Movies - Atmos 1",
-      "date": "2026-06-14T16:45:00+05:45",
+      "date": "2026-06-14T16:30:00+05:45",
       "time": "",
       "seats": 192,
       "sold": 0,
@@ -3417,16 +3447,18 @@
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
       "movie_name": "Michael",
       "show_id": "172605:qfx-chhaya",
-      "venue": "qfx-chhaya",
-      "theatre": "QFX Chhaya - AUDI 1",
-      "date": "2026-06-14T15:15:00+05:45",
-      "time": "",
-      "seats": 112,
-      "sold": 2,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-14",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 110,
-      "gross": 960,
-      "occupancy_percent": 1.79
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -3482,11 +3514,11 @@
       "date": "2026-06-14T08:30:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 208,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 206,
+      "gross": 500,
+      "occupancy_percent": 0.96
     },
     {
       "movie_id": "zxdpxapwUUfnFuatekzuXU",
@@ -3498,10 +3530,10 @@
       "time": "",
       "seats": 208,
       "sold": 21,
-      "reserved": 0,
-      "available": 187,
-      "gross": 9450,
-      "occupancy_percent": 10.1
+      "reserved": 1,
+      "available": 186,
+      "gross": 9900,
+      "occupancy_percent": 10.58
     },
     {
       "movie_id": "zxdpxapwUUfnFuatekzuXU",
@@ -3542,11 +3574,11 @@
       "date": "2026-06-14T12:15:00+05:45",
       "time": "",
       "seats": 67,
-      "sold": 6,
+      "sold": 8,
       "reserved": 0,
-      "available": 61,
-      "gross": 4500,
-      "occupancy_percent": 8.96
+      "available": 59,
+      "gross": 5600,
+      "occupancy_percent": 11.94
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -3558,10 +3590,10 @@
       "time": "",
       "seats": 67,
       "sold": 5,
-      "reserved": 1,
-      "available": 61,
-      "gross": 2000,
-      "occupancy_percent": 8.96
+      "reserved": 0,
+      "available": 62,
+      "gross": 1600,
+      "occupancy_percent": 7.46
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -3662,11 +3694,11 @@
       "date": "2026-06-14T09:00:00+05:45",
       "time": "",
       "seats": 203,
-      "sold": 4,
+      "sold": 6,
       "reserved": 0,
-      "available": 199,
-      "gross": 1000,
-      "occupancy_percent": 1.97
+      "available": 197,
+      "gross": 1500,
+      "occupancy_percent": 2.96
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -3678,10 +3710,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 10,
-      "available": 202,
-      "gross": 5800,
-      "occupancy_percent": 4.72
+      "reserved": 12,
+      "available": 200,
+      "gross": 7200,
+      "occupancy_percent": 5.66
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -3782,11 +3814,11 @@
       "date": "2026-06-14T12:00:00+05:45",
       "time": "",
       "seats": 219,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 219,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 216,
+      "gross": 960,
+      "occupancy_percent": 1.37
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -3807,16 +3839,18 @@
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
       "movie_name": "Peddi",
       "show_id": "172700:qfx-one-stop-mall",
-      "venue": "qfx-one-stop-mall",
-      "theatre": "QFX One Stop, Birtamod - AUDI 1",
-      "date": "2026-06-14T18:00:00+05:45",
-      "time": "",
-      "seats": 138,
-      "sold": 5,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-14",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 133,
-      "gross": 1400,
-      "occupancy_percent": 3.62
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "zxdpxapwUUfnFuatekzuXU",
@@ -3932,11 +3966,11 @@
       "date": "2026-06-14T14:45:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 19,
+      "sold": 22,
       "reserved": 0,
-      "available": 161,
-      "gross": 10640,
-      "occupancy_percent": 10.56
+      "available": 158,
+      "gross": 12320,
+      "occupancy_percent": 12.22
     },
     {
       "movie_id": "cejw8NwCyZ2TQ6UDNjS9CP",
@@ -3962,11 +3996,11 @@
       "date": "2026-06-14T14:45:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 0,
+      "sold": 2,
       "reserved": 10,
-      "available": 188,
-      "gross": 4800,
-      "occupancy_percent": 5.05
+      "available": 186,
+      "gross": 5760,
+      "occupancy_percent": 6.06
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -4127,11 +4161,11 @@
       "date": "2026-06-14T18:45:00+05:45",
       "time": "",
       "seats": 172,
-      "sold": 0,
+      "sold": 2,
       "reserved": 8,
-      "available": 164,
-      "gross": 3120,
-      "occupancy_percent": 4.65
+      "available": 162,
+      "gross": 3900,
+      "occupancy_percent": 5.81
     },
     {
       "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
@@ -4173,10 +4207,10 @@
       "time": "",
       "seats": 210,
       "sold": 9,
-      "reserved": 10,
-      "available": 191,
-      "gross": 9120,
-      "occupancy_percent": 9.05
+      "reserved": 11,
+      "available": 190,
+      "gross": 9600,
+      "occupancy_percent": 9.52
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -4262,11 +4296,11 @@
       "date": "2026-06-14T12:05:00+05:45",
       "time": "",
       "seats": 204,
-      "sold": 7,
+      "sold": 12,
       "reserved": 0,
-      "available": 197,
-      "gross": 2100,
-      "occupancy_percent": 3.43
+      "available": 192,
+      "gross": 3600,
+      "occupancy_percent": 5.88
     },
     {
       "movie_id": "JiKNN5HP6MNhM83DH8fNef",
@@ -4487,11 +4521,11 @@
       "date": "2026-06-14T18:45:00+05:45",
       "time": "",
       "seats": 143,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 143,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 141,
+      "gross": 640,
+      "occupancy_percent": 1.4
     },
     {
       "movie_id": "cejw8NwCyZ2TQ6UDNjS9CP",
@@ -4517,11 +4551,11 @@
       "date": "2026-06-14T09:45:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 214,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 212,
+      "gross": 380,
+      "occupancy_percent": 0.93
     },
     {
       "movie_id": "cejw8NwCyZ2TQ6UDNjS9CP",
@@ -4578,10 +4612,10 @@
       "time": "",
       "seats": 214,
       "sold": 0,
-      "reserved": 0,
-      "available": 214,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 213,
+      "gross": 350,
+      "occupancy_percent": 0.47
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -4802,11 +4836,11 @@
       "date": "2026-06-14T09:30:00+05:45",
       "time": "",
       "seats": 258,
-      "sold": 0,
+      "sold": 65,
       "reserved": 0,
-      "available": 258,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 193,
+      "gross": 13000,
+      "occupancy_percent": 25.19
     },
     {
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
@@ -5133,10 +5167,10 @@
       "time": "",
       "seats": 164,
       "sold": 4,
-      "reserved": 4,
-      "available": 156,
-      "gross": 1400,
-      "occupancy_percent": 4.88
+      "reserved": 2,
+      "available": 158,
+      "gross": 1050,
+      "occupancy_percent": 3.66
     },
     {
       "movie_id": "3sLzjWvFEpbTyJ8oP67Yvm",
@@ -5343,10 +5377,10 @@
       "time": "",
       "seats": 230,
       "sold": 0,
-      "reserved": 6,
-      "available": 224,
-      "gross": 3450,
-      "occupancy_percent": 2.61
+      "reserved": 7,
+      "available": 223,
+      "gross": 3800,
+      "occupancy_percent": 3.04
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -5552,11 +5586,11 @@
       "date": "2026-06-14T12:30:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 0,
+      "sold": 2,
       "reserved": 6,
-      "available": 224,
-      "gross": 3450,
-      "occupancy_percent": 2.61
+      "available": 222,
+      "gross": 4150,
+      "occupancy_percent": 3.48
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -5645,6 +5679,141 @@
       "sold": 0,
       "reserved": 0,
       "available": 122,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "5UVEbmut9MMEGVFj3krnS7",
+      "movie_name": "Peddi",
+      "show_id": "703801:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-2",
+      "date": "2026-06-14T18:30:00+05:45",
+      "time": "",
+      "seats": 143,
+      "sold": 0,
+      "reserved": 0,
+      "available": 143,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "5UVEbmut9MMEGVFj3krnS7",
+      "movie_name": "Peddi",
+      "show_id": "703799:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-2",
+      "date": "2026-06-14T12:00:00+05:45",
+      "time": "",
+      "seats": 143,
+      "sold": 0,
+      "reserved": 2,
+      "available": 141,
+      "gross": 600,
+      "occupancy_percent": 1.4
+    },
+    {
+      "movie_id": "cejw8NwCyZ2TQ6UDNjS9CP",
+      "movie_name": "Scary Movie",
+      "show_id": "703793:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-1",
+      "date": "2026-06-14T09:00:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 0,
+      "reserved": 0,
+      "available": 214,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
+      "movie_name": "Disclosure Day",
+      "show_id": "703794:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-1",
+      "date": "2026-06-14T11:30:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 0,
+      "reserved": 0,
+      "available": 214,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
+      "movie_name": "Roll No 1",
+      "show_id": "703798:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-2",
+      "date": "2026-06-14T09:00:00+05:45",
+      "time": "",
+      "seats": 143,
+      "sold": 0,
+      "reserved": 100,
+      "available": 43,
+      "gross": 15000,
+      "occupancy_percent": 69.93
+    },
+    {
+      "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
+      "movie_name": "Roll No 1",
+      "show_id": "703797:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-1",
+      "date": "2026-06-14T20:00:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 0,
+      "reserved": 0,
+      "available": 214,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
+      "movie_name": "Roll No 1",
+      "show_id": "703795:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-1",
+      "date": "2026-06-14T14:00:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 0,
+      "reserved": 0,
+      "available": 214,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
+      "movie_name": "Roll No 1",
+      "show_id": "703796:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-1",
+      "date": "2026-06-14T17:00:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 0,
+      "reserved": 0,
+      "available": 214,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
+      "movie_name": "Lalibazar",
+      "show_id": "703800:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-2",
+      "date": "2026-06-14T15:30:00+05:45",
+      "time": "",
+      "seats": 143,
+      "sold": 0,
+      "reserved": 0,
+      "available": 143,
       "gross": 0,
       "occupancy_percent": 0.0
     }
