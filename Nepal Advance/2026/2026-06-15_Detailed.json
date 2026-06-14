@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "lastUpdated": "03:31 AM, 14 June 2026",
+  "lastUpdated": "08:56 AM, 14 June 2026",
   "shows": [
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -506,11 +506,11 @@
       "date": "2026-06-15T12:00:00+05:45",
       "time": "",
       "seats": 219,
-      "sold": 0,
+      "sold": 5,
       "reserved": 0,
-      "available": 219,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 214,
+      "gross": 1900,
+      "occupancy_percent": 2.28
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -957,10 +957,10 @@
       "time": "",
       "seats": 150,
       "sold": 0,
-      "reserved": 0,
-      "available": 150,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 149,
+      "gross": 390,
+      "occupancy_percent": 0.67
     },
     {
       "movie_id": "zxdpxapwUUfnFuatekzuXU",
@@ -2067,10 +2067,10 @@
       "time": "",
       "seats": 270,
       "sold": 0,
-      "reserved": 25,
-      "available": 245,
-      "gross": 10000,
-      "occupancy_percent": 9.26
+      "reserved": 27,
+      "available": 243,
+      "gross": 10800,
+      "occupancy_percent": 10.0
     },
     {
       "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
@@ -2969,6 +2969,111 @@
       "sold": 0,
       "reserved": 0,
       "available": 182,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "5UVEbmut9MMEGVFj3krnS7",
+      "movie_name": "Peddi",
+      "show_id": "4376:kirtipur-cineplex",
+      "venue": "kirtipur-cineplex",
+      "theatre": "Kirtipur Cineplex - Audi-1",
+      "date": "2026-06-15T15:30:00+05:45",
+      "time": "",
+      "seats": 285,
+      "sold": 0,
+      "reserved": 0,
+      "available": 285,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "5UVEbmut9MMEGVFj3krnS7",
+      "movie_name": "Peddi",
+      "show_id": "4377:kirtipur-cineplex",
+      "venue": "kirtipur-cineplex",
+      "theatre": "Kirtipur Cineplex - Audi-1",
+      "date": "2026-06-15T19:00:00+05:45",
+      "time": "",
+      "seats": 285,
+      "sold": 0,
+      "reserved": 0,
+      "available": 285,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
+      "movie_name": "Roll No 1",
+      "show_id": "4379:kirtipur-cineplex",
+      "venue": "kirtipur-cineplex",
+      "theatre": "Kirtipur Cineplex - Audi-2",
+      "date": "2026-06-15T14:00:00+05:45",
+      "time": "",
+      "seats": 101,
+      "sold": 0,
+      "reserved": 0,
+      "available": 101,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
+      "movie_name": "Roll No 1",
+      "show_id": "4375:kirtipur-cineplex",
+      "venue": "kirtipur-cineplex",
+      "theatre": "Kirtipur Cineplex - Audi-1",
+      "date": "2026-06-15T12:30:00+05:45",
+      "time": "",
+      "seats": 285,
+      "sold": 0,
+      "reserved": 0,
+      "available": 285,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
+      "movie_name": "Roll No 1",
+      "show_id": "4381:kirtipur-cineplex",
+      "venue": "kirtipur-cineplex",
+      "theatre": "Kirtipur Cineplex - Audi-2",
+      "date": "2026-06-15T19:15:00+05:45",
+      "time": "",
+      "seats": 101,
+      "sold": 0,
+      "reserved": 0,
+      "available": 101,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
+      "movie_name": "Lalibazar",
+      "show_id": "4378:kirtipur-cineplex",
+      "venue": "kirtipur-cineplex",
+      "theatre": "Kirtipur Cineplex - Audi-2",
+      "date": "2026-06-15T11:30:00+05:45",
+      "time": "",
+      "seats": 101,
+      "sold": 0,
+      "reserved": 0,
+      "available": 101,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
+      "movie_name": "Lalibazar",
+      "show_id": "4380:kirtipur-cineplex",
+      "venue": "kirtipur-cineplex",
+      "theatre": "Kirtipur Cineplex - Audi-2",
+      "date": "2026-06-15T16:45:00+05:45",
+      "time": "",
+      "seats": 101,
+      "sold": 0,
+      "reserved": 0,
+      "available": 101,
       "gross": 0,
       "occupancy_percent": 0.0
     }
