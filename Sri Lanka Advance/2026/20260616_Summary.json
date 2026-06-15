@@ -1,15 +1,39 @@
 {
   "date": "20260616",
-  "lastUpdated": "06:40 PM, 15 June 2026",
+  "lastUpdated": "11:04 PM, 15 June 2026",
   "movies": {
+    "OIC Gadafi": {
+      "formats": {
+        "ET00006051": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 26,
+          "gross": 3200.0,
+          "sold": 4,
+          "totalSeats": 4695
+        }
+      }
+    },
+    "Chandarege Wife": {
+      "formats": {
+        "ET00006094": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 32,
+          "gross": 10550.0,
+          "sold": 16,
+          "totalSeats": 6007
+        }
+      }
+    },
     "Karuppu": {
       "formats": {
         "ET00006082": {
           "format": "2D",
           "language": "Tamil",
           "shows": 29,
-          "gross": 6850.0,
-          "sold": 8,
+          "gross": 5850.0,
+          "sold": 6,
           "totalSeats": 6048
         }
       }
@@ -20,57 +44,21 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 1600.0,
+          "sold": 2,
           "totalSeats": 100
         }
       }
     },
-    "Chandarege Wife": {
+    "Sooriya Sulanga": {
       "formats": {
-        "ET00006094": {
+        "ET00006102": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 30,
-          "gross": 4350.0,
-          "sold": 5,
-          "totalSeats": 5481
-        }
-      }
-    },
-    "Scary Movie": {
-      "formats": {
-        "ET00006089": {
-          "format": "2D",
-          "language": "English",
-          "shows": 13,
-          "gross": 21600.0,
-          "sold": 12,
-          "totalSeats": 1788
-        }
-      }
-    },
-    "Riverstone": {
-      "formats": {
-        "ET00006048": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 25,
-          "gross": 2400.0,
-          "sold": 4,
-          "totalSeats": 4962
-        }
-      }
-    },
-    "OIC Gadafi": {
-      "formats": {
-        "ET00006051": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 26,
-          "gross": 2100.0,
-          "sold": 2,
-          "totalSeats": 4695
+          "shows": 91,
+          "gross": 36100.0,
+          "sold": 66,
+          "totalSeats": 13405
         }
       }
     },
@@ -79,70 +67,10 @@
         "ET00006104": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 24,
-          "gross": 900.0,
-          "sold": 1,
-          "totalSeats": 3720
-        }
-      }
-    },
-    "Main Vaapas Aaunga": {
-      "formats": {
-        "ET00006107": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 6,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 884
-        }
-      }
-    },
-    "Michael": {
-      "formats": {
-        "ET00006006": {
-          "format": "2D",
-          "language": "English",
-          "shows": 28,
-          "gross": 92300.0,
-          "sold": 54,
-          "totalSeats": 4257
-        }
-      }
-    },
-    "Disclosure Day": {
-      "formats": {
-        "ET00006090": {
-          "format": "2D",
-          "language": "English",
-          "shows": 37,
-          "gross": 91750.0,
-          "sold": 50,
-          "totalSeats": 7200
-        }
-      }
-    },
-    "He - Man and The Masters of the Universe": {
-      "formats": {
-        "ET00006071": {
-          "format": "2D",
-          "language": "English",
-          "shows": 7,
-          "gross": 31000.0,
-          "sold": 18,
-          "totalSeats": 709
-        }
-      }
-    },
-    "Hai Jawani Toh Ishq Hona Hai": {
-      "formats": {
-        "ET00006078": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 6,
-          "gross": 6300.0,
-          "sold": 6,
-          "totalSeats": 726
+          "shows": 25,
+          "gross": 6000.0,
+          "sold": 8,
+          "totalSeats": 3837
         }
       }
     },
@@ -158,6 +86,90 @@
         }
       }
     },
+    "Michael": {
+      "formats": {
+        "ET00006006": {
+          "format": "2D",
+          "language": "English",
+          "shows": 28,
+          "gross": 140400.0,
+          "sold": 87,
+          "totalSeats": 4257
+        }
+      }
+    },
+    "Scary Movie": {
+      "formats": {
+        "ET00006089": {
+          "format": "2D",
+          "language": "English",
+          "shows": 13,
+          "gross": 29200.0,
+          "sold": 18,
+          "totalSeats": 1788
+        }
+      }
+    },
+    "Hai Jawani Toh Ishq Hona Hai": {
+      "formats": {
+        "ET00006078": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 6,
+          "gross": 6300.0,
+          "sold": 6,
+          "totalSeats": 726
+        }
+      }
+    },
+    "Peddi": {
+      "formats": {
+        "ET00005959": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 808
+        }
+      }
+    },
+    "Blast": {
+      "formats": {
+        "ET00006098": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 27,
+          "gross": 23450.0,
+          "sold": 16,
+          "totalSeats": 3738
+        }
+      }
+    },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 3900.0,
+          "sold": 6,
+          "totalSeats": 92
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 100
+        }
+      }
+    },
     "The Devil Wears Prada 2": {
       "formats": {
         "ET00006057": {
@@ -170,39 +182,15 @@
         }
       }
     },
-    "Sooriya Sulanga": {
+    "Main Vaapas Aaunga": {
       "formats": {
-        "ET00006102": {
+        "ET00006107": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 89,
-          "gross": 16900.0,
-          "sold": 34,
-          "totalSeats": 12879
-        }
-      }
-    },
-    "Passenger": {
-      "formats": {
-        "ET00006099": {
-          "format": "2D",
-          "language": "English",
+          "language": "Hindi",
           "shows": 6,
-          "gross": 25450.0,
-          "sold": 16,
-          "totalSeats": 683
-        }
-      }
-    },
-    "Blast": {
-      "formats": {
-        "ET00006098": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 26,
-          "gross": 23450.0,
-          "sold": 16,
-          "totalSeats": 3621
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 884
         }
       }
     },
@@ -218,15 +206,51 @@
         }
       }
     },
-    "Peddi": {
+    "He - Man and The Masters of the Universe": {
       "formats": {
-        "ET00005959": {
+        "ET00006071": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 808
+          "language": "English",
+          "shows": 7,
+          "gross": 36800.0,
+          "sold": 23,
+          "totalSeats": 709
+        }
+      }
+    },
+    "Lee Cronins The Mummy": {
+      "formats": {
+        "ET00006039": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 1200.0,
+          "sold": 1,
+          "totalSeats": 121
+        }
+      }
+    },
+    "Disclosure Day": {
+      "formats": {
+        "ET00006090": {
+          "format": "2D",
+          "language": "English",
+          "shows": 37,
+          "gross": 118650.0,
+          "sold": 73,
+          "totalSeats": 7200
+        }
+      }
+    },
+    "Riverstone": {
+      "formats": {
+        "ET00006048": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 25,
+          "gross": 15300.0,
+          "sold": 19,
+          "totalSeats": 4962
         }
       }
     },
@@ -248,8 +272,8 @@
           "format": "3D",
           "language": "English",
           "shows": 2,
-          "gross": 2300.0,
-          "sold": 2,
+          "gross": 4500.0,
+          "sold": 4,
           "totalSeats": 213
         }
       }
@@ -263,42 +287,6 @@
           "gross": 1500.0,
           "sold": 2,
           "totalSeats": 92
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 100
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 3900.0,
-          "sold": 6,
-          "totalSeats": 92
-        }
-      }
-    },
-    "Lee Cronins The Mummy": {
-      "formats": {
-        "ET00006039": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 121
         }
       }
     }
