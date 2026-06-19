@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "lastUpdated": "01:14 AM, 20 June 2026",
+  "lastUpdated": "03:33 AM, 20 June 2026",
   "shows": [
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -687,10 +687,10 @@
       "time": "",
       "seats": 349,
       "sold": 0,
-      "reserved": 52,
-      "available": 297,
-      "gross": 23400,
-      "occupancy_percent": 14.9
+      "reserved": 50,
+      "available": 299,
+      "gross": 22500,
+      "occupancy_percent": 14.33
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -702,10 +702,10 @@
       "time": "",
       "seats": 279,
       "sold": 2,
-      "reserved": 52,
-      "available": 225,
-      "gross": 24300,
-      "occupancy_percent": 19.35
+      "reserved": 42,
+      "available": 235,
+      "gross": 19800,
+      "occupancy_percent": 15.77
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -717,10 +717,10 @@
       "time": "",
       "seats": 349,
       "sold": 0,
-      "reserved": 52,
-      "available": 297,
-      "gross": 23400,
-      "occupancy_percent": 14.9
+      "reserved": 50,
+      "available": 299,
+      "gross": 22500,
+      "occupancy_percent": 14.33
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -1602,10 +1602,10 @@
       "time": "",
       "seats": 196,
       "sold": 2,
-      "reserved": 2,
-      "available": 192,
-      "gross": 540,
-      "occupancy_percent": 2.04
+      "reserved": 0,
+      "available": 194,
+      "gross": 270,
+      "occupancy_percent": 1.02
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -1662,10 +1662,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 1,
-      "available": 195,
-      "gross": 270,
-      "occupancy_percent": 0.51
+      "reserved": 0,
+      "available": 196,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -1692,10 +1692,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 1,
-      "available": 195,
-      "gross": 270,
-      "occupancy_percent": 0.51
+      "reserved": 0,
+      "available": 196,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -2261,11 +2261,11 @@
       "date": "2026-06-21T09:45:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 11,
+      "sold": 14,
       "reserved": 0,
-      "available": 154,
-      "gross": 2695,
-      "occupancy_percent": 6.67
+      "available": 151,
+      "gross": 3430,
+      "occupancy_percent": 8.48
     },
     {
       "movie_id": "jnNDFUXs4UZv2W2oF2CWVj",
@@ -2406,16 +2406,18 @@
       "movie_id": "2xzU5oXd3N5urfFfabDAKo",
       "movie_name": "Colony",
       "show_id": "173670:qfx-labim",
-      "venue": "qfx-labim",
-      "theatre": "QFX Labim - AUDI 2",
-      "date": "2026-06-21T14:30:00+05:45",
-      "time": "",
-      "seats": 180,
-      "sold": 4,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-21",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 176,
-      "gross": 1920,
-      "occupancy_percent": 2.22
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "2xzU5oXd3N5urfFfabDAKo",
@@ -2547,10 +2549,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 10,
-      "available": 202,
-      "gross": 5800,
-      "occupancy_percent": 4.72
+      "reserved": 13,
+      "available": 199,
+      "gross": 7900,
+      "occupancy_percent": 6.13
     },
     {
       "movie_id": "2xzU5oXd3N5urfFfabDAKo",
@@ -3942,10 +3944,10 @@
       "time": "",
       "seats": 270,
       "sold": 0,
-      "reserved": 52,
-      "available": 218,
-      "gross": 23400,
-      "occupancy_percent": 19.26
+      "reserved": 50,
+      "available": 220,
+      "gross": 22500,
+      "occupancy_percent": 18.52
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
