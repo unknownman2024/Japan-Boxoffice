@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "lastUpdated": "03:38 AM, 30 June 2026",
+  "lastUpdated": "08:19 AM, 30 June 2026",
   "shows": [
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -1031,11 +1031,11 @@
       "date": "2026-07-01T16:45:00+05:45",
       "time": "",
       "seats": 117,
-      "sold": 7,
+      "sold": 8,
       "reserved": 0,
-      "available": 110,
-      "gross": 1480,
-      "occupancy_percent": 5.98
+      "available": 109,
+      "gross": 1660,
+      "occupancy_percent": 6.84
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -1106,11 +1106,11 @@
       "date": "2026-07-01T18:45:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 18,
-      "reserved": 0,
-      "available": 115,
-      "gross": 5340,
-      "occupancy_percent": 13.53
+      "sold": 39,
+      "reserved": 6,
+      "available": 88,
+      "gross": 13240,
+      "occupancy_percent": 33.83
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -1872,10 +1872,10 @@
       "time": "",
       "seats": 210,
       "sold": 9,
-      "reserved": 11,
-      "available": 190,
-      "gross": 4800,
-      "occupancy_percent": 9.52
+      "reserved": 13,
+      "available": 188,
+      "gross": 5280,
+      "occupancy_percent": 10.48
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -2456,11 +2456,11 @@
       "date": "2026-07-01T17:45:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 5,
+      "sold": 7,
       "reserved": 0,
-      "available": 177,
-      "gross": 3200,
-      "occupancy_percent": 2.75
+      "available": 175,
+      "gross": 4480,
+      "occupancy_percent": 3.85
     },
     {
       "movie_id": "RaQGMX24uSiXsJSVgBYrqK",
@@ -2666,11 +2666,11 @@
       "date": "2026-07-01T11:00:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 165,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 163,
+      "gross": 980,
+      "occupancy_percent": 1.21
     },
     {
       "movie_id": "RaQGMX24uSiXsJSVgBYrqK",
@@ -2997,10 +2997,10 @@
       "time": "",
       "seats": 251,
       "sold": 0,
-      "reserved": 0,
-      "available": 251,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 249,
+      "gross": 450,
+      "occupancy_percent": 0.8
     },
     {
       "movie_id": "4pwUdEXKwQx4Uc5JMWsBAe",
@@ -3741,16 +3741,18 @@
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
       "movie_name": "Roll No 1",
       "show_id": "16159:cineroyale",
-      "venue": "cineroyale",
-      "theatre": "Cineroyale - Audi 3",
-      "date": "2026-07-01T12:15:00+05:45",
-      "time": "",
-      "seats": 126,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-01",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 126,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "jnNDFUXs4UZv2W2oF2CWVj",
